@@ -1,0 +1,15 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Resources
+  url: /resources/
+- title: FAQ
+  url: /faq/
+- title: Design System
+  url: https://designsystem.isomer.gov.sg/
+  external: true
+- title: CONTACT US
+  url: /contact-us/
