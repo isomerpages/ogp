@@ -44,6 +44,10 @@ breadcrumbs:
 # Site configuration
 ####################
 
+collections:
+  careers:
+    output: true
+
 # FAQ URL
 faq_url: "/faq/"
 

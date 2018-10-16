@@ -5,5 +5,5 @@ breadcrumb: Contact Us
 title: Contact Us
 ---
 
-### **Interested in using Isomer?**
-If you are interested in using Isomer for your agency website, email us at <admin@isomer.gov.sg> with your name, agency, and information about the website you want to build or migrate. We will answer your questions and help you get started.
+### **Keen to learn more?**
+If you are interested in finding out more about our team and how we can work together, please reach out to us via this [form](https://form.gov.sg/#!/forms/govtech/5a9ce876b3a3b6006e6b8335){:target="_blank"}.

@@ -4,12 +4,14 @@
 #                                #
 ##################################
 
-- title: Resources
-  url: /resources/
-- title: FAQ
-  url: /faq/
-- title: Design System
-  url: https://designsystem.isomer.gov.sg/
-  external: true
+- title: Careers
+  url: /careers/product-manager/
+  sub-links:
+  - title: Product Manager
+    url: /careers/product-manager/
+  - title: Software Engineer
+    url: /careers/software-engineer/
+  - title: UX Designer
+    url: /careers/ux-designer/
 - title: CONTACT US
   url: /contact-us/
