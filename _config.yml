@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Open Governent Products
-title-abbreviated: Open Governent Products
+title: Open Government Products
+title-abbreviated: Open Government Products
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   We build technology for the public good
