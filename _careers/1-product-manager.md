@@ -81,4 +81,5 @@ Overall we look for people who have ability, initiative, good communication, and
 
 Only Singapore Citizen or Permanent Resident will be considered.
 
-[Apply here](https://opengovernmentproducts.recruitee.com/o/product-manager){:target="_blank"}
+<button name="button" onclick="https://opengovernmentproducts.recruitee.com/o/product-manager">Apply here</button>
+[Apply here](https://opengovernmentproducts.recruitee.com/o/product-manager){: .btn}
