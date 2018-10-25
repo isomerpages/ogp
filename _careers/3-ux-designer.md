@@ -76,4 +76,8 @@ Overall we look for people who have ability, initiative, good communication, and
 
 Only Singapore Citizen or Permanent Resident will be considered.
 
-[Apply here](https://opengovernmentproducts.recruitee.com/o/user-experience-designer){:target="_blank"}
+<a href="https://opengovernmentproducts.recruitee.com/o/user-experience-designer" target="_blank">
+    <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
+        Apply Here
+    </button>
+</a>

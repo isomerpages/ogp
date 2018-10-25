@@ -438,3 +438,11 @@ a.navbar-item {
   margin-right: 0px;
   padding-right: 12px !important;
 }
+
+.content a:after{
+  display: none;
+}
+
+.bp-button.is-secondary:hover{
+  background-color: darken($secondary,10%) !important;
+}
