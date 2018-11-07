@@ -446,3 +446,30 @@ a.navbar-item {
 .bp-button.is-secondary:hover{
   background-color: darken($secondary,10%) !important;
 }
+
+.product-row {
+  display: flex;
+  flex-direction: row;
+}
+
+.product-image {
+  overflow: hidden;
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+@include mobile {
+  .product-row:nth-child(even) {
+    flex-direction: column;
+  }
+
+  .product-row:nth-child(odd) {
+    flex-direction: column-reverse;
+  }
+
+  .product-image {
+    height: 45vw;
+    flex-basis: auto;
+  }
+}
