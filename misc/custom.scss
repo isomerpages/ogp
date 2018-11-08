@@ -459,7 +459,15 @@ a.navbar-item {
   background-position: center;
 }
 
+.product-container {
+  padding-bottom: 4rem;
+}
+
 @include mobile {
+  .product-row {
+    padding: 2rem 0 1rem !important;
+  }
+
   .product-row:nth-child(even) {
     flex-direction: column;
   }
@@ -468,8 +476,16 @@ a.navbar-item {
     flex-direction: column-reverse;
   }
 
+  .product-row:last-child {
+    padding-bottom: 0 !important;
+  }
+
   .product-image {
-    height: 45vw;
+    height: 50vw;
     flex-basis: auto;
+  }
+
+  .product-container {
+    padding-bottom: 2rem;
   }
 }
