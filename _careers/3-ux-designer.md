@@ -28,7 +28,7 @@ Projects we have worked on include:
 **Form.sg** - A form builder tool for agencies to self-service and create online forms that capture classified data, with the goal of replacing paper forms.
 
 ### **What does a UX Designer do?**
-As a user experience designer, your job is to make a concrete vision of what a good product looks like. This starts from understanding users needs and the problems they face, to creating intuitive user flows through your application, and finally to polishing the detailed aesthetics and understanding how they make users feel.
+As a user experience designer, your job is to make a concrete vision of what a good product looks like. This encompasses understanding users needs and the problems they face, creating intuitive user flows through your application, and polishing detailed aesthetics and understanding how they make users feel.
 
 On a day to day basis, this means:
 * Talking with users to understand their problems
