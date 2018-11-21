@@ -204,6 +204,10 @@ $widescreen: 1152px + (4 * $gap) !default;
 	}
 }
 
+.bp-section {
+  overflow-x: hidden;
+}
+
 .bp-section.bp-section-pagetitle {
   background-color: $primary !important;
 }
