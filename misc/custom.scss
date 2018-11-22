@@ -204,6 +204,10 @@ $widescreen: 1152px + (4 * $gap) !default;
 	}
 }
 
+.bp-section {
+  overflow-x: hidden;
+}
+
 .bp-section.bp-section-pagetitle {
   background-color: $primary !important;
 }
@@ -488,4 +492,36 @@ a.navbar-item {
   .product-container {
     padding-bottom: 2rem;
   }
+}
+
+.internship-row {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+
+  img {
+    padding-bottom: 10px;
+  }
+
+  span {
+    padding-left: 10px;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+
+  a {
+    margin-left: 3vw;
+  }
+
+  @include touch {
+    flex-direction: column;
+  }
+
+  @include mobile {
+    span {
+      font-size: 1.3rem;
+    }
+  }
+
 }
