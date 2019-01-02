@@ -24,6 +24,12 @@ url: "https://open.gov.sg" # the base hostname & protocol for your site, e.g. ht
 twitter_username: jekyllrb
 github_username:  jekyll
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /images/logo_only.png
+
 # Build settings
 markdown: kramdown
 remote_theme: isomerpages/isomerpages-template
