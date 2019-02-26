@@ -511,7 +511,11 @@ a.navbar-item {
   }
 
   a {
-    margin-left: 3vw;
+   @media screen and (max-width: 1023px) {
+   		margin-left: 3vw;
+   	}
+    /*margin-left: 3vw;*/
+    margin-left: 58px;
   }
 
   @include touch {
@@ -525,3 +529,102 @@ a.navbar-item {
   }
 
 }
+
+.peopleops-row {
+	span {
+		font-size: 54px;
+		font-weight: bold;
+		line-height: 1.1;
+		letter-spacing: normal;
+		color: #000000;
+		@include mobile {
+			font-size: 44px;
+		}
+	}
+}
+
+.cta-button {
+  	font-size: 16px;
+  	padding: 10px 20px;
+  	letter-spacing: 0.8px;
+  	font-weight: 600;
+  	height: 2rem;
+  	background-color: #000000;
+  	border: 1px solid black;
+  	color: #FFFFFF;
+  }
+  
+.cta-button:hover {
+	background-color: transparent !important;
+	color: #000000 !important;
+	border: 1px solid black !important;
+}
+
+.peopleops-images {
+	position: relative;
+	margin: auto;
+	height: 250px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+ 
+ .peopleops-text {
+ 	margin: auto;
+ }
+ 
+ .peopleops {
+ 	margin: auto;
+ 	max-width: 930px;
+ 	display: -webkit-flex;
+ 	display: flex;
+ 	-webkit-flex-wrap: wrap;
+ 	flex-wrap: wrap;
+ }
+ 
+ @media screen and (max-width: 1023px) {
+ 	.peopleops-images {
+ 		order: 1;
+ 		width: 100%;
+ 		position: relative;
+ 		text-align: center;
+ 		margin-bottom: auto;
+ 		@include mobile {
+			height: 100px;
+			margin-bottom: 35px;
+		}
+ 	}
+ 	#peopleops-bg {
+	 	position: relative;
+	  	width: 603px;
+	  	height: 228px;
+	  	max-width: 603px;
+	  	@include mobile {
+	  		width: 287px;
+	  		height: 109px;
+	  	}
+	  	bottom: 0px;
+	}
+ 	.peopleops-text {
+ 		order: 2;
+ 		width: 100%;
+ 		text-align: center;
+ 	}
+ }
+ 
+ @media screen and (min-width: 1024px) {
+ 	.peopleops-images {
+ 		width: 30%;
+ 	}
+ 	.peopleops-text {
+ 		width: 70%;
+ 		text-align: left;
+ 	}
+ 	#peopleops-bg {
+		position: absolute;
+	  	width: 603px;
+	  	height: 228px;
+	  	max-width: 712px;
+	  	left: -315px;
+	  	bottom: -15px;
+  	}
+ }
