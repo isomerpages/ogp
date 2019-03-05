@@ -73,9 +73,17 @@ We look for people who:
 
 Overall we look for people who have ability, initiative, good communication, and strong values.
 
-Only Singapore Citizen or Permanent Resident will be considered.
+Only Singapore Citizens or Permanent Residents will be considered.
 
+Full-Timers:  
 <a href="https://opengovernmentproducts.recruitee.com/o/software-engineer-singapore" target="_blank">
+    <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
+        Apply Here
+    </button>
+</a>
+
+Internships:  
+<a href="https://opengovernmentproducts.recruitee.com/o/software-engineering-intern" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
         Apply Here
     </button>
