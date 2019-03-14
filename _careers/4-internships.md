@@ -1,7 +1,7 @@
 ---
 layout: simple-page
-permalink: /careers/internship/
-title: The Internship Experience
+permalink: /careers/internships/
+title: Internships
 breadcrumb: Internship
 collection_name: careers
 ---
