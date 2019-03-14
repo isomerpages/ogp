@@ -1,4 +1,10 @@
-# The Internship Experience
+---
+layout: simple-page
+permalink: /careers/internship/
+title: The Internship Experience
+breadcrumb: Internship
+collection_name: careers
+---
 
 > You want to learn. You also want to contribute and work for the public good.
 
