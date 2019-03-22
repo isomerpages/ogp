@@ -8,9 +8,9 @@ collection_name: careers
 
 > You want to learn. You also want to contribute and work for the public good.
 
-Here's a look at what our interns have to say about working here.
+<!-- Here's a look at what our interns have to say about working here.
 
-> nice video here
+> nice video here -->
 
 ## Who We Are
 
@@ -28,7 +28,7 @@ Projects we have worked on include:
 
 ## What do our interns do?
 
-At Open Government Products, we value our interns, going to great lengths to provide meaningful learning opportunities. You will be working closely with our full-time staff to contribute to existing projects. You can even propose and launch your own projects if you have ideas on how Singapore can be served best! Our interns take ownership of their work - and they pride themselves in doing work that serves our nation well.
+At Open Government Products, we value our interns and go great lengths to provide meaningful learning opportunities. You will be working closely with our full-time staff to contribute to existing projects. You can also prototype your own projects if you have ideas on how Singapore can be served best! Our interns take ownership of their work - and they pride themselves in doing work that serves our nation well.
 
 Whether you aspire to be a [Software Engineer](/careers/software-engineer/), a [UX Designer](/careers/ux-designer/), or a [Product Manager](/careers/product-manager/), you will have the opportunity to contribute your skills, specialties, and ideas the same way our full-timers do.
 
@@ -55,3 +55,9 @@ We believe in hiring good people and treating them well. This means we look at m
 * Have strong, well thought-out values - We love it when you have a vision for a "perfect" Singapore. The ideas and insights you bring will only help our work to become more relevant, more effective, and more appropriate.
 
 We regret that as a public agency, only Singapore Citizens or Permanent Residents will be considered.
+
+<a href="http://go.gov.sg/ogp-jobs" target="_blank">
+    <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
+        Apply Here
+    </button>
+</a>
