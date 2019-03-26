@@ -12,7 +12,7 @@ collection_name: careers
 
 > nice video here -->
 
-## Who We Are
+### **Who We Are**
 
 Open Government Products is an in-house team of engineers, designers, and product managers who build technology for the public good. We proactively identify areas where technology can help, test our prototypes with actual users, and bring our best ones to launch. This includes everything from building better frontend applications for citizens, to automating the internal operations of public agencies. We use and release open source software, keep a flat hierarchy, and bypass bureaucracy to focus on delivery. We work on real problems, build for the user, and push for change.
 
@@ -26,13 +26,13 @@ Projects we have worked on include:
 
 **Form.sg** - A form builder tool for agencies to self-service and create online forms that capture classified data, with the goal of replacing paper forms.
 
-## What do our interns do?
+### **What do our interns do?**
 
 At Open Government Products, we value our interns and go great lengths to provide meaningful learning opportunities. You will be working closely with our full-time staff to contribute to existing projects. You can also prototype your own projects if you have ideas on how Singapore can be served best! Our interns take ownership of their work - and they pride themselves in doing work that serves our nation well.
 
 Whether you aspire to be a [Software Engineer](/careers/software-engineer/), a [UX Designer](/careers/ux-designer/), or a [Product Manager](/careers/product-manager/), you will have the opportunity to contribute your skills, specialties, and ideas the same way our full-timers do.
 
-## What it is like working here
+### **What it is like working here**
 
 **Rapid Prototyping** - Instead of spending too much time debating ideas we prefer testing them. This identifies potential problems quickly, and more importantly, conveys what is possible to others easily.
 
@@ -40,7 +40,7 @@ Whether you aspire to be a [Software Engineer](/careers/software-engineer/), a [
 
 **Continuous Learning** - Working on new ideas often means not fully understanding what you are working on. Taking time to learn new architectures, frameworks, technologies, and even languages is not just encouraged but essential.
 
-## What we look for in our interns
+### **What we look for in our interns**
 
 We believe in hiring good people and treating them well. This means we look at much more than just your ability to do the work. We particularly value internship applicants who:
 
