@@ -10,6 +10,8 @@ collection_name: products
 ## Data.gov.sg 
 ##### Open repository for Singapore’s public data 
 
+![github](/images/data-mockup.PNG)
+
 #### Background 
 
 In line with Singapore’s vision to be a smart nation, data.gov.sg was launched in 2011 as a repository of data collected by 70 public agencies made accessible openly and freely to citizens and developers, with the aim of co-creating useful solutions. APIs to real-time public data are also provided to aid the development of mobile and web applications.  
