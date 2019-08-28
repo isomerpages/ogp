@@ -9,7 +9,7 @@ collection_name: products
 
 ![github](/images/parking-mockup.PNG)
 
-### Park for parking using your mobile devices
+### Pay for parking using your mobile devices
 
 #### Background 
 
