@@ -36,7 +36,8 @@ The aim was to build a service to help Singapore government websites look better
 
 #### Produced by
 
-Preston Lim <a href="https://github.com/prestonlimlianjie"><img src="Github-Mark-32px.png"></a>
+Preston Lim [![github](/images/Github-Mark-32px.png)](https://github.com/prestonlimlianjie)
+
 Fiza 
 
 <a href="https://www.parking.sg/" target="_blank">
