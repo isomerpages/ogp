@@ -36,7 +36,11 @@ The aim was to build a service to help Singapore government websites look better
 
 #### Produced by
 
-Preston Lim [![github](/images/Github-Mark-32px.png)](https://github.com/prestonlimlianjie)
+Preston Lim <a href="https://github.com/prestonlimlianjie">
+<img border="0" alt="Github account" src="/images/Github-Mark-32px.png" width="32" height="32">
+</a>
+
+[![github]()]()
 
 Fiza 
 
