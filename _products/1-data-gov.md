@@ -2,6 +2,7 @@
 layout: simple-page
 permalink: /products/datagovsg
 title: Data.gov.sg
+image: /images/data-mockup.png
 breadcrumb: Data.gov.sg
 collection_name: products
 ---
@@ -22,6 +23,7 @@ To help citizens and laymen better understand public data, data.gov.sg provides 
 * Search and data previews improve discoverability and accessibility of the datasets
 
 #### Impact
+
 * 350,000 monthly visitors
 * 30,000 data downloads
 * 13 million API calls
