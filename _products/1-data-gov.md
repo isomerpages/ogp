@@ -29,4 +29,8 @@ To help citizens and laymen better understand public data, data.gov.sg provides 
 * 30,000 data downloads
 * 13 million API calls
 
-
+<a href="https://data.gov.sg/" target="_blank">
+    <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
+        Visit website
+    </button>
+</a>
