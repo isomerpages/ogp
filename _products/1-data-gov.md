@@ -7,8 +7,7 @@ breadcrumb: Data.gov.sg
 collection_name: products
 ---
 
-## Data.gov.sg 
-##### Open repository for Singapore’s public data 
+## Open repository for Singapore’s public data 
 
 ![github](/images/data-mockup.PNG)
 
