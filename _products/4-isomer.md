@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-permalink: /products/isomer
+permalink: /products/isomer/
 title: Isomer
 image: /images/isomer-mockup.png
 breadcrumb: Isomer
@@ -34,7 +34,7 @@ The aim was to build a service to help Singapore government websites look better
 * S$3.4 million realised cost savings
 * 99.99% availability (100x reduction in downtime)
 
-#### Produced by
+#### Team
 
 Preston Lim <a href="https://github.com/prestonlimlianjie" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
@@ -42,7 +42,16 @@ Preston Lim <a href="https://github.com/prestonlimlianjie" style="display: inlin
 
 Fiza 
 
-<a href="https://www.parking.sg/" target="_blank">
+Lennard Lim <a href="https://github.com/lennardl" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a>
+
+Lisa Tjide <a href="https://github.com/sasasa54" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a>
+
+
+<a href="https://isomer.gov.sg/" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
         Visit website
     </button>

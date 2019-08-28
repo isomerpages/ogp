@@ -1,6 +1,6 @@
 ---
 layout: simple-page
-permalink: /products/datagovsg
+permalink: /products/datagovsg/
 title: Data.gov.sg
 image: /images/data-mockup.png
 breadcrumb: Data.gov.sg
