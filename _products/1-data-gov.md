@@ -9,7 +9,7 @@ collection_name: products
 
 ![github](/images/data-mockup.PNG)
 
-## Open repository for Singapore’s public data 
+### Open repository for Singapore’s public data 
 
 #### Background 
 
