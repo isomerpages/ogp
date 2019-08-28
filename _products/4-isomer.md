@@ -9,13 +9,13 @@ collection_name: products
 
 ![github](/images/isomer-mockup.PNG)
 
-### A static website building and hosting service for the public service
+### A static website building and hosting solution for the public service
 
 #### Background 
 
 An internal study conducted by the Singapore government in 2017 found that over one-third of our government websites failed basic usability checks. Other problems include: 
 
-* Website downtime: Multiple cases of government sites not accessible for hours in any given month. 
+* Website downtime: Cases of government sites not accessible for hours in any given month. 
 * Poor UX: Many had outdated designs that does not work well on mobile devices and not accessible to persons with visual impairments. 
 * Slow: Certain sites took more than 10 seconds to load, when modern sites should never take more than 2 seconds. 
 * Expensive: A simple website can cost the Singapore government upwards of S$65,000 per year, racking a hefty bill across the government.
@@ -36,11 +36,11 @@ The aim was to build a service to help Singapore government websites look better
 
 #### Produced by
 
-Preston Lim <a href="https://github.com/prestonlimlianjie">
+Preston Lim 
+
+<a href="https://github.com/prestonlimlianjie" style="display: inline; width: 32px; height: 32px">
 <img border="0" alt="Github account" src="/images/Github-Mark-32px.png" width="32" height="32">
 </a>
-
-[![github]()]()
 
 Fiza 
 
