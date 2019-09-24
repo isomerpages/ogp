@@ -3,6 +3,7 @@ layout: simple-page
 permalink: /products/formsg/
 title: FormSG
 image: /images/form-mockup.png
+thumbnail_image: /images/form-mockup.png
 breadcrumb: Form.gov.sg
 collection_name: products
 ---

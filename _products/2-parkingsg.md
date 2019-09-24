@@ -3,6 +3,7 @@ layout: simple-page
 permalink: /products/parkingsg/
 title: Parking.sg
 image: /images/parking-mockup.png
+thumbnail_image: /images/parking-mockup.png
 breadcrumb: Parking.sg
 collection_name: products
 ---

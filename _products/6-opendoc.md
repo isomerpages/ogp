@@ -3,6 +3,7 @@ layout: simple-page
 permalink: /products/opendoc/
 title: OpenDoc
 image: /images/opendoc-mockup.png
+thumbnail_image: /images/opendoc-mockup.png
 breadcrumb: OpenDoc
 collection_name: products
 ---

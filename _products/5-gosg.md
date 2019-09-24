@@ -3,6 +3,7 @@ layout: simple-page
 permalink: /products/gosg/
 title: Go SG
 image: /images/gosg-mockup.png
+thumbnail_image: /images/gosg-mockup.png
 breadcrumb: Go SG
 collection_name: products
 ---

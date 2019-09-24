@@ -3,6 +3,7 @@ layout: simple-page
 permalink: /products/isomer/
 title: Isomer
 image: /images/isomer-mockup.png
+thumbnail_image: /images/isomer-mockup.png
 breadcrumb: Isomer
 collection_name: products
 ---

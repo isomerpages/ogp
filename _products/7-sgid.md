@@ -3,6 +3,7 @@ layout: simple-page
 permalink: /products/sgid/
 title: sg-ID
 image: /images/opendoc-mockup.png
+thumbnail_image: /images/opendoc-mockup.png
 breadcrumb: sg-ID
 collection_name: products
 ---
