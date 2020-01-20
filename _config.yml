@@ -54,6 +54,8 @@ breadcrumbs:
 collections:
   careers:
     output: true
+  products: 
+    output: true
 
 # FAQ URL
 faq_url: "/faq/"

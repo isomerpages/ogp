@@ -15,5 +15,22 @@
     url: /careers/ux-designer/
   - title: Internships
     url: /careers/internships/
+- title: Our products
+  url: /products/datagovsg/
+  sub-links:
+  - title: Data.gov.sg
+    url: /products/datagovsg/
+  - title: Parking.sg
+    url: /products/parkingsg/
+  - title: Forms
+    url: /products/formsg/
+  - title: Isomer
+    url: /products/isomer/
+  - title: GoSG
+    url: /products/gosg/
+  - title: OpenDoc
+    url: /products/opendoc/
+  - title: sg-ID
+    url: /products/sgid/
 - title: CONTACT US
   url: /contact-us/

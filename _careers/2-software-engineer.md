@@ -76,15 +76,18 @@ Overall we look for people who have ability, initiative, good communication, and
 Only Singapore Citizens or Permanent Residents will be considered.
 
 Full-Timers:  
-<a href="https://opengovernmentproducts.recruitee.com/o/software-engineer-singapore" target="_blank">
+<a href="https://opengovernmentproducts.recruitee.com/#section-89477" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
         Apply Here
     </button>
 </a>
 
-Internships:  
-<a href="https://opengovernmentproducts.recruitee.com/o/software-engineering-intern" target="_blank">
-    <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
+Internships (Application Closed):
+<br />
+<a style="text-decoration: none !important;" href="https://opengovernmentproducts.recruitee.com/#section-89477" target="_blank">
+    <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button" disabled style="    background-color: grey !important ;">
         Apply Here
     </button>
 </a>
+
+
