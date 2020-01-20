@@ -82,7 +82,7 @@ Full-Timers:
     </button>
 </a>
 
-Internships (Application Closed): 
+Internships (Application Closed):
 <a style="text-decoration: none !important;" href="https://opengovernmentproducts.recruitee.com/o/software-engineering-intern" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button" disabled style="    background-color: grey !important ;">
         Apply Here
