@@ -30,7 +30,7 @@ Projects we have worked on include:
 
 At Open Government Products, we value our interns and go great lengths to provide meaningful learning opportunities. You will be working closely with our full-time staff to contribute to existing projects. You can also prototype your own projects if you have ideas on how Singapore can be served best! Our interns take ownership of their work - and they pride themselves in doing work that serves our nation well.
 
-Whether you aspire to be a [Software Engineer](/careers/software-engineer/), a [UX Designer](/careers/ux-designer/), or a [Product Manager](/careers/product-manager/), you will have the opportunity to contribute your skills, specialties, and ideas the same way our full-timers do.
+Whether you aspire to be a [Software Engineer](/careers/software-engineer/), a [Product Designer](/careers/product-designer/), or a [Product Manager](/careers/product-manager/), you will have the opportunity to contribute your skills, specialties, and ideas the same way our full-timers do.
 
 ### **What it is like working here**
 
