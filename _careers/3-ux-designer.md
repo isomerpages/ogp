@@ -1,14 +1,14 @@
 ---
 layout: simple-page
-permalink: /careers/ux-designer/
-title: UX Designer
-breadcrumb: UX Designer
+permalink: /careers/product-designer/
+title: Product Designer
+breadcrumb: Product Designer
 collection_name: careers
 ---
 
 > You bridge user needs and business goals. You make complex systems easy to use. You make the product work well and look good.
 
-Here is a look at what a UX Designer, Fiza Husin, has to say about working here.
+Here is a look at what a Product Designer, Fiza Husin, has to say about working here.
 
 <div class="bp-youtube">
 	<iframe width="560" height="315" src="https://www.youtube.com/embed/k3-sp71D2wE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -27,7 +27,7 @@ Projects we have worked on include:
 
 **Form.sg** - A form builder tool for agencies to self-service and create online forms that capture classified data, with the goal of replacing paper forms.
 
-### **What does a UX Designer do?**
+### **What does a Product Designer do?**
 As a user experience designer, your job is to make a concrete vision of what a good product looks like. This encompasses understanding users needs and the problems they face, creating intuitive user flows through your application, and polishing detailed aesthetics and understanding how they make users feel.
 
 On a day to day basis, this means:
