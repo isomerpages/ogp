@@ -2,12 +2,14 @@
 layout: simple-page
 permalink: /products/sgid/
 title: sg-ID
-image: /images/opendoc-mockup.png
+image: /images/sgid-take-control.png
 breadcrumb: sg-ID
 collection_name: products
 ---
 
-![github](/images/opendoc-mockup.PNG)
+<img style="height: 50px; width: auto; margin: 0px;" alt="sgID" src="/images/sgid-logo.png">
+
+![github](/images/sgid-take-control.png)
 
 ### Privacy-based authentication system
 
