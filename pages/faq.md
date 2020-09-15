@@ -1,9 +1,10 @@
 ---
-layout: simple-page
-title: Frequently Asked Questions
+title: 'Frequently Asked Questions'
 permalink: /faq/
 breadcrumb: FAQ
+
 ---
+
 
 #### **Which Government Agency does the Open Government Products Team belong to?**
 The Open Government Products team is part of the Data Science Division in the Government Technology Agency (GovTech) of Singapore.
