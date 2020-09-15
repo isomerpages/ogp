@@ -1,11 +1,11 @@
 ---
-layout: simple-page
 permalink: /products/datagovsg/
 title: Data.gov.sg
 image: /images/data-mockup.png
 breadcrumb: Data.gov.sg
-collection_name: products
+
 ---
+
 
 ![github](/images/data-mockup.PNG)
 
