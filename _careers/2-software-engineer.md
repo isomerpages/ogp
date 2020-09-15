@@ -1,10 +1,10 @@
 ---
-layout: simple-page
 permalink: /careers/software-engineer/
-title: Software Engineer
-breadcrumb: Software Engineer
-collection_name: careers
+title: 'Software Engineer'
+breadcrumb: 'Software Engineer'
+
 ---
+
 
 > You solve problems. You design and build systems and make sure it works.
 

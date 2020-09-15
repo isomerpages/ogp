@@ -1,10 +1,10 @@
 ---
-layout: simple-page
 permalink: /careers/internships/
 title: Internships
 breadcrumb: Internship
-collection_name: careers
+
 ---
+
 
 > You want to learn. You also want to contribute and work for the public good.
 

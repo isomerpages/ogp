@@ -1,10 +1,10 @@
 ---
-layout: simple-page
 permalink: /careers/product-designer/
-title: Product Designer
-breadcrumb: Product Designer
-collection_name: careers
+title: 'Product Designer'
+breadcrumb: 'Product Designer'
+
 ---
+
 
 > You bridge user needs and business goals. You make complex systems easy to use. You make the product work well and look good.
 

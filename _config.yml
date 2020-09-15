@@ -1,67 +1,26 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
-title: Open Government Products - A Division of GovTech
-title-abbreviated: Open Government Products
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  We build technology for the public good
-# baseurl: "/isomerpages-opengovsg" # the subpath of your site, e.g. /blog
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://open.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
-
+title: 'Open Government Products - A Division of GovTech'
+description: 'We build technology for the public good'
+url: 'https://open.gov.sg'
 defaults:
-  - scope:
-      path: ""
-    values:
-      image: /images/logo_only.png
-
-# Build settings
-markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
+    -
+        scope:
+            path: ""
+        values:
+            layout: page
+remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-
 plugins:
-  - jekyll-feed
-  - jekyll-assets
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-remote-theme
-
-# Breadcrumbs
-breadcrumbs:
-  root:
-    hide: false  # show breadcrumbs on root/home page
-    image: false # Show image or title text
-
-# Site configuration
-####################
-
+    - jekyll-feed
+    - jekyll-assets
+    - jekyll-paginate
+    - jekyll-sitemap
 collections:
-  careers:
-    output: true
-  products: 
-    output: true
-
-# FAQ URL
-faq_url: "/faq/"
-
-# Feedback Form URL
-feedback_form_url: "https://form.sg/#!/forms/govtech/5a9ce876b3a3b6006e6b8335"
-
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
+    careers:
+        output: true
+    products:
+        output: true
+custom_css_path: /misc/custom.css
+favicon: /images/favicon.png
+google-analytics: null
+permalink: none
+baseurl: ""
