@@ -1,10 +1,10 @@
 ---
-layout: simple-page
 permalink: /careers/product-manager/
-title: Product Manager
-breadcrumb: Product Manager 
-collection_name: careers
+title: 'Product Manager'
+breadcrumb: 'Product Manager'
+
 ---
+
 
 > You chart the product goals. You plug gaps and gel everything together. You wear many hats to drive the project forward.
 
