@@ -1,11 +1,11 @@
 ---
-layout: simple-page
 permalink: /products/gosg/
-title: Go SG
+title: 'Go SG'
 image: /images/gosg-mockup.png
-breadcrumb: Go SG
-collection_name: products
+breadcrumb: 'Go SG'
+
 ---
+
 
 ![github](/images/gosg-mockup.PNG)
 
