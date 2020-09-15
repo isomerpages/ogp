@@ -1,11 +1,11 @@
 ---
-layout: simple-page
 permalink: /products/opendoc/
 title: OpenDoc
 image: /images/opendoc-mockup.png
 breadcrumb: OpenDoc
-collection_name: products
+
 ---
+
 
 ![github](/images/opendoc-mockup.PNG)
 
