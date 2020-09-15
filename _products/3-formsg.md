@@ -1,11 +1,11 @@
 ---
-layout: simple-page
 permalink: /products/formsg/
 title: FormSG
 image: /images/form-mockup.png
 breadcrumb: Form.gov.sg
-collection_name: products
+
 ---
+
 
 ![github](/images/form-mockup.PNG)
 
