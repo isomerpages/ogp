@@ -7,7 +7,7 @@ breadcrumb: Data.gov.sg
 ---
 
 
-![github](/images/data-mockup.PNG)
+![github](/images/data-mockup.png)
 
 ### Open repository for Singapore’s public data 
 

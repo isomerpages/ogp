@@ -7,7 +7,7 @@ breadcrumb: OpenDoc
 ---
 
 
-![github](/images/opendoc-mockup.PNG)
+![github](/images/opendoc-mockup.png)
 
 ### Openly accessible documents from the Singapore Government
 

@@ -7,7 +7,7 @@ breadcrumb: 'Go SG'
 ---
 
 
-![github](/images/gosg-mockup.PNG)
+![github](/images/gosg-mockup.png)
 
 ### Create official government links in seconds
 

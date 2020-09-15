@@ -7,7 +7,7 @@ breadcrumb: sg-ID
 ---
 
 
-![github](/images/opendoc-mockup.PNG)
+![github](/images/opendoc-mockup.png)
 
 ### Privacy-based authentication system
 

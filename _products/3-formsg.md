@@ -7,7 +7,7 @@ breadcrumb: Form.gov.sg
 ---
 
 
-![github](/images/form-mockup.PNG)
+![github](/images/form-mockup.png)
 
 ### Build government forms in minutes
 

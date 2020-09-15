@@ -7,7 +7,7 @@ links:
     -
         title: 'Our products'
         url: /products/datagovsg/
-        collection: our-products
+        collection: products
     -
         title: 'CONTACT US'
         url: /contact-us/

@@ -7,7 +7,7 @@ breadcrumb: Isomer
 ---
 
 
-![github](/images/isomer-mockup.PNG)
+![github](/images/isomer-mockup.png)
 
 ### A static website building and hosting solution for the public service
 

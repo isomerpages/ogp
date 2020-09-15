@@ -7,7 +7,7 @@ breadcrumb: Parking.sg
 ---
 
 
-![github](/images/parking-mockup.PNG)
+![github](/images/parking-mockup.png)
 
 ### Pay for parking using your mobile devices
 
