@@ -8,3 +8,11 @@ links:
       collection: products
     - title: 'Contact Us'
       url: /contact-us/
+    - title: Nat
+      collection: nat
+    - title: Sarah
+      collection: sarahfolder
+    - title: Rahul
+      collection: rahuld
+    - title: Russell
+      collection: russell
