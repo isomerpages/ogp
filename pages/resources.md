@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 title: Resources
 permalink: /resources/
 breadcrumb: Resources
+
 ---
+
 
 ### **Training Materials**
 * [Training Guide for Editor]({{"/files/Editor Training Guide.pdf" | absolute_url }}){:target="_blank"}

@@ -1,36 +1,18 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-- title: Careers
-  url: /careers/product-manager/
-  sub-links:
-  - title: Product Manager
-    url: /careers/product-manager/
-  - title: Software Engineer
-    url: /careers/software-engineer/
-  - title: Product Designer
-    url: /careers/product-designer/
-  - title: Internships
-    url: /careers/internships/
-- title: Our products
-  url: /products/datagovsg/
-  sub-links:
-  - title: Data.gov.sg
-    url: /products/datagovsg/
-  - title: Parking.sg
-    url: /products/parkingsg/
-  - title: Forms
-    url: /products/formsg/
-  - title: Isomer
-    url: /products/isomer/
-  - title: GoSG
-    url: /products/gosg/
-  - title: OpenDoc
-    url: /products/opendoc/
-  - title: sg-ID
-    url: /products/sgid/
-- title: CONTACT US
-  url: /contact-us/
+logo: /images/Logo_Hori.svg
+links:
+    - title: Careers
+      url: /careers/product-manager/
+      collection: careers
+    - title: 'Our Products'
+      url: /products/datagovsg/
+      collection: products
+    - title: 'Contact Us'
+      url: /contact-us/
+    - title: Nat
+      collection: nat
+    - title: Sarah
+      collection: sarahfolder
+    - title: Rahul
+      collection: rahuld
+    - title: Russell
+      collection: russell
