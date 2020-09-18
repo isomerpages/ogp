@@ -4,3 +4,5 @@ permalink: /russell/secretsinside
 ---
 
 No sekrits here soz
+
+![Sweg](/images/rogers.gif)
