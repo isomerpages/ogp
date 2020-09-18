@@ -14,11 +14,21 @@ plugins:
     - jekyll-assets
     - jekyll-paginate
     - jekyll-sitemap
+
 collections:
     careers:
         output: true
     products:
         output: true
+    nat:
+        output: true
+    rahuld:
+        output: true
+    russell:
+        output: true
+    sarahfolder:
+        output: true
+
 custom_css_path: /misc/custom.css
 favicon: /images/favicon.png
 google-analytics: null
