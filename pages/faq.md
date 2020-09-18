@@ -12,4 +12,4 @@ The Open Government Products team is part of the Data Science Division in the Go
 #### **What will my work culture be like?**
 You will be joining a small team of 15-20 folks who are excited about technology. You will work in small teams of 2-4 per product; typically with 1 Product Manager, 1 UX Designer, and 1-2 Software Engineers. As a result, you will be given the autonomy to make critical decisions that shape the product.
 
-
+Russell's learning edit
