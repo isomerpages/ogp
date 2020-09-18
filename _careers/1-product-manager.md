@@ -86,5 +86,5 @@ Only Singapore Citizen or Permanent Resident will be considered.
         Apply Here
     </button>
 </a>
-[Click here] (https://opengovernmentproducts.recruitee.com/)
+
 **Application for the Product Manager role is now closed. Thank you for your interest. [Click here] (https://opengovernmentproducts.recruitee.com/) to see other Job Openings.**
