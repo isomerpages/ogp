@@ -78,7 +78,7 @@ Pearly Ong <a href="https://github.com/pearlyong" style="display: inline-block; 
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a>
 
-Shao Wei Lao <a href="https://github.com/lshaowei18" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+Shao Wei Lau <a href="https://github.com/lshaowei18" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a>
 
