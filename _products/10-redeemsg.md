@@ -9,7 +9,7 @@ breadcrumb: RedeemSG
 
 #### Background 
 
-Previously, tracking of redemptions was a time consuming process including logging records on paper, counting and keying in records into a digital system. With RedeemSG, agencies can easily track the redemption of goods and vouchers. 
+Previously, tracking of redemptions was a time consuming process that included logging records on paper and counting and keying in records into a digital system. With RedeemSG, agencies can easily track the redemption of goods and vouchers. 
 
 
 #### Approach
@@ -22,7 +22,7 @@ Previously, tracking of redemptions was a time consuming process including loggi
 
 #### Impact
 
-* > 11 million redemptions across 7 national campaigns, including nation-wide mask distribution and SG Together pack distribution, NDP e-tickets and Buka Puasa meal distribution
+* More than 11 million redemptions across 7 national campaigns, including nation-wide mask distribution and SG Together pack distribution, NDP e-tickets and Buka Puasa meal distribution
 * Used by >14K volunteers, connected with >1K vending machines for the mask distribution exercise 
 
 
