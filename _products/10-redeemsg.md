@@ -16,8 +16,8 @@ Previously, tracking of redemptions was a time consuming process that included l
 
 * Admin portal allows agencies and non-profit organizations to see statistics and redemption status and download reports. No more manual tracking. 
 * Mobile app allows staff and volunteers to log redemptions via scanning a person’s NRIC or voucher. 
-* API allows merchants to integrate and update redemption for government/ non-profit programmes 
-* System also digitizes vouchers that are sent to recipients via SMS and opens up in a web link. No need for an app or smart phone to receive a voucher. Also allows agencies to avoid printing costs.
+* API allows merchants to integrate and update redemption for government and non-profit programmes 
+* System also digitises vouchers that are sent to recipients via SMS and open up in a web link. No need for an app or smart phone to receive a voucher. Also allows agencies to avoid printing costs.
 
 
 #### Impact
