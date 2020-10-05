@@ -30,21 +30,25 @@ From applying for permits to booking public facilities, paper forms have been a 
 
 #### Team
 
+Fiza Husin <a href="https://github.com/f1zaz" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a> 
+
 Jean Tan <a href="https://github.com/jeantanzj" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a>
 
-Yuanruo Liang <a href="https://github.com/liangyuanruo" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+Pearly Ong <a href="https://github.com/pearlyong" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
+</a> 
 
 Leonard Loo <a href="https://github.com/leonardloo" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a>
 
-Fiza
-
-Pearly 
+Yuanruo Liang <a href="https://github.com/liangyuanruo" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a> 
 
 
 <a href="https://form.gov.sg/" target="_blank">
