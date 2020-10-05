@@ -1,11 +1,11 @@
 ---
-layout: simple-page
 permalink: /products/sgid/
 title: sg-ID
 image: /images/sgid-take-control.png
 breadcrumb: sg-ID
-collection_name: products
+
 ---
+
 
 <img style="height: 50px; width: auto; margin: 0px;" alt="sgID" src="/images/sgid-logo.png">
 

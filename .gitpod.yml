@@ -1,2 +1,3 @@
 tasks:
-  - init: bundle install && bundle exec jekyll serve --incremental
+  - init: bundle install 
+    command: bundle exec jekyll serve --incremental
