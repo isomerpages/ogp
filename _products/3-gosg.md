@@ -1,8 +1,8 @@
 ---
 permalink: /products/gogovsg/
-title: 'Go.Gov.SG'
+title: 'Go.gov.sg'
 image: /images/gosg-mockup.png
-breadcrumb: 'Go.Gov.SG'
+breadcrumb: 'Go.gov.sg'
 
 ---
 
