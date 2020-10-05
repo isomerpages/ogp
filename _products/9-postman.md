@@ -5,7 +5,7 @@ breadcrumb: Postman.gov.sg
 
 ---
 
-### The omnichannel communication tool for the Singapore Government
+### An omnichannel communication tool for the Singapore Government
 
 #### Background 
 
