@@ -24,8 +24,8 @@ From applying for permits to booking public facilities, paper forms have been a 
 
 #### Impact
 
-* 10k digital forms created
-* 2.3 million form submissions from 14,000 public officers across 90 agencies
+* 40k digital forms created
+* 50 million form submissions from 40k public officers across 90 agencies
 * $5k - $150k saved per form
 
 #### Team
