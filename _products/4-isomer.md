@@ -68,7 +68,7 @@ Sarah Salim <a href="https://github.com/sarahsalim" style="display: inline-block
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a>
 
-### Past Contributors
+#### Past Contributors
 
 Ang Yixin <a href="https://github.com/artylope" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
