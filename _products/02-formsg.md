@@ -30,11 +30,19 @@ From applying for permits to booking public facilities, paper forms have been a 
 
 #### Team
 
-Fiza Husin <a href="https://github.com/f1zaz" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+Antariksh Mahajan <a href="https://github.com/mantariksh" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a> 
+</a>
 
-Jean Tan <a href="https://github.com/jeantanzj" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+Arshad Samad <a href="https://github.com/arshadali172" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a>
+
+Kar Rui Lau <a href="https://github.com/karrui" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a>
+
+Leonard Loo <a href="https://github.com/leonardloo" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a>
 
@@ -42,13 +50,27 @@ Pearly Ong <a href="https://github.com/pearlyong" style="display: inline-block; 
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a> 
 
-Leonard Loo <a href="https://github.com/leonardloo" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+Shu Li Teo <a href="https://github.com/shuli-ogp" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a>
+
+Sonjia Yan <a href="https://github.com/syan-syan" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a> 
 
 Yuanruo Liang <a href="https://github.com/liangyuanruo" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a> 
+
+#### Previous Contributors
+
+Fiza Husin <a href="https://github.com/f1zaz" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a> 
+
+Jean Tan <a href="https://github.com/jeantanzj" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a>
 
 
 <a href="https://form.gov.sg/" target="_blank">
