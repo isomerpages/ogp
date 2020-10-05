@@ -24,9 +24,9 @@ Developed to enable digital payments for COVID-19 swab tests and Stay-Home Notic
 
 * ~2 weeks - time taken to develop PaySG
 * In the 2 months since launch on 17 Jun 2020:
-    *S$61M volume of payments that our links have enabled
-    *47k successful transactions and payment links sent out
-    *8 agencies/ministries using PaySG
+  * S$61M volume of payments that our links have enabled
+  * 47k successful transactions and payment links sent out
+  * 8 agencies/ministries using PaySG
 
 #### Team
 
