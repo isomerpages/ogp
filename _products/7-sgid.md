@@ -1,13 +1,15 @@
 ---
 permalink: /products/sgid/
 title: sg-ID
-image: /images/opendoc-mockup.png
+image: /images/sgid-take-control.png
 breadcrumb: sg-ID
 
 ---
 
 
-![github](/images/opendoc-mockup.png)
+<img style="height: 50px; width: auto; margin: 0px;" alt="sgID" src="/images/sgid-logo.png">
+
+![github](/images/sgid-take-control.png)
 
 ### Privacy-based authentication system
 
@@ -51,7 +53,7 @@ Pearly Ong <a href="https://github.com/pearlyong" style="display: inline-block; 
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 
 
-<a href="https://opendoc.sg/" target="_blank">
+<a href="https://id.gov.sg/" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
         Visit website
     </button>
