@@ -59,7 +59,7 @@ Yongjie Foo <a href="https://github.com/yong-jie" style="display: inline-block; 
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a>
 
-### Past Contributors
+#### Past Contributors
 
 Jason Chong <a href="https://github.com/JasonChong96" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
