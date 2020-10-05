@@ -26,9 +26,9 @@ Parking.sg is a mobile application developed to offer more convenience for drive
 #### Impact
 
 * 1.5 million parking sessions per month
-* Used by more than 60% of cars in Singapore
+* Used by more than 80% of cars in Singapore
 * 99.99% availability
-* More than $5 million in unused parking fees refunded to users
+* More than $9 million in unused parking fees refunded to users
 
 #### Team
 
