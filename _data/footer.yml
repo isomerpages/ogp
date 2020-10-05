@@ -5,3 +5,6 @@ faq: /faq/
 feedback: 'https://form.sg/#!/forms/govtech/5a9ce876b3a3b6006e6b8335'
 privacy: /privacy/
 terms_of_use: /terms-of-use/
+social_media:
+  facebook: 'https://www.facebook.com/opengovsg'
+  linkedin: 'https://sg.linkedin.com/company/open-government-products'
