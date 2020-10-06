@@ -62,16 +62,6 @@ Yuanruo Liang <a href="https://github.com/liangyuanruo" style="display: inline-b
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a> 
 
-#### Previous Contributors
-
-Fiza Husin <a href="https://github.com/f1zaz" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
-    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a> 
-
-Jean Tan <a href="https://github.com/jeantanzj" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
-    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
 
 <a href="https://form.gov.sg/" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
