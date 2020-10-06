@@ -68,20 +68,6 @@ Natalie Tan <a href="https://github.com/NatMaeTan" style="display: inline-block;
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a>
 
-#### Past Contributors
-
-Daryl Chan <a href="https://github.com/dvrylc" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
-    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Pearly Ong <a href="https://github.com/pearlyong" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
-    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Shao Wei Lau <a href="https://github.com/lshaowei18" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
-    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
 
 <a href="https://postman.gov.sg/" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
