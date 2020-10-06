@@ -68,28 +68,6 @@ Sarah Salim <a href="https://github.com/sarahsalim" style="display: inline-block
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a>
 
-#### Past Contributors
-
-Ang Yi Xin <a href="https://github.com/artylope" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
-    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Chua Swee Chin <a href="https://github.com/chuasweechin" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
-    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Fiza Husin <a href="https://github.com/f1zaz" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
-    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a> 
-
-Lennard Lim <a href="https://github.com/lennardl" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
-    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Li Yicheng <a href="https://github.com/oliverli" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
-    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
 
 <a href="https://isomer.gov.sg/" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
