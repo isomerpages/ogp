@@ -30,7 +30,7 @@ Developed to enable digital payments for COVID-19 swab tests and Stay-Home Notic
 
 #### Team
 
-Ang Yixin <a href="https://github.com/artylope" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+Ang Yi Xin <a href="https://github.com/artylope" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a>
 
