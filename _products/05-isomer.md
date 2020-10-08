@@ -36,11 +36,15 @@ Isomer provides government agencies with an easy-to-deploy static website buildi
 
 #### Team
 
-Alwyn Tan <a href="https://github.com/lonerifle" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+Alexis Goh <a href="https://github.com/gweiying" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a>
 
-Alexis Goh <a href="https://github.com/gweiying" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+Alexander Lee <a href="https://github.com/alexanderleegs" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a>
+
+Alwyn Tan <a href="https://github.com/lonerifle" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a>
 
