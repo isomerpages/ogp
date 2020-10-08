@@ -30,7 +30,7 @@ Isomer provides government agencies with an easy-to-deploy static website buildi
 
 #### Impact
 
-* 76 websites launched
+* 80 websites launched
 * At least S$2 million realised cost savings
 * 100x reduction in downtime in government sites
 
