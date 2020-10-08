@@ -1,5 +1,5 @@
 ---
-permalink: /products/formsg/
+permalink: /products/forms/
 title: Form.gov.sg
 image: /images/form-mockup.png
 breadcrumb: Form.gov.sg
@@ -17,16 +17,16 @@ From applying for permits to booking public facilities, paper forms have been a 
 
 #### Approach
 
-* Intuitive user interface allows new forms to be created in less than 30 minutes
+* Intuitive user interface allows new forms to be created in as little as 10 minutes
 * Zero knowledge architecture allows for mass digitization without large security vulnerabilities
 * Pre-built integrations with Singpass, CorpPass and MyInfo extends functionality of forms
 
 
 #### Impact
 
-* 40k digital forms created
-* 50 million form submissions from 40k public officers across 90 agencies
-* $5k - $150k saved per form
+* 48k digital forms created
+* 60 million form submissions from 40k public officers across 90 agencies
+* Up to $5k - $150k saved per form
 
 #### Team
 
