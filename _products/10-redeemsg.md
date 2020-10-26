@@ -1,9 +1,13 @@
 ---
 permalink: /products/redeemsg/
 title: RedeemSG
+image: /images/redeemsg.png
 breadcrumb: RedeemSG
 
 ---
+
+
+![github](/images/redeemsg.png)
 
 ### Redemption tracking system to monitor the distribution of goods, tickets and vouchers in real time.
 
