@@ -1,13 +1,13 @@
 ---
 permalink: /products/datagovsg/
 title: Data.gov.sg
-image: /images/data-mockup.png
+image: /images/data.gov.sg.png
 breadcrumb: Data.gov.sg
 
 ---
 
 
-![github](/images/data-mockup.png)
+![github](/images/data.gov.sg.png)
 
 ### Open repository for Singapore’s public data 
 
