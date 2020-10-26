@@ -1,13 +1,13 @@
 ---
 permalink: /products/isomer/
 title: Isomer
-image: /images/isomer-mockup.png
+image: /images/isomer.png
 breadcrumb: Isomer
 
 ---
 
 
-![github](/images/isomer-mockup.png)
+![github](/images/isomer.png)
 
 ### A static website building and hosting solution for the public service
 
