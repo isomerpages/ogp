@@ -1,10 +1,13 @@
 ---
 permalink: /products/homer/
 title: Homer
+image: /images/homer.png
 breadcrumb: Homer
 
 ---
 
+
+![github](/images/homer.png)
 
 ### Health and location reporting tool for those on COVID-19 Quarantine Order / Stay-Home Notice
 
