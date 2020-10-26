@@ -1,13 +1,13 @@
 ---
 permalink: /products/opendoc/
 title: OpenDoc
-image: /images/opendoc-mockup.png
+image: /images/opendoc.png
 breadcrumb: OpenDoc
 
 ---
 
 
-![github](/images/opendoc-mockup.png)
+![github](/images/opendoc.png)
 
 ### Openly accessible documents from the Singapore Government
 
