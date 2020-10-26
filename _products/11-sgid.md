@@ -1,8 +1,8 @@
 ---
 permalink: /products/sgid/
-title: sg-ID
+title: sgID
 image: /images/sgid-take-control.png
-breadcrumb: sg-ID
+breadcrumb: sgID
 
 ---
 
