@@ -1,13 +1,13 @@
 ---
 permalink: /products/gogovsg/
 title: 'Go.gov.sg'
-image: /images/gosg-mockup.png
+image: /images/go.gov.sg.png
 breadcrumb: 'Go.gov.sg'
 
 ---
 
 
-![github](/images/gosg-mockup.png)
+![github](/images/go.gov.sg.png)
 
 ### Create official government links in seconds
 

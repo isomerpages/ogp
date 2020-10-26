@@ -1,7 +1,7 @@
 ---
 permalink: /products/sgid/
 title: sgID
-image: /images/sgid-take-control.png
+image: /images/sgid.png
 breadcrumb: sgID
 
 ---
@@ -9,7 +9,7 @@ breadcrumb: sgID
 
 <img style="height: 50px; width: auto; margin: 0px;" alt="sgID" src="/images/sgid-logo.png">
 
-![github](/images/sgid-take-control.png)
+![github](/images/sgid.png)
 
 ### Privacy-based authentication system
 

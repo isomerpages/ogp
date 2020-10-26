@@ -1,13 +1,13 @@
 ---
 permalink: /products/parkingsg/
 title: Parking.sg
-image: /images/parking-mockup.png
+image: /images/parkingsg.png
 breadcrumb: Parking.sg
 
 ---
 
 
-![github](/images/parking-mockup.png)
+![github](/images/parkingsg.png)
 
 ### Pay for parking using your mobile devices
 

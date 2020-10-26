@@ -1,32 +1,34 @@
 ---
-permalink: /products/paysg/
-title: PaySG
-breadcrumb: PaySG
+permalink: /products/redeemsg/
+title: RedeemSG
+image: /images/redeemsg.png
+breadcrumb: RedeemSG
 
 ---
 
 
-### Digitise payments for government agencies  
+![github](/images/redeemsg.png)
+
+### Redemption tracking system to monitor the distribution of goods, tickets and vouchers in real time.
 
 #### Background 
 
-Developed to enable digital payments for COVID-19 swab tests and Stay-Home Notices for incoming travellers to Singapore. 
+Previously, tracking of redemptions was a time consuming process that included logging records on paper and counting and keying in records into a digital system. With RedeemSG, agencies can easily track the redemption of goods and vouchers. 
 
 
 #### Approach
 
-* Users will receive a personalised payment link sent to their email. They will then go to a personalised payment page that includes some details submitted at point of entry application. Upon checkout, they will receive a personalised invoice/receipt with details that they can show government officers to prove that they have paid. 
-* There are various channels through which links can be generated - users filling forms on FormSG directly, government officers filling in a FormSG form, or a script that generates links to be sent in bulk.
-* PaySG uses FormSG’s webhook feature, Stripe for payment processing, and Postmark for transactional email templates and sending. 
+* Admin portal allows agencies and non-profit organizations to see statistics and redemption status and download reports. No more manual tracking. 
+* Mobile app allows staff and volunteers to log redemptions via scanning a person’s NRIC or voucher. 
+* API allows merchants to integrate and update redemption for government and non-profit programmes 
+* System also digitises vouchers that are sent to recipients via SMS and open up in a web link. No need for an app or smart phone to receive a voucher. Also allows agencies to avoid printing costs.
 
 
 #### Impact
 
-* ~2 weeks - time taken to develop PaySG
-* In the 2 months since launch on 17 Jun 2020:
-  * S$61M volume of payments that our links have enabled
-  * 47k successful transactions and payment links sent out
-  * 8 agencies/ministries using PaySG
+* More than 11 million redemptions across 7 national campaigns, including nation-wide mask distribution and SG Together pack distribution, NDP e-tickets and Buka Puasa meal distribution
+* Used by >14K volunteers, connected with >1K vending machines for the mask distribution exercise 
+
 
 #### Team
 
@@ -51,8 +53,7 @@ Talitha Chin <a href="https://github.com/talithachin" style="display: inline-blo
 </a>
 
 
-
-<a href="https://pay.gov.sg/" target="_blank">
+<a href="https://redeem.gov.sg/" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
         Visit website
     </button>
