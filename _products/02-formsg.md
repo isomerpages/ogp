@@ -1,13 +1,13 @@
 ---
 permalink: /products/formsg/
 title: Form.gov.sg
-image: /images/form-mockup.png
+image: /images/formsg.png
 breadcrumb: Form.gov.sg
 
 ---
 
 
-![github](/images/form-mockup.png)
+![github](/images/formsg.png)
 
 ### Build government forms in minutes
 
