@@ -3,15 +3,14 @@ permalink: /products/isomer/
 title: Isomer
 image: /images/isomer.png
 breadcrumb: Isomer
-
 ---
-
-
 ![github](/images/isomer.png)
 
 ### A static website building and hosting solution for the public service
 
 #### Background 
+
+Hello!!!
 
 An internal study conducted by the Singapore government in 2017 found that over one-third of our government websites failed basic usability checks. Other problems include: 
 
