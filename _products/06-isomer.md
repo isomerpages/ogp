@@ -10,8 +10,6 @@ breadcrumb: Isomer
 
 #### Background 
 
-Hello!!!
-
 An internal study conducted by the Singapore government in 2017 found that over one-third of our government websites failed basic usability checks. Other problems include: 
 
 * Website downtime: Cases of government sites not accessible for hours in any given month. 
