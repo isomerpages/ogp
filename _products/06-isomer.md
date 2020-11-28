@@ -3,10 +3,7 @@ permalink: /products/isomer/
 title: Isomer
 image: /images/isomer.png
 breadcrumb: Isomer
-
 ---
-
-
 ![github](/images/isomer.png)
 
 ### A static website building and hosting solution for the public service
