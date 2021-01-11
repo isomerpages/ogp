@@ -1,34 +1,33 @@
-title: 'Open Government Products - A Division of GovTech'
-description: 'We build technology for the public good'
+title: Open Government Products - A Division of GovTech
+description: We build technology for the public good
 url: 'https://open.gov.sg'
 defaults:
-    -
-        scope:
-            path: ""
-        values:
-            layout: page
+  - scope:
+      path: ''
+    values:
+      layout: page
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 plugins:
-    - jekyll-feed
-    - jekyll-assets
-    - jekyll-paginate
-    - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
 collections:
-    careers:
-        output: true
-    products:
-        output: true
+  careers:
+    output: true
+  products:
+    output: true
+  hackathon:
+    output: true
 custom_css_path: /misc/custom.css
 favicon: /images/favicon.png
 google-analytics: null
 permalink: none
-baseurl: ""
-
+baseurl: ''
 colors:
   primary-color: '#000000'
   secondary-color: '#276ef1'
-  # secondary-hover: darken(#4372d6, 20%);
   media-colors:
     - title: media-color-one
       color: '#49759a'
