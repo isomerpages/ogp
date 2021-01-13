@@ -82,4 +82,4 @@ Only Singapore Citizen or Permanent Resident will be considered.
     </button>
 </a>
 
-**Thank you for your interest, we currently do not have any Product Designer roles open.**
+**Thank you for your interest. Product Designer roles are now closed.**
