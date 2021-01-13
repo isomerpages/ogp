@@ -75,19 +75,9 @@ Overall we look for people who have ability, initiative, good communication, and
 
 We regret that as a Singapore Government Agency, only Singapore Citizens or Permanent Residents will be considered.
 
-Full-Timers:  
 <br />
 <a href="https://opengovernmentproducts.recruitee.com/#section-89477" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
         Apply Here
     </button>
 </a>
-
-Internships:
-<br />
-<a href="https://opengovernmentproducts.recruitee.com/#section-89477" target="_blank">
-    <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
-        Apply Here
-    </button>
-</a>
-
