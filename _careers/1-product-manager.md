@@ -81,10 +81,8 @@ Overall we look for people who have ability, initiative, good communication, and
 
 Only Singapore Citizen or Permanent Resident will be considered.
  
-<a style="text-decoration: none !important;" href="https://opengovernmentproducts.recruitee.com/#section-89477" target="_blank">
-    <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button" disabled style="    background-color: grey !important;" >
+<a href="https://opengovernmentproducts.recruitee.com/#section-89477" target="_blank">
+    <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
         Apply Here
     </button>
 </a>
-
-**Application for the Product Manager role is now closed. Thank you for your interest.**
