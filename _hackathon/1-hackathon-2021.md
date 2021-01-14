@@ -2,6 +2,7 @@
 title: Hackathon 2021
 permalink: /hackathon/2021
 ---
+Here's our current list of hackathon projects, check back for more project details and updates!
 <table width="300px">
 <tbody>
       <td width="100px">
