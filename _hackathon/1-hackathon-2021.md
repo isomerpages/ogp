@@ -2,8 +2,9 @@
 title: Hackathon 2021
 permalink: /hackathon/2021
 ---
-<table width="300px">
-<tbody>
+<div>
+  <table width="300px">
+  <tbody>
       <td width="100px">
           <a href=""><img src="/images/solve.svg" alt="Dash.gov.sg" title="Dash.gov.sg"/></a><br /><strong>Dash.gov.sg</strong><br /><em>“Dash is a dashboard to collect replies on a specific campaign that people send out. .”</em>
           <br /><br />
@@ -26,5 +27,6 @@ permalink: /hackathon/2021
           <br /><br />
           <a href=""><img src="/images/solve.svg" alt="Diffindo!" title="Diffindo!" /></a><br /><strong>Diffindo!</strong><br /><em>“Allow public officers to make comments and manage suggested changes in emails.”</em> 
       </td>
-</tbody>
-</table>
+  </tbody>
+  </table>
+</div>
