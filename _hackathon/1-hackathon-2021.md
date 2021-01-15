@@ -2,7 +2,6 @@
 title: Hackathon 2021
 permalink: /hackathon/2021
 ---
-Here's our current list of hackathon projects, check back for more project details and updates!
 <table width="300px">
 <tbody>
       <td width="100px">
@@ -14,18 +13,18 @@ Here's our current list of hackathon projects, check back for more project detai
           <br /><br />
       </td>
       <td width="100px">
-      <a href=""><img src="/images/solve.svg" alt="Transparency" title="Transparency" /></a><br /><strong>Transparency</strong><br /><em>“Project Transparency aims to democratise data access across disparate OGP systems.”</em> 
+          <a href=""><img src="/images/solve.svg" alt="Transparency" title="Transparency" /></a><br /><strong>Transparency</strong><br /><em>“Project Transparency aims to democratise data access across disparate OGP systems.”</em> 
           <br /><br />
-      <a href=""><img src="/images/solve.svg" alt="Checkfirst.gov.sg" title="Checkfirst.gov.sg" /></a><br /><strong>Checkfirst.gov.sg</strong><br /><em>“Help citizens find out what assistance is available to them by answering simple questions.”</em> 
+          <a href=""><img src="/images/solve.svg" alt="Checkfirst.gov.sg" title="Checkfirst.gov.sg" /></a><br /><strong>Checkfirst.gov.sg</strong><br /><em>“Help citizens find out what assistance is available to them by answering simple questions.”</em> 
           <br /><br />
-      <a href=""><img src="/images/solve.svg" alt="Sanbaiqian 三百千" title="Sanbaiqian 三百千" /></a><br /><strong>Sanbaiqian 三百千</strong><br /><em>“Mobile app to learn fundamental 1,300 Chinese characters taught to all China children through algo-selected quiz questions.”</em> 
+          <a href=""><img src="/images/solve.svg" alt="Sanbaiqian 三百千" title="Sanbaiqian 三百千" /></a><br /><strong>Sanbaiqian 三百千</strong><br /><em>“Mobile app to learn fundamental 1,300 Chinese characters taught to all China children through algo-selected quiz questions.”</em> 
           <br /><br />
       <td width="100px">
-      <a href=""><img src="/images/solve.svg" alt="Tai tai chi chi" title="Tai tai chi chi" /></a><br /><strong>Tai tai chi chi</strong><br /><em>“Encouraging elders to keep healthy.”</em> 
+          <a href=""><img src="/images/solve.svg" alt="Tai tai chi chi" title="Tai tai chi chi" /></a><br /><strong>Tai tai chi chi</strong><br /><em>“Encouraging elders to keep healthy.”</em> 
           <br /><br />
-      <a href=""><img src="/images/solve.svg" alt="Help.gov.sg" title="Help.gov.sg" /></a><br /><strong>Help.gov.sg</strong><br /><em>“StackExchange for government.”</em> 
+          <a href=""><img src="/images/solve.svg" alt="Help.gov.sg" title="Help.gov.sg" /></a><br /><strong>Help.gov.sg</strong><br /><em>“StackExchange for government.”</em> 
           <br /><br />
-      <a href=""><img src="/images/solve.svg" alt="Diffindo!" title="Diffindo!" /></a><br /><strong>Diffindo!</strong><br /><em>“Allow public officers to make comments and manage suggested changes in emails.”</em> 
+          <a href=""><img src="/images/solve.svg" alt="Diffindo!" title="Diffindo!" /></a><br /><strong>Diffindo!</strong><br /><em>“Allow public officers to make comments and manage suggested changes in emails.”</em> 
       </td>
-  </tbody>
+</tbody>
 </table>
