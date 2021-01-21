@@ -5,7 +5,7 @@ permalink: /hackathon/2021
 <table width="350px">
 <tbody>
       <td width="175px">
-          <a href=""><img src="/images/solve.svg" alt="Dash.gov.sg" title="Dash.gov.sg"/></a><br /><strong>Dash</strong><br /><em>The common inbox for the government to address incoming queries</em>
+          <a href=""><img src="/images/Dash_snapshot.png" alt="Dash.gov.sg" title="Dash.gov.sg"/></a><br /><strong>Dash</strong><br /><em>The common inbox for the government to address incoming queries</em>
           <br /><br />
           <a href=""><img src="/images/solve.svg" alt="Payments" title="Payments" /></a><br /><strong>Payments</strong><br /><em>Digitize payment and help solve reconciliation challenges</em> 
           <br /><br />
