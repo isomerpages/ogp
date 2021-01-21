@@ -2,10 +2,10 @@
 title: Hackathon 2021
 permalink: /hackathon/2021
 ---
-<table width="300px">
+<table width="350px">
 <tbody>
-      <td width="150px">
-          <a href=""><img src="/images/solve.svg" alt="Dash.gov.sg" title="Dash.gov.sg"/></a><br /><strong>Dash.gov.sg</strong><br /><em>Dash is a dashboard to collect replies on a specific campaign that people send out</em>
+      <td width="175px">
+          <a href=""><img src="/images/solve.svg" alt="Dash.gov.sg" title="Dash.gov.sg"/></a><br /><strong>Dash</strong><br /><em>The common inbox for the government to address incoming queries</em>
           <br /><br />
           <a href=""><img src="/images/solve.svg" alt="Payments" title="Payments" /></a><br /><strong>Payments</strong><br /><em>Digitize payment and help solve reconciliation challenges</em> 
           <br /><br />
@@ -13,12 +13,12 @@ permalink: /hackathon/2021
 				  <br /><br />
           <a href=""><img src="/images/solve.svg" alt="Transparency" title="Transparency" /></a><br /><strong>Transparency</strong><br /><em>Project Transparency aims to democratise data access across disparate OGP systems</em> 
 	</td>
-      <td width="150px">
+      <td width="175px">
+				    <a href=""><img src="/images/Checkfirst_snapshot.png" alt="Checkfirst.gov.sg" title="Checkfirst.gov.sg" /></a><br /><strong>CheckFirst</strong><br /><em>Self-service eligibility checker and calculator for the government</em> 
+          <br /><br />
           <a href=""><img src="/images/solve.svg" alt="Tai tai chi chi" title="Tai tai chi chi" /></a><br /><strong>Tai tai chi chi</strong><br /><em>Encouraging elders to keep healthy</em> 
           <br /><br />
           <a href=""><img src="/images/solve.svg" alt="Help.gov.sg" title="Help.gov.sg" /></a><br /><strong>Help.gov.sg</strong><br /><em>StackExchange for government</em> 
-          <br /><br />
-          <a href=""><img src="/images/solve.svg" alt="Checkfirst.gov.sg" title="Checkfirst.gov.sg" /></a><br /><strong>Checkfirst.gov.sg</strong><br /><em>Help citizens find out what assistance is available to them by answering simple questions</em> 
           <br /><br />
           <a href=""><img src="/images/solve.svg" alt="Sanbaiqian 三百千" title="Sanbaiqian 三百千" /></a><br /><strong>Sanbaiqian 三百千</strong><br /><em>Mobile app to learn fundamental 1,300 Chinese characters taught to all China children through algo-selected quiz questions</em>
           <br /><br />    
