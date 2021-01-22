@@ -7,7 +7,7 @@ permalink: /hackathon/2021
       <td width="175px">
           <a href=""><img src="/images/Dash_snapshot.png" alt="Dash.gov.sg" title="Dash.gov.sg"/></a><br /><strong>Dash</strong><br /><em>The common inbox for the government to address incoming queries</em>
           <br /><br />
-          <a href=""><img src="/images/solve.svg" alt="Payments" title="Payments" /></a><br /><strong>Payments</strong><br /><em>Digitize payment and help solve reconciliation challenges</em> 
+          <a href=""><img src="/images/chopchopdocx_snapshot.png" alt="Payments" title="Payments" /></a><br /><strong>chopchopdoc</strong><br /><em>Create documents from templates in a jiffy!</em> 
           <br /><br />
           <a href=""><img src="/images/solve.svg" alt="Typesafe" title="Typesafe" /></a><br /><strong>Typesafe</strong><br /><em>Typesafe is an ESLint plugin to encourage better type-safe coding practices</em> 
 				  <br /><br />
