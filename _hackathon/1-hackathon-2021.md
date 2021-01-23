@@ -4,6 +4,8 @@ permalink: /hackathon/2021
 ---
 OGP Hackathon is ongoing, and here is the current list of 2021 projects. Check back for new product ideas and updates about ongoing projects!
 
+<br/>
+
 <table width="350px">
 <tbody>
       <td width="175px">
