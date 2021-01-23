@@ -18,6 +18,9 @@ permalink: /hackathon/2021
 				<img src="/images/solve.svg" alt="Typesafe" title="Typesafe" /><br /><strong>Typesafe</strong><br /><em>Typesafe is an ESLint plugin to encourage better type-safe coding practices</em> 
 				  <br /><br /><br /><br />
           <img src="/images/solve.svg" alt="Help.gov.sg" title="Help.gov.sg" /><br /><strong>Help.gov.sg</strong><br /><em>Citizens take a while to get answers for general enquiries, and officers are bombarded with repeat questions. Help.gov.sg is Quora for government. Citizens verify email and mobile to ask questions privately. Officers post answers, which makes q&a public for all to see. This way officers can "answer one citizen to answer many".</em> 
+					<br /><br /><br /><br />
+								<img src="/images/solve.svg" alt="Interactive FormSG" title="Interactive FormSG" /><br /><strong>Interactive FormSG</strong><br /><em>A feature to allow forms to display data from agencies' API endpoints and display this within the form</em> 
+				  <br /><br /><br /><br />
 	</td>
       <td width="175px">
 				    <img src="/images/Checkfirst_snapshot.png" alt="Checkfirst.gov.sg" title="Checkfirst.gov.sg" /><br /><strong>CheckFirst</strong><br /><em>Self-service eligibility checker and calculator for the government</em> 
@@ -35,8 +38,6 @@ permalink: /hackathon/2021
 				<img src="/images/solve.svg" alt="Sanbaiqian" title="Sanbaiqian" /><br /><strong>Sanbaiqian 三百千</strong><br /><em>Helping adults with basic Mandarin Chinese proficiency self-improve</em> 
 				  <br /><br /><br /><br />
 								<img src="/images/solve.svg" alt="Bookings" title="Bookings" /><br /><strong>Bookings</strong><br /><em>An interface for officers to publish time slots which citizens can then sign up for.</em> 
-				  <br /><br /><br /><br />
-				<img src="/images/solve.svg" alt="Interactive FormSG" title="Interactive FormSG" /><br /><strong>Interactive FormSG</strong><br /><em>A feature to allow forms to display data from agencies' API endpoints and display this within the form</em> 
 				  <br /><br /><br /><br />
       </td>
 </tbody>
