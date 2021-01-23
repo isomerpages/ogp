@@ -2,7 +2,9 @@
 title: About Hackathon
 permalink: /hackathon/about
 ---
-[![](/images/Hack2021Banner_withCTA.png)](/hackathon/2021)
+[![2021 Projects Banner](/images/Hack2021Banner_withCTA.png)](/hackathon/2021)
+
+<br/>
 
 How did products like [Go.gov.sg](https://go.gov.sg) ,  [Postman.gov.sg](https://postman.gov.sg), and [RedeemSG](https://redeem.gov.sg) come about? They were all ideas born and developed through Open Government Products’ annual Hackathon. 
 
