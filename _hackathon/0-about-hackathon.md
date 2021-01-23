@@ -2,11 +2,15 @@
 title: About Hackathon
 permalink: /hackathon/about
 ---
-How did products like Go.gov.sg (the official government link shortener),  Postman.gov.sg (powers the Gov.SG WhatsApp), and RedeemSG (used to distribute millions of face masks to Singaporeans) come about? They were all ideas born and developed through Open Government Products’ annual Hackathon. 
+How did products like [Go.gov.sg](https://go.gov.sg) ,  [Postman.gov.sg](https://postman.gov.sg), and [RedeemSG](https://redeem.gov.sg) come about? They were all ideas born and developed through Open Government Products’ annual Hackathon. 
 
 ![team members brainstorming](/images/hackathon_brainstorming.jpg)
 
-Every year in January Open Government Products conducts a month-long hackathon to build products to solve real public sector issues. Unlike many other hackathons, the focus for OGP Hackathon is to generate new ideas for OGP products and to have working prototypes by the end of the month. Hackathon also provides an opportunity for OGP members to learn and develop new skills as they work to build new products.
+### What is Hackathon? 
+
+Every year in January, Open Government Products conducts a month-long hackathon to build products to solve real public sector issues. Unlike many other hackathons, the focus for OGP Hackathon is to generate new ideas for OGP products and to have working prototypes by the end of the month. Hackathon also provides an opportunity for OGP members to learn and develop new skills as they work to build new products.
+
+> Once teams identify a problem they want to work on, they then spend the rest of the month building and prototyping solutions.
 
 ![learning journey sharings](/images/hackathon_talks.jpg)
 
