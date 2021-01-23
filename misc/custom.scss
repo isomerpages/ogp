@@ -441,10 +441,9 @@ $widescreen: 1152px + (4 * $gap) !default;
   }
 }
 
-// .bp-hero-body {
-//   background-color: #000000;
-//   opacity: 0.75;
-// }
+.bp-hero-body {
+  background: rgba(0,0,0,0);
+}
 
 a.navbar-item {
   width: 180px;
