@@ -7,7 +7,7 @@ permalink: /hackathon/2021
       <td width="175px">
           <img src="/images/Dash_snapshot.png" alt="Dash.gov.sg" title="Dash.gov.sg"/><br /><strong>Dash</strong><br /><em>The common inbox for the government to address incoming queries</em>
           <br /><br /><br /><br />
-          <img src="/images/chopchopdocx_snapshot_updated.png" alt="chop chop doc" title="chop chop doc" /><br /><strong>chop chop doc</strong><br /><em>Integrates with FormSG to create documents from templates</em> 
+          <img src="/images/chopchopdocx_snapshot_updated.png" alt="chop chop doc" title="chop chop doc" /><br /><strong>chop chop doc</strong><br /><em>Create documents from templates. Fill in a form and receive the populated documents in your email!</em> 
           <br /><br /><br /><br />
 				<img src="/images/CitizenYearInReview_snapshot.png" alt="Citizen Year in Review" title="Citizen Year in Review" /><br /><strong>Citizen Year in Review</strong><br /><em>Interactive instagrammable sequence commemorating the past year spent in Singapore</em> 
           <br /><br /><br /><br />
