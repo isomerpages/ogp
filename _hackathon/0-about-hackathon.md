@@ -35,6 +35,8 @@ Mixers and ideation workshops  also allow our officers to exchange ideas and ide
 
 ![team members brainstorming](/images/hackathon_brainstorming.jpg)
 
+<br/>
+
 Hackathon culminates at the end of the month with groups presenting their final working prototypes at Hackathon Finale. After the finale presentations,  many prototypes that have shown potential to create value for the public then get converted to full-fledged OGP products.
 
 <br/>
