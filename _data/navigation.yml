@@ -1,13 +1,14 @@
 logo: /images/Logo_Hori.svg
 links:
-    -
-        title: Careers
-        url: /careers/product-manager/
-        collection: careers
-    -
-        title: 'Our products'
-        url: /products/datagovsg/
-        collection: products
-    -
-        title: 'CONTACT US'
-        url: /contact-us/
+  - title: Careers
+    url: /careers/product-manager/
+    collection: careers
+  - title: Our products
+    url: /products/datagovsg/
+    collection: products
+  - title: Hackathon
+    url: /hackathon/about/
+    collection: hackathon
+  - title: CONTACT US
+    url: /contact-us/
+
