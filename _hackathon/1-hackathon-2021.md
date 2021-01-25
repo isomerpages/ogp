@@ -23,6 +23,8 @@ Here is the current list of 2021 projects. OGP Hackathon is ongoing, so check ba
           <br /><br /><br /><br />
 									<img src="/images/solve.svg" alt="Reddit for Government" title="Reddit for Government" /><br /><strong>Reddit for Government</strong><br /><em>Internal forum for public officers</em> 
 				  <br /><br /><br /><br />
+					<img src="/images/solve.svg" alt="Payments" title="Payments" /><br /><strong>Payments (Billing)</strong><br /><em>Create payment links to collect money from citizens easily</em>
+          <br /><br /><br /><br />
 				<img src="/images/solve.svg" alt="Sanbaiqian" title="Sanbaiqian" /><br /><strong>Sanbaiqian 三百千</strong><br /><em>Helping adults with basic Mandarin Chinese proficiency to self-improve</em> 
 				  <br /><br /><br /><br />
 	</td>
