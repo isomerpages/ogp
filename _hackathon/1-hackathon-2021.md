@@ -34,7 +34,7 @@ Here is the current list of 2021 projects. OGP Hackathon is ongoing, so check ba
           <br /><br /><br /><br />
 				<img src="/images/PersonalisedForm_snapshot.png" alt="Personalised Form" title="Personalised Form" /><br /><strong>Personalised Form</strong><br /><em>Allows FormSG to pull data from agencies' APIs for display within the form. Spin-up Singpass-enabled forms and display personalised information to citizens!</em> 
 				  <br /><br /><br /><br />
-				<img src="/images/Handsy_snapshot.png" alt="Handsy" title="Handsy" /><br /><strong>Handsy</strong><br /><em>Simple and fun in-browser game to get seniors moving</em>
+				<img src="/images/Handsy_snapshot.png" alt="Handsy" title="Handsy" /><br /><strong>Handsy</strong><br /><em>Simple, fun in-browser game to get seniors moving and keeping healthy!</em>
           <br /><br /><br /><br />
 				<img src="/images/Payments_snapshot.png" alt="Payments" title="Payments" /><br /><strong>Payments</strong><br /><em>Enable public-initiated payment on FormSG</em>
           <br /><br /><br /><br />
