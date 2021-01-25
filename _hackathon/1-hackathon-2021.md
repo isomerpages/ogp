@@ -21,7 +21,7 @@ Here is the current list of 2021 projects. OGP Hackathon is ongoing, so check ba
           <br /><br /><br /><br />   
 				<img src="/images/AnythingMapper_snapshot.png" alt="Anything Mapper" title="Anything Mapper" /><br /><strong>Anything Mapper</strong><br /><em>Upload a list of locations & characteristics, and convert it into a map that others can search and filter</em> 
           <br /><br /><br /><br />
-									<img src="/images/solve.svg" alt="Reddit for Government" title="Reddit for Government" /><br /><strong>Reddit for Government</strong><br /><em>Internal forum for public officers</em> 
+									<img src="/images/solve.svg" alt="Avenue" title="Avenue" /><br /><strong>Avenue</strong><br /><em>Internal forum for public officers</em> 
 				  <br /><br /><br /><br />
 					<img src="/images/solve.svg" alt="Payments" title="Payments" /><br /><strong>Government Billing Links</strong><br /><em>Create payment links to collect money from citizens easily</em>
           <br /><br /><br /><br />
