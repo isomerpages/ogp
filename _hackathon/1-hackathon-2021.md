@@ -15,7 +15,7 @@ Here is the current list of 2021 projects. OGP Hackathon is ongoing, so check ba
 					<br /><br /><br /><br />  
 				<img src="/images/chopchopdocx_snapshot_updated.png" alt="chop chop doc" title="chop chop doc" /><br /><strong>chop chop doc</strong><br /><em>Create documents from templates! Fill in forms and receive completed documents in your inbox right away</em> 
           <br /><br /><br /><br />
-				<img src="/images/Payments_snapshot.png" alt="Payments" title="Payments" /><br /><strong>Payments</strong><br /><em>Enable public-initiated payment on FormSG</em>
+					<img src="/images/Diffindo_snapshot.png" alt="Diffindo!" title="Diffindo!" /><br /><strong>Diffindo!</strong><br /><em>Tracked-changes interface for civil servants to quickly take submissions modified in outlook, and easily accept/ reject each change</em> 
           <br /><br /><br /><br />
 				<img src="/images/CitizenYearInReview_snapshot.png" alt="Citizen Year in Review" title="Citizen Year in Review" /><br /><strong>Citizen Year in Review</strong><br /><em>Interactive instagrammable sequence commemorating the past year spent in Singapore</em> 
           <br /><br /><br /><br />   
@@ -36,7 +36,7 @@ Here is the current list of 2021 projects. OGP Hackathon is ongoing, so check ba
 				  <br /><br /><br /><br />
 				<img src="/images/Handsy_snapshot.png" alt="Handsy" title="Handsy" /><br /><strong>Handsy</strong><br /><em>Simple and fun in-browser game to get seniors moving</em>
           <br /><br /><br /><br />
-				<img src="/images/Diffindo_snapshot.png" alt="Diffindo!" title="Diffindo!" /><br /><strong>Diffindo!</strong><br /><em>Tracked-changes interface for civil servants to quickly take submissions modified in outlook, and easily accept/ reject each change</em> 
+				<img src="/images/Payments_snapshot.png" alt="Payments" title="Payments" /><br /><strong>Payments</strong><br /><em>Enable public-initiated payment on FormSG</em>
           <br /><br /><br /><br />
 				<img src="/images/solve.svg" alt="Transparency" title="Transparency" /><br /><strong>Transparency </strong><br /><em>Crack open data silos by enabling federated queries across multiple databases with Presto.</em> 
 				  <br /><br /><br /><br />
