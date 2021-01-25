@@ -21,8 +21,9 @@ Here is the current list of 2021 projects. OGP Hackathon is ongoing, so check ba
           <br /><br /><br /><br />   
 				<img src="/images/AnythingMapper_snapshot.png" alt="Anything Mapper" title="Anything Mapper" /><br /><strong>Anything Mapper</strong><br /><em>Upload a list of locations & characteristics, and convert it into a map that others can search and filter</em> 
           <br /><br /><br /><br />
-				<img src="/images/solve.svg" alt="Typesafe" title="Typesafe" /><br /><strong>Typesafe</strong><br /><em>Linting rules to help JS/TS developers catch exceptions and unhandled promises!</em> 
-				  <br /><br /><br /><br />				<img src="/images/solve.svg" alt="Sanbaiqian" title="Sanbaiqian" /><br /><strong>Sanbaiqian 三百千</strong><br /><em>Helping adults with basic Mandarin Chinese proficiency to self-improve</em> 
+									<img src="/images/solve.svg" alt="Reddit for Government" title="Reddit for Government" /><br /><strong>Reddit for Government</strong><br /><em>Internal forum for public officers</em> 
+				  <br /><br /><br /><br />
+				<img src="/images/solve.svg" alt="Sanbaiqian" title="Sanbaiqian" /><br /><strong>Sanbaiqian 三百千</strong><br /><em>Helping adults with basic Mandarin Chinese proficiency to self-improve</em> 
 				  <br /><br /><br /><br />
 	</td>
       <td width="175px">
@@ -38,8 +39,8 @@ Here is the current list of 2021 projects. OGP Hackathon is ongoing, so check ba
           <br /><br /><br /><br />
 				<img src="/images/Payments_snapshot.png" alt="Payments" title="Payments" /><br /><strong>Payments</strong><br /><em>Enable public-initiated payment on FormSG</em>
           <br /><br /><br /><br />
-					<img src="/images/solve.svg" alt="Reddit for Government" title="Reddit for Government" /><br /><strong>Reddit for Government</strong><br /><em>Internal forum for public officers</em> 
-				  <br /><br /><br /><br />
+				<img src="/images/solve.svg" alt="Typesafe" title="Typesafe" /><br /><strong>Typesafe</strong><br /><em>Linting rules to help JS/TS developers catch exceptions and unhandled promises!</em> 
+				  <br /><br /><br /><br />				
 				<img src="/images/solve.svg" alt="Transparency" title="Transparency" /><br /><strong>Transparency </strong><br /><em>Crack open data silos by enabling federated queries across multiple databases with Presto.</em> 
 				  <br /><br /><br /><br />
       </td>
