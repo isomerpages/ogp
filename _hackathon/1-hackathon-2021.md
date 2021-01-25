@@ -38,9 +38,9 @@ Here is the current list of 2021 projects. OGP Hackathon is ongoing, so check ba
           <br /><br /><br /><br />
 				<img src="/images/Payments_snapshot.png" alt="Payments" title="Payments" /><br /><strong>Payments</strong><br /><em>Enable public-initiated payment on FormSG</em>
           <br /><br /><br /><br />
-				<img src="/images/solve.svg" alt="Transparency" title="Transparency" /><br /><strong>Transparency </strong><br /><em>Crack open data silos by enabling federated queries across multiple databases with Presto.</em> 
+					<img src="/images/solve.svg" alt="Reddit for Government" title="Reddit for Government" /><br /><strong>Reddit for Government</strong><br /><em>Internal forum for public officers</em> 
 				  <br /><br /><br /><br />
-				<img src="/images/solve.svg" alt="Reddit for Government" title="Reddit for Government" /><br /><strong>Reddit for Government</strong><br /><em>Internal forum for public officers</em> 
+				<img src="/images/solve.svg" alt="Transparency" title="Transparency" /><br /><strong>Transparency </strong><br /><em>Crack open data silos by enabling federated queries across multiple databases with Presto.</em> 
 				  <br /><br /><br /><br />
       </td>
 </tbody>
