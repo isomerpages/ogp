@@ -2,7 +2,7 @@
 title: Hackathon 2021
 permalink: /hackathon/2021
 ---
-Here is the current list of 2021 projects. OGP Hackathon is ongoing, so check back for new product ideas and updates!
+Here is the current list of 2021 projects. OGP Hackathon is ongoing, so check back for updates!
 
 <br/>
 
