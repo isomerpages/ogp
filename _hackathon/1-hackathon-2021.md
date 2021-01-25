@@ -37,7 +37,7 @@ Here is the current list of 2021 projects. OGP Hackathon is ongoing, so check ba
 				  <br /><br /><br /><br />
 				<img src="/images/Handsy_snapshot.png" alt="Handsy" title="Handsy" /><br /><strong>Handsy</strong><br /><em>Simple, fun in-browser game to get seniors moving and keeping healthy!</em>
           <br /><br /><br /><br />
-				<img src="/images/Payments_snapshot.png" alt="Payments" title="Payments" /><br /><strong>Payments</strong><br /><em>Enable public-initiated payment on FormSG</em>
+				<img src="/images/Payments_snapshot.png" alt="Payments" title="Payments" /><br /><strong>Payments (Ordering)</strong><br /><em>Enable public-initiated payment on FormSG</em>
           <br /><br /><br /><br />
 				<img src="/images/solve.svg" alt="Typesafe" title="Typesafe" /><br /><strong>Typesafe</strong><br /><em>Linting rules to help JS/TS developers catch exceptions and unhandled promises!</em> 
 				  <br /><br /><br /><br />				
