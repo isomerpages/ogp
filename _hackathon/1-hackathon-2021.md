@@ -17,7 +17,7 @@ Here is the current list of 2021 projects. OGP Hackathon is ongoing, so check ba
           <br /><br /><br /><br />
 					<img src="/images/Diffindo_snapshot.png" alt="Diffindo!" title="Diffindo!" /><br /><strong>Diffindo!</strong><br /><em>Tracked-changes interface for civil servants to quickly take submissions modified in outlook, and easily accept/ reject each change</em> 
           <br /><br /><br /><br />
-				<img src="/images/CitizenYearInReview_snapshot.png" alt="Citizen Year in Review" title="Citizen Year in Review" /><br /><strong>Citizen Year in Review</strong><br /><em>Interactive instagrammable sequence commemorating the past year spent in Singapore</em> 
+				<img src="/images/CitizenYearInReview_snapshot.png" alt="Citizen Year in Review" title="Citizen Year in Review" /><br /><strong>Lookback</strong><br /><em>Interactive instagrammable sequence commemorating the past year spent in Singapore</em> 
           <br /><br /><br /><br />   
 				<img src="/images/AnythingMapper_snapshot.png" alt="Anything Mapper" title="Anything Mapper" /><br /><strong>Anything Mapper</strong><br /><em>Upload a list of locations & characteristics, and convert it into a map that others can search and filter</em> 
           <br /><br /><br /><br />
