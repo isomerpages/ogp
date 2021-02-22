@@ -6,14 +6,13 @@ third_nav_title: Hackathon 2021
 
 ![](/images/CitizenYearInReview_snapshot.png)
 
-Try out our demo [here](lookback.netlify.app)!
+Try out our demo [here](https://lookback.netlify.app)!
 
 #### What motivated you to build this product?
 Fun. We thought, how great would it be if we had a Year in Review slideshow for civic contributions?
 
 #### Why was design the most challenging part?
 The format we chose was a character walking through a series of scenes. This involved a large amount of illustration work from designers.
-
 
 #### Fun facts!
 **One interesting finding:**\\
