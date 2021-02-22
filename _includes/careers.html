@@ -1,0 +1,74 @@
+<!-- Template adopted from https://github.com/isomerpages/astar-nrp/blob/staging/_includes/careers.html -->
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+
+    .careers {
+        display: grid;
+        justify-content: space-around;
+        grid-gap: 20px;
+        grid-template-columns: 35% 35% 35%;
+    }
+
+    .career {
+        position: relative;
+        display: flex;
+        flex-direction: column;
+        border-radius: 8px;
+        padding: 23px;
+        /* border: 1.5px solid #474849; */
+        box-shadow: 0 0 4px rgba(33,33,33,.2);
+        cursor: pointer;
+    }
+
+    .career:hover {
+        box-shadow: 0 0 11px rgba(33,33,33,.2);
+    }
+
+    .career-title {
+        margin-top: 20px;
+        font-family: "Montserrat", sans-serif;
+        font-size: 26px;
+        color: #276ef1 !important;
+    }
+
+    .career-sum {
+        font-family: "Lato", sans-serif;
+        font-size: 17px;
+        margin: 10px 0 !important;
+        flex-grow: 2;
+        line-height: 24px !important;
+        /* color: #276ef1 !important; */
+    }
+
+    .link-tag {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin-bottom: 0 !important;
+    }
+
+
+    @media only screen and (max-width: 600px) {
+        .careers {
+            grid-template-columns: 100%;
+        }
+    }
+
+</style>
+<div class="careers">
+
+    {% for career in include.careers %}
+    <div class="career">
+        {% if career.link %}
+            <a href="{{ career.link }}" class="link-tag"></a>
+        {% endif %}
+        <img src="{{ career.image }}" class="border-radius: 8px;" alt="{{ career.title }}" title="{{ career.title }}"/>
+        <span class="career-title">{{ career.title }}</span>
+        <span class="career-sum">{{ career.sum }}</span>
+    </div>
+    {% endfor %}
+
+</div>
