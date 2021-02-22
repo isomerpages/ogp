@@ -1,4 +1,3 @@
-
 - title: CHECKFIRST
   image: /images/Checkfirst_snapshot.png
   sum: Self-service eligibility checker and calculator for the government
@@ -11,19 +10,16 @@
 
 - title: CHOPCHOPDOC
   image: /images/chopchopdocx_snapshot_updated.png
-  com: Kevan, Jie Hao, Alexis
   sum: Create documents from templates! Fill in forms and receive completed documents in your inbox right away
   link: /hackathon/2021/chopchopdoc
 
 - title: LOOKBACK
   image: /images/CitizenYearInReview_snapshot.png
-  com: Sonjia, Laura, Jie Hao, Pearly
   sum: Interactive instagrammable sequence commemorating the past year spent in Singapore
   link: /hackathon/2021/lookback
 
 - title: DASH.GOV.SG
   image: /images/Dash_snapshot.png
-  com: Petty, Kevan, Etc
   sum: The common inbox for the government to address incoming queries
   link: /hackathon/2021/dash
 
@@ -44,9 +40,13 @@
 
 - title: TRANSPARENCY
   image: /images/transparency.png
-  com: Yong Jie, Yuanruo
   sum: Crack open data silos by enabling federated queries across multiple databases with Presto.
   link: /hackathon/2021/transparency
+
+- title: TYPESAFE
+  image: /images/solve.svg
+  sum: Linting rules to help JS/TS developers catch exceptions and unhandled promises!
+  link: /hackathon/2021/typesafe
 
 - title: PERSONALISED FORM
   sum: Allows FormSG to pull data from agencies' APIs for display within the form. Spin-up Singpass-enabled forms and display personalised information to citizens!
@@ -55,13 +55,11 @@
 
 - title: DIFFINDO
   image: /images/Diffindo_snapshot.png
-  com: Rahul, 
   sum: Tracked-changes interface for civil servants to quickly take submissions modified in outlook, and easily accept/ reject each change
   link: /hackathon/2021/diffindo
 
 - title: ANYTHING MAPPER
   image: /images/AnythingMapper_snapshot.png
-  com: Sarah E., Jia Chin
   sum: Upload a list of locations & characteristics, and convert it into a map that others can search and filter
   link: /hackathon/2021/anything-mapper
 
@@ -69,12 +67,6 @@
   image: /images/solve.svg
   sum: Internal forum for public officers
   link: /hackathon/2021/common
-
-- title: TYPESAFE
-  image: /images/solve.svg
-  com: Yuanruo
-  sum: Linting rules to help JS/TS developers catch exceptions and unhandled promises!
-  link: /hackathon/2021/typesafe
 
 - title: PAYMENTS
   image: /images/solve.svg
