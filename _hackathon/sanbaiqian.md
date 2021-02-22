@@ -1,5 +1,5 @@
 ---
-title: SanBaiQian 三百千
+title: SanBaiQian
 permalink: /hackathon/2021/sanbaiqian
 third_nav_title: Hackathon 2021
 ---
