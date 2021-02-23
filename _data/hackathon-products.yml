@@ -48,10 +48,10 @@
   sum: Linting rules to help JS/TS developers catch exceptions and unhandled promises!
   link: /hackathon/2021/typesafe
 
-- title: PERSONALISED FORM
+- title: PERSONALISED FORMS
   sum: Allows FormSG to pull data from agencies' APIs for display within the form. Spin-up Singpass-enabled forms and display personalised information to citizens!
   image: /images/PersonalisedForm_snapshot.png
-  link: /hackathon/2021/personalised-form
+  link: /hackathon/2021/personalised-forms
 
 - title: DIFFINDO
   image: /images/Diffindo_snapshot.png
