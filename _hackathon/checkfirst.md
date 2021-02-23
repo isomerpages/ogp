@@ -35,7 +35,7 @@ We decided to tackle this problem by using a little graph theory. We convert our
 **Design challenges:**\\
 Calculators by themselves are not difficult to understand. However, learning how to use a tool that builds a calculator is challenging because the process is quite meta.
 
-Specifically, it is challenging for a new user to understand the concept of applying logical/arithmetic expressions on question inputs, such as IF/ELSE statements. We attempt to make the user experience more easy to understand by creating custom components - such as an IF/ELSE widget so that users can focus on building their calculator instead of having to remember programming syntax.
+Specifically, it is challenging for a new user to understand the concept of applying logical/arithmetic expressions on question inputs, such as IF/ELSE statements. We attempt to make the user experience easier to understand by creating custom components - such as an IF/ELSE widget so that users can focus on building their calculator instead of having to remember programming syntax.
 
 #### Fun facts!
 **One interesting finding:**\\
