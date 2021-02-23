@@ -1,12 +1,12 @@
 ---
-title: Checkfirst
+title: CheckFirst
 permalink: /hackathon/2021/checkfirst
 third_nav_title: Hackathon 2021
 ---
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRUyZW4JXP-BCw6D9PUfWaLC9nto1RtGJbovjZ_nkV-ZZEdBGn3IGoWY3LksKAQOKg0DDk7f9_IQBYI/embed?start=false&loop=false&delayms=3000" frameborder="0" width="864" height="515" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-#### What is Checkfirst?
+#### What is CheckFirst?
 CheckFirst is a self-service tool that government officers can use to create eligibility checkers or calculators within a matter of minutes.
 
 #### What motivated you to build this product?
@@ -47,4 +47,4 @@ We are really proud that we managed to get a fully-functional prototype that is 
 **One thing you'd have done differently:**\\
 If we had slightly more time, we would have tried using Aurora Serverless in the stack, just to try something new.
 
-![](/images/Checkfirst_snapshot.png)
+![](/images/checkfirst-snapshot.png)
