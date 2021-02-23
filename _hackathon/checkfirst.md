@@ -33,7 +33,7 @@ However, let’s say that someone accidentally deletes the question. Or even wor
 We decided to tackle this problem by using a little graph theory. We convert our entire calculator into a graph, where each variable (operation or question) is a node on the graph, and each dependency is represented by an edge. Once we model the problem as a graphical one, we can very easily find out if the calculator is valid by checking that all dependencies exist and that there are no cycles in the graph!
 
 **Design challenges:**\\
-Calculators by themselves are not difficult to understand. However, learning how to use a tool that builds a calculator is challenging because the process is quite meta.
+Calculators by themselves are not difficult to understand. However, learning how to use a tool that builds a calculator is challenging because the inputs are not just numbers, but also strings and arrays too. As such, the process of building the logic for the calculator can get complicated.
 
 Specifically, it is challenging for a new user to understand the concept of applying logical/arithmetic expressions on question inputs, such as IF/ELSE statements. We attempt to make the user experience easier to understand by creating custom components - such as an IF/ELSE widget so that users can focus on building their calculator instead of having to remember programming syntax.
 
