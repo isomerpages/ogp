@@ -38,4 +38,4 @@ We could have used some expertises in design, user research, and product managem
 #### Others
 Shout outs to Bing Wen, Chang Qing and Dorcas at CPF Automation Labs, for the original idea & for being really supportive agency partners and for setting up interviews with other potential agency users!
 
-Our hackathon presentation can be found [here](https://www.youtube.com/embed/deJoieF0FHA)
+To watch our hackathon video on Youtube, click [here](https://www.youtube.com/embed/deJoieF0FHA)!
