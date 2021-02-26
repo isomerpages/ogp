@@ -4,7 +4,7 @@ permalink: /hackathon/2021/chopchopdoc
 third_nav_title: Hackathon 2021
 ---
 
-<iframe width="853" height="505" src="https://www.youtube.com/embed/deJoieF0FHA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQgW4JMlHk4Md9z-idMP3tSM4g9ed7z_JoFuPKZy9RNJl_9Oz1MXZAotkalUvDRJ9tFRPPRR6s2V_H5/embed?start=false&loop=false&delayms=3000" frameborder="0" width="864" height="515" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> 
 
 Try our demo [here](https://go.gov.sg/chopchopdemo)! 
 
@@ -35,9 +35,7 @@ We could have used some expertises in design, user research, and product managem
 
 ![](/images/chopchopdoc-initial.png)
 
-
 #### Others
 Shout outs to Bing Wen, Chang Qing and Dorcas at CPF Automation Labs, for the original idea & for being really supportive agency partners and for setting up interviews with other potential agency users!
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQgW4JMlHk4Md9z-idMP3tSM4g9ed7z_JoFuPKZy9RNJl_9Oz1MXZAotkalUvDRJ9tFRPPRR6s2V_H5/embed?start=false&loop=false&delayms=3000" frameborder="0" width="864" height="515" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> 
-
+Our hackathon presentation can be found [here](https://www.youtube.com/embed/deJoieF0FHA)
