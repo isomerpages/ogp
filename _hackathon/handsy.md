@@ -4,9 +4,9 @@ permalink: /hackathon/2021/handsy
 third_nav_title: Hackathon 2021
 ---
 
-<iframe width="853" height="505" src="https://www.youtube.com/embed/IMbe5M2EAa4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS3a-QqrqSAPaPrhSNvPTgU3F6iVwzTDVeFug3D31iwHFYWpEOQJXIbWg4bsgKLclTS1wM0ofH7Cu0P/embed?start=false&loop=false&delayms=3000" frameborder="0" width="864" height="515" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-Try the game out [here](https://go.gov.sg/handsy)!
+Try the game out at [handsy.netlify.app](https://handsy.netlify.app), or watch our hackathon presentation on Youtube [here](https://www.youtube.com/embed/IMbe5M2EAa4)! 
 
 #### What is Handsy
 A simple in-browser game designed to get seniors moving and keeping healthy!
@@ -33,4 +33,4 @@ Shout out to the staff at PCF Sparkle Care and New Horizon Centre for all your t
 #### Future steps? 
 We see potential future usecases where the hand tracking technology we use can possibly be extended to finger and body tracking, this could potentially help even people who have mobility problems. Exercises in the form of games could help could be designed for them to get back to normal life.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS3a-QqrqSAPaPrhSNvPTgU3F6iVwzTDVeFug3D31iwHFYWpEOQJXIbWg4bsgKLclTS1wM0ofH7Cu0P/embed?start=false&loop=false&delayms=3000" frameborder="0" width="864" height="515" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+![Handsy product image](/images/Handsy_snapshot.png)

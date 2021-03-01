@@ -47,4 +47,4 @@ We are really proud that we managed to get a fully-functional prototype that is 
 **One thing you'd have done differently:**\\
 If we had slightly more time, we would have tried using Aurora Serverless in the stack, just to try something new.
 
-![](/images/checkfirst-snapshot.png)
+![Checkfirst product demo image](/images/checkfirst-snapshot.png)

@@ -4,9 +4,9 @@ permalink: /hackathon/2021/lookback
 third_nav_title: Hackathon 2021
 ---
 
-![](/images/CitizenYearInReview_snapshot.png)
+![Product snapshot from Lookback](/images/CitizenYearInReview_snapshot.png)
 
-Try out our demo [here](https://lookback.netlify.app)!
+Try out our Lookback demo at [lookback.netlify.app](https://lookback.netlify.app)!
 
 #### What motivated you to build this product?
 Fun. We thought, how great would it be if we had a Year in Review slideshow for civic contributions?

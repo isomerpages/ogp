@@ -4,7 +4,9 @@ permalink: /hackathon/2021/queue
 third_nav_title: Hackathon 2021
 ---
 
-<iframe width="853" height="505" src="https://www.youtube.com/embed/m18ppwKDrYg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTUjGzx8u7VAAAox8uxj7hqXvTmpldmm1ExgC-ZMq18abnm9aoInIP6MqXbrs3ZOU5znRtZSJ0vQBW9/embed?start=false&loop=false&delayms=3000" frameborder="0" width="864" height="515" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+Watch our hackathon presentation on Youtube [here](https://www.youtube.com/embed/m18ppwKDrYg)!
 
 #### What is Queue
 Allows citizens to queue and monitor their positions digitally while organisers manage the queue via drag-and-drop
@@ -27,4 +29,4 @@ We simplified the onboarding in a way that a non-technical person could do it th
 **One thing you'd have done differently:**\\
 We developed the initial prototype that was geared to a single-use case that led to some re-development. The team could have attempted to generalise the product features more.
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTUjGzx8u7VAAAox8uxj7hqXvTmpldmm1ExgC-ZMq18abnm9aoInIP6MqXbrs3ZOU5znRtZSJ0vQBW9/embed?start=false&loop=false&delayms=3000" frameborder="0" width="864" height="515" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+![Queue product snapshot](/images/Queue_snapshot.png)

@@ -3,9 +3,9 @@ title: Diffindo!
 permalink: /hackathon/2021/diffindo
 third_nav_title: Hackathon 2021
 ---
-<iframe width="853" height="505" src="https://www.youtube.com/embed/O4l-eQldRH8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRmpzdcsEKP5apG1_Lr4a_xo4R0XpgW0I34famMUljqHkwXCxupqjX_C_b8cCEDpEV8UN_Hu3J88R__/embed?start=false&loop=false&delayms=3000" frameborder="0" width="864" height="515" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-Try our demo [here](https://go.gov.sg/diffindo)!
+Try our demo [here](https://go.gov.sg/diffindo), or catch our hackathon sharing [on Youtube](https://www.youtube.com/embed/O4l-eQldRH8)!
 
 #### What is Diffindo 
 Tracked-changes interface for civil servants to quickly take submissions modified in outlook, and easily accept/ reject each change. 
@@ -27,4 +27,4 @@ Get a designer to weigh in so the site is more standalone.
 **Others:**\\
 Shoutout to 35FC community for useful feature suggestions, and other colleagues across govt!
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRmpzdcsEKP5apG1_Lr4a_xo4R0XpgW0I34famMUljqHkwXCxupqjX_C_b8cCEDpEV8UN_Hu3J88R__/embed?start=false&loop=false&delayms=3000" frameborder="0" width="864" height="515" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+![Diffindo product image](/images/Diffindo_snapshot.png)

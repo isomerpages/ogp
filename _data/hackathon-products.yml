@@ -1,5 +1,5 @@
 - title: CHECKFIRST
-  image: /images/Checkfirst_snapshot.png
+  image: /images/checkfirst-snapshot.png
   sum: Self-service eligibility checker and calculator for the government
   link: /hackathon/2021/checkfirst
 
@@ -33,20 +33,20 @@
   sum: Citizens take a while to get answers for general enquiries, and officers are bombarded with repeat questions. Help.gov.sg is Quora for govt
   link: /hackathon/2021/helpgov
 
-- title: GOVSEARCH
-  sum: A one-stop shop for anyone to search for government information
-  image: /images/GovSearch_snapshot.png
-  link: /hackathon/2021/govsearch
+- title: TYPESAFE
+  image: /images/typesafe.png
+  sum: Linting rules to help JS/TS developers catch exceptions and unhandled promises!
+  link: /hackathon/2021/typesafe
 
 - title: TRANSPARENCY
   image: /images/transparency.png
   sum: Crack open data silos by enabling federated queries across multiple databases with Presto.
   link: /hackathon/2021/transparency
 
-- title: TYPESAFE
-  image: /images/solve.svg
-  sum: Linting rules to help JS/TS developers catch exceptions and unhandled promises!
-  link: /hackathon/2021/typesafe
+- title: GOVSEARCH
+  sum: A one-stop shop for anyone to search for government information
+  image: /images/GovSearch_snapshot.png
+  link: /hackathon/2021/govsearch
 
 - title: PERSONALISED FORMS
   sum: Allows FormSG to pull data from agencies' APIs for display within the form. Spin-up Singpass-enabled forms and display personalised information to citizens!

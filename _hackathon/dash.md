@@ -19,4 +19,4 @@ It is hard to recommend tags based on the email content. The content needs to go
 **One interesting finding:**\\
 People hate outlook but they don't have an alternative
 
-![](/images/Dash_snapshot.png)
+![Dash product demo image](/images/Dash_snapshot.png)
