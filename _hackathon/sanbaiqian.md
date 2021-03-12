@@ -4,10 +4,6 @@ permalink: /hackathon/2021/sanbaiqian
 third_nav_title: Hackathon 2021
 ---
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQubM0G7uI9vNgIuiv8V4Mbu-KbczqGuMynAYjVDoy8l640BROjKOFF6UIp7MkktGRZunz3Iqz0-X7S/embed?start=false&loop=false&delayms=3000" frameborder="0" width="864" height="515" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-
-Watch our hackathon presentation on Youtube [here](https://www.youtube.com/embed/w0Squrh69ig)!
-
 #### What motivated you to build SanBaiQian 三百千?
 SanBaiQian 三百千 was motivated by the slipping Mandarin Chinese proficiency of Singaporeans. 
 
