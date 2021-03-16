@@ -1,11 +1,8 @@
 ---
 permalink: /careers/product-manager/
-title: 'Product Manager'
-breadcrumb: 'Product Manager'
-
+title: Product Manager
+breadcrumb: Product Manager
 ---
-
-
 > You chart the product goals. You plug gaps and gel everything together. You wear many hats to drive the project forward.
 
 Here is a look at what a Product Manager, Chua Swee Chin, has to say about working here.
@@ -78,8 +75,6 @@ We look for people who:
 * Want to work for the public good - We are public servants, we serve the public. This sometimes means ignoring political pressures and misguided policies. We need people who will push back if something is not in the public interest.
 
 Overall we look for people who have ability, initiative, good communication, and strong values.
-
-Only Singapore Citizen or Permanent Resident will be considered.
  
 <a href="https://opengovernmentproducts.recruitee.com/#section-89477" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
