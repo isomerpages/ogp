@@ -1,11 +1,8 @@
 ---
 permalink: /careers/product-designer/
-title: 'Product Designer'
-breadcrumb: 'Product Designer'
-
+title: Product Designer
+breadcrumb: Product Designer
 ---
-
-
 > You bridge user needs and business goals. You make complex systems easy to use. You make the product work well and look good.
 
 Here is a look at what a Product Designer, Fiza Husin, has to say about working here.
@@ -73,8 +70,6 @@ We look for people who:
 * Want to work for the public good - We are public servants, we serve the public. This sometimes means ignoring political pressures and misguided policies. We need people who will push back if something is not in the public interest.
 
 Overall we look for people who have ability, initiative, good communication, and strong values.
-
-Only Singapore Citizen or Permanent Resident will be considered.
 
 <a style="text-decoration: none !important;" href="https://opengovernmentproducts.recruitee.com/#section-89477" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button" disabled="" style="    background-color: grey !important ;">
