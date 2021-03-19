@@ -2,10 +2,7 @@
 permalink: /careers/internships/
 title: Internships
 breadcrumb: Internship
-
 ---
-
-
 > You want to learn. You also want to contribute and work for the public good.
 
 <!-- Here's a look at what our interns have to say about working here.
@@ -53,8 +50,6 @@ We believe in hiring good people and treating them well. This means we look at m
 * Want to work for the public good - We are public servants, we serve the public. This sometimes means ignoring political pressures and misguided policies. We need people who will push back if something is not in the public interest.
 
 * Have strong, well thought-out values - We love it when you have a vision for a "perfect" Singapore. The ideas and insights you bring will only help our work to become more relevant, more effective, and more appropriate.
-
-We regret that as a public agency, only Singapore Citizens or Permanent Residents will be considered.
 
 <a href="http://go.gov.sg/ogp-jobs" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">

@@ -4,7 +4,7 @@ permalink: /hackathon/2021/lookback
 third_nav_title: Hackathon 2021
 ---
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS-DKHxN9TfQTfRbIAWjW3_D1ds8FetFL-AC8Xbwxwn7iS0t3QljwX7_gr-RszKGn-W1XcJEtvXGY_e/embed?start=false&loop=false&delayms=3000" frameborder="0" width="864" height="515" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS-DKHxN9TfQTfRbIAWjW3_D1ds8FetFL-AC8Xbwxwn7iS0t3QljwX7_gr-RszKGn-W1XcJEtvXGY_e/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%"  height="515" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 Try out our Lookback demo at [lookback.netlify.app](https://lookback.netlify.app)!
 

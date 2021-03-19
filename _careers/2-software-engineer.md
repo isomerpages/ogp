@@ -1,11 +1,8 @@
 ---
 permalink: /careers/software-engineer/
-title: 'Software Engineer'
-breadcrumb: 'Software Engineer'
-
+title: Software Engineer
+breadcrumb: Software Engineer
 ---
-
-
 > You solve problems. You design and build systems and make sure it works.
 
 Here is a look at what a Software Engineer, Pallani Kumaran, has to say about working here.
@@ -72,8 +69,6 @@ We look for people who:
 * Want to work for the public good - We are public servants, we serve the public. This sometimes means ignoring political pressures and misguided policies. We need people who will push back if something is not in the public interest.
 
 Overall we look for people who have ability, initiative, good communication, and strong values.
-
-We regret that as a Singapore Government Agency, only Singapore Citizens or Permanent Residents will be considered.
 
 <br />
 <a href="https://opengovernmentproducts.recruitee.com/#section-89477" target="_blank">

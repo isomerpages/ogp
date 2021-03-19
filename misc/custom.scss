@@ -175,6 +175,10 @@ $widescreen: 1152px + (4 * $gap) !default;
 	border-bottom: 1px solid $secondary !important;
 }
 
+.bp-dropdown-menu {
+    position: static !important;
+}
+
 // Button
 
 .bp-button.is-text span {
