@@ -3,7 +3,7 @@ title: Diffindo!
 permalink: /hackathon/2021/diffindo
 third_nav_title: Hackathon 2021
 ---
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRmpzdcsEKP5apG1_Lr4a_xo4R0XpgW0I34famMUljqHkwXCxupqjX_C_b8cCEDpEV8UN_Hu3J88R__/embed?start=false&loop=false&delayms=3000" frameborder="0" width="864" height="515" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRmpzdcsEKP5apG1_Lr4a_xo4R0XpgW0I34famMUljqHkwXCxupqjX_C_b8cCEDpEV8UN_Hu3J88R__/embed?start=false&loop=false&delayms=3000" frameborder="0" width="100%"  height="515" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 Try our demo [here](https://go.gov.sg/diffindo), or catch our hackathon sharing [on Youtube](https://www.youtube.com/embed/O4l-eQldRH8)!
 
