@@ -57,4 +57,4 @@ We believe in hiring good people and treating them well. This means we look at m
     </button>
 </a>
 
-**We are currently hiring Software Engineer and Product Designer interns!**
+**We are currently hiring Software Engineer, Product Designer, Marketing & Communications, and People & Culture interns!**
