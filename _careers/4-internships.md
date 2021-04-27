@@ -53,13 +53,13 @@ We believe in hiring good people and treating them well. This means we look at m
 
 ### **Internship positions currently open**
 
-* Software Engineer interns (off-cycle, i.e. can intern beyond May-Jul 2021)
+* Software Engineer interns for off-cycle internships (i.e. internship dates beyond May - Jul 2021 summer internship period)
 
-* Product Designer interns (minimum internship duration of 3 months)
+* Product Designer interns (minimum internship duration of 3 months, anytime in the year)
 
-* Marketing and Outreach interns
+* Marketing and Outreach interns (minimum internship duration of 10 weeks, anytime in the year)
 
-* People and Culture interns
+* People and Culture interns (minimum internship duration of 10 weeks, anytime in the year)
 
 <a href="http://go.gov.sg/ogp-jobs" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
