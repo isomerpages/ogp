@@ -51,10 +51,18 @@ We believe in hiring good people and treating them well. This means we look at m
 
 * Have strong, well thought-out values - We love it when you have a vision for a "perfect" Singapore. The ideas and insights you bring will only help our work to become more relevant, more effective, and more appropriate.
 
+### **Internship positions currently open**
+
+* Software Engineer interns for off-cycle internships (i.e. internship dates beyond May - Jul 2021 summer period, minimum duration of 10 weeks)
+
+* Product Designer interns (anytime in the year, minimum 3 month duration)
+
+* Marketing and Outreach interns (anytime in the year, minimum 10 week duration)
+
+* People and Culture interns (anytime in the year, minimum 10 week duration)
+
 <a href="http://go.gov.sg/ogp-jobs" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
         Apply Here
     </button>
 </a>
-
-**We are currently hiring Software Engineer, Product Designer, Marketing & Communications, and People & Culture interns!**
