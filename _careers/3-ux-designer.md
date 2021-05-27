@@ -71,11 +71,8 @@ We look for people who:
 
 Overall we look for people who have ability, initiative, good communication, and strong values.
 
-<a style="text-decoration: none !important;" href="https://opengovernmentproducts.recruitee.com/#section-89477" target="_blank">
-    <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button" disabled="" style="    background-color: grey !important ;">
+<a href="https://opengovernmentproducts.recruitee.com/#section-89477" target="_blank">
+    <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
         Apply Here
     </button>
 </a>
-
-
-**Thank you for your interest. Product Designer roles are now closed.**
