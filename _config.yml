@@ -8,18 +8,6 @@ defaults:
       layout: page
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-plugins:
-  - jekyll-feed
-  - jekyll-assets
-  - jekyll-paginate
-  - jekyll-sitemap
-collections:
-  careers:
-    output: true
-  products:
-    output: true
-  hackathon:
-    output: true
 custom_css_path: /misc/custom.css
 favicon: /images/favicon.png
 google-analytics: null
@@ -40,3 +28,11 @@ colors:
     - title: media-color-five
       color: '#00838f'
 google_analytics: UA-189280200-1
+staging: https://ogp-staging.netlify.app
+prod: https://isomer-opengovsg-prod.netlify.app
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
