@@ -1,0 +1,8 @@
+collections:
+  careers:
+    output: true
+    order:
+      - product-manager.md
+      - software-engineer.md
+      - product-designer.md
+      - internships.md
