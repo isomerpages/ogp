@@ -57,10 +57,6 @@ We believe in hiring good people and treating them well. This means we look at m
 
 * Product Designer interns (anytime in the year, minimum 3 month duration)
 
-* Marketing and Outreach interns (anytime in the year, minimum 10 week duration)
-
-* People and Culture interns (anytime in the year, minimum 10 week duration)
-
 <a href="http://go.gov.sg/ogp-jobs" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
         Apply Here
