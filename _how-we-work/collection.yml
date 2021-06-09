@@ -1,0 +1,4 @@
+collections:
+  how-we-work:
+    output: true
+    order: []
