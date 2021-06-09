@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - about-us.md
+      - how-we-work.md
