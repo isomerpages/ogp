@@ -13,3 +13,5 @@ links:
     collection: hackathon
   - title: CONTACT US
     url: /contact-us/
+  - title: About Us
+    collection: about-us
