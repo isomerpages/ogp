@@ -2,7 +2,7 @@ collections:
   products:
     output: true
     order:
-      - our-products.md
+      - overview.md
       - data-gov-sg.md
       - digimc.md
       - form-gov-sg.md
