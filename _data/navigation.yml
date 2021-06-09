@@ -1,7 +1,5 @@
 logo: /images/Logo_Hori.svg
 links:
-  - title: How We Work
-    collection: how-we-work
   - title: Careers
     url: /careers/product-manager/
     collection: careers
