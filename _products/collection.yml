@@ -2,6 +2,7 @@ collections:
   products:
     output: true
     order:
+      - our-products.md
       - data-gov-sg.md
       - digimc.md
       - form-gov-sg.md
@@ -14,4 +15,3 @@ collections:
       - postman-gov-sg.md
       - redeemsg.md
       - sgid.md
-      - our-products.md
