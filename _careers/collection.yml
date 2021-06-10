@@ -2,8 +2,8 @@ collections:
   careers:
     output: true
     order:
-      - how-we-hire.md
       - product-manager.md
       - software-engineer.md
       - product-designer.md
       - internships.md
+      - how-we-hire.md
