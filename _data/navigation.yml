@@ -1,5 +1,7 @@
 logo: /images/Logo_Hori.svg
 links:
+  - title: About Us
+    collection: about-us
   - title: Careers
     url: /careers/product-manager/
     collection: careers
@@ -13,5 +15,3 @@ links:
     collection: hackathon
   - title: CONTACT US
     url: /contact-us/
-  - title: About Us
-    collection: about-us
