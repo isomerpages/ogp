@@ -53,7 +53,7 @@ We believe in hiring good people and treating them well. This means we look at m
 
 ### **Internship positions currently open**
 
-* Software Engineer interns for off-cycle internships (i.e. internship dates beyond May - Jul 2021 summer period, minimum duration of 10 weeks)
+* Software Engineer interns for off-cycle internships (anytime in the year, minimum duration of 10 weeks)
 
 * Product Designer interns (anytime in the year, minimum 3 month duration)
 
