@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - overview.md
+      - corporate-team.md
+      - product-designer.md
       - product-manager.md
       - software-engineer.md
-      - product-designer.md
       - internships.md
       - our-hiring-process.md
-      - corporate-team.md
