@@ -2,9 +2,9 @@ collections:
   careers:
     output: true
     order:
+      - overview.md
       - product-manager.md
       - software-engineer.md
       - product-designer.md
       - internships.md
       - our-hiring-process.md
-      - overview.md
