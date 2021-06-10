@@ -3,77 +3,57 @@
   sum: Open repository for Singapore’s public data
   link: /products/datagovsg
 
-- title: QUEUE
-  sum: Allows citizens to queue and monitor their positions digitally while organisers manage the queue via drag-and-drop
-  image: /images/Queue_snapshot.png
-  link: /hackathon/2021/queue
-
-- title: CHOPCHOPDOC
-  image: /images/chopchopdocx_snapshot_updated.png
-  sum: Create documents from templates! Fill in forms and receive completed documents in your inbox right away
-  link: /hackathon/2021/chopchopdoc
-
-- title: LOOKBACK
-  image: /images/CitizenYearInReview_snapshot.png
-  sum: Interactive instagrammable sequence commemorating the past year spent in Singapore
-  link: /hackathon/2021/lookback
-
-- title: DASH.GOV.SG
-  image: /images/Dash_snapshot.png
-  sum: The common inbox for the government to address incoming queries
-  link: /hackathon/2021/dash
-
-- title: HANDSY
-  sum: Simple, fun in-browser game to get seniors moving and keeping healthy!
-  image: /images/Handsy_snapshot.png
-  link: /hackathon/2021/handsy
-
-- title: HELP.GOV.SG
-  image: /images/Helpgov_snapshot.png
-  sum: Citizens take a while to get answers for general enquiries, and officers are bombarded with repeat questions. Help.gov.sg is Quora for govt
-  link: /hackathon/2021/helpgov
-
-- title: TYPESAFE
-  image: /images/typesafe.png
-  sum: Linting rules to help JS/TS developers catch exceptions and unhandled promises!
-  link: /hackathon/2021/typesafe
-
-- title: TRANSPARENCY
-  image: /images/Transparency_snapshot.png
-  sum: Crack open data silos by enabling federated queries across multiple databases with Presto.
-  link: /hackathon/2021/transparency
-
-- title: GOVSEARCH
-  sum: A one-stop shop for anyone to search for government information
-  image: /images/GovSearch_snapshot.png
-  link: /hackathon/2021/govsearch
-
-- title: PERSONALISED FORMS
-  sum: Allows FormSG to pull data from agencies' APIs for display within the form. Spin-up Singpass-enabled forms and display personalised information to citizens!
-  image: /images/PersonalisedForm_snapshot.png
-  link: /hackathon/2021/personalised-forms
-
-- title: DIFFINDO
-  image: /images/Diffindo_snapshot.png
-  sum: Tracked-changes interface for civil servants to quickly take submissions modified in outlook, and easily accept/ reject each change
-  link: /hackathon/2021/diffindo
-
-- title: ANYTHING MAPPER
-  image: /images/AnythingMapper_snapshot.png
-  sum: Upload a list of locations & characteristics, and convert it into a map that others can search and filter
-  link: /hackathon/2021/anything-mapper
-
-- title: COMMON.GOV.SG
+- title: DIGIMC
+  sum: Digital medical certificates with assured authenticity
   image: /images/solve.svg
-  sum: Internal forum for public officers
-  link: /hackathon/2021/common
+  link: /products/digimc
 
-- title: PAYMENTS
-  image: /images/solve.svg
-  sum: Enable public-initiated payment on FormSG & Create payment links to collect money from citizens transparently
-  link: /hackathon/2021/payments
+- title: FORM.GOV.SG
+  image: /images/formsg.png
+  sum: Build government forms in minutes
+  link: /products/formsg
 
-- title: SANBAIQIAN
+- title: GO.GOV.SG
+  image: /images/go.gov.sg.png
+  sum: Create official government links in seconds
+  link: /products/gogovsg
+
+- title: HOMER
+  image: /images/homer.png
+  sum: Health and location reporting tool for those on COVID-19 Quarantine Order / Stay-Home Notice
+  link: /products/homer
+
+- title: ISOMER
+  sum: A static website building and hosting solution for the public service
+  image: /images/isomer.png
+  link: /products/isomer
+
+- title: OPENDOC
+  image: /images/opendoc.png
+  sum: Openly accessible documents from the Singapore Government
+  link: /products/opendoc
+
+- title: PARKING.SG
+  image: /images/parkingsg.png
+  sum: Pay for parking using your mobile devices
+  link: /products/parkingsg
+
+- title: PAYSG
+  image: /images/paysg.png
+  sum: Digitise payments for government agencies
+  link: /products/paysg
+
+- title: POSTMAN.GOV.SG
+  sum: An omnichannel communication tool for the Singapore Government
+  image: /images/postman.png
+  link: /products/postman
+
+- title: REDEEMSG
+  sum: Redemption tracking system to monitor the distribution of goods, tickets and vouchers in real time.
+  image: /images/redeemsg.png
+  link: /products/redeemsg
+  
+- title: SGID
   image: /images/solve.svg
-  sum: Helping adults with basic Mandarin Chinese proficiency to self-improve
-  link: /hackathon/2021/sanbaiqian
+  sum: Privacy-based authentication system
+  link: /products/sgid
