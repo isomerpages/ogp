@@ -1,7 +1,7 @@
-- title: CHECKFIRST
-  image: /images/checkfirst-snapshot.png
-  sum: Self-service eligibility checker and calculator for the government
-  link: /hackathon/2021/checkfirst
+- title: DATA.GOV.SG
+  image: /images/data.gov.sg.png
+  sum: Open repository for Singapore’s public data
+  link: /products/datagovsg
 
 - title: QUEUE
   sum: Allows citizens to queue and monitor their positions digitally while organisers manage the queue via drag-and-drop
