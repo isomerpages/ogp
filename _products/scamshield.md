@@ -8,21 +8,17 @@ permalink: /products/scamshield
 
 #### Background 
 
-The number of scams reported in 2020 hit a record high, climbing 65.1% from 2019, as scammers took more than $201 millioin from their victoms. Scammers often
+The number of scams reported in 2020 hit a record high, climbing 65.1% from 2019, as scammers took more than $201 million from their victims. Scammers often initiate contact with potential victims through Short Message Services (SMSes) or phone calls. Scams are getting more sophisticated, making it harder for citizens to tell between a real and fake SMS or call. 
 
-To help citizens and laymen better understand public data, data.gov.sg provides interactive dashboards, visualisations, and articles in the current iteration of the product.
 
-#### Approach
+#### Solution
+Once installed on a citizen’s device, ScamShield actively works in the background to filter scam messages from unknown contacts by running it through ScamShield’s on-device classifier and filter calls from numbers used in illegal activities. 
 
-* Dashboards & data visualisations allow users to intuitively understand public data without needing to be a data scientist
-* Automatic data standard validation ensures datasets are usable and interoperable
-* Search and data previews improve discoverability and accessibility of the datasets
 
 #### Impact
 
-* 350,000 monthly visitors
-* 30,000 data downloads
-* 13 million API calls
+* Blocked over 850k SMSes till date
+*Cumulatively blocked and blacklisted over 6,000 numbers used in scams
 
 #### Team
 
@@ -33,6 +29,14 @@ Lennard Lim <a href="https://github.com/lennardl" style="display: inline-block; 
 Aaron <a href="https://github.com/Buooy " style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a>
+
+Laura <a href="https://github.com/laura-xy-lee " style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a>
+
+Christabel Png 
+
+Daniel Khoo
 
 <a href="https://data.gov.sg/" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
