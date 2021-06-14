@@ -3,10 +3,7 @@ permalink: /products/formsg/
 title: Form.gov.sg
 image: /images/formsg.png
 breadcrumb: Form.gov.sg
-
 ---
-
-
 ![github](/images/formsg.png)
 
 ### Build government forms in minutes
@@ -15,8 +12,8 @@ breadcrumb: Form.gov.sg
 
 From applying for permits to booking public facilities, paper forms have been a vital tool for the public service to gather information. However, paper forms are logistically cumbersome, and public digital form builders like Google Forms present security risks as sensitive citizen information will be stored on the cloud.  
 
-#### Approach
-
+#### Solution
+FormSG is an electronic form builder with advanced features that allows public officers to build and launch forms within minutes. It supports the entire spectrum of small surveys launched by individuals to  large applications integrated with agencies’ native systems. 
 * Intuitive user interface allows new forms to be created in less than 30 minutes
 * Zero knowledge architecture allows for mass digitization without large security vulnerabilities
 * Pre-built integrations with Singpass, CorpPass and MyInfo extends functionality of forms
@@ -68,4 +65,3 @@ Yuanruo Liang <a href="https://github.com/liangyuanruo" style="display: inline-b
         Visit website
     </button>
 </a>
-
