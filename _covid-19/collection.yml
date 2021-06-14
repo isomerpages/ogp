@@ -3,3 +3,4 @@ collections:
     output: true
     order:
       - covid-19.md
+      - open-source.md
