@@ -3,10 +3,7 @@ permalink: /products/sgid/
 title: sgID
 image: /images/sgid.png
 breadcrumb: sgID
-
 ---
-
-
 <img style="height: 50px; width: auto; margin: 0px;" alt="sgID" src="/images/sgid-logo.png">
 
 ![github](/images/sgid.png)
@@ -15,11 +12,11 @@ breadcrumb: sgID
 
 #### Background 
 
-The average person could share their NRIC with businesses and organisations at least once a month -- for visitor registrations, lucky draw and loyalty programme sign-ups, in-app identity verification, and more. For a citizen to share their identity wholesale by providing the physical NRIC to this many third parties exposes them to identity fraud and other security risks.
+The average person could share his/her NRIC with businesses and organisations at least once a month - for visitor registrations, lucky draw and loyalty programme sign-ups, in-app identity verification, and more. For a citizen to share his/her identity wholesale by providing the physical NRIC to multiple third parties exposes them to identity fraud and other security risks.
 
-#### Approach
+#### Solution
 
-sg-ID helps citizens stay in control of their personal information. The solution employs a zero-knowledge protocol, which means that any user data that passes through our servers is encrypted and never stored. Each business is provided with a unique identifier for every user that authenticates using sgID, and this makes it harder to track you across businesses.
+sg-ID helps citizens stay in control of their personal information. The solution employs a zero-knowledge protocol, which means that any user data that passes through our servers is encrypted and never stored. Each business is provided with a unique identifier for every user that authenticates using sgID, which makes it harder to track individuals across businesses.
 
 * Unique identifier is generated for every business
 * Citizens have complete control access to their data
