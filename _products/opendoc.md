@@ -3,10 +3,7 @@ permalink: /products/opendoc/
 title: OpenDoc
 image: /images/opendoc.png
 breadcrumb: OpenDoc
-
 ---
-
-
 ![github](/images/opendoc.png)
 
 ### Openly accessible documents from the Singapore Government
@@ -15,16 +12,16 @@ breadcrumb: OpenDoc
 
 There are three key problems encountered with public documents distributed by government agencies: 
 * Multiple outdated versions of the same document could be in circulation 
-* Difficult to track changes in the documents when they are updated on a regular basis
-* These documents cannot be analysed and is not searchable since these documents are in non machine-readable or proprietary formats
+* Difficult to track changes in the documents that are updated on a regular basis
+* These documents cannot be analysed and are not searchable since they are neither in machine-readable nor proprietary formats
 
 
-#### Approach
+#### Solution
 
 OpenDoc aims to organise the Government’s documents and make it accessible and useful. 
-* Responsive design: Documents adapt to all types of devices, allowing for comfortable viewing whichever device you use
+* Responsive design: Documents adapt to all types of devices, allowing for comfortable viewing on any device
 * Powerful search: Complex searches are executed extremely fast and users are able to access relevant information quickly and more accurately
-* Fast, secure and scalable: Public servants can modify, track changes and submit edit requests easily on the platform. 
+* Fast, secure and scalable: Public servants can modify, track changes and submit edit requests easily on the platform
 
 #### Impact
 
@@ -44,7 +41,7 @@ Ian Chen <a href="https://github.com/pregnantboy" style="display: inline-block; 
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a>
 
-Liwei Loh <a href="https://github.com/iewil" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+Leonard Loo <a href="https://github.com/leonardloo" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a>
 
