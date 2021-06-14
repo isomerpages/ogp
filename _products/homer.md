@@ -3,10 +3,7 @@ permalink: /products/homer/
 title: Homer
 image: /images/homer.png
 breadcrumb: Homer
-
 ---
-
-
 ![github](/images/homer.png)
 
 ### Health and location reporting tool for those on COVID-19 Quarantine Order / Stay-Home Notice
@@ -16,11 +13,11 @@ breadcrumb: Homer
 Homer was launched as a hackathon project during COVID-19 as a way to help reduce the spread of the virus by ensuring that potential carriers comply with their quarantine orders or stay home notices. 
   
 
-#### Approach
+#### Solutions
 
 There are two solutions: (1) a spot-check method using SMS and (2) a constant monitoring solution using a native app.
 
-The spot-check method works by sending SMS at random times of the day containing a unique link. Users simply click on the link to share their current location.
+The spot-check method works by sending SMSes at random times of the day containing a unique link. Users simply click on the link to share their current location.
 
 The constant monitoring solution involves the installation of an application on the users’ phones. The app automatically sends location reports every 5 minutes to the server. Users are also asked to submit health reports multiple times a day, together with a selfie for identification purposes.
 
