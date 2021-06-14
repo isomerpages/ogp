@@ -6,7 +6,7 @@ Hiring is the single most important thing we do. We believe in bringing in great
 
 Because hiring is so important, we run a hiring process focused on being fair, thorough, and transparent. We do so because we want candidates to show up at their best, and for us and our candidates to make the right call on whether we’re a good fit for one another.
 
-### Our hiring process principles
+### How do we run our hiring processes?
 
 Whilst our specific hiring process varies between roles, we hold a common philosophy for how we want our prospective employees to experience our hiring process:
 
@@ -22,7 +22,7 @@ Whilst our specific hiring process varies between roles, we hold a common philos
 
 ### What do we look for in candidates?
 
-We assess any potential OGP employee on 4 core attributes typically referred to as AICV - that is, Ability, Initiative, Communication, and Values. 
+Beyond assessing OGP officers against established career schemas, we assess any potential OGP employee on 4 core attributes -  Ability, Initiative, Communication, and Values. 
 
 #### Ability 
 *How competent is the individual in their technical field? *
@@ -43,5 +43,3 @@ We work in lean, cross-functional teams that require communication within and ac
 *How much does the candidate desire to work on bringing about change for public good?*
 
 We exist to deliver public good through technology. We need all members of our team to get behind our mission and work toward this common goal. We need people who care about working on something beyond themselves, and show this passion for public good through their thoughts and actions.
-
-
