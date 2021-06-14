@@ -65,6 +65,16 @@ Barnett Lee <a href="https://github.com/barnettx" style="display: inline-block; 
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a>
 
+#### Past Contributors
+Jason Chong <a href="https://github.com/JasonChong96" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a> Jean Tan <a href="https://github.com/jeantanzj" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a>Kyler Wong <a href="https://github.com/kylerwsm" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a>Pearly Ong <a href="https://github.com/pearlyong" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a>
 
 <a href="https://go.gov.sg/" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
