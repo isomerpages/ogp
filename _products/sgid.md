@@ -12,7 +12,7 @@ breadcrumb: sgID
 
 #### Background 
 
-The average person could share his/her NRIC with businesses and organisations at least once a month - for visitor registrations, lucky draw and loyalty programme sign-ups, in-app identity verification, and more. For a citizen to share his/her identity wholesale by providing the physical NRIC to multiple third parties exposes them to identity fraud and other security risks.
+The average person could share his NRIC with businesses and organisations at least once a month - for visitor registrations, luck draw sign-ups, in-app identity verification, and more. For a citizen to share his identity wholesale by providing the physical NRIC to multiple third parties, it exposes him to identity fraud and other security risks.
 
 #### Solution
 
@@ -48,7 +48,14 @@ Sarah Salim <a href="https://github.com/sarahsalim" style="display: inline-block
 
 Pearly Ong <a href="https://github.com/pearlyong" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a>
 
+#### Past Contributors
+
+Aaron Lee<a href="https://github.com/Buooy"  style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a> , Wayne Tee<a href="https://github.com/waynetee" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 
 <a href="https://id.gov.sg/" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
