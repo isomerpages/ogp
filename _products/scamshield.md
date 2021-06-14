@@ -2,7 +2,6 @@
 title: ScamShield
 permalink: /products/scamshield
 ---
-![github](/images/data.gov.sg.png)
 
 ### ScamShield
 
@@ -38,7 +37,7 @@ Christabel Png
 
 Daniel Khoo
 
-<a href="https://data.gov.sg/" target="_blank">
+<a href="https://www.scamshield.org.sg" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
         Visit website
     </button>
