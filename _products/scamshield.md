@@ -26,11 +26,11 @@ Lennard Lim <a href="https://github.com/lennardl" style="display: inline-block; 
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a>
 
-Aaron <a href="https://github.com/Buooy " style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+Aaron Lee <a href="https://github.com/Buooy " style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a>
 
-Laura <a href="https://github.com/laura-xy-lee " style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+Laura Lee <a href="https://github.com/laura-xy-lee " style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a>
 
