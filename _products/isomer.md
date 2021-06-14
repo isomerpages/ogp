@@ -12,10 +12,10 @@ breadcrumb: Isomer
 
 An internal study conducted by the Singapore government in 2017 found that over one-third of our government websites failed basic usability checks. Other problems include: 
 
-* Website downtime: Cases of government sites not accessible for hours in any given month. 
-* Poor UX: Many had outdated designs that does not work well on mobile devices and not accessible to persons with visual impairments. 
-* Slow: Certain sites took more than 10 seconds to load, when modern sites should never take more than 2 seconds. 
-* Expensive: A simple website can cost the Singapore government upwards of S$25,000 per year, racking a hefty bill across the government.
+* Website downtime: Cases of government sites not accessible for hours in any given month
+* Poor UX: Many had outdated designs that does not work well on mobile devices and not accessible to persons with visual impairments
+* Slow: Certain sites took more than 10 seconds to load, when modern sites should never take more than 2 seconds
+* Expensive: A simple website can cost the Singapore government upwards of S$25,000 per year, racking a hefty bill across the government
 
 #### Solution
 
