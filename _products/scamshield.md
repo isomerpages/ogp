@@ -2,7 +2,6 @@
 title: ScamShield
 permalink: /products/scamshield
 ---
-
 ### ScamShield
 
 #### Background 
@@ -33,9 +32,13 @@ Laura Lee <a href="https://github.com/laura-xy-lee " style="display: inline-bloc
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a>
 
-Christabel Png 
+Christabel Png <a href="https://github.com/belpng" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a> 
 
-Daniel Khoo
+Daniel Khoo <a href="https://github.com/danielkhoo" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a> 
 
 <a href="https://www.scamshield.org.sg" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
