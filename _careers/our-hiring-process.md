@@ -2,11 +2,11 @@
 title: Our Hiring Process
 permalink: /careers/hiring
 ---
-Hiring is the single most important thing we do. We believe in bringing in great people, and then giving them the autonomy to work on building tech for public good.
+Hiring is the single most important thing we do. We believe in bringing in great people, and then giving them the autonomy to work on building tech for public good. 
 
-Line on because it's important, we focus on running a hiring process that helps candidates be at their best, and to we can figure out fit both-ways.
+Because hiring is so important, we try to run a hiring process that is fair, thorough, and transparent so that candidates can show up at their best and we (and candidates) can make the best call about whether they are a right fit. 
 
-*How we run hiring*
+# Our hiring process principles
 
 Alternatively, hiring principles:
 - Efficient screening, thorough assessment
