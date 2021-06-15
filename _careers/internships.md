@@ -9,6 +9,15 @@ breadcrumb: Internship
 
 > nice video here -->
 
+### What does an internship with OGP mean?
+Learning first
+
+Plugging people into real world tasks
+
+Treating interns like full-timers, regardless of their background
+- We are open to Pre-U students to career switchers
+
+
 ### **What do our interns do?**
 
 At Open Government Products, we value our interns and go great lengths to provide meaningful learning opportunities. You will be working closely with our full-time staff to contribute to existing projects. You can also prototype your own projects if you have ideas on how Singapore can be served best! Our interns take ownership of their work - and they pride themselves in doing work that serves our nation well.
