@@ -2,7 +2,6 @@
 title: CheckFirst
 permalink: /products/permalink
 ---
-
 ![github](/images/isomer.png)
 
 ### A calculator and eligibility builder for the government
@@ -56,9 +55,9 @@ Eugene Long <a href="https://github.com/orbitalsqwib" style="display: inline-blo
 
 Petty Chen<a href="https://github.com/pettypychen"  style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a> , Leonard Loo<a href="https://github.com/leonardloo" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Leonard Loo<a href="https://github.com/leonardloo" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a> , Barnett Lee<a href="https://github.com/barnettx" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Barnett Lee<a href="https://github.com/barnettx" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a> 
 
