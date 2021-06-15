@@ -37,7 +37,7 @@ Alwyn Tan <a href="https://github.com/lonerifle" style="display: inline-block; w
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a> | Alexis Goh <a href="https://github.com/gweiying" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>| Kwa Jiehao <a href="https://github.com/kwajiehao" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Kwa Jiehao <a href="https://github.com/kwajiehao" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a> | Jackson Yap <a href="https://github.com/jakusann" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
