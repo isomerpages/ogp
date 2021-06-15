@@ -9,4 +9,4 @@ We have individual contributor and manager career schemas for every function in 
 We create our own projects from the ground up through our annual hackathon. With building for the user in mind, we prototype quickly and release frequently so as to create meaningful impact
 
 ### Open Culture 
-We believe in open communication within the team, openly sharing our work and updating approaches with the community through our everyday sharings, as well as having transparency in decision-making and open sourcing products for the embetterment of public service everywhere
+We believe in open communication within the team, openly sharing our work and updating approaches with the community through our everyday sharings, as well as being transparent in our decision-making and open sourcing products for the embetterment of public service everywhere
