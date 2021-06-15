@@ -25,6 +25,7 @@ At Open Government Products, we value our interns and go great lengths to provid
 Whether you aspire to be part of a [Corporate Team](/careers/corporate-team/) running tech organisations, or building tech for public good as a [Software Engineer](/careers/software-engineer/), [Product Designer](/careers/product-designer/), or [Product Manager](/careers/product-manager/), you will have the opportunity to contribute your skills, specialties, and ideas the same way our full-timers do.
 
 ### **What it is like working here**
+<!-- This should be moved to how we work, or overview page -->
 
 **Rapid Prototyping** - Instead of spending too much time debating ideas we prefer testing them. This identifies potential problems quickly, and more importantly, conveys what is possible to others easily.
 
