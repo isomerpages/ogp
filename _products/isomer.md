@@ -73,7 +73,7 @@ Ang Yi Xin<a href="https://github.com/artylope"  style="display: inline-block; w
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
         Visit website
     </button> 
-</a> <a href="www.github.com/isomerpages" target="_blank">
+</a> <a href="https://github.com/isomerpages" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
         Contribute to the project
     </button> 
