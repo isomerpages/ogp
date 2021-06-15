@@ -6,7 +6,7 @@ permalink: /about-us/howwework
 We have individual contributor and manager career schemas for every function in OGP. We use these schemas to make expertise-based hiring and promotion decisions, and pay our people what they're worth in market. We dedicate a day weekly to learning within and across domains so that our people grow in their areas of expertise as well as in working in cross-functional product teams
 
 ### Autonomy & Ownership 
-We create our own projects from the ground up through our annual hackathon. With building for the user in mind, we prototype quickly and release frequently so as to create meaningful impact
+We create our own projects from the ground up through our annual hackathon. From ideation to production, we build for the user in mind and prototype quickly and release frequently so as to create meaningful impact for the public
 
 ### Open Culture 
 We believe in open communication within the team, openly sharing our work and updating approaches with the community through our everyday sharings, as well as being transparent in our decision-making and open sourcing products for the embetterment of public service everywhere
