@@ -2,7 +2,6 @@
 title: Meet the Team
 permalink: /about-us/team
 ---
-
-{% include hackathon-products.html careers=site.data.hackathon-products %}
+{% include testimonial.html careers=site.data.testimonial %}
 
 ![OGP staff in Jan 2020](/images/theteam.JPG)
