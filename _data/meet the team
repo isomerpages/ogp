@@ -1,0 +1,29 @@
+- title: CHECKFIRST
+  image: /images/checkfirst-snapshot.png
+  sum: Self-service eligibility checker and calculator for the government
+  link: /hackathon/2021/checkfirst
+
+- title: QUEUE
+  sum: Allows citizens to queue and monitor their positions digitally while organisers manage the queue via drag-and-drop
+  image: /images/Queue_snapshot.png
+  link: /hackathon/2021/queue
+
+- title: CHOPCHOPDOC
+  image: /images/chopchopdocx_snapshot_updated.png
+  sum: Create documents from templates! Fill in forms and receive completed documents in your inbox right away
+  link: /hackathon/2021/chopchopdoc
+
+- title: LOOKBACK
+  image: /images/CitizenYearInReview_snapshot.png
+  sum: Interactive instagrammable sequence commemorating the past year spent in Singapore
+  link: /hackathon/2021/lookback
+
+- title: DASH.GOV.SG
+  image: /images/Dash_snapshot.png
+  sum: The common inbox for the government to address incoming queries
+  link: /hackathon/2021/dash
+
+- title: HANDSY
+  sum: Simple, fun in-browser game to get seniors moving and keeping healthy!
+  image: /images/Handsy_snapshot.png
+  link: /hackathon/2021/handsy
