@@ -3,10 +3,7 @@ permalink: /products/paysg/
 title: PaySG
 image: /images/paysg.png
 breadcrumb: PaySG
-
 ---
-
-
 ![github](/images/paysg.png)
 
 ### Digitise payments for government agencies  
@@ -35,21 +32,13 @@ Developed to enable digital payments for COVID-19 swab tests and Stay-Home Notic
 
 Ang Yi Xin <a href="https://github.com/artylope" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Kevan Tan <a href="https://github.com/kevantan" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Kevan Tan <a href="https://github.com/kevantan" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Pallani Kumaran <a href="https://github.com/pallanikumaran" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Pallani Kumaran <a href="https://github.com/pallanikumaran" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Huang Kaiwen <a href="https://github.com/huangkaiw3n" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Huang Kaiwen <a href="https://github.com/huangkaiw3n" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Talitha Chin <a href="https://github.com/talithachin" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Talitha Chin <a href="https://github.com/talithachin" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a>
 
