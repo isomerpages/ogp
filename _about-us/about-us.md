@@ -24,15 +24,6 @@ A place where using government services is as quick and simple as a click of a b
 
 ## Our Philosophy
 <section class="bp-section">
-    <div class="bp-container padding--bottom--lg">
-    <div class="row">
-            <div class="col is-8 is-offset-2 has-text-centered padding--top--xl">
-                <p class="padding--bottom eyebrow is-uppercase">
-                    About Us
-                </p>
-                <h1 class="padding--bottom has-text-secondary"><b>Our philosophy</b></h1>
-            </div>
-    </div>
 
         <div class="row margin--top padding--bottom">
             <div class="col is-one-third">
@@ -59,5 +50,4 @@ A place where using government services is as quick and simple as a click of a b
                 </div>
             </div>
         </div>
-    </div>
 </section>
