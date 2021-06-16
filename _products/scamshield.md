@@ -2,6 +2,7 @@
 title: ScamShield
 permalink: /products/scamshield
 ---
+![Alt text for image on Isomer site](/images/Scamshield.png)
 ### ScamShield
 
 #### Background 
@@ -22,21 +23,13 @@ Once installed on a citizen’s device, ScamShield actively works in the backgro
 
 Lennard Lim <a href="https://github.com/lennardl" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Aaron Lee <a href="https://github.com/Buooy " style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Aaron Lee <a href="https://github.com/Buooy " style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Laura Lee <a href="https://github.com/laura-xy-lee " style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Laura Lee <a href="https://github.com/laura-xy-lee " style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Christabel Png <a href="https://github.com/belpng" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Christabel Png <a href="https://github.com/belpng" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a> 
-
-Daniel Khoo <a href="https://github.com/danielkhoo" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Daniel Khoo <a href="https://github.com/danielkhoo" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a> 
 
