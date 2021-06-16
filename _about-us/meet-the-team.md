@@ -4,4 +4,3 @@ permalink: /about-us/team
 ---
 {% include testimonial.html careers=site.data.testimonial %}
 
-![OGP staff in Jan 2020](/images/theteam.JPG)
