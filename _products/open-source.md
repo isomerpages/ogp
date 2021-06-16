@@ -1,7 +1,8 @@
 ---
 title: Open Source
-permalink: /covid-19/opensource
+permalink: /products/opensource
 ---
+
 # Open source tools for digital government
 
 (insert blurb here)
