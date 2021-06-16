@@ -3,7 +3,7 @@ title: How We Work
 permalink: /about-us/howwework
 ---
 ### People & Hiring
-We have individual contributor and manager career schemas for every function in OGP. We use these schemas to make expertise-based hiring and promotion decisions, and pay our people what they're worth in market. We dedicate a day weekly to learning within and across domains so that our people grow in their areas of expertise as well as in working in cross-functional product teams
+We have individual contributor and manager career schemas for every function in OGP. We use these schemas to make expertise-based hiring and promotion decisions, and pay our people what they're better worth in the market. We dedicate a day weekly to learning within and across domains so that our people grow in their areas of expertise as well as in working in cross-functional product teams
 
 ### Autonomy & Ownership 
 We create our own projects from the ground up through our annual hackathon and are given the autonomy to make decisions for our products. We are also empowered to carry out experimental work while being able to bypass bureaucracy 
