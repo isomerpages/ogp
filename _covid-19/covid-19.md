@@ -8,6 +8,6 @@ Since January 2020, the team has had to develop and adapt a number of digital to
 
 Learn more about how we’ve helped Singapore respond to the COVID-19 pandemic and how we are open sourcing our products to help other countries with common challenges below.
 
+![Alt text for image on Isomer site](/images/covid-1.png)
 
-
-## Distribute Instan
+## Distribute Instantaneous COVID-19 Updates
