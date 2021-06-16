@@ -21,27 +21,3 @@ Whilst our specific hiring process varies between roles, we hold a common philos
 **You will be assessed as fairly as possible by multiple independent assessors.** All assessments are inherently subjective. We want to make sure that we control for subjectivity, implicit bias, and individual tendencies between interviewers as much as possible. To do so, we run highly structured interviews focused on real-world tasks and structured questioning. For non-internship roles, we have multiple interviewers present at interview rounds, and expect every interviewer to complete an evaluation before discussing their conclusions with one another. We use structured evaluation processes and clear assessment rubrics for every interview, and discuss all evaluations before making a decision on candidates. 
 
 **You will be assessed and offered terms based on your market worth and not your employment history.** Candidates should be hired and paid based on the job they are able to accomplish, and not on other extraneous factors such as their years of experience, last drawn pay or education pedigree. To do so, we assess candidates against well-defined career schemas for each job function. We make offers to candidates based on their assessed level in the career schema, and also move to promote employees as quickly as possible to their assessed level of performance. We do not ask for your last-drawn salary, and weight demonstrated expertise and proven ability more so than factors like your education qualifications.
-
-### What do we look for in candidates?
-
-Beyond assessing OGP officers against established career schemas, we assess any potential OGP employee on 4 core attributes -  Ability, Initiative, Communication, and Values. 
-
-#### **Ability** 
-*How competent is the individual in their technical field?*
-
-Our mission is to build tech for public good. This requires having people who not only care about what they do, but are good at it. We need people who are excellent in each of their fields to come together and contribute toward our mission.
-
-#### **Initiative** 
-*How proactive is the candidate at pushing for change and solving problems where there are no clear instructions?*
-
-Initiative is a non-negotiable to get things done by pushing for change, and solving problems where there aren’t readily available solutions. We need people who have a strong internal drive, and are comfortable working in an environment with more problems to be solved than directions to be given. 	
-
-#### **Communication** 
-*How well can the individual talk and reason about their work to others both within and outside their functional area?*
-
-We work in lean, cross-functional teams that require communication within and across officers' domain of expertise. In pushing for change and working quickly in high-performing teams, we run as well as the poorest communicator in the room. We need people who can communicate well not just to be understood, but to influence and push for change within and beyond OGP.
-
-#### **Values** 
-*How much does the candidate desire to work on bringing about change for public good?*
-
-We exist to deliver public good through technology. We need all members of our team to get behind our mission and work toward this common goal. We need people who care about working on something beyond themselves, and show this passion for public good through their thoughts and actions.
