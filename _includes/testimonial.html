@@ -3,14 +3,14 @@
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
 
-    .testimonials {
+    .careers {
         display: grid;
         justify-content: space-around;
         grid-gap: 20px;
         grid-template-columns: 35% 35% 35%;
     }
 
-    .testimonial {
+    .career {
         position: relative;
         display: flex;
         flex-direction: column;
@@ -21,18 +21,18 @@
         cursor: pointer;
     }
 
-    .testimonial:hover {
+    .career:hover {
         box-shadow: 0 0 11px rgba(33,33,33,.2);
     }
 
-    .testimonial-title {
+    .career-title {
         margin-top: 20px;
         font-family: "Montserrat", sans-serif;
         font-size: 26px;
         color: #276ef1 !important;
     }
 
-    .testimonial-sum {
+    .career-sum {
         font-family: "Lato", sans-serif;
         font-size: 17px;
         margin: 10px 0 !important;
@@ -52,22 +52,22 @@
 
 
     @media only screen and (max-width: 600px) {
-        .testimonials {
+        .careers {
             grid-template-columns: 100%;
         }
     }
 
 </style>
-<div class="testimonial">
+<div class="careers">
 
-    {% for testimonial in include.testimonial %}
-    <div class="testimonial">
-        {% if testimonial.link %}
-            <a href="{{ testimonial.link }}" class="link-tag"></a>
+    {% for career in include.careers %}
+    <div class="career">
+        {% if career.link %}
+            <a href="{{ career.link }}" class="link-tag"></a>
         {% endif %}
-        <img src="{{ testimonial.image }}" class="border-radius: 8px;" alt="{{ testimonial.title }}" title="{{ testimonial.title }}"/>
-        <span class="testimonial-title">{{ testimonial.title }}</span>
-        <span class="testimonial-sum">{{ testimonial.sum }}</span>
+        <img src="{{ career.image }}" class="border-radius: 8px;" alt="{{ career.title }}" title="{{ career.title }}"/>
+        <span class="career-title">{{ career.title }}</span>
+        <span class="career-sum">{{ career.sum }}</span>
     </div>
     {% endfor %}
 
