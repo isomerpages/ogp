@@ -4,9 +4,9 @@ permalink: /aboutus
 ---
 ![Alt text for image on Isomer site](/images/theteam.JPG)
 
-# A modern tech company working on public sector problems  
+# A modern tech team working on public sector problems  
 
-We are an experimental development team that builds technology for the public good. This includes everything from building better apps for citizens to automating the internal operations of public agencies. Our role is to accelerate the digital transformation of the Singapore Government by being a space where it can experiment with new tech practices. Our end goal is that through our work, Singapore becomes a model of how governments can use technology can improve the public good.
+We are an experimental development team that builds technology for the public good. This includes everything from building better apps for citizens to automating the internal operations of public agencies. Our role is to accelerate the digital transformation of the Singapore Government by being a space where it can experiment with new tech practices, including new technologies, management techniques, corporate systems, and even cultural norms. Our end goal is that through our work, Singapore becomes a model of how governments can use technology can improve the public good.
 
 
 ## Our Mission
