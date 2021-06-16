@@ -3,10 +3,7 @@ permalink: /products/parkingsg/
 title: Parking.sg
 image: /images/parkingsg.png
 breadcrumb: Parking.sg
-
 ---
-
-
 ![github](/images/parkingsg.png)
 
 ### Pay for parking using your mobile devices
@@ -34,13 +31,9 @@ Parking.sg is a mobile application developed to offer more convenience for drive
 
 Huang Kaiwen <a href="https://github.com/huangkaiw3n" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Pallani <a href="https://github.com/pallani" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Pallani <a href="https://github.com/pallani" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Talitha <a href="https://github.com/talithachin" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Talitha <a href="https://github.com/talithachin" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a>
 
