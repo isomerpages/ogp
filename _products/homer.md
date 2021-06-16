@@ -34,45 +34,25 @@ With both solutions, data is reported to a dashboard for enforcement officers’
 
 Alexander Lee <a href="https://github.com/alexanderleegs" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Alexis Goh <a href="https://github.com/gweiying" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Alexis Goh <a href="https://github.com/gweiying" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Chong Zixin <a href="https://github.com/chongzixin" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Chong Zixin <a href="https://github.com/chongzixin" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Christabel Neo <a href="https://github.com/christabelneo" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Christabel Neo <a href="https://github.com/christabelneo" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Huang Kaiwen <a href="https://github.com/huangkaiw3n" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Huang Kaiwen <a href="https://github.com/huangkaiw3n" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Kwa Jiehao <a href="https://github.com/kwajiehao" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Kwa Jiehao <a href="https://github.com/kwajiehao" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Laura Lee <a href="https://github.com/laura-xy-lee" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Laura Lee <a href="https://github.com/laura-xy-lee" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Loh Liwei <a href="https://github.com/iewil" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Loh Liwei <a href="https://github.com/iewil" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Pearly Ong <a href="https://github.com/pearlyong" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Pearly Ong <a href="https://github.com/pearlyong" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Preston Lim <a href="https://github.com/prestonlimlianjie" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Preston Lim <a href="https://github.com/prestonlimlianjie" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Sarah Salim <a href="https://github.com/sarahsalim" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Sarah Salim <a href="https://github.com/sarahsalim" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a>
 
