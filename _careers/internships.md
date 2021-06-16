@@ -3,58 +3,43 @@ permalink: /careers/internships/
 title: Internships
 breadcrumb: Internship
 ---
-> You want to learn. You also want to contribute and work for the public good.
+> You will have a direct hand working on things that matter. You will learn, contribute, and have the autonomy to work on tech for public good
 
-<!-- Here's a look at what our interns have to say about working here.
+### **What does it mean to be an OGP intern?**
 
-> nice video here -->
+**Getting hands-on learning.**  We believe that the best learning is done by having our interns be hands-on working on things which matter. You will be treated like our full-timers and work alongside the rest of the product / corporate team on real products and work. We do not believe in creating theoretical research or vanity projects for interns to do which will not see the light of day.
 
-### What does an internship with OGP mean?
-Learning first
+**Taking ownership of your work.** We believe that we hire the best and brightest, and will trust our people and interns with the autonomy to do their best work. Your will have your views treated with equal respect on the team. You will be able to push and prototype your ideas, and will be given the space to work on things you believe matter, even if we don’t assign these specific things to you. Our interns have presented their work and ideas to Ministers.
 
-Plugging people into real world tasks
+**Joining us to make an impact for public good.** Fundamentally, you will have a hand in contributing to tech for public good. You will work on things that matter, and will see how the work you’ve done directly impacts public officers and members of the public. You will also be given the opportunity to be considered for a conversion to a full-time offer, regardless whether you’re a pre-university or graduate student.
 
-Treating interns like full-timers, regardless of their background
-- We are open to Pre-U students to career switchers
+ ### **What do our interns do?**
 
+We have had interns work alongside us on nearly every single product and corporate function in OGP. You will be working closely with our full-timers to contribute to existing projects. 
 
-### **What do our interns do?**
+Whether you aspire to be part of a [Corporate Team](/careers/corporate-team/) running tech organisations, or building tech for public good as a [Software Engineer](/careers/software-engineer/), [Product Designer](/careers/product-designer/), or [Product Manager](/careers/product-manager/), you will have the opportunity to experience day-to-day OGP life and contribute your skills and ideas the same way our full-timers do.
 
-At Open Government Products, we value our interns and go great lengths to provide meaningful learning opportunities. You will be working closely with our full-time staff to contribute to existing projects. You can also prototype your own projects if you have ideas on how Singapore can be served best! Our interns take ownership of their work - and they pride themselves in doing work that serves our nation well.
-
-Whether you aspire to be part of a [Corporate Team](/careers/corporate-team/) running tech organisations, or building tech for public good as a [Software Engineer](/careers/software-engineer/), [Product Designer](/careers/product-designer/), or [Product Manager](/careers/product-manager/), you will have the opportunity to contribute your skills, specialties, and ideas the same way our full-timers do.
-
-### **What it is like working here**
-<!-- This should be moved to how we work, or overview page -->
-
-**Rapid Prototyping** - Instead of spending too much time debating ideas we prefer testing them. This identifies potential problems quickly, and more importantly, conveys what is possible to others easily.
-
-**Ownership** - In addition to technical responsibilities, this means having opinions on what is being done and having ideas on what should be done next. Building something that you believe in is the best way to build something good.
-
-**Continuous Learning** - Working on new ideas often means not fully understanding what you are working on. Taking time to learn new architectures, frameworks, technologies, and even languages is not just encouraged but essential.
+[Have a look](/careers/) at the work which our interns past and present have done ~~(link to intern blog)~~
 
 ### **What we look for in our interns**
 
-We believe in hiring good people and treating them well. This means we look at much more than just your ability to do the work. We particularly value internship applicants who:
+We look for the same traits in our interns that we do our full-timers - their demonstrated [Ability, Initiative, Communication, and Values](/careers/aicv/). 
 
-* Show great promise in their chosen field - Personal projects and prior work count for much more than specific degrees or "papers".
+We are looking for signs of passion, ability, and proactivity beyond your assigned coursework. This means we are looking to see your portfolios, personal projects, and prior work more than just your academic grades and qualifications. 
 
-* Communicate well - We work closely as a team so you need to be able to not just solve problems, but have other people understand your solutions.
+Read more about how we think about hiring [here](/careers/hiring/).
 
-* Take initiative to make things happen - Our job is to push for change in government, so we need to challenge the status quo and not wait for instruction.
+### **When do we hire interns?**
 
-* Want to work for the public good - We are public servants, we serve the public. This sometimes means ignoring political pressures and misguided policies. We need people who will push back if something is not in the public interest.
+We are open to internships all year round!
 
-* Have strong, well thought-out values - We love it when you have a vision for a "perfect" Singapore. The ideas and insights you bring will only help our work to become more relevant, more effective, and more appropriate.
+We want to maintain the highest learning quality by only bringing in interns when we have willing and able intern managers to mentor them. This means that at times, we fill all our internship slots and have to temporarily close our intern openings.
 
-### **Internship positions currently open**
-
-* Software Engineer interns for off-cycle internships (anytime in the year, minimum duration of 10 weeks)
-
-* Product Designer interns (anytime in the year, minimum 3 month duration)
+You can view our openings through the link below. If you do not see an opening for your desired internship position, email us at recruiting@open.gov.sg.
 
 <a href="http://go.gov.sg/ogp-jobs" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
         Apply Here
     </button>
 </a>
+
