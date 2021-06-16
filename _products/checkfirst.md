@@ -2,7 +2,6 @@
 title: CheckFirst
 permalink: /products/permalink
 ---
-![github](/images/isomer.png)
 
 ### A calculator and eligibility builder for the government
 
@@ -28,25 +27,15 @@ CheckFirst provides an easy way for public officers to build a simple calculator
 
 Alwyn Tan <a href="https://github.com/lonerifle" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Lisa Tjide <a href="https://github.com/sasasa54" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Lisa Tjide <a href="https://github.com/sasasa54" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Natalie Tan <a href="https://github.com/NatMaeTan" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Natalie Tan <a href="https://github.com/NatMaeTan" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Preston Lim <a href="https://github.com/prestonlimlianjie" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Preston Lim <a href="https://github.com/prestonlimlianjie" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Kee Wei Lam <a href="https://github.com/lamkeewei" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Kee Wei Lam <a href="https://github.com/lamkeewei" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Eugene Long <a href="https://github.com/orbitalsqwib" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Eugene Long <a href="https://github.com/orbitalsqwib" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a>
 
