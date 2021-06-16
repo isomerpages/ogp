@@ -23,3 +23,41 @@ A place where using government services is as quick and simple as a click of a b
 
 
 ## Our Philosophy
+<section class="bp-section">
+    <div class="bp-container padding--bottom--lg">
+    <div class="row">
+            <div class="col is-8 is-offset-2 has-text-centered padding--top--xl">
+                <p class="padding--bottom eyebrow is-uppercase">
+                    About Us
+                </p>
+                <h1 class="padding--bottom has-text-secondary"><b>Our philosophy</b></h1>
+            </div>
+    </div>
+
+        <div class="row margin--top padding--bottom">
+            <div class="col is-one-third">
+                <div class="text-card is-white">
+                    <img class="text-card-icon padding--bottom--sm" src="{{site.baseurl}}/images/solve.svg" />
+                    <h4 class="padding--top has-text-secondary padding--bottom"><b>Solve Real Problems</b></h4>
+                    <p>Work on meaningful projects from communications to healthcare. Use your skills to fix actual problems faced in the community, not just to optimise profit.</p>
+                </div>
+
+            </div>
+            <div class="col is-one-third">
+                <div class="text-card is-white">
+                    <img class="text-card-icon padding--bottom--sm" src="{{site.baseurl}}/images/build.svg" />
+                    <h4 class="padding--top has-text-secondary padding--bottom"><b>Build for the User</b></h4>
+                    <p>Design and build products based on what real people actually need, whether they are members of the public or civil servants.</p>
+                </div>
+
+            </div>
+            <div class="col is-one-third">
+                <div class="text-card is-white">
+                    <img class="text-card-icon padding--bottom--sm" src="{{site.baseurl}}/images/push.svg" />
+                    <h4 class="padding--top has-text-secondary padding--bottom"><b>Push For Change</b></h4>
+                    <p>Actively prototype and evangelize ideas to make real things happen. Work around or cut through bureaucracy.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
