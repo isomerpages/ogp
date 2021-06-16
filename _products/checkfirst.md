@@ -2,7 +2,6 @@
 title: CheckFirst
 permalink: /products/permalink
 ---
-
 ### A calculator and eligibility builder for the government
 
 #### Background 
