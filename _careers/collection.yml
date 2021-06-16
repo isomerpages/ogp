@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - overview.md
+      - our-hiring-process.md
+      - what-we-look-for.md
+      - internships.md
       - corporate-team.md
       - product-designer.md
       - product-manager.md
       - software-engineer.md
-      - internships.md
-      - our-hiring-process.md
-      - what-we-look-for.md
