@@ -28,25 +28,15 @@ sg-ID helps citizens stay in control of their personal information. The solution
 
 Pallani <a href="https://github.com/pallani" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Ian Chen <a href="https://github.com/pregnantboy" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Ian Chen <a href="https://github.com/pregnantboy" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Huang Kaiwen <a href="https://github.com/huangkaiw3n" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Huang Kaiwen <a href="https://github.com/huangkaiw3n" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Liwei Loh <a href="https://github.com/iewil" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Liwei Loh <a href="https://github.com/iewil" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Sarah Salim <a href="https://github.com/sarahsalim" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Sarah Salim <a href="https://github.com/sarahsalim" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-Pearly Ong <a href="https://github.com/pearlyong" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Pearly Ong <a href="https://github.com/pearlyong" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a>
 
@@ -54,7 +44,7 @@ Pearly Ong <a href="https://github.com/pearlyong" style="display: inline-block; 
 
 Aaron Lee<a href="https://github.com/Buooy"  style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a> , Wayne Tee<a href="https://github.com/waynetee" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Wayne Tee<a href="https://github.com/waynetee" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 
 <a href="https://id.gov.sg/" target="_blank">
