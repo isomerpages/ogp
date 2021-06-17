@@ -3,7 +3,7 @@ title: ScamShield
 permalink: /products/scamshield
 ---
 ![Alt text for image on Isomer site](/images/Scamshield.png)
-### ScamShield
+### Block unsolicited messages and calls
 
 #### Background 
 
