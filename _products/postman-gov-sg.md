@@ -60,10 +60,5 @@ Azima M <a href="https://github.com/miazima" style="display: inline-block; width
     </button>
 </a> <a href="https://github.com/opengovsg/postmangovsg/" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
-        Visit Repo
+        Visit gITHUB
     </button>
-</a> <a href="https://guide.postman.gov.sg" target="_blank">
-    <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
-        Visit Guide
-    </button>
-</a>
