@@ -13,5 +13,7 @@ links:
   - title: Hackathon
     url: /hackathon/about/
     collection: hackathon
+  - title: Resources
+    collection: about-us
   - title: Contact Us
     url: /contact-us/
