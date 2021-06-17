@@ -71,10 +71,9 @@ Ang Yi Xin<a href="https://github.com/artylope"  style="display: inline-block; w
 
 <a href="https://isomer.gov.sg" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
-        Visit website
+       Website
     </button> 
-</a> <a href="https://github.com/isomerpages" target="_blank">
+</a> <a href="https://github.com/isomerpages" target="blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
-        Contribute to project
-    </button> 
+Github   </button> 
 </a>
