@@ -3,6 +3,7 @@ permalink: /products/digimc/
 title: DigiMC
 breadcrumb: DigiMC
 ---
+![Alt text for image on Isomer site](/images/Digimc.png)
 ### Digital medical certificates with assured authenticity
 
 #### Background 
