@@ -52,7 +52,7 @@ Antariksh Mahajan <a href="https://github.com/mantariksh" style="display: inline
         Visit website
     </button> <a href="https://github.com/opengovsg/formsg" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
-        Visit repo
+        Visit github
     </button>
 </a>
 </a>
