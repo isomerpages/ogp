@@ -2,6 +2,7 @@
 title: CheckFirst
 permalink: /products/permalink
 ---
+![Alt text for image on Isomer site](/images/CheckFirst.png)
 ### A calculator and eligibility builder for the government
 
 #### Background 
