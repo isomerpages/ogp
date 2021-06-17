@@ -61,4 +61,4 @@ Azima M <a href="https://github.com/miazima" style="display: inline-block; width
 </a> <a href="https://github.com/opengovsg/postmangovsg/" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
         Visit Github
-    </button>
+    </button></a>
