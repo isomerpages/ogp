@@ -14,7 +14,7 @@ Learn more about how we’ve helped Singapore respond to the COVID-19 pandemic a
 
 *Insert  Postman, Isomer Logo here*
 
-When COVID-19 first hit Singapore, there was a significant number of false information spreading around, which brought about anxiety and uncertainty among the citizens. Thus, there was a need for government agencies to provide accurate and up-to-date information through the channels that citizens were already using. 
+When COVID-19 first hit Singapore, there was a significant number of false information spreading around, which brought about anxiety and uncertainty among the citizens. As a result, government agencies had to look for a way to disseminate accurate and up-to-date information through the channels that citizens were already using. 
 
 In 3 days, we built a modular omnichannel communication tool, [Postman](https://www.open.gov.sg/products/postman/) which enabled agencies to quickly scale their communication needs and allowed them to distribute critical information across multiple channels.
 
