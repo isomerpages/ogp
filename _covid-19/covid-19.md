@@ -12,18 +12,20 @@ Learn more about how we’ve helped Singapore respond to the COVID-19 pandemic a
 
 ## Distribute Instantaneous COVID-19 Updates
 
-*Insert  Postman Logo here*
+*Insert  Postman, Isomer Logo here*
 
 When COVID-19 first hit Singapore, there was a significant number of false information spreading around which brought about anxiety and uncertainty among the citizens. Thus, there was a need for government agencies to provide accurate and up-to-date information through the channels that citizens were already using. 
 
-In 3 days, we built a modular omnichannel communication tool, Postman which enabled agencies to quickly scale their communication needs and allowed them to distribute critical information across multiple channels.
+In 3 days, we built a modular omnichannel communication tool, [Postman](https://www.open.gov.sg/products/postman/) which enabled agencies to quickly scale their communication needs and allowed them to distribute critical information across multiple channels.
 
+In addition, [Isomer](https://www.open.gov.sg/products/isomer/) was used to build website pages for COVID-19 campaigns such as [sgunited.gov.sg](sgunited.gov.sg) and [safetravel.ica.gov.sg](safetravel.ica.gov.sg). The easy-to-deploy feature of Isomer allowed government agencies to build up these websites within a short period of time given the urgency of the campaigns.
 
 #### Our Impact
 * Disseminated COVID-19 related announcements daily to over 1 million subscribers on Gov.sg Whatsapp (Read more [here](https://govinsider.asia/innovation/singapore-coronavirus-whatsapp-covid19-open-government-products-govtech/))
 * Helped teachers communicate with students at home for home-based learning
 * Notified citizens of changes in government agency appointments
 * Enabled Ministry of Health's Healthcare Corps to better manage COVID-19 volunteers
+* Creation of over x COVID-19 related Campaign Pages
 
 ## Distribute Masks Across the Nation
 
@@ -69,4 +71,13 @@ With both solutions, data is reported to a dashboard for enforcement officers’
 
 ## Facilitate Appointment Booking for Vaccination
 
-When Vaccines were finally available in Singapore in Dec 2020, th
+*Insert Vaccination, Postman, Forms, Isomer, Vault logo*
+
+When Vaccines were finally available in Singapore in Dec 2020, there was a need for a fast and efficient way to ensure citizens can get their jabs as soon as possible. Since then, OGP has worked closely with the Ministry of Health to launch the National COVID-19 Vaccine Appointment System to ensure smooth running of the Vaccination deployment.
+
+With the system in place, citizens will receive a unique vaccination registration link through [Postman](https://www.open.gov.sg/products/postman/) when it is their turn to receive the vaccination. With the link, citizens can easily input their personal information and register for a vaccination slot at the nearest Vaccination Centre. Information regarding vaccination can also be found on the VaccinationSG website, built with [Isomer](https://www.open.gov.sg/products/isomer/).
+
+On the end of Health Officers, the Appointment system allows...
+
+#### Our Impact
+* Facilitated administration of over 4.7 million COVID-19 Vaccine Doses
