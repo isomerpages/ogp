@@ -2,7 +2,6 @@
 title: COVID-19
 permalink: /covid19
 ---
-
 ![Alt text for image on Isomer site](/images/covid-banner.png)
 
 Since January 2020, the team has had to develop and adapt a number of digital tools to help Singapore fight the spread of COVID-19 and adjust to the constantly evolving situation. 
@@ -15,14 +14,14 @@ Learn more about how we’ve helped Singapore respond to the COVID-19 pandemic a
 
 *Insert  Postman, Isomer Logo here*
 
-When COVID-19 first hit Singapore, there was a significant number of false information spreading around which brought about anxiety and uncertainty among the citizens. Thus, there was a need for government agencies to provide accurate and up-to-date information through the channels that citizens were already using. 
+When COVID-19 first hit Singapore, there was a significant number of false information spreading around, which brought about anxiety and uncertainty among the citizens. Thus, there was a need for government agencies to provide accurate and up-to-date information through the channels that citizens were already using. 
 
 In 3 days, we built a modular omnichannel communication tool, [Postman](https://www.open.gov.sg/products/postman/) which enabled agencies to quickly scale their communication needs and allowed them to distribute critical information across multiple channels.
 
 In addition, [Isomer](https://www.open.gov.sg/products/isomer/) was used to build website pages for COVID-19 campaigns such as [sgunited.gov.sg](sgunited.gov.sg) and [safetravel.ica.gov.sg](safetravel.ica.gov.sg). The easy-to-deploy feature of Isomer allowed government agencies to build up these websites within a short period of time given the urgency of the campaigns.
 
 #### Our Impact
-* Disseminated COVID-19 related announcements daily to over 1 million subscribers on Gov.sg Whatsapp (Read more [here](https://govinsider.asia/innovation/singapore-coronavirus-whatsapp-covid19-open-government-products-govtech/))
+* Disseminated COVID-19 related announcements daily to over 1 million subscribers on Gov.sg [Whatsapp](https://go.gov.sg/whatsapp) and 300,000 subscribers on Gov.sg [Telegram](https://t.me/Govsg)
 * Helped teachers communicate with students at home for home-based learning
 * Notified citizens of changes in government agency appointments
 * Enabled Ministry of Health's Healthcare Corps to better manage COVID-19 volunteers
