@@ -29,10 +29,44 @@ In 3 days, we built a modular omnichannel communication tool, Postman which enab
 
 *Insert Redeem logo here*
 
-With the shortage and uneven distribution of masks across the nation during the pandemic, there was a pressing need to develop a fast and cost-efficient way of distributing masks to citizens.
+With the shortage and uneven distribution of masks across the nation at the start of the pandemic, there was a pressing need to develop a fast and cost-efficient way of distributing masks to citizens.
 
 Working with government agencies, we integrated RedeemSG's system in over 1000 mask vending machines to ensure that citizens can easily redeem their masks in their neighbourhood. 
 
 #### Our Impact
-* Facilitated over 14 million mask redemptions across 4 Mask Distribution Campaigns
+* Facilitated over 14 million mask redemptions islandwide across 4 Mask Distribution Campaigns
 
+## Facilitate Antigen Rapid Tests & COVID-19 Management Backbone
+
+*Insert COVID-ops, PaySG and Postman logo*
+
+(Description)
+
+#### Our Impact
+* Facilitated over x Antigen Rapid Tests islandwide
+
+## Ensure Compliance of Quarantine Orders
+
+*Insert Homer and Postman logo*
+
+Homer was launched as a hackathon project during COVID-19 as a way to help reduce the spread of the virus by ensuring that potential carriers comply with their quarantine orders or stay home notices. The monitoring can be done in 2 ways: 
+
+**(1) The Spot-check Method**
+
+Sending SMSes at random times of the day containing a unique link. Users simply click on the link to share their current location.
+
+**(2) The Constant Monitoring Solution**
+
+Installation of an application on the users’ phones. The app automatically sends location reports every 5 minutes to the server. Users are also asked to submit health reports multiple times a day, together with a selfie for identification purposes.
+
+With both solutions, data is reported to a dashboard for enforcement officers’ review. The system is currently used by the Ministry of Health (MOH), Ministry of Education (MOE), Immigration and Checkpoint Authority (ICA) and Ministry of Manpower (MOM).
+
+
+#### Our Impact
+* Ensured compliance of over x Stay Home Notice (SHN) and Quarantine Orders
+
+*Insert Visit Website button*
+
+## Facilitate Appointment Booking for Vaccination
+
+When Vaccines were finally available in Singapore in Dec 2020, th
