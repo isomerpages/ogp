@@ -90,6 +90,10 @@
   position: Product Designer
   image: /images/headshots/Sarah S.png
   
+- name: Jackson
+  position: Software Engineer
+  image: /images/headshots/Jackson.png
+  
 - name: Talitha
   position: Product Manager
   image: /images/headshots/Talitha.png
