@@ -1,0 +1,61 @@
+<!-- Template adopted from https://github.com/isomerpages/astar-nrp/blob/staging/_includes/careers.html -->
+
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+    
+        .people {
+            display: grid;
+            justify-content: space-around;
+            /* grid-gap: 0px; */
+            grid-template-columns: 23% 23% 23% 23% 23%;
+        }
+    
+        .person {
+            margin-bottom: 40px;
+            position: relative;
+            display: flex;
+            flex-direction: column;
+            /* border-radius: 8px; */
+            padding: 0px;
+            /* border: 1.5px solid #474849; */
+            /* box-shadow: 0 0 4px rgba(33,33,33,.2); */
+            /* cursor: pointer; */
+        }
+    
+        .person-name {
+            position: relative;
+            margin-top: 20px;
+            font-family: "Montserrat", sans-serif;
+            /* font-size: 26px; */
+            text-align: center;
+            color: #276ef1 !important;
+        }
+    
+        .person-position {
+            font-family: "Lato", sans-serif;
+            font-size: 17px;
+            /* margin: 2px 0 !important; */
+            flex-grow: 2;
+            line-height: 20px !important;
+            text-align: center;
+            /* color: #276ef1 !important; */
+        }
+    
+        @media only screen and (max-width: 600px) {
+            .people {
+                grid-template-columns: 100%;
+            }
+        }
+    
+</style>
+<div class="people">
+    {% for person in include.people %}
+    <div class="person">
+        <img src="{{ person.image }}" class="border-radius: 8px;" alt="{{ person.name }}" title="{{ person.name }}"/>
+        <span class="person-name">{{ person.name }}</span>
+        <span class="person-position">{{ person.position }}</span>
+    </div>
+    {% endfor %}
+</div>
+
+    
