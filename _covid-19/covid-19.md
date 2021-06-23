@@ -39,7 +39,7 @@ With the shortage and uneven distribution of masks across the nation at the star
 Working with government agencies, we integrated RedeemSG's system in over 1000 mask vending machines to ensure that citizens can easily redeem their masks in their neighbourhood. 
 
 #### Our Impact
-* Facilitated over 18 million mask redemptions islandwide across 5 Mask Distribution Campaigns
+* Facilitated over 20 million mask redemptions islandwide across 5 Mask Distribution Campaigns
 
 ## Facilitate Antigen Rapid Tests & COVID-19 Management Backbone
 
