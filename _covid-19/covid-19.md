@@ -14,16 +14,16 @@ Learn more about how we’ve helped Singapore respond to the COVID-19 pandemic a
 
 *Insert  Postman, Isomer Logo here*
 
-When COVID-19 first hit Singapore, there was a significant amount of false information spreading around, which brought about anxiety and uncertainty among the citizens. As a result, government agencies had to look for a way to disseminate accurate and up-to-date information through the channels that citizens were already using. 
+When COVID-19 first hit Singapore, there was a significant amount of false information spreading around, which brought about anxiety and uncertainty among citizens. As a result, government agencies had to look for a way to disseminate accurate and up-to-date information through the channels that citizens were already using. 
 
-In 3 days, we built a modular omni channel communication tool, [Postman](https://www.open.gov.sg/products/postman/) which enabled agencies to quickly scale their communication needs and allowed them to distribute critical information across multiple channels such as emails, SMSes and even Whatsapp and Telegram.
+In 3 days, we built a mass communication tool, [Postman](https://www.open.gov.sg/products/postman/), which enabled the government to send nationwide COVID-19 updates through the Gov.sg WhatsApp channel. Now a modular omni-channel communication tool, Postman has enabled agencies to quickly scale their communication needs and allowed them to distribute critical information across multiple channels such as email, SMS and Telegram.
 
-In addition, [Isomer](https://www.open.gov.sg/products/isomer/) was used to build website pages for COVID-19 campaigns such as [sgunited.gov.sg](sgunited.gov.sg) and [safetravel.ica.gov.sg](safetravel.ica.gov.sg). The easy-to-deploy feature of Isomer allowed government agencies to build up these websites within 1.5 days, given the urgency of the campaigns.
+In addition, [Isomer](https://www.open.gov.sg/products/isomer/) was used to build website pages for COVID-19 campaigns such as [sgunited.gov.sg](sgunited.gov.sg) and [safetravel.ica.gov.sg](safetravel.ica.gov.sg). Instead of having to wait months as is typical for government procurement, Isomer allowed government agencies to build these websites in as little as  1.5 days, ensuring that citizens received the latest information about the constantly evolving COVID-19 situation.
 
-Lastly, Go.gov.sg was actively used by government agencies to shorten important COVID-19 related links to allow ease of access while preventing phishing through a legitimate .gov.sg domain.
+Lastly, Go.gov.sg has been used by government agencies to shorten important COVID-19 related links, from COVID-19 press releases, application forms, and more. As the offiicial government link shortener, Go.gov.sg has allowed citizens to easily access important information while also helping to prevent phishing through the use of a legitimate .gov.sg domain.
 
 #### Our Impact
-* Disseminated COVID-19 related announcements daily to over 1.2 million subscribers on Gov.sg [Whatsapp](https://go.gov.sg/whatsapp) and 300,000 subscribers on Gov.sg [Telegram](https://t.me/Govsg)
+* Disseminated over 1 billion COVID-19 related announcements daily to over 1 million subscribers on Gov.sg [Whatsapp](https://go.gov.sg/whatsapp) and 300,000 subscribers on Gov.sg [Telegram](https://t.me/Govsg)
 * Helped teachers communicate with students at home for home-based learning
 * Notified citizens of changes in government agency appointments
 * Enabled Ministry of Health's Healthcare Corps to better manage COVID-19 volunteers
@@ -39,7 +39,7 @@ With the shortage and uneven distribution of masks across the nation at the star
 Working with government agencies, we integrated RedeemSG's system in over 1000 mask vending machines to ensure that citizens can easily redeem their masks in their neighbourhood. 
 
 #### Our Impact
-* Facilitated over 14 million mask redemptions islandwide across 4 Mask Distribution Campaigns
+* Facilitated over 18 million mask redemptions islandwide across 5 Mask Distribution Campaigns
 
 ## Facilitate Antigen Rapid Tests & COVID-19 Management Backbone
 
@@ -74,7 +74,7 @@ With both solutions, data is reported to a dashboard for enforcement officers’
 
 ## Facilitate Appointment Booking for Vaccination
 
-*Insert Vaccination, Postman, Forms, Isomer, Vault logo*
+*Insert Vaccination, Postman, Forms, Isomer logo*
 
 When Vaccines were finally available in Singapore in Dec 2020, there was a need for a fast and efficient way to ensure citizens can get their jabs as soon as possible. Since then, OGP has worked closely with the Ministry of Health to launch the National COVID-19 Vaccine Appointment System to ensure smooth running of the Vaccination deployment.
 
