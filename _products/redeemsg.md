@@ -31,7 +31,7 @@ Previously, tracking of redemptions was a time consuming process that included l
 
 Ang Yi Xin <a href="https://github.com/artylope" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a> | Kevan Tan <a href="https://github.com/kevantan" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Kevan Tan <a href="https://github.com/tankevan" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a> | Pallani Kumaran <a href="https://github.com/pallanikumaran" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
