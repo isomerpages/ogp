@@ -102,6 +102,10 @@
   position: Product Operations
   image: /images/headshots/Jackson.png
   
+- name: Christabel P.
+  position: Product Designer
+  image: /images/headshots/Christabel P.png
+  
 - name: Talitha
   position: Product Manager
   image: /images/headshots/Talitha.png
@@ -117,3 +121,7 @@
 - name: Sarah E.
   position: Marketing & Operations
   image: /images/headshots/Sarah E.png
+  
+- name: Sue
+  position: Product Support Specialist
+  image: /images/headshots/Sue.png
