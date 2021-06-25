@@ -102,17 +102,33 @@
   position: Product Operations
   image: /images/headshots/Jackson.png
   
+- name: Alex
+  position: Software Engineer
+  image: /images/headshots/Alex.png
+  
 - name: Christabel P.
   position: Product Designer
   image: /images/headshots/Christabel P.png
+  
+- name: Kaiwen
+  position: Software Engineer
+  image: /images/headshots/Kaiwen.png
   
 - name: Talitha
   position: Product Manager
   image: /images/headshots/Talitha.png
   
+- name: Kar Rui
+  position: Software Engineer
+  image: /images/headshots/Kar Rui.png
+  
 - name: Russell
   position: People Ops Manager
   image: /images/headshots/Russell.png
+  
+- name: Daniel
+  position: Software Engineer
+  image: /images/headshots/Daniel.png
   
 - name: Zixin
   position: Product Manager
