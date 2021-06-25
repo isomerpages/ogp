@@ -86,6 +86,14 @@
   position: Product Manager
   image: /images/headshots/Lisa.png
   
+- name: Kevan
+  position: Software Engineer
+  image: /images/headshots/Kevan.png
+  
+- name: Kai Yi
+  position: Software Engineer
+  image: /images/headshots/Kai Yi.png
+  
 - name: Sarah S.
   position: Product Designer
   image: /images/headshots/Sarah S.png
@@ -106,4 +114,6 @@
   position: Product Manager
   image: /images/headshots/Zixin.png
 
-  
+- name: Sarah E.
+  position: Marketing & Operations
+  image: /images/headshots/Sarah E.png
