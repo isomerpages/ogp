@@ -5,7 +5,7 @@
 
 - title: DIGIMC
   sum: Digital medical certificates with assured authenticity
-  image: /images/solve.svg
+  image: /images/Digimc.png
   link: /products/digimc
 
 - title: FORM.GOV.SG
@@ -54,6 +54,6 @@
   link: /products/redeemsg
   
 - title: SGID
-  image: /images/solve.svg
+  image: /images/sgID.png
   sum: Privacy-based authentication system
   link: /products/sgid
