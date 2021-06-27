@@ -1,6 +1,6 @@
 ---
 permalink: /products/formsg/
-title: Form
+title: FormSG
 image: /images/formsg.png
 breadcrumb: Form.gov.sg
 ---
