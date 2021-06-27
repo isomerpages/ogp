@@ -14,10 +14,6 @@ links:
     url: /hackathon/about/
     collection: hackathon
   - title: Resources
-    collection: about-us
+    collection: resources
   - title: Contact Us
     url: /contact-us/
-  - title: Resources
-    collection: resources
-  - title: Media
-    resource_room: true
