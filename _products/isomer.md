@@ -70,7 +70,7 @@ Ang Yi Xin<a href="https://github.com/artylope"  style="display: inline-block; w
 </a>
 
 
-<a href="https://isomer.gov.sg" target="_blank">
+<a href="https://isomer.gov.sg/" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
         Visit Website
 	</button></a>
