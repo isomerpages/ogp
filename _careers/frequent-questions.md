@@ -13,6 +13,7 @@ breadcrumb: Software Engineer
 **Q: What's the difference between applying to OGP and to Govtech?**
 - OGP is an experimental unit within GovTech, operating semi-autonomously. 
 - As an experimental unit, many of our practices, from tech to hiring to organisational design, run separately, with the view to eventually propagate the best of these pratices to the rest of the government.
+- The team is run by our Director, ultimately reporting to a Supervisory Panel headed by the Permanent Secretary of Smart Nation and Digital Government.
 
 **Q: How many rounds in an interview process?**
 - See hiring process page
