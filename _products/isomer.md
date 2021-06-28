@@ -69,11 +69,12 @@ Ang Yi Xin<a href="https://github.com/artylope"  style="display: inline-block; w
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a>
 
+
 <a href="https://isomer.gov.sg" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
-       Website
-    </button> 
-</a> <a href="https://github.com/isomerpages" target="blank">
+        Visit Website
+	</button></a>
+<a href="https://github.com/isomerpages" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
-Github   </button> 
-</a>
+        Visit Github
+    </button></a>
