@@ -17,9 +17,7 @@ breadcrumb: Internship
 
 We have had interns work alongside us on nearly every single product and corporate function in OGP. You will be working closely with our full-timers to contribute to existing projects. 
 
-Whether you aspire to be part of a [Corporate Team](/careers/corporate-team/) running tech organisations, or building tech for public good as a [Software Engineer](/careers/software-engineer/), [Product Designer](/careers/product-designer/), or [Product Manager](/careers/product-manager/), you will have the opportunity to experience day-to-day OGP life and contribute your skills and ideas the same way our full-timers do.
-
-[Have a look](/careers/) at the work which our interns past and present have done ~~(link to intern blog)~~
+Whether you aspire to be part of a Corporate Team running tech organisations, or building tech for public good as a [Software Engineer](/careers/software-engineer/), [Product Designer](/careers/product-designer/), or [Product Manager](/careers/product-manager/), you will have the opportunity to experience day-to-day OGP life and contribute your skills and ideas the same way our full-timers do.
 
 ### **What we look for in our interns**
 
@@ -42,4 +40,3 @@ You can view our openings through the link below. If you do not see an opening f
         Apply Here
     </button>
 </a>
-
