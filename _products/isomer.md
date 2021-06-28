@@ -13,7 +13,7 @@ breadcrumb: Isomer
 An internal study conducted by the Singapore government in 2017 found that over one-third of our government websites failed basic usability checks. Other problems include: 
 
 * Website downtime: Cases of government sites not accessible for hours in any given month
-* Poor UX: Many had outdated designs that does not work well on mobile devices and not accessible to persons with visual impairments
+* Poor UX: Many had outdated designs that do not work well on mobile devices and  are inaccessible to persons with visual impairments
 * Slow: Certain sites took more than 10 seconds to load, when modern sites should never take more than 2 seconds
 * Expensive: A simple website can cost the Singapore government upwards of S$25,000 per year, racking a hefty bill across the government
 
@@ -21,9 +21,9 @@ An internal study conducted by the Singapore government in 2017 found that over 
 
 Isomer provides government agencies with an easy-to-deploy static website building and hosting service to create usable, secure and faster informational websites quickly. Isomer provides:
 
-* Pre-tested user interface to be usable and accessible to people with disabilities
-* Static site architecture allows for fast loading and eliminates many vulnerabilities
-* Automated monitoring improves reliability and security
+* Pre-tested user interface that is usable and accessible to people with disabilities
+* Static site architecture that allows for fast loading and eliminates many vulnerabilities
+* Automated monitoring that improves reliability and security
 
 #### Impact
 
