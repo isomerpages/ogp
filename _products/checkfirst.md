@@ -1,7 +1,8 @@
 ---
 title: CheckFirst
-permalink: /products/permalink
+permalink: /products/checkfirst
 ---
+
 ![Alt text for image on Isomer site](/images/CheckFirst.png)
 ### A calculator and eligibility builder for the government
 
