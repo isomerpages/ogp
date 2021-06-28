@@ -63,10 +63,9 @@ Jason Chong<a href="https://github.com/JasonChong96"  style="display: inline-blo
 
 <a href="https://go.gov.sg/" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
-        Visit website
-    </button>
-</a> <a href="https://go.gov.sg/go-opensource/" target="_blank">
+        Visit Website
+	</button></a>
+<a href="https://go.gov.sg/go-opensource/" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
-        Visit github
-    </button>
-</a>
+        Visit Github
+    </button></a>
