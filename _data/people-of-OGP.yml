@@ -141,3 +141,7 @@
 - name: Sue
   position: Product Support Specialist
   image: /images/headshots/Sue.png
+  
+- name: Natalie
+  position: Product Designer
+  image: /images/headshots/Natalie.png
