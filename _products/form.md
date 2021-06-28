@@ -21,9 +21,10 @@ FormSG is an electronic form builder with advanced features that allows public o
 
 #### Impact
 
-* 40k digital forms created
-* 50 million form submissions from 40k public officers across 90 agencies
+* 252 thousand digital forms created
+* More than 112 million form submissions from 71 thousand public officers across 90 agencies
 * $5k - $150k saved per form
+
 
 #### Team
 
