@@ -13,11 +13,11 @@ breadcrumb: PaySG
 Developed to enable digital payments for COVID-19 swab tests and Stay-Home Notices for incoming travellers to Singapore. 
 
 
-#### Approach
+#### Solution
 
-* Users will receive a personalised payment link sent to their email. They will then go to a personalised payment page that includes some details submitted at point of entry application. Upon checkout, they will receive a personalised invoice/receipt with details that they can show government officers to prove that they have paid. 
-* There are various channels through which links can be generated - users filling forms on FormSG directly, government officers filling in a FormSG form, or a script that generates links to be sent in bulk.
-* PaySG uses FormSG’s webhook feature, Stripe for payment processing, and Postmark for transactional email templates and sending. 
+* Users will receive a personalised payment link sent to their email. They will then go to a personalised payment page that includes some details submitted at point of entry application. Upon checkout, they will receive a personalised invoice/receipt with details that they can show government officers to prove that they have paid
+* There are various channels through which links can be generated - users filling forms on FormSG directly, government officers filling in a FormSG form, or a script that generates links to be sent in bulk
+* PaySG uses FormSG’s webhook feature, Stripe for payment processing, and Postmark for transactional email templates and sending
 
 
 #### Impact
