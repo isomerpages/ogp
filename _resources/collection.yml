@@ -3,5 +3,3 @@ collections:
     output: true
     order:
       - media.md
-      - title: Blog
-        url: https://medium.com/open-government-products
