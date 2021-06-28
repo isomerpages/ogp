@@ -1,7 +1,8 @@
 ---
 title: Open Source
-permalink: /products/opensource
+permalink: /resources/opensource
 ---
+
 # Open source tools for digital government
 
 (insert blurb here)
