@@ -24,9 +24,9 @@ RedeemSG allows agencies to track the redemption of goods and vouchers easily.
 
 #### Impact
 
-* > 20 million redemptions since April 2020  across 9 national campaigns, including nation-wide mask and SG Together pack distribution
-*  > 14 thousand volunteers using the app
-* > 1.1 thousand vending machines integrated
+* More than 20 million redemptions since April 2020  across 9 national campaigns, including nation-wide mask and SG Together pack distribution
+*  More than 14 thousand volunteers using the app
+* More than 1.1 thousand vending machines integrated
 
 
 #### Team
