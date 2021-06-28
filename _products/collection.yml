@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - overview.md
-      - open-source.md
       - data-gov-sg.md
       - digimc.md
       - form.md
