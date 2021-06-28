@@ -46,13 +46,11 @@ Antariksh Mahajan <a href="https://github.com/mantariksh" style="display: inline
 </a> 
 
 
-
 <a href="https://form.gov.sg/" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
-        Visit website
-    </button> <a href="https://github.com/opengovsg/formsg" target="_blank">
+        Visit Website
+	</button></a>
+<a href="https://github.com/opengovsg/formsg" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
-        Visit github
-    </button>
-</a>
-</a>
+        Visit Github
+    </button></a>
