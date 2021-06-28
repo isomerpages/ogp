@@ -24,7 +24,7 @@ Go.gov.sg is built to provide the public service with a trustworthy link shorten
 #### Impact
 
 * Used by 24,000 public officers across 70 agencies
-* 180,000+ links shortened
+* At least 180,000 links shortened
 * 136 million link clicks
 
 #### Team
