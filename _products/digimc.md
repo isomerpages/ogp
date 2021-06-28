@@ -12,12 +12,12 @@ Medical certificates are given to patients today as official exemptions from wor
 
 #### Solution
 
-DigiMC integrates with EMR systems from public and private healthcare institutions to form a central repository of medical certificates. Patients receive their MCs in the form of a weblink, which require a date of birth verification before they are unlocked. Patients can then forward this MC URL to their schools/employers. Employers can be assured that the MCs are legitimate given that they are hosted on a government website.
+DigiMC integrates with EMR systems from public and private healthcare institutions to form a central repository of medical certificates. Patients receive their MCs in the form of a weblink, which requires a date of birth verification before they are unlocked. Patients can then forward this MC URL to their schools/employers. Employers can be assured that the MCs are legitimate given that they are hosted on a government website.
 
 #### Impact
 
-* Integrated with more than 300 public and private healthcare institutions
-* Issued more than 2 million MCs till date
+* Integrated with > 300 public and private healthcare institutions
+* Issued > 2 million MCs till date
 
 #### Team
 
