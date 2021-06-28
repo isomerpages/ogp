@@ -13,7 +13,7 @@ breadcrumb: Internship
 
 **Joining us to make an impact for public good.** Fundamentally, you will have a hand in contributing to tech for public good. You will work on things that matter, and will see how the work you’ve done directly impacts public officers and members of the public. You will also be given the opportunity to be considered for a conversion to a full-time offer, regardless whether you’re a pre-university or graduate student.
 
- ### **What do our interns do?**
+### **What do our interns do?**
 
 We have had interns work alongside us on nearly every single product and corporate function in OGP. You will be working closely with our full-timers to contribute to existing projects. 
 
