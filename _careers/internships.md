@@ -19,6 +19,8 @@ We have had interns work alongside us on nearly every single product and corpora
 
 Whether you aspire to be part of a Corporate Team running tech organisations, or building tech for public good as a [Software Engineer](/careers/software-engineer/), [Product Designer](/careers/product-designer/), or [Product Manager](/careers/product-manager/), you will have the opportunity to experience day-to-day OGP life and contribute your skills and ideas the same way our full-timers do.
 
+[Read more about what our previous interns have done] (https://medium.com/open-government-products/tagged/careers)
+
 ### **What we look for in our interns**
 
 We look for the same traits in our interns that we do our full-timers - their demonstrated [Ability, Initiative, Communication, and Values](/careers/aicv/). 
