@@ -12,7 +12,7 @@ breadcrumb: Parking.sg
 
 Paper coupons are an inconvenient way for drivers to pay for parking. If drivers need to extend their parking time, they would have to rush to their vehicles to put up more coupons. Also, drivers would be overpaying if they leave the parking lot before their time is up.
 
-#### Approach
+#### Solution
 
 Parking.sg is a mobile application developed to offer more convenience for drivers when managing their parking sessions. Drivers can now pay for their parking sessions, receive reminders, and extend their parking sessions, straight from their mobile phones.
 
