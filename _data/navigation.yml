@@ -20,5 +20,7 @@ links:
         url: /media
       - title: Blog
         url: https://medium.com/open-government-products
+      - title: Open Source
+        url: /resources/opensource
   - title: Contact Us
     url: /contact-us/
