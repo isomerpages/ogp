@@ -20,7 +20,7 @@ There are three key problems encountered with public documents distributed by go
 
 OpenDoc aims to organise the Government’s documents and make it accessible and useful. 
 * Responsive design: Documents adapt to all types of devices, allowing for comfortable viewing on any device
-* Powerful search: Complex searches are executed extremely fast and users are able to access relevant information quickly and more accurately
+* Powerful search: Complex searches are executed extremely fast and users are able to access relevant information quickly and accurately
 * Fast, secure and scalable: Public servants can modify, track changes and submit edit requests easily on the platform
 
 #### Impact
