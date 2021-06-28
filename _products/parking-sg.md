@@ -14,7 +14,7 @@ Paper coupons are an inconvenient way for drivers to pay for parking. If drivers
 
 #### Solution
 
-Parking.sg is a mobile application developed to offer more convenience for drivers when managing their parking sessions. Drivers can now pay for their parking sessions, receive reminders, and extend their parking sessions, straight from their mobile phones.
+Parking.sg is a mobile application developed to offer more convenience for drivers to manage their parking sessions. Drivers can now pay for their parking sessions, receive reminders, and extend their sessions directly from their mobile phones.
 
 * Simple user interface to maximize convenience over paper coupons
 * Refunds for unused time to give a sense of fairness and reduce anxiety about wastage
@@ -25,7 +25,7 @@ Parking.sg is a mobile application developed to offer more convenience for drive
 * 1.5 million parking sessions per month
 * Used by more than 80% of cars in Singapore
 * 99.99% availability
-* More than $9 million in unused parking fees refunded to users
+* More than S$9 million in unused parking fees refunded to users
 
 #### Team
 
