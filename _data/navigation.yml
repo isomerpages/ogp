@@ -17,3 +17,8 @@ links:
     collection: resources
   - title: Contact Us
     url: /contact-us/
+  - title: resources
+    url: /media
+    sublinks:
+      - title: Blog
+        url: https://medium.com/open-government-products
