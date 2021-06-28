@@ -10,9 +10,11 @@ breadcrumb: PaySG
 
 #### Background 
 As the economy gradually opens up, Singapore intends to charge inbound travellers for their swab tests and hotel stay if they are quarantined in Singapore. However, there are 3 key problems surrounding e-payments in the government: 
-* It typically takes between 6 weeks and 9 months to set up a new payment service
 * It is costly to set up new payment services
 * There is a need for manual financial reconciliation
+* It typically takes 6 weeks to 9 months to set up a new payment service
+
+
 
 
 #### Solution
