@@ -13,7 +13,7 @@ breadcrumb: Form.gov.sg
 From applying for permits to booking public facilities, paper forms have been a vital tool for the public service to gather information. However, paper forms are logistically cumbersome, and public digital form builders like Google Forms present security risks as sensitive citizen information will be stored on the cloud.  
 
 #### Solution
-FormSG is an electronic form builder with advanced features that allows public officers to build and launch forms within minutes. It supports the entire spectrum of small surveys launched by individuals to  large applications integrated with agencies’ native systems. 
+Form is an electronic form builder with advanced features that allows public officers to build and launch forms within minutes. It supports the entire spectrum from small surveys launched by individuals to large applications integrated with agencies’ native systems. 
 * Intuitive user interface allows new forms to be created in less than 30 minutes
 * Zero knowledge architecture allows for mass digitization without large security vulnerabilities
 * Pre-built integrations with Singpass, CorpPass and MyInfo extends functionality of forms
@@ -21,9 +21,9 @@ FormSG is an electronic form builder with advanced features that allows public o
 
 #### Impact
 
-* 252 thousand digital forms created
-* More than 112 million form submissions from 71 thousand public officers across 90 agencies
-* $5k - $150k saved per form
+* Enabled more than 71,000 public officers across 120 agencies to digitalise forms
+* 252,000 forms launched
+* More than 112 million form responses collected
 
 
 #### Team
