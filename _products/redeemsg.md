@@ -13,18 +13,20 @@ breadcrumb: RedeemSG
 Previously, tracking of redemptions was a time consuming process that included logging records on paper and counting and keying in records into a digital system. With RedeemSG, agencies can easily track the redemption of goods and vouchers. 
 
 
-#### Approach
+#### Solution
+RedeemSG allows agencies to track the redemption of goods and vouchers easily.
 
-* Admin portal allows agencies and non-profit organizations to see statistics and redemption status and download reports. No more manual tracking. 
-* Mobile app allows staff and volunteers to log redemptions via scanning a person’s NRIC or voucher. 
+* Admin portal allows agencies and non-profit organizations to see statistics and redemption status and download reports digitally
+* Mobile app allows staff and volunteers to log redemptions conveniently via NRIC or voucher scanning 
 * API allows merchants to integrate and update redemption for government and non-profit programmes 
-* System also digitises vouchers that are sent to recipients via SMS and open up in a web link. No need for an app or smart phone to receive a voucher. Also allows agencies to avoid printing costs.
+
 
 
 #### Impact
 
-* More than 11 million redemptions across 7 national campaigns, including nation-wide mask distribution and SG Together pack distribution, NDP e-tickets and Buka Puasa meal distribution
-* Used by >14K volunteers, connected with >1K vending machines for the mask distribution exercise 
+* > 20 million redemptions since April 2020  across 9 national campaigns, including nation-wide mask and SG Together pack distribution
+*  > 14 thousand volunteers using the app
+* > 1.1 thousand vending machines integrated
 
 
 #### Team
