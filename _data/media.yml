@@ -1,79 +1,16 @@
-- title: CHECKFIRST
-  image: /images/checkfirst-snapshot.png
-  sum: Self-service eligibility checker and calculator for the government
-  link: /hackathon/2021/checkfirst
+- title: HOW TO BUILD GOOD SOFTWARE
+  image: /images/howtobuildgoodsoftware.jpeg
+  sum: OGP Director, Li Hongyi, explains how software development requires a different, iterative approach.
+  link: https://www.csc.gov.sg/articles/how-to-build-good-software
 
-- title: QUEUE
-  sum: Allows citizens to queue and monitor their positions digitally while organisers manage the queue via drag-and-drop
+- title: SCAMSHIELD ON CHANNEL 8
+  sum: Product Manager, Lennard Lim, shares with seniors how to protect themselves against scams as part of Channel 8's "Get Fit with Me" series.
   image: /images/Queue_snapshot.png
-  link: /hackathon/2021/queue
+  link: https://www.mewatch.sg/watch/Get-Fit-With-Me-S7-S7-E24-224892
 
 - title: CHOPCHOPDOC
   image: /images/chopchopdocx_snapshot_updated.png
   sum: Create documents from templates! Fill in forms and receive completed documents in your inbox right away
   link: /hackathon/2021/chopchopdoc
 
-- title: LOOKBACK
-  image: /images/CitizenYearInReview_snapshot.png
-  sum: Interactive instagrammable sequence commemorating the past year spent in Singapore
-  link: /hackathon/2021/lookback
 
-- title: DASH.GOV.SG
-  image: /images/Dash_snapshot.png
-  sum: The common inbox for the government to address incoming queries
-  link: /hackathon/2021/dash
-
-- title: HANDSY
-  sum: Simple, fun in-browser game to get seniors moving and keeping healthy!
-  image: /images/Handsy_snapshot.png
-  link: /hackathon/2021/handsy
-
-- title: HELP.GOV.SG
-  image: /images/Helpgov_snapshot.png
-  sum: Citizens take a while to get answers for general enquiries, and officers are bombarded with repeat questions. Help.gov.sg is Quora for govt
-  link: /hackathon/2021/helpgov
-
-- title: TYPESAFE
-  image: /images/typesafe.png
-  sum: Linting rules to help JS/TS developers catch exceptions and unhandled promises!
-  link: /hackathon/2021/typesafe
-
-- title: TRANSPARENCY
-  image: /images/Transparency_snapshot.png
-  sum: Crack open data silos by enabling federated queries across multiple databases with Presto.
-  link: /hackathon/2021/transparency
-
-- title: GOVSEARCH
-  sum: A one-stop shop for anyone to search for government information
-  image: /images/GovSearch_snapshot.png
-  link: /hackathon/2021/govsearch
-
-- title: PERSONALISED FORMS
-  sum: Allows FormSG to pull data from agencies' APIs for display within the form. Spin-up Singpass-enabled forms and display personalised information to citizens!
-  image: /images/PersonalisedForm_snapshot.png
-  link: /hackathon/2021/personalised-forms
-
-- title: DIFFINDO
-  image: /images/Diffindo_snapshot.png
-  sum: Tracked-changes interface for civil servants to quickly take submissions modified in outlook, and easily accept/ reject each change
-  link: /hackathon/2021/diffindo
-
-- title: ANYTHING MAPPER
-  image: /images/AnythingMapper_snapshot.png
-  sum: Upload a list of locations & characteristics, and convert it into a map that others can search and filter
-  link: /hackathon/2021/anything-mapper
-
-- title: COMMON.GOV.SG
-  image: /images/solve.svg
-  sum: Internal forum for public officers
-  link: /hackathon/2021/common
-
-- title: PAYMENTS
-  image: /images/solve.svg
-  sum: Enable public-initiated payment on FormSG & Create payment links to collect money from citizens transparently
-  link: /hackathon/2021/payments
-
-- title: SANBAIQIAN
-  image: /images/solve.svg
-  sum: Helping adults with basic Mandarin Chinese proficiency to self-improve
-  link: /hackathon/2021/sanbaiqian
