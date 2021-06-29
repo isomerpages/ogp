@@ -5,12 +5,16 @@
 
 - title: SCAMSHIELD ON CHANNEL 8
   sum: Product Manager, Lennard Lim, shares with seniors how to protect themselves against scams as part of Channel 8's "Get Fit with Me" series.
-  image: /images/Queue_snapshot.png
+  image: /images/scamshieldch8.png
   link: https://www.mewatch.sg/watch/Get-Fit-With-Me-S7-S7-E24-224892
 
-- title: CHOPCHOPDOC
-  image: /images/chopchopdocx_snapshot_updated.png
-  sum: Create documents from templates! Fill in forms and receive completed documents in your inbox right away
-  link: /hackathon/2021/chopchopdoc
+- title: SGID & DIGITAL IDENTITY
+  image: sgID.png
+  sum: OGP Director, Li Hongyi, shares about sgID and digital identity as part of Civil Service College Singapore's Tech and Policy Talks. 
+  link: https://youtu.be/eKf9PneIlDA
 
+- title: PIVOTING TO FIGHT COVID-19
+  image: /images/pivotingtocovid.png
+  sum: Rahul Daswani, Head of People & Culture, talks with GovInsider on how OGP pivoted to combat COVID-19. 
+  link: https://govinsider.asia/future-of-work/how-this-govtech-unit-pivoted-to-fight-covid-19/
 
