@@ -2,10 +2,9 @@
 title: Open Source
 permalink: /resources/opensource
 ---
-
 # Open source tools for digital government
 
-(insert blurb here)
+We open source many of our tools in order for us to work together with developers around the world to tackle common challenges. With the emergence of the COVID-19 pandemic, the importance of sharing tools and learnings across borders has become even more pertinent, and we hope that by sharing our products below we can help others to digitise processes and improve public good around the world. 
 
 ## Form
 https://form.gov.sg
@@ -29,7 +28,7 @@ Key benefits
 * Scalable to support extremely high volume form submissions
 * Modular tool able to be used with other tools/services like identity providers or downstream case management tools in many government workflows
 
-Form is open sourced on GitHub at https://github.com/opengovsg/formsg. 
+#### Form is open sourced on [GitHub](https://github.com/opengovsg/formsg). 
 
 
 
@@ -52,11 +51,12 @@ Key benefits:
 * Anti-phishing - let’s citizens know that they are accessing from a government source
 * Analytics - track link clicks across government links
 
-Go is open sourced at https://go.gov.sg/go-opensource/
+#### Go is open sourced on [GitHub](https://go.gov.sg/go-opensource/).
 
 ## Postman
 https://postman.gov.sg 
-**Contact:  **postman@open.gov.sg
+
+**Contact:**  postman@open.gov.sg
 
 Official mass communication tool used by Singapore public agencies launched in May 2020. Postman has been supporting COVID-19 related use cases to help our public officers reach citizens in this uncertain period of time. Postman has since helped over 90 Singapore government agencies to send over 3 million messages. 
 
@@ -73,11 +73,11 @@ Key benefits:
 * Omnichannel platform
 * Campaign analytics
 
-Guide: https://guide.postman.gov.sg 
-GitHub Repo: https://github.com/opengovsg/postmangovsg/
+#### Postman is open sourced on [Github](https://github.com/opengovsg/postmangovsg/).
 
 ## Isomer
 https://isomer.gov.sg 
+
 **Contact:** admin@isomer.gov.sg 
 
 Isomer is a static site builder for the government. We provide end to end hosting service while the users focus on their site content. Instead of spending months and hefty amounts of money, Isomer enables public officers to launch secure and cheap websites in as fast as 36 hours. 
@@ -93,4 +93,4 @@ Key benefits:
 * Low hosting and infrastructure costs 
 * Site templates makes it easy for agencies to launch websites 
 
-Isomer is open-sourced on Github at  https://github.com/isomerpages
+#### Isomer is open-sourced on [Github](https://github.com/isomerpages).  
