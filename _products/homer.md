@@ -27,7 +27,7 @@ With both solutions, data is reported to a dashboard for enforcement officers’
 #### Impact
 
 * Used by MOH, MOE, MOM and ICA
-* Monitored over 300,000 users till date
+* Monitored > 300,000 users till date
 
 
 #### Team
