@@ -3,7 +3,7 @@ title: Antigen Rapid Testing
 permalink: /products/antigenrapidtesting
 ---
 ![Alt text for image on Isomer site](/images/ART.png)
-### System for  pre-event testing registration amidst Covid-19.
+### System for  pre-event testing registration amidst Covid-19
 
 
 #### Background 
@@ -43,5 +43,4 @@ Chan Chi Ling <a href="https://github.com/chilingchan " style="display: inline-b
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a> | Yong Kai Yi <a href="https://github.com/chinying " style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a> 
-
+</a>
