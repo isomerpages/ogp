@@ -28,8 +28,8 @@ PaySG was developed to enable digital payments for COVID-19 swab tests and Stay-
 
 #### Impact
 
-*  Facilitated more than 234 payment transactions since Jun 2020
-*  Enabled 8 agencies to collected more than S$250 million in Stay-Home-Notice and Swab-related payments
+*  Facilitated > 234 payment transactions since Jun 2020
+*  Enabled 8 agencies to collect > S$250 million in Stay-Home-Notice and Swab-related payments
 
 
 
@@ -39,7 +39,7 @@ Ang Yi Xin <a href="https://github.com/artylope" style="display: inline-block; w
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a> | Kevan Tan <a href="https://github.com/tankevan" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a> | Pallani Kumaran <a href="https://github.com/pallanikumaran" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Pallani Kumaran <a href="https://github.com/pallani" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a> | Huang Kaiwen <a href="https://github.com/huangkaiw3n" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
