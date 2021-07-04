@@ -2,7 +2,6 @@
 title: CheckFirst
 permalink: /products/checkfirst
 ---
-
 ![Alt text for image on Isomer site](/images/CheckFirst.png)
 ### A calculator and eligibility builder for the government
 
@@ -21,7 +20,7 @@ CheckFirst provides an easy way for public officers to build a simple calculator
 #### Impact
 
 * First launched SHN calculator on ICA’s SafeTravel website
-* Over 100 users onboarded so far
+* Onboarded > 100 users onboarded till date
 
 
 #### Team
