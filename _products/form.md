@@ -21,9 +21,9 @@ Form is an electronic form builder with advanced features that allows public off
 
 #### Impact
 
-* Enabled more than 71,000 public officers across 120 agencies to digitalise forms
+* Enabled > 71,000 public officers across 120 agencies to digitalise forms
 * 252,000 forms launched
-* More than 112 million form responses collected
+* Collected > 112 million form responses 
 
 
 #### Team
