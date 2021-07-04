@@ -26,9 +26,9 @@ Subsequently, we built a modular omnichannel communication tool to enable agenci
 
 #### Impact
 
-* Saved over S$10 million for the Quarantine Order Program for COVID-19 disease control
-* Sent over 1.3 million messages
-* More than 800 users across 94 agencies
+* Saved > S$10 million for the Quarantine Order Program for COVID-19 disease control
+* Sent > 1.3 million messages
+* Onboarded > 800 users across 94 agencies
 
 
 #### Team
