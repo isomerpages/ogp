@@ -7,7 +7,7 @@ permalink: /products/scamshield
 
 #### Background 
 
-The number of scams reported in 2020 hit a record high, climbing 65.1% from 2019, as scammers took more than $201 million from their victims. Scammers often initiate contact with potential victims through Short Message Services (SMSes) or phone calls. Scams are getting more sophisticated, making it harder for citizens to tell between a real and fake SMS or call. 
+The number of scams reported in 2020 hit a record high, climbing 65.1% from 2019, as scammers took more than S$201 million from their victims. Scammers often initiate contact with potential victims through Short Message Services (SMSes) or phone calls. Scams are getting more sophisticated, making it harder for citizens to tell between a real and fake SMS or call. 
 
 
 #### Solution
@@ -16,8 +16,8 @@ Once installed on a citizen’s device, ScamShield actively works in the backgro
 
 #### Impact
 
-* Blocked over 850k SMSes till date
-*Cumulatively blocked and blacklisted over 6,000 numbers used in scams
+* Blocked > 850k SMSes till date
+* Cumulatively blocked and blacklisted > 6,000 numbers used in scams
 
 #### Team
 
