@@ -29,33 +29,19 @@ As public health actions may be taken for Antigen positive cases, it was critica
 
 #### Team
 
-Alwyn Tan <a href="https://github.com/lonerifle" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+Chan Chi Ling <a href="https://github.com/chilingchan " style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a> | Lisa Tjide <a href="https://github.com/sasasa54" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Chong Zixin <a href="https://github.com/chongzixin" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a> | Natalie Tan <a href="https://github.com/NatMaeTan" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Jean Tan <a href="https://github.com/jeantanzj" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a> | Preston Lim <a href="https://github.com/prestonlimlianjie" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Ming Jiang Gui <a href="https://github.com/prestonlimlianjie" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a> | Kee Wei Lam <a href="https://github.com/lamkeewei" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Pallani Kumaran <a href="https://github.com/pallani" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a> | Eugene Long <a href="https://github.com/orbitalsqwib" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Seah Chin Ying <a href="https://github.com/chinying " style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
-
-
-#### Past Contributors
-
-Petty Chen<a href="https://github.com/pettypychen"  style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
-    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a> | Leonard Loo<a href="https://github.com/leonardloo" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
-    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a> | Barnett Lee<a href="https://github.com/barnettx" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Yong Kai Yi <a href="https://github.com/chinying " style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a> 
 
-<a href="www.checkfirst.gov.sg" target="_blank">
-    <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
-        Visit website
-    </button>
-</a>
