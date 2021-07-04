@@ -24,9 +24,9 @@ RedeemSG allows agencies to track the redemption of goods and vouchers easily.
 
 #### Impact
 
-* More than 20 million redemptions since April 2020  across 9 national campaigns, including nation-wide mask and SG Together pack distribution
-*  More than 14 thousand volunteers using the app
-* More than 1.1 thousand vending machines integrated
+* Enabled > 20 million redemptions since April 2020  across 9 national campaigns, including nation-wide mask and SG Together pack distribution
+* App used by > 14 thousand volunteers
+* Integrated > 1.1 thousand vending machines integrated
 
 
 #### Team
@@ -35,7 +35,7 @@ Ang Yi Xin <a href="https://github.com/artylope" style="display: inline-block; w
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a> | Kevan Tan <a href="https://github.com/tankevan" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a> | Pallani Kumaran <a href="https://github.com/pallanikumaran" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Pallani Kumaran <a href="https://github.com/pallani" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a> | Huang Kaiwen <a href="https://github.com/huangkaiw3n" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
