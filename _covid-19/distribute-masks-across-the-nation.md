@@ -2,6 +2,7 @@
 title: Distribute Masks Across the Nation
 permalink: /covid-19/maskdistribution
 ---
+## Distributing Masks Across the Nation through Island-wide Campaigns
 ### Product Involved:
 ![Alt text for image on Isomer site](/images/logos-mask.png)
 
