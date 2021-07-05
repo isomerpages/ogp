@@ -2,6 +2,7 @@
 title: Distribute Instantaneous COVID-19 Updates
 permalink: /covid-19/instantupdates
 ---
+
 ### Products Involved:
 ![Alt text for image on Isomer site](/images/logos-distribute.png)
 
