@@ -1,7 +1,8 @@
 ---
 title: Ensure Compliance of Quarantine Orders
-permalink: /covid-19/quarrantineorderscompliance
+permalink: /covid-19/quarrantineordercompliance
 ---
+
 #### Products Involved:
 
 ![Alt text for image on Isomer site](/images/logos-quarantine.png)
