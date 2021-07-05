@@ -70,7 +70,6 @@ With both solutions, data is reported to a dashboard for enforcement officers’
 #### Our Impact
 * Ensured compliance of over 300,000 Stay Home Notice (SHN) and Quarantine Orders
 
-*Insert Visit Website button*
 
 ## Facilitate Appointment Booking for Vaccination
 
@@ -80,7 +79,7 @@ When Vaccines were finally available in Singapore in Dec 2020, there was a need 
 
 With the system in place, citizens will receive a unique vaccination registration link through [Postman](https://www.open.gov.sg/products/postman/) when it is their turn to receive the vaccination. With the link, citizens can easily input their personal information and register for a vaccination slot at the nearest Vaccination Centre. Information regarding vaccination can also be found on the VaccinationSG website, built with [Isomer](https://www.open.gov.sg/products/isomer/).
 
-On the end of Health Officers, the Appointment system allows...
+
 
 #### Our Impact
 * Facilitated administration of over 4.7 million COVID-19 Vaccine Doses
