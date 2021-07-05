@@ -3,7 +3,7 @@ title: Facilitate Antigen Rapid Testing
 permalink: /products/antigenrapidtesting
 ---
 ![Alt text for image on Isomer site](/images/ART.png)
-### Covid-19 Pre-event Testing System
+### Border Entry and Pre-event Antigen Rapid Testing (ART) System 
 
 
 #### Background 
@@ -14,15 +14,15 @@ As public health actions may be taken for Antigen positive cases, it was critica
 
 #### Solution
 
-* An intuitive registration form that contains: i)  QR code for patients to uniquely identify themselves and associate their identity with  a test kit results via an online form; ii) Barcode stickers for swab test staff to serialise test kits. 
-* This registration form and the test cartridge reader is integrated with the Covid-19 Management Backbone. Upon completion of an ART test,  patients are notified real-time on an online checker and via SMS notifications. 
-* Public health authorities are notified real-time when an Antigen-positive case is detected.
+An intuitive registration form that contains: i)  QR code for patients to uniquely identify themselves and associate their identity with  a test kit results via an online form; ii) Barcode stickers for swab test staff to serialise test kits
+* This registration form and the test cartridge reader is integrated with the Covid-19 Management Backbone. Upon completion of an ART test,  patients are notified real-time on an online checker and via SMS notifications
+* Public health authorities are notified real-time when an Antigen-positive case is detected
 
 
 
 #### Impact
 
-* Administered more than 1 million Antigen Rapid Tests at border checkpoints and large-scale events
+* Administered > 1 million Antigen Rapid Tests at border checkpoints and large-scale events
 * Supported public health authorities in timely conveyance of Antigen-positve patients
 
 
