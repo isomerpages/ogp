@@ -3,7 +3,7 @@ title: Distribute Masks Across the Nation
 permalink: /covid-19/maskdistribution
 ---
 ## Distributing Masks Across the Nation through Island-wide Campaigns
-### Product Involved:
+#### Product Involved:
 ![Alt text for image on Isomer site](/images/logos-mask.png)
 
 With the shortage and uneven distribution of masks across the nation at the start of the pandemic, there was a pressing need to develop a fast and cost-efficient way of distributing masks to citizens.
