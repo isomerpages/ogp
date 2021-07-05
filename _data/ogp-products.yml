@@ -68,12 +68,12 @@
   sum: Calculator and eligibility builder for the government
   link: /products/checkfirst
   
-  - title: ANTIGEN RAPID TESTING
+- title: ANTIGEN RAPID TESTING
   image: /images/ART.png
   sum: System for pre-event testing registration amidst Covid-19
   link: /products/antigenrapidtesting
 
- - title: COVID-19 VACCINATION PROGRAMME
+- title: COVID-19 VACCINATION PROGRAMME
   image: /images/VaccOps.png
   sum: Suite of systems built to accelerate vaccination throughput
   link: /products/covid19vaccinationprogramme
