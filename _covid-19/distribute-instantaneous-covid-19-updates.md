@@ -2,7 +2,6 @@
 title: Distribute Instantaneous COVID-19 Updates
 permalink: /covid-19/instantupdates
 ---
-
 ### Products Involved:
 ![Alt text for image on Isomer site](/images/logos-distribute.png)
 
@@ -15,9 +14,8 @@ In addition, [Isomer](https://www.open.gov.sg/products/isomer/) was used to buil
 Lastly, Go.gov.sg has been used by government agencies to shorten important COVID-19 related links, from COVID-19 press releases, application forms, and more. As the offiicial government link shortener, Go.gov.sg has allowed citizens to easily access important information while also helping to prevent phishing through the use of a legitimate .gov.sg domain.
 
 #### Our Impact
-* Disseminated over 1 billion COVID-19 related announcements daily to over 1 million subscribers on Gov.sg [Whatsapp](https://go.gov.sg/whatsapp) and 300,000 subscribers on Gov.sg [Telegram](https://t.me/Govsg)
+* Disseminated > 1 billion COVID-19 related announcements daily to > 1 million subscribers on Gov.sg [Whatsapp](https://go.gov.sg/whatsapp) and 300,000 subscribers on Gov.sg [Telegram](https://t.me/Govsg)
 * Helped teachers communicate with students at home for home-based learning
 * Notified citizens of changes in government agency appointments
 * Enabled Ministry of Health's Healthcare Corps to better manage COVID-19 volunteers
-* Creation of over x COVID-19 related Campaign Pages
-* Shortened 150,000 links and Facilitated 117 million link clicks 
+* Shortened 150,000 links and Facilitated 117 million link clicks
