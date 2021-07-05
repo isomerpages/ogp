@@ -11,4 +11,3 @@ Learn more about how we have helped Singapore respond to the COVID-19 pandemic a
 
 
 {% include covid-19.html careers=site.data.covid-19 %}
-
