@@ -1,24 +1,24 @@
-- title: MEET JESSICA 
-  image: /images/Jess.JPG
-  sum: Read more about Jess' experience as a Product Design intern in OGP
-  link: https://medium.com/open-government-products/intern-at-ogp-jess-pursuit-of-making-an-impact-through-design-40f6736d2e3c 
+- title: INSTANT UPDATES
+  image: /images/icon_updates.png
+  sum: Mass sending of instantaneous COVID-19 updates to citizens
+  link: /covid-19/instantupdates
 
-- title: MEET BARNETT
-  sum: description
-  image: /images/Barnett.png
-  link: /hackathon/2021/queue
+- title: MASK DISTRIBUTION
+  sum: Distributing masks to citizens through island-wide campaigns
+  image: /images/icon_masks.png
+  link: /covid-19/maskdistribution
 
-- title: MEET PRASANTH 
-  image: /images/chopchopdocx_snapshot_updated.png
-  sum: description
-  link: /hackathon/2021/chopchopdoc
+- title: ANTIGEN RAPID TEST
+  image: /images/icon_art.png
+  sum: Facilitating pre-event ART testings
+  link: /covid-19/antigenrapidtesting
 
-- title: MEET AHMED
-  image: /images/CitizenYearInReview_snapshot.png
-  sum: description
-  link: /hackathon/2021/lookback
+- title: QUARANTINE ORDERS
+  image: /images/icon_quarantine.png
+  sum: Ensuring compliance of Quarantine and Stay Home Notices
+  link: /covid-19/quarantineordercompliance
 
-- title: MEET LAURA
-  image: /images/Dash_snapshot.png
-  sum: description
-  link: /hackathon/2021/dash
+- title: VACCINATION SYSTEM
+  image: /images/icon_vaccine.png
+  sum: Accelerating vaccination throughput to achieve herd immunity against COVID-19
+  link: /covid-19/covid19vaccination
