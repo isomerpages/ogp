@@ -12,7 +12,7 @@ Learn more about how we’ve helped Singapore respond to the COVID-19 pandemic a
 
 ## Distribute Instantaneous COVID-19 Updates
 
-![Alt text for image on Isomer site](/images/logo_distribute.png)
+![Alt text for image on Isomer site](/images/logos-distribute.png)
 
 When COVID-19 first hit Singapore, there was a significant amount of false information spreading around, which brought about anxiety and uncertainty among citizens. As a result, government agencies had to look for a way to disseminate accurate and up-to-date information through the channels that citizens were already using. 
 
