@@ -2,10 +2,9 @@
 title: Distribute Instantaneous COVID-19 Updates
 permalink: /covid-19/instantupdates
 ---
-
 ## Distributing  Instantaneous COVID-19 Updates in times of Uncertainty 
 
-### Products Involved:
+#### Products Involved:
 ![Alt text for image on Isomer site](/images/logos-distribute.png)
 
 When COVID-19 first hit Singapore, there was a significant amount of false information spreading around, which brought about anxiety and uncertainty among citizens. As a result, government agencies had to look for a way to disseminate accurate and up-to-date information through the channels that citizens were already using. 
