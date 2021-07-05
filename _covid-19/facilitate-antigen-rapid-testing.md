@@ -2,9 +2,8 @@
 title: Facilitate Antigen Rapid Testing
 permalink: /products/antigenrapidtesting
 ---
-
 ![Alt text for image on Isomer site](/images/ART.png)
-### System for  pre-event testing registration amidst Covid-19
+### System for  pre-event testing registration Covid-19
 
 
 #### Background 
