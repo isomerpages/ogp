@@ -60,7 +60,7 @@ Chan Chi Ling <a href="https://github.com/chilingchan " style="display: inline-b
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a> | Christabel Png <a href="https://github.com/belpng" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a> | Foo Yongiie <a href="https://github.com/pallani" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Foo Yongiie <a href="" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a> | Ian Chen <a href="https://github.com/pregnantboy" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
@@ -68,7 +68,7 @@ Chan Chi Ling <a href="https://github.com/chilingchan " style="display: inline-b
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a> | Jean Tan <a href="https://github.com/jeantanzj" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a> | Jessica Emily <a href="https://github.com/jacksonOGP" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Jessica Emily <a href="https://github.com/jessicaemily" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a> | Lau Kar Rui <a href="https://github.com/karrui" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
