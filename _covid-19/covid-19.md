@@ -12,7 +12,7 @@ Learn more about how we’ve helped Singapore respond to the COVID-19 pandemic a
 
 ## Distribute Instantaneous COVID-19 Updates
 
-*Insert  Postman, Isomer Logo here*
+![Alt text for image on Isomer site](/images/logo_distribute.png)
 
 When COVID-19 first hit Singapore, there was a significant amount of false information spreading around, which brought about anxiety and uncertainty among citizens. As a result, government agencies had to look for a way to disseminate accurate and up-to-date information through the channels that citizens were already using. 
 
@@ -32,7 +32,7 @@ Lastly, Go.gov.sg has been used by government agencies to shorten important COVI
 
 ## Distribute Masks Across the Nation
 
-*Insert Redeem logo here*
+![Alt text for image on Isomer site](/images/logos-mask.png)
 
 With the shortage and uneven distribution of masks across the nation at the start of the pandemic, there was a pressing need to develop a fast and cost-efficient way of distributing masks to citizens.
 
@@ -43,7 +43,7 @@ Working with government agencies, we integrated RedeemSG's system in over 1000 m
 
 ## Facilitate Antigen Rapid Tests & COVID-19 Management Backbone
 
-*Insert COVID-ops, PaySG and Postman logo*
+![Alt text for image on Isomer site](/images/logos-art.png)
 
 (Description)
 
@@ -52,7 +52,7 @@ Working with government agencies, we integrated RedeemSG's system in over 1000 m
 
 ## Ensure Compliance of Quarantine Orders
 
-*Insert Homer and Postman logo*
+![Alt text for image on Isomer site](/images/logos-quarantine.png)
 
 Homer was launched as a hackathon project during COVID-19 as a way to help reduce the spread of the virus by ensuring that potential carriers comply with their quarantine orders or stay home notices. The monitoring can be done in 2 ways: 
 
@@ -74,7 +74,7 @@ With both solutions, data is reported to a dashboard for enforcement officers’
 
 ## Facilitate Appointment Booking for Vaccination
 
-*Insert Vaccination, Postman, Forms, Isomer logo*
+![Alt text for image on Isomer site](/images/logos-vaccine.png)
 
 When Vaccines were finally available in Singapore in Dec 2020, there was a need for a fast and efficient way to ensure citizens can get their jabs as soon as possible. Since then, OGP has worked closely with the Ministry of Health to launch the National COVID-19 Vaccine Appointment System to ensure smooth running of the Vaccination deployment.
 
