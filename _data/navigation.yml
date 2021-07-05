@@ -9,7 +9,7 @@ links:
     url: /products/datagovsg/
     collection: products
   - title: COVID-19
-    url: /covid19
+    url: /covid19/instantaneous-updates
   - title: Hackathon
     url: /hackathon/about/
     collection: hackathon
