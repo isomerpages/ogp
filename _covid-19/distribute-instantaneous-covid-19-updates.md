@@ -2,6 +2,8 @@
 title: Distribute Instantaneous COVID-19 Updates
 permalink: /covid-19/instantupdates
 ---
+## Distributing  Instantaneous COVID-19 Updates in times of Uncertainty 
+
 ### Products Involved:
 ![Alt text for image on Isomer site](/images/logos-distribute.png)
 
