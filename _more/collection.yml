@@ -1,5 +1,5 @@
 collections:
-  resources:
+  more:
     output: true
     order:
       - media.md
