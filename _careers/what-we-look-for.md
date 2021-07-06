@@ -7,7 +7,7 @@ permalink: /careers/aicv
 Beyond assessing OGP officers against established career schemas, we assess any potential OGP employee on 4 core attributes -  Ability, Initiative, Communication, and Values. 
 
 #### **Ability** 
-*How competent is the individual in their technical field?*
+*How competent is the individual in their field of expertise?*
 
 Our mission is to build tech for public good. This requires having people who not only care about what they do, but are good at it. We need people who are excellent in each of their fields to come together and contribute toward our mission.
 
