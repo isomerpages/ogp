@@ -9,17 +9,17 @@ breadcrumb: PaySG
 ### Digitise payments for government agencies  
 
 #### Background 
-As the economy gradually opens up, Singapore intends to charge inbound travellers for their swab tests and hotel stays if they are quarantined in Singapore. However, there are 3 key problems surrounding e-payments in the government: 
-* It is costly to set up new payment services
-* There is a need for manual financial reconciliation
-* It typically takes 6 weeks to 9 months to set up a new payment service
+As the economy began to open up after the initial travel restrictions of the COVID-19 pandemic, Singapore needed to charge inbound travellers for their swab tests and hotel stays when quarantined in Singapore. However, there were three key problems surrounding e-payments in the government: 
+* It was costly to set up new payment services
+* There was a need for manual financial reconciliation
+* It typically took 6 weeks to 9 months to set up a new payment service
 
 
 
 
 #### Solution
 PaySG was developed to enable digital payments for COVID-19 swab tests and Stay-Home Notices for incoming travellers to Singapore. 
-* Users will receive a personalised payment link sent to their email, where they will be directed to a personalised payment page. Upon checkout, they will receive an official invoice/receipt
+* Users receive a personalised payment link sent to their email, where they are directed to a personalised payment page. Upon checkout, they receive an official invoice/receipt
 * There are various channels through which links can be generated - users filling forms on FormSG directly, government officers filling in a FormSG form, or a script that generates links to be sent in bulk
 * PaySG uses FormSG’s webhook feature, Stripe for payment processing, and Postmark for transactional email templates and sending
 
