@@ -36,7 +36,7 @@ Whilst our specific hiring process varies between roles, we hold a common philos
 * For non-internship roles, we have multiple interviewers present at interview rounds, and expect every interviewer to complete an evaluation before discussing their conclusions with one another. 
 * We use structured evaluation processes and clear assessment rubrics for every interview, and discuss all evaluations before making a decision on candidates. 
 
-***You will be assessed and offered terms based on your market worth and not your employment history.** 
+**You will be assessed and offered terms based on your market worth and not your employment history.** 
 * You should be hired and paid based on the job you are able to accomplish, and not on other extraneous factors such as your years of experience, last drawn pay or education pedigree. 
 * We assess you against well-defined career schemas for each job function. We make offers based on your assessed level in the career schema. 
 * Once hired, we move to promote people as quickly as possible to their assessed level of performance. We do not ask for your last-drawn salary. 
