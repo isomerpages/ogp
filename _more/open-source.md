@@ -28,7 +28,7 @@ Key benefits
 * Scalable to support extremely high volume form submissions
 * Modular tool able to be used with other tools/services like identity providers or downstream case management tools in many government workflows
 
-#### Form is open sourced on [GitHub](https://github.com/opengovsg/formsg). 
+#### Form is open sourced at [go.gov.sg/opensource-formsg](https://go.gov.sg/opensource-formsg). 
 
 
 
@@ -51,7 +51,7 @@ Key benefits:
 * Anti-phishing - let’s citizens know that they are accessing from a government source
 * Analytics - track link clicks across government links
 
-#### Go is open sourced on [GitHub](https://go.gov.sg/go-opensource/).
+#### Go is open sourced at [go.gov.sg/go-opensource](https://go.gov.sg/go-opensource/).
 
 ## Postman
 https://postman.gov.sg 
@@ -73,7 +73,7 @@ Key benefits:
 * Omnichannel platform
 * Campaign analytics
 
-#### Postman is open sourced on [Github](https://github.com/opengovsg/postmangovsg/).
+#### Postman is open sourced at [go.gov.sg/opensource-postman](https://github.com/opengovsg/postmangovsg/).
 
 ## Isomer
 https://isomer.gov.sg 
@@ -93,4 +93,4 @@ Key benefits:
 * Low hosting and infrastructure costs 
 * Site templates makes it easy for agencies to launch websites 
 
-#### Isomer is open-sourced on [Github](https://github.com/isomerpages).  
+#### Isomer is open sourced at [go.gov.sg/opensource-isomer](https://go.gov.sg/opensource-isomer).
