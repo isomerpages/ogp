@@ -3,6 +3,7 @@ collections:
     output: true
     order:
       - overview.md
+      - checkfirst.md
       - data-gov-sg.md
       - digimc.md
       - form.md
@@ -16,4 +17,3 @@ collections:
       - redeemsg.md
       - sgid.md
       - scamshield.md
-      - checkfirst.md
