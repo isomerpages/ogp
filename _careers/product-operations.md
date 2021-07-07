@@ -23,7 +23,7 @@ We look for people who:
 * Love helping others solve problems
 * Have strong written and verbal communication
 * Feel comfortable with technical concepts and are able to explain how our Products work to a range of audiences
-* Able to empathise with users and quickly grasp the issues they’re facing.
+* Able to empathise with users and quickly grasp the issues they’re facing
 * Enjoy the puzzle of solving open-ended problems
 * Are familiar with Google Suite products and Zendesk
 * Prior experience in a product operations role (e.g. L2/L3 support, leading Product Oprations functions)
