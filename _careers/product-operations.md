@@ -11,11 +11,11 @@ At a more senior level, Product Operations Specialists will also be in charge of
 
 Concretely, this means:
 * Proactively identifying and approaching new users (e.g. other government agencies) to maximise public good opportunities of OGP products
-* Train and onboard new users
+* Training and onboarding new users
 * Spending time interacting with users by email, chat and phone to support the roll-out and running of OGP products
-* Optimise our internal and external documentation to improve customer support. e.g. Product FAQ, customer handling guidebook etc
-* Work closely with Product Managers, Engineers and Product Designers across the team to bring unique insights back from users to improve our products
-* Identify and initiate changes to help scale product operations
+* Optimising our internal and external documentation to improve customer support. e.g. Product FAQ, customer handling guidebook etc
+* Working closely with Product Managers, Engineers and Product Designers across the team to bring unique insights back from users to improve our products
+* Identifying and initiating changes to help scale product operations
 
 ### **Who we are looking for**
 We look for people who:
