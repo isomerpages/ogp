@@ -2,9 +2,9 @@
 title: Corporate Team
 permalink: /careers/corporate-team/
 ---
-> You ...
+> You design and deliver organisation approaches and processes for OGP function at our best. You share best practices to help transform the rest of government.
 
-### **What does a ... do?**
+### **What does Corporate Team do?**
 ...
 
 On a day to day basis, this means:
