@@ -2,7 +2,7 @@
 title: Corporate Team
 permalink: /careers/corporate-team/
 ---
-> You design and deliver organisation approaches and processes for OGP function at our best. You share best practices to help transform the rest of government.
+> You design and deliver organisation approaches and processes for OGP to function at our best. You share best practices to help transform the rest of government.
 
 ### **What does Corporate Team do?**
 As a member of the Corporate Team, your job is to design the best approaches to how we run OGP, and then execute on it. We have multiple roles on the Corporate Team, including:
@@ -12,7 +12,7 @@ As a member of the Corporate Team, your job is to design the best approaches to 
 * **Policy & Propagation** - Propagate OGP practices and influence up-stream policy-making across the rest of government so as to accelerate improvements in government in tech and beyond.
 
 Your exact day-to-day can vary between roles, but on a day-to-day basis, every Corporate Team member can expect to:
-* Look at industry and other organisations to identify approaches to improve how OGP runs.
+* Look at industry best practices and other organisations to identify approaches to improve how OGP runs.
 * Design policies and practices to roll-out such approaches within OGP
 * Work with stakeholders (e.g. government HR, Finance, Senior Management teams) to seek buy-in for new practices
 * Implement and handle change management in the operational roll-out.
