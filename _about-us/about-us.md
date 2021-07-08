@@ -38,7 +38,7 @@ A place where using government services is as quick and simple as a click of a b
                 <div class="text-card is-white">
                     <img class="text-card-icon padding--bottom--sm" src="{{site.baseurl}}/images/build.svg" />
                     <h4 class="padding--top has-text-secondary padding--bottom"><b>Build for the User</b></h4>
-                    <p>Design and build products based on what real people actually need, whether they are members of the public or civil servants.</p>
+                    <p>Design and build products based on what real people actually need, whether they are members of the public or public servants.</p>
                 </div>
 
             </div>
