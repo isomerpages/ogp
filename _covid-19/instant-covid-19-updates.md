@@ -2,16 +2,14 @@
 title: Instant COVID-19 Updates
 permalink: /covid-19/instantupdates
 ---
-
-
-## Distributing  Instantaneous COVID-19 Updates in times of Uncertainty 
+## Distributing  instantaneous COVID-19 updates in times of uncertainty 
 
 #### Products Involved:
 ![Alt text for image on Isomer site](/images/logos-distribute.png)
 
-When COVID-19 first hit Singapore, there was a significant amount of false information spreading around, which brought about anxiety and uncertainty among citizens. As a result, government agencies had to look for a way to disseminate accurate and up-to-date information through the channels that citizens were already using. 
+When COVID-19 first hit Singapore, there was a significant amount of false information spreading around the country, creating anxiety and uncertainty among citizens. As a result, government agencies had to look for a way to disseminate accurate and up-to-date information through the channels that citizens were already using. 
 
-In 3 days, we built a mass communication tool, [Postman](https://www.open.gov.sg/products/postman/), which enabled the government to send nationwide COVID-19 updates through the Gov.sg WhatsApp channel. Now a modular omni-channel communication tool, Postman has enabled agencies to quickly scale their communication needs and allowed them to distribute critical information across multiple channels such as email, SMS and Telegram.
+In 3 days, we built a mass communication tool, [Postman](https://www.open.gov.sg/products/postman/), which enabled the government to send nationwide COVID-19 updates through the Gov.sg WhatsApp channel. Now a modular omni-channel communication tool, Postman has enabled agencies to quickly scale their communication needs and allowed them to distribute critical information across multiple channels such as email, SMS, and Telegram.
 
 In addition, [Isomer](https://www.open.gov.sg/products/isomer/) was used to build website pages for COVID-19 campaigns such as [sgunited.gov.sg](sgunited.gov.sg) and [safetravel.ica.gov.sg](safetravel.ica.gov.sg). Instead of having to wait months as is typical for government procurement, Isomer allowed government agencies to build these websites in as little as  1.5 days, ensuring that citizens receive the latest information about the constantly evolving COVID-19 situation.
 
