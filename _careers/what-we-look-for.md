@@ -14,7 +14,7 @@ Our mission is to build tech for public good. This requires having people who no
 #### **Initiative** 
 *How proactive is the candidate at pushing for change and solving problems where there are no clear instructions?*
 
-Initiative is a non-negotiable to get things done by pushing for change, and solving problems where there aren’t readily available solutions. We need people who have a strong internal drive, and are comfortable working in an environment with more problems to be solved than directions to be given. 	
+Initiative is a non-negotiable to get things done by pushing for change and solving problems where there aren’t readily available solutions. We need people who have a strong internal drive and are comfortable working in an environment with more problems to be solved than directions to be given. 	
 
 #### **Communication** 
 *How well can the individual talk and reason about their work to others both within and outside their functional area?*
