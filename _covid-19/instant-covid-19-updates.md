@@ -20,4 +20,4 @@ Lastly, [Go.gov.sg](https://www.open.gov.sg/products/gogovsg/) has been used by 
 * Helped teachers communicate with students at home for home-based learning
 * Notified citizens of changes in government agency appointments
 * Enabled Ministry of Health's Healthcare Corps to better manage COVID-19 volunteers
-* Shortened 150,000 links and facilitated 117 million link clicks
+* Shortened over 150,000 links and facilitated more than 117 million link clicks
