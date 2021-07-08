@@ -6,7 +6,7 @@ breadcrumb: RedeemSG
 ---
 ![github](/images/redeemsg.png)
 
-### Redemption tracking system to monitor the distribution of goods, tickets and vouchers in real time.
+### Redemption tracking system to monitor the distribution of goods, tickets and vouchers in real time
 
 #### Background 
 
