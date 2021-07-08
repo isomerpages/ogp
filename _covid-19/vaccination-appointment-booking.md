@@ -2,7 +2,6 @@
 title: Vaccination Appointment Booking
 permalink: /products/covid19vaccination
 ---
-
 ![Alt text for image on Isomer site](/images/VaccOps.png)
 ### Suite of systems built to accelerate vaccination throughput, enabling Singapore to achieve herd immunity against Covid-19
 
@@ -61,7 +60,7 @@ Chan Chi Ling <a href="https://github.com/chilingchan " style="display: inline-b
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a> | Christabel Png <a href="https://github.com/belpng" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a> | Foo Yongiie <a href="" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Foo Yongiie <a href="https://github.com/yong-jie" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a> | Ian Chen <a href="https://github.com/pregnantboy" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
