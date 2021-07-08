@@ -3,7 +3,7 @@ title: Vaccination Appointment Booking
 permalink: /products/covid19vaccination
 ---
 ![Alt text for image on Isomer site](/images/VaccOps.png)
-### Suite of systems built to accelerate vaccination throughput, enabling Singapore to achieve herd immunity against Covid-19
+### Suite of systems built to accelerate vaccination throughput, enabling Singapore to achieve herd immunity against COVID-19
 
 
 
@@ -33,7 +33,7 @@ There were a few challenges where technology could help, to support a smooth and
 	* Sends a confirmation SMS with appointment details once both appointments are secured 
 	* Sends appointment reminders via SMS to reduce no-show rates
 	* Allows patients to cancel or reschedule their appointments 
-* **Proxy booking system -** To ensure that less digitally savvy segments of the population can also access vaccines easily, we built a proxy booking system used by volunteers from People’s Association and Silver Generation Office to book appointments for seniors at Community Centres, or via house visits. 
+* **Proxy booking system -** To ensure that even the less digitally savvy segments of the population have access to vaccines easily, we built a proxy booking system used by volunteers from People’s Association and Silver Generation Office to book appointments for seniors at Community Centres, or via house visits. 
 * **Clinic administration system -** A clinic administration system is deployed across all 80 vaccination centres, polyclinics, and public health preparedness clinics (PHPCs) for tracking of daily appointments, patient rescheduling, and registration of walk-in patients. This enables vaccination centres to plan ahead for logistics and resupply, and helps patients without prior appointments to secure appointment slots for their second dose at point of a walk-in appointment (currently available for seniors).
 * **Vaccination records -** Once the vaccination has been completed, records are validated to ensure that data is consistent, complete, and securely stored. Business logic is applied on these records to derive an accurate  vaccination status. Downstream systems such as TraceTogether and HealthHub are therefore able to pull vaccination statuses for display on their frontends.
 * **Command-and-Control (C2) system -** For a complex mission with many moving pieces like a national vaccination rollout, decisions need to be guided by timely data. To enable data analysts and policymakers to monitor take-up across population segments and vaccination sites, we built a C2 system to provide an accurate and real-time read of the ground situation, and to better optimise demand and supply for vaccines. 
