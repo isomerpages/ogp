@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - covid-19.md
-      - instantaneous-covid-19-updates.md
+      - instant-covid-19-updates.md
       - mask-distribution.md
       - facilitate-antigen-rapid-testing.md
       - ensure-compliance-of-quarantine-orders.md
