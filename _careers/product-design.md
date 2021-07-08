@@ -3,7 +3,6 @@ permalink: /careers/product-design/
 title: Product Design
 breadcrumb: Product Designer
 ---
-
 > You bridge user needs and business goals. You make complex systems easy to use. You make the product work well and look good.
 
 Here is a look at what a Product Designer, Fiza Husin, has to say about working here.
@@ -36,21 +35,21 @@ You will work on meaningful projects that solve problems pertinent to our societ
 ### **Who we are looking for**
 We look for people who:
 
-* Have a demonstrated ability to designing products and experiences - Prior work and personal projects count for much more than specific degrees.
+* Have a demonstrated ability to designing products and experiences - Prior work and personal projects count for much more than specific degrees
 
-* Have a great visual design sense and an eye for detail - You should have a portfolio that showcases your prior work and be able to explain your design decisions.
+* Have a great visual design sense and an eye for detail - You should have a portfolio that showcases your prior work and be able to explain your design decisions
 
-* Are passionate about user-centered design - We look for experience with user research processes and an understanding of mobile-first and responsive design.
+* Are passionate about user-centered design - We look for experience with user research processes and an understanding of mobile-first and responsive design
 
-* You need proficiency in Figma and Adobe Creative Suite. Familiarity with HTML/CSS/JS and other web development technologies is a plus.
+* You need proficiency in Figma and Adobe Creative Suite. Familiarity with HTML/CSS/JS and other web development technologies is a plus
 
-* Communicate well with both users and engineers - You need to be comfortable taking feedback from laymen to inform your designs and then explaining those designs in sufficient detail to engineers for implementation.
+* Communicate well with both users and engineers - You need to be comfortable taking feedback from laymen to inform your designs and then explaining those designs in sufficient detail to engineers for implementation
 
-* Take initiative to make things happen - Our job is to push for change in government, so we need to challenge the status quo and not wait for instruction.
+* Take initiative to make things happen - Our job is to push for change in government, so we need to challenge the status quo and not wait for instruction
 
-* Want to work for the public good - We are public servants, we serve the public. This sometimes means ignoring political pressures and misguided policies. We need people who will push back if something is not in the public interest.
+* Want to work for the public good - We are public servants, we serve the public. This sometimes means ignoring political pressures and misguided policies. We need people who will push back if something is not in the public interest
 
-Overall we look for people who have ability, initiative, good communication, and strong values.
+Overall we look for people who have ability, initiative, good communication, and strong values
 
 <a href="https://opengovernmentproducts.recruitee.com/#section-89477" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
