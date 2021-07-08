@@ -2,7 +2,7 @@
 title: Quarantine Order Compliance
 permalink: /covid-19/quarantineordercompliance
 ---
-## Ensuring compliance of Quarantine Orders and Stay-Home-Notices
+## Ensuring compliance with Quarantine Orders and Stay-Home-Notices
 
 
 #### Products Involved:
