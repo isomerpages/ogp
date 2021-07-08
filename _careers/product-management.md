@@ -52,7 +52,7 @@ We look for people who:
 
 * Want to work for the public good - We are public servants, we serve the public. This sometimes means ignoring political pressures and misguided policies. We need people who will push back if something is not in the public interest
 
-Overall we look for people who have ability, initiative, good communication, and strong values
+Overall we look for people who have ability, initiative, good communication, and strong values.
  
 <a href="https://opengovernmentproducts.recruitee.com/#section-89477" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
