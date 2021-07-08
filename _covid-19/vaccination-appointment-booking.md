@@ -27,7 +27,7 @@ There were a few challenges where technology could help to support a smooth and 
 
 * **[Vaccine.gov.sg](https://vaccine.gov.sg) -** A landing site that provides up-to-date information on the Covid-19 vaccination programme, and directs people to pre-register.
 * **[Pre-registration system](https://preregister.vaccine.gov.sg) -** An online [FormSG](/products/formsg) form where everyone registers once to be notified via SMS when their turn arrives to schedule their vaccination appointments. This helps to titrate in demand based on different priority groups and vaccine availability. Every individual's pre-registration is authenticated and only pre-registrations from Singapore residents can be successfully submitted. 
-* **[National Appointment System (NAS)](http://appointments.vaccine.gov.sg) -** For patients whose turn to book appointments have come, they are sent a unique booking link to book appointments for both doses of the vaccine. The National Appointment System:
+* **[National Appointment System (NAS)](https://appointment.vaccine.gov.sg/) -** For patients whose turn to book appointments have come, they are sent a unique booking link to book appointments for both doses of the vaccine. The National Appointment System:
 	* Authenticates the patient 
 	* Conducts a demographic and medical triage to ascertain that the patient is medically fit to be administered the vaccine, and collects informed consent 
 	* Directs the patient to secure two doses, 28 to 56 days apart, at their preferred vaccination site and preferred time slots
