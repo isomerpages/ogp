@@ -8,7 +8,7 @@ permalink: /covid-19/maskdistribution
 
 With the shortage and uneven distribution of face masks across the nation at the start of the pandemic, there was a pressing need to develop a fast and cost-efficient way of distributing masks to citizens.
 
-Working with government agencies, we integrated RedeemSG's system in over 1000 mask vending machines to ensure that citizens could easily redeem free masks in their neighbourhoods. 
+Working with government agencies, we integrated [RedeemSG](/products/redeemsg/)'s system in over 1000 mask vending machines to ensure that citizens could easily redeem free masks in their neighbourhoods. 
 
 #### Our Impact
 * Facilitated over 20 million mask redemptions islandwide across 5 mask distribution campaigns
