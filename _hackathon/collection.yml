@@ -1,0 +1,23 @@
+collections:
+  hackathon:
+    output: true
+    order:
+      - about-hackathon.md
+      - hackathon-2021/.keep
+      - hackathon-2021/overview.md
+      - hackathon-2021/anythingmapper.md
+      - hackathon-2021/checkfirst.md
+      - hackathon-2021/chopchopdoc.md
+      - hackathon-2021/common-gov-sg.md
+      - hackathon-2021/dash.md
+      - hackathon-2021/diffindo.md
+      - hackathon-2021/govsearch.md
+      - hackathon-2021/handsy.md
+      - hackathon-2021/help-gov-sg.md
+      - hackathon-2021/lookback.md
+      - hackathon-2021/payments.md
+      - hackathon-2021/personalised-forms.md
+      - hackathon-2021/queue.md
+      - hackathon-2021/sanbaiqian.md
+      - hackathon-2021/transparency.md
+      - hackathon-2021/typesafe.md

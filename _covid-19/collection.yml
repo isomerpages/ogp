@@ -1,0 +1,10 @@
+collections:
+  covid-19:
+    output: true
+    order:
+      - covid-19.md
+      - instant-covid-19-updates.md
+      - mask-distribution.md
+      - antigen-rapid-testing.md
+      - quarantine-order-compliance.md
+      - vaccination-appointment-booking.md

@@ -1,0 +1,6 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - about-us.md
+      - meet-the-team.md

@@ -1,7 +1,7 @@
 ---
 layout: skeleton
 ---
-<style>
+<!-- <style>
     .bg-hero {
         background: url('{{site.baseurl}}/images/Hack2021Banner-FINAL.png') no-repeat top center;
         -webkit-background-size: cover;
@@ -13,68 +13,104 @@ layout: skeleton
         -webkit-background-size: cover;
         background-size: cover;
     }
+</style> -->
+
+<style>
+    .bg-hero {
+        background: url('{{site.baseurl}}/images/ogp_banner_7july.png') no-repeat top center;
+        -webkit-background-size: cover;
+        background-size: cover;
+    }
+
+    .bg-hero-bottom {
+        background: url('{{site.baseurl}}/images/peoplepattern.png') no-repeat top left;
+        -webkit-background-size: cover;
+        background-size: cover;
+    }
+    
+    #big-text {
+        font-size: calc(12px + 3.5vw);
+    }
+    
+    .no-tall-banner {
+        height: auto !important;
+        min-height: auto !important;
+    }
 </style>
 
 <section class="bp-hero bg-hero">
-    <div class="bp-hero-body">
+        <div class="bp-hero-body">
         <div class="bp-container margin--top--lg margin--bottom--lg">
-            <div class="row is-vcentered is-centered ma">
-                <div class="col has-text-white is-hidden-touch has-text-centered">
-<!--                     <h1 class="display padding--bottom--lg margin--none"><b>Build Technology for<br>the Public Good</b></h1>
+            <div class="row is-vcentered is-centered ma no-tall-banner">
+               <!-- <div class="col has-text-white is-hidden-touch has-text-centered"> 
+                    <h1 class="display padding--bottom--lg margin--none" style="color:#276ef1"><b>Build Technology for<br>the Public Good</b></h1> 
+                    <h1 class="display padding--bottom--lg margin--none"><b>Build Technology for<br>the Public Good</b></h1> 
+                   <a href="{{ site.baseurl }}/#careers" class="bp-button is-white is-outlined is-uppercase search-button">Join Us</a> 
+                   <a href="{{ site.baseurl }}/hackathon/2021" class="bp-button is-white is-outlined is-uppercase search-button">2021 Projects</a> 
+               </div> -->
+ <!--               <div class="has-text-white has-text-centered is-hidden-desktop">
+                    <h1 class="display padding--bottom--lg margin--none" style="font-size: 3.3rem; line-height: 4.25rem;"><b>Build Technology for the Public Good</b></h1>
                     <a href="{{ site.baseurl }}/#careers" class="bp-button is-white is-outlined is-uppercase search-button">Join Us</a> -->
-                    <a href="{{ site.baseurl }}/hackathon/2021" class="bp-button is-white is-outlined is-uppercase search-button">2021 Projects</a>
-                </div>
-                <div class="has-text-white has-text-centered is-hidden-desktop">
-<!--                     <h1 class="display padding--bottom--lg margin--none" style="font-size: 3.3rem; line-height: 4.25rem;"><b>Build Technology for the Public Good</b></h1>
-                    <a href="{{ site.baseurl }}/#careers" class="bp-button is-white is-outlined is-uppercase search-button">Join Us</a> -->
-                    <a href="{{ site.baseurl }}/hackathon/2021" class="bp-button is-white is-outlined is-uppercase search-button">2021 Projects</a>
-                </div>
+<!--                    <a href="{{ site.baseurl }}/hackathon/2021" class="bp-button is-white is-outlined is-uppercase search-button">2021 Projects</a>
+                </div> -->
             </div>
+            <div id="big-text">
+                <span class="" style="  text-transform: uppercase; font-weight: 900; font-style: normal; color: rgb(85, 85, 85); text-decoration: none; text-shadow: 1.5px 1.5px rgb(192, 192, 192);">we build <br> technology for <br> the</span>
+                <span class="" style="  text-transform: uppercase; font-weight: 900; font-style: normal; color: rgb(39, 110, 241); text-decoration: none; text-shadow: 1.5px 1.5px rgb(192, 192, 192);"> public good.</span>
+           </div>
         </div>
     </div>
 </section>
 
 <section class="bp-section">
     <div class="bp-container padding--bottom--lg">
-    <div class="row">
+        <a href="{{site.baseurl}}/aboutus/">
+        <div class="row">
             <div class="col is-8 is-offset-2 has-text-centered padding--top--xl">
                 <p class="padding--bottom eyebrow is-uppercase">
                     About Us
                 </p>
-                <h1 class="padding--bottom has-text-secondary"><b>Our philosophy</b></h1>
-            </div>
+                <h1 class="padding--bottom has-text-secondary"><b>Who we are</b></h1>
+                <h3 class="padding--top padding--bottom" style="color:rgb(85, 85, 85)"><center>We are an experimental development team built from the ground up to function like a modern tech company working on public sector problems.</h3></center><br><br>
+                <h3 class="padding--top padding--bottom"><center><b>At Open Government Products, we:</h3></b></center>
+
+            </div>   
+        
     </div>
+            </a>
 
         <div class="row margin--top padding--bottom">
             <div class="col is-one-third">
                 <div class="text-card is-white">
-                    <img class="text-card-icon padding--bottom--sm" src="{{site.baseurl}}/images/solve.svg" />
-                    <h4 class="padding--top has-text-secondary padding--bottom"><b>Solve Real Problems</b></h4>
-                    <p>Work on meaningful projects from communications to healthcare. Use your skills to fix actual problems faced in the community, not just to optimise profit.</p>
+                    <center><img class="text-card-icon padding--bottom--sm" src="{{site.baseurl}}/images/solve.svg" /></center>
+                    <h4 class="padding--top has-text-secondary padding--bottom"><b><center>Solve Real Problems</center></b></h4>
+                    <p><center>Work on meaningful projects from communications to healthcare. Use your skills to fix actual problems in the community, not to optimise profit.</center></p>
                 </div>
-
             </div>
+            
             <div class="col is-one-third">
                 <div class="text-card is-white">
-                    <img class="text-card-icon padding--bottom--sm" src="{{site.baseurl}}/images/build.svg" />
-                    <h4 class="padding--top has-text-secondary padding--bottom"><b>Build for the User</b></h4>
-                    <p>Design and build products based on what real people actually need, whether they are members of the public or civil servants.</p>
+                    <center><img class="text-card-icon padding--bottom--sm" src="{{site.baseurl}}/images/build.svg"/></center>
+                    <h4 class="padding--top has-text-secondary padding--bottom"><b><center>Build for the User</center></b></h4>
+                    <p><center>Design and build products based on what real people actually need, whether they are members of the public or public servants.</center></p>
                 </div>
-
             </div>
+            
             <div class="col is-one-third">
                 <div class="text-card is-white">
-                    <img class="text-card-icon padding--bottom--sm" src="{{site.baseurl}}/images/push.svg" />
-                    <h4 class="padding--top has-text-secondary padding--bottom"><b>Push For Change</b></h4>
-                    <p>Actively prototype and evangelize ideas to make real things happen. Work around or cut through bureaucracy.</p>
+                    <center><img class="text-card-icon padding--bottom--sm" src="{{site.baseurl}}/images/push.svg" /></center>
+                    <h4 class="padding--top has-text-secondary padding--bottom"><b><center>Push For Change</center></b></h4>
+                    <p><center>Actively prototype and evangelize ideas to make real things happen. Work around or cut through bureaucracy.</center></p>
                 </div>
             </div>
+            
         </div>
     </div>
 </section>
 
 <section class="bp-section padding--left--none padding--right--none" style="background-color:#276ef1">
     <div class="bp-container product-container">
+       <a href="{{site.baseurl}}/products/overview/">
         <div class="row">
             <div class="col is-8 is-offset-2 has-text-centered padding--top--xl">
                 <p class="padding--bottom eyebrow is-uppercase has-text-white">
@@ -83,101 +119,88 @@ layout: skeleton
                 <h1 class="padding--bottom has-text-white padding--left--xl padding--right--xl"><b>Things we've made</b></h1>
             </div>
         </div>
+        </a>
         <div class="row product-row padding--top--xl padding--bottom--xl">
-        <div class="col is-half padding--top--xl padding--bottom--xl product-image" style="background-image: url('{{site.baseurl}}/images/data-mockup.png')">
+        <div class="col is-half padding--top--xl padding--bottom--xl product-image" style="background-image: url('{{site.baseurl}}/images/VaccOps.png')">
             </div>
             <div class="col is-half padding--top--lg padding--bottom--lg padding--left--xl padding--right--xl">
-                <h4 class="has-text-white padding--bottom"><b>Data.gov.sg</b></h4>
-                <p class="has-text-white">A open repository of all the Singapore Government's public data. It helps people understand the data using visualizations and articles, and provides realtime APIs for developers to use.</p>
-                <a href="https://www.data.gov.sg" class="padding--top--lg padding--bottom is-block" target="_blank">
+                <h4 class="has-text-white padding--bottom"><b>COVID-19 Vaccination Booking</b></h4>
+                <p class="has-text-white">Suite of systems enabling Singaporeans to book their COVID-19 vaccination appointments.</p>
+                <a href="{{site.baseurl}}/covid-19/covid19vaccination" class="padding--top--lg padding--bottom is-block" target="_blank">
                     <div class="bp-button is-white is-outlined is-uppercase search-button">
-                        Visit Website
+                        Learn More
                     </div>
                 </a>
             </div>
         </div>
         <div class="row product-row padding--top--xl padding--bottom--xl">
             <div class="col is-half padding--top--lg padding--bottom--lg padding--left--xl padding--right--xl">
-                <h4 class="has-text-white padding--bottom "><b>Beeline</b></h4>
-                <p class="has-text-white">Beeline is a data-driven shuttle bus platform. Bus routes are created from user suggestions and public transport usage data. Users can book, pay for, and track rides using a mobile app.</p>
-                <a href="https://www.beeline.sg" class="padding--top--lg padding--bottom is-block" target="_blank">
+                <h4 class="has-text-white padding--bottom "><b>Parking.SG</b></h4>
+                <p class="has-text-white">Parking.sg is a mobile application that allows drivers to pay for their parking sessions, receive reminders, and extend their parking sessions, straight from their mobile phones.</p>
+                <a href="{{site.baseurl}}/products/parkingsg" class="padding--top--lg padding--bottom is-block" target="_blank">
                     <div class="bp-button is-white is-outlined is-uppercase search-button">
-                        Visit Website
+                        Learn More
                     </div>
                 </a>
         </div>
-        <div class="col is-half padding--top--xl padding--bottom--xl product-image" style="background-image: url('{{site.baseurl}}/images/beeline-mockup.png')">
+        <div class="col is-half padding--top--xl padding--bottom--xl product-image" style="background-image: url('{{site.baseurl}}/images/parkingsg.png')">
             </div>
         </div>
         <div class="row product-row padding--top--xl padding--bottom--xl">
-            <div class="col is-half padding--top--xl padding--bottom--xl product-image" style="background-image: url('{{site.baseurl}}/images/form-mockup.png')">
+            <div class="col is-half padding--top--xl padding--bottom--xl product-image" style="background-image: url('{{site.baseurl}}/images/go.gov.sg.png')">
             </div>
         <div class="col is-half padding--top--lg padding--bottom--lg padding--left--xl padding--right--xl">
-                <h4 class="has-text-white padding--bottom "><b>Form.gov.sg</b></h4>
-                <p class="has-text-white">Form.gov.sg is a form builder tool for agencies to self-service and create online forms that capture classified data, with the goal of replacing paper forms.</p>
-                <a href="https://form.gov.sg" class="padding--top--lg padding--bottom is-block" target="_blank">
-                    <div class="bp-button is-white is-outlined is-uppercase search-button">
-                        Visit Website
-                    </div>
-                </a>
-            </div>
-        </div>
-        <div class="row product-row padding--top--xl padding--bottom--xl">
-            <div class="col is-half padding--top--lg padding--bottom--lg padding--left--xl padding--right--xl">
-                <h4 class="has-text-white padding--bottom "><b>Parking.sg</b></h4>
-                <p class="has-text-white">Parking.sg is a mobile app alternative to parking coupons. It lets users pay, extend, and refund their parking sessions just using their phones.</p>
-                <a href="https://parking.sg" class="padding--top--lg padding--bottom is-block" target="_blank">
-                    <div class="bp-button is-white is-outlined is-uppercase search-button">
-                        Visit Website
-                    </div>
-                </a>
-            </div>
-            <div class="col is-half padding--top--xl padding--bottom--xl product-image" style="background-image: url('{{site.baseurl}}/images/parking-mockup.png')">
-            </div>
-        </div>
-        <div class="row product-row padding--top--xl padding--bottom--xl">
-            <div class="col is-half padding--top--xl padding--bottom--xl product-image" style="background-image: url('{{site.baseurl}}/images/isomer-mockup.png')">
-            </div>
-            <div class="col is-half padding--top--lg padding--bottom--lg padding--left--xl padding--right--xl">
-                <h4 class="has-text-white padding--bottom "><b>Isomer</b></h4>
-                <p class="has-text-white">Isomer is a static website building and hosting service that helps government agencies create usable informational websites quickly and at no cost.</p>
-                <a href="https://www.isomer.gov.sg" class="padding--top--lg padding--bottom is-block" target="_blank">
-                    <div class="bp-button is-white is-outlined is-uppercase search-button">
-                        Visit Website
-                    </div>
-                </a>
-            </div>
-        </div>
-        <div class="row product-row padding--top--xl padding--bottom--xl">
-            <div class="col is-half padding--top--lg padding--bottom--lg padding--left--xl padding--right--xl">
-                <h4 class="has-text-white padding--bottom "><b>OpenDoc</b></h4>
-                <p class="has-text-white">OpenDoc is a simple and easy way to make documents easily searchable and available to the public. Public servants can modify, track changes and submit edit requests easily on the platform.</p>
-                <a href="https://opendoc.gov.sg" class="padding--top--lg padding--bottom is-block" target="_blank">
-                    <div class="bp-button is-white is-outlined is-uppercase search-button">
-                        Visit Website
-                    </div>
-                </a>
-            </div>
-            <div class="col is-half padding--top--xl padding--bottom--xl product-image" style="background-image: url('{{site.baseurl}}/images/opendoc-mockup.png')">
-            </div>
-        </div>
-        <div class="row product-row padding--top--xl padding--bottom--xl">
-            <div class="col is-half padding--top--xl padding--bottom--xl product-image" style="background-image: url('{{site.baseurl}}/images/gosg-mockup.png')">
-            </div>
-            <div class="col is-half padding--top--lg padding--bottom--lg padding--left--xl padding--right--xl">
                 <h4 class="has-text-white padding--bottom "><b>Go.gov.sg</b></h4>
-                <p class="has-text-white">Go.gov.sg is a government link shortener. Stop using bit.ly or tinyurl, and shorten your links with a trustworthy .gov.sg domain so your users know it's not phishing.</p>
-                <a href="https://go.gov.sg" class="padding--top--lg padding--bottom is-block" target="_blank">
+                <p class="has-text-white">Go.gov.sg is the offical government link shortener, granting legitimacy to content shared by public officers.</p>
+                <a href="{{site.baseurl}}/products/gogovsg" class="padding--top--lg padding--bottom is-block" target="_blank">
                     <div class="bp-button is-white is-outlined is-uppercase search-button">
-                        Visit Website
+                        Learn More
+                    </div>
+                </a>
+            </div>
+        </div>
+        <div class="row product-row padding--top--xl padding--bottom--xl">
+            <div class="col is-half padding--top--lg padding--bottom--lg padding--left--xl padding--right--xl">
+                <h4 class="has-text-white padding--bottom "><b>ScamShield</b></h4>
+                <p class="has-text-white">ScamShield is a mobile app that actively works in the background to filter scam messages and calls from numbers used in illegal activities, preventing scammers from contacting you.</p>
+                <a href="{{site.baseurl}}/products/scamshield" class="padding--top--lg padding--bottom is-block" target="_blank">
+                    <div class="bp-button is-white is-outlined is-uppercase search-button">
+                        Learn More
+                    </div>
+                </a>
+            </div>
+            <div class="col is-half padding--top--xl padding--bottom--xl product-image" style="background-image: url('{{site.baseurl}}/images/scamshield.png')">
+            </div>
+        </div>
+        <div class="row product-row padding--top--xl padding--bottom--xl">
+            <div class="col is-half padding--top--xl padding--bottom--xl product-image" style="background-image: url('{{site.baseurl}}/images/formsg.png')">
+            </div>
+            <div class="col is-half padding--top--lg padding--bottom--lg padding--left--xl padding--right--xl">
+                <h4 class="has-text-white padding--bottom"><b>FormSG</b></h4>
+                <p class="has-text-white">FormSG is an electronic form builder with advanced features that allow public officers to build and launch forms within minutes.</p>
+                <a href="{{site.baseurl}}/products/formsg" class="padding--top--lg padding--bottom is-block" target="_blank">
+                    <div class="bp-button is-white is-outlined is-uppercase search-button">
+                        Learn More
                     </div>
                 </a>
             </div>
         </div>
     </div>
+     <div class="bp-container">
+        <div class="row">
+            <div class="col is-8 is-offset-2 has-text-centered padding--top--lg padding--bottom--lg has-text-white">
+                <h2 class="padding--bottom" style="font-weight: bold">Learn about the rest of our products.</h2>
+                <a href="{{site.baseurl}}/products/overview/">
+                    <div class="bp-button is-white is-outlined is-uppercase search-button" target="_blank">
+                       Product Overview
+                    </div>
+                </a> 
+            </div>
+        </div>
+    </div>
 </section>
 
-<section class="bp-section padding--top--none padding--bottom--none padding--left--none padding--right--none" style="background-color: black">
+<!-- <section class="bp-section padding--top--none padding--bottom--none padding--left--none padding--right--none" style="background-color: black">
     <div class="bp-container is-fluid margin--left--none">
         <div class="row">
             <div class="col is-half padding--top--none padding--bottom--none" style="overflow: hidden; background-size: cover; background-position: top; background-image: url('{{site.baseurl}}/images/bg_how_we_do_it.png')">
@@ -193,10 +216,13 @@ layout: skeleton
             </div>
         </div>
     </div>
-</section>
+</section> -->
+
+
 
 <section class="bp-section" id="careers">
     <div class="bp-container padding--bottom--lg">
+        <a href="{{site.baseurl}}/careers/overview/">
         <div class="row">
             <div class="col is-8 is-offset-2 has-text-centered padding--top--xl">
                 <p class="padding--bottom eyebrow is-uppercase">
@@ -205,56 +231,54 @@ layout: skeleton
                 <h1 class="padding--bottom has-text-secondary"><b>Join us</b></h1>
             </div>
         </div>
+        </a>
         <div class="row margin--top padding--bottom">
             <div class="col is-one-third">
                 <div>
-                    <img src="{{site.baseurl}}/images/product-manager.svg" />
+                   <center><img src="{{site.baseurl}}/images/product-manager.svg" /></center>
                 </div>
-                <h4 class="padding--top--lg has-text-secondary"><b>Product Manager</b></h4>
-                <p class="padding--top--sm">You chart the product goals. You plug gaps and gel everything together. You wear many hats to drive the project forward.</p>
-                <a href="{{site.baseurl}}/careers/product-manager/" class="bp-sec-button margin--top padding--bottom">
+                <center><h4 class="padding--top--lg has-text-secondary"><b>Product Manager</b></h4></center>
+                <center><p class="padding--top--sm">You chart product goals. You plug gaps and gel things together to drive the project forward.</p>
+                <a href="{{site.baseurl}}/careers/product-management/" class="bp-sec-button margin--top padding--bottom"></center>
                     <div>
-                        <span>Read More</span>
-                        <i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
+                        <center><span>Read More</span></center>
                     </div>
                 </a>
             </div>
             <div class="col is-one-third">
                 <div>
-                    <img src="{{site.baseurl}}/images/software-engineer.svg" />
+                   <center><img src="{{site.baseurl}}/images/software-engineer.svg" /></center>
                 </div>
-                <h4 class="padding--top--lg has-text-secondary"><b>Software Engineer</b></h4>
-                <p class="padding--top--sm">You solve problems. You design and build systems and make sure they work.</p>
-                <a href="{{site.baseurl}}/careers/software-engineer/" class="bp-sec-button margin--top padding--bottom">
+                <center><h4 class="padding--top--lg has-text-secondary"><b>Software Engineer</b></h4><center>
+                <center><p class="padding--top--sm">You solve problems. You design and build systems and make sure they work.</p><center>
+                <center><a href="{{site.baseurl}}/careers/software-engineer/" class="bp-sec-button margin--top padding--bottom"></center>
                     <div>
-                        <span>Read More</span>
-                        <i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
+                        <center><span>Read More</span></center>
                     </div>
                 </a>
             </div>
             <div class="col is-one-third">
                 <div>
-                    <img src="{{site.baseurl}}/images/product-designer.svg" />
+                    <center><img src="{{site.baseurl}}/images/product-designer.svg" /></center>
                 </div>
-                <h4 class="padding--top--lg has-text-secondary"><b>Product Designer</b></h5>
-                <p class="padding--top--sm">You bridge user needs and business goals. You make the product work well and look good.</p>
-                <a href="{{site.baseurl}}/careers/product-designer/" class="bp-sec-button margin--top padding--bottom">
+                <center><h4 class="padding--top--lg has-text-secondary"><b>Product Designer</b></h5></center>
+                <center><p class="padding--top--sm">You bridge user needs and business goals. You make the product work well and look good.</p></center>
+                <center><a href="{{site.baseurl}}/careers/product-design/" class="bp-sec-button margin--top padding--bottom"></center>
                     <div>
-                        <span>Read More</span>
-                        <i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
+                        <center><span>Read More</span></center>
                     </div>
                 </a>
             </div>
         </div>
     </div>
-</section>
+</section> 
 
 <section class="bp-section" style="background: #F7F7F7;">
     <div class="bp-container">
             <div class="internship-row has-text-centered">
-                <img src="{{site.baseurl}}/images/interns.svg" alt="Interns"/>
+                <img src="https://d33wubrfki0l68.cloudfront.net/3e76842c9384d514eab29b0cb24ad8128de5efb7/f2b05/images/interns.svg" alt="Interns"/>
                 <span style="color:#000000; font-size: 30px !important;">are welcome all year round</span>
-                <a href="{{site.baseurl}}/careers/internships/" class="padding--top padding--bottom is-block">
+                <a href="/careers/internships/" class="padding--top padding--bottom is-block">
                     <div class="bp-button is-uppercase cta-button">
                         Learn More
                     </div>
@@ -264,14 +288,16 @@ layout: skeleton
     <div>
 </section>
 
+
+
 <section class="bp-section bg-hero-bottom">
     <div class="bp-container">
         <div class="row">
             <div class="col is-8 is-offset-2 has-text-centered padding--top--xl padding--bottom--xl has-text-white">
-                <h2 class="padding--bottom" style="font-weight: bold">We are growing and looking for talented individuals to help us on our mission – build systems and improve public good.</h2>
+                <h2 class="padding--bottom" style="font-weight: bold">Join us on our mission to build tech for public good.</h2>
                 <a href="https://go.gov.sg/join-ogp">
                     <div class="bp-button is-white is-outlined is-uppercase search-button" target="_blank">
-                        Be Part of the Team
+                        Apply Now
                     </div>
                 </a>
             </div>

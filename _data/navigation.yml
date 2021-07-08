@@ -1,14 +1,26 @@
-logo: /images/Logo_Hori.svg
+logo: /images/ogp-logo-spacing.png
 links:
+  - title: About Us
+    collection: about-us
   - title: Careers
     url: /careers/product-manager/
     collection: careers
-  - title: Our products
+  - title: Products
     url: /products/datagovsg/
     collection: products
+  - title: COVID-19
+    url: /covid19/instantaneous-updates
   - title: Hackathon
     url: /hackathon/about/
     collection: hackathon
-  - title: CONTACT US
+  - title: More
+    url: /media
+    sublinks:
+      - title: Media
+        url: /media
+      - title: Blog
+        url: https://medium.com/open-government-products
+      - title: Open Source
+        url: /resources/opensource
+  - title: Contact Us
     url: /contact-us/
-
