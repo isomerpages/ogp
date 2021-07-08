@@ -2,9 +2,8 @@
 title: Antigen Rapid Testing
 permalink: /products/antigenrapidtesting
 ---
-
 ![Alt text for image on Isomer site](/images/ART.png)
-### Border Entry and Pre-event Antigen Rapid Testing (ART) System 
+### Border entry and pre-event Antigen Rapid Testing (ART) system 
 
 
 #### Background 
