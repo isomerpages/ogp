@@ -1,7 +1,8 @@
 ---
 title: Vaccination Appointment Booking
-permalink: /products/covid19vaccination
+permalink: /covid19/covid19vaccination
 ---
+
 ![Alt text for image on Isomer site](/images/VaccOps.png)
 ### Suite of systems built to enable COVID-19 vaccinations in Singapore
 
