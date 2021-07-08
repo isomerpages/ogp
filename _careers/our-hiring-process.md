@@ -22,7 +22,7 @@ Whilst our specific hiring process varies between roles, we hold a common philos
 * We don't believe in running an excessive number of interviews. We run 3-4 assessment rounds (including screening) for permanent roles, and 2 rounds for internships
 * Our end-to-end hiring process typically takes 3-5 weeks, mainly due to scheduling and time needed for any take home assignments. We fast track any applicants who need answers sooner (our record is 7 days from application to offer!)
 
-**You will be evaluated on real-world performance relevant to the role, and not arbitrary nor theoretical brainteasers.** *The best candidate assessments are ones which focus on how well a candidate would do in the job.*
+**You will be evaluated on real-world performance relevant to the role, and not arbitrary nor theoretical brainteasers.** *The best candidate assessments are the ones which focus on how well a candidate would do in the job.*
 * We focus on assessing realistic workpieces such as portfolios, skill-based tests, and written assignments. 
 * We ask specific role-based questions to assess how well you’d do on the job rather than just your interviewing skills.
 * We do not ask ‘gotcha’ questions or random brainteasers.
