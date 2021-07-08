@@ -1,7 +1,8 @@
 ---
 title: Antigen Rapid Testing
-permalink: /covid19/antigenrapidtesting
+permalink: /covid-19/antigenrapidtesting
 ---
+
 
 ![Alt text for image on Isomer site](/images/ART.png)
 ### Border entry and pre-event Antigen Rapid Testing (ART) system 
