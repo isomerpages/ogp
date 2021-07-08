@@ -3,18 +3,20 @@ title: Vaccination Appointment Booking
 permalink: /products/covid19vaccination
 ---
 ![Alt text for image on Isomer site](/images/VaccOps.png)
-### Suite of systems built to accelerate vaccination throughput, enabling Singapore to achieve herd immunity against COVID-19
+### Suite of systems built to enable COVID-19 vaccinations in Singapore
 
 
 
 #### Background 
 
-In late December 2020, Singapore commenced its first nation-wide vaccination rollout of the Covid-19 vaccine in phases for our population. Amidst vaccine supply uncertainty, there was a need to match demand and supply of vaccines with precision for different population segments, and across more than 80 vaccination centres island-wide. As this was an exercise of unprecedented scale for Singapore, there was a need to stand up a suite of systems that could support the operation end-to-end in quick time. 
-There were a few challenges where technology could help, to support a smooth and effective rollout of the programme:
+In late December 2020, Singapore commenced its nation-wide vaccination rollout of the Covid-19 vaccine. Amidst vaccine supply uncertainty, there was a need to match demand and supply of vaccines with precision for different population segments, and across more than 80 vaccination centres island-wide. As this was an exercise of unprecedented scale for Singapore, there was a need to quickly build a suite of systems that could support the operation end-to-end.
+
+
+There were a few challenges where technology could help to support a smooth and effective rollout of the programme:
 * The need to phase in demand by mobilising the population based on an order of priority, given availability of the vaccine
 * A seamless user experience that would encourage users of all age groups to book, including seniors and other population segments that might be less digitally savvy
-* Given the high volume anticipated, any solution will need to withstand exceptionally high traffic
-* Public trust is paramount - any solution deployed will need to instil public confidence, and assure people that they will receive vaccines within a reasonable time frame 
+* Given the high volume anticipated, any solution would need to withstand exceptionally high traffic
+* Public trust was paramount - any solution deployed would need to instill public confidence, and assure people that they would receive vaccines within a reasonable time frame 
 * Reduction of no-show rates, by providing timely appointment reminders
 * Accurate and consistent record-keeping of who had been vaccinated, with what brand of the vaccine, and when it was effective
 * Need for real-time operational awareness for decision support amidst uncertainty
