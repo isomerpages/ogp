@@ -7,7 +7,7 @@ breadcrumb: Internship
 
 ### **What does it mean to be an OGP intern?**
 
-**Getting hands-on learning.**  We believe that the best learning is done by having our interns be hands-on working on things which matter. You will be treated like our full-timers and work alongside the rest of the product / corporate team on real products and work. We do not believe in creating theoretical research or vanity projects for interns to do which will not see the light of day.
+**Getting hands-on learning.**  We believe that the best learning is done by having our interns be hands-on working on things which matter. You will be treated like our full-timers and work alongside the rest of the product / corporate team on real products and work. We do not believe in creating theoretical research or vanity projects for interns to do, which will not see the light of day.
 
 **Taking ownership of your work.** We believe that we hire the best and brightest, and will trust our people and interns with the autonomy to do their best work. Your will have your views treated with equal respect on the team. You will be able to push and prototype your ideas, and will be given the space to work on things you believe matter, even if we don’t assign these specific things to you. Our interns have presented their work and ideas to Ministers.
 
@@ -17,7 +17,7 @@ breadcrumb: Internship
 
 We have had interns work alongside us on nearly every single product and corporate function in OGP. You will be working closely with our full-timers to contribute to existing projects. 
 
-Whether you aspire to be part of a Corporate Team running tech organisations, or building tech for public good as a [Software Engineer](/careers/software-engineer/), [Product Designer](/careers/product-designer/), or [Product Manager](/careers/product-manager/), you will have the opportunity to experience day-to-day OGP life and contribute your skills and ideas the same way our full-timers do.
+Whether you aspire to be part of a corporate team running tech organisations, or building tech for public good as a [Software Engineer](/careers/software-engineer/), [Product Designer](/careers/product-designer/), or [Product Manager](/careers/product-manager/), you will have the opportunity to experience day-to-day OGP life and contribute your skills and ideas the same way our full-timers do.
 
 [Read more](https://medium.com/open-government-products/tagged/careers) about what our previous interns have done
 
