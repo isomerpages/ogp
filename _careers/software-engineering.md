@@ -2,7 +2,6 @@
 title: Software Engineering
 permalink: /careers/software-engineer
 ---
-
 > You solve problems. You design and build systems and make sure it works.
 
 Here is a look at what a Software Engineer, Pallani Kumaran, has to say about working here.
@@ -38,15 +37,15 @@ We work mostly in Javascript with some Python on the backend. However, we don’
 
 We look for people who:
 
-* Have a demonstrated ability to build software - Prior work and personal projects count for much more than specific degrees.
+* Have a demonstrated ability to build software - Prior work and personal projects count for much more than specific degrees
 
-* Write code to solve abstract programming problems - Clear thinking, the ability to debug, and understanding the limits of an approach matter much more than getting the “correct” answer.
+* Write code to solve abstract programming problems - Clear thinking, the ability to debug, and understanding the limits of an approach matter much more than getting the “correct” answer
 
-* Talk and reason about code with other engineers - We work as a team so you need to be able to not just solve problems, but have other people understand your solutions.
+* Talk and reason about code with other engineers - We work as a team so you need to be able to not just solve problems, but have other people understand your solutions
 
-* Take initiative to make things happen - Our job is to push for change in government, so we need to challenge the status quo and not wait for instruction.
+* Take initiative to make things happen - Our job is to push for change in government, so we need to challenge the status quo and not wait for instruction
 
-* Want to work for the public good - We are public servants, we serve the public. This sometimes means ignoring political pressures and misguided policies. We need people who will push back if something is not in the public interest.
+* Want to work for the public good - We are public servants, we serve the public. This sometimes means ignoring political pressures and misguided policies. We need people who will push back if something is not in the public interest
 
 Overall we look for people who have ability, initiative, good communication, and strong values.
 
