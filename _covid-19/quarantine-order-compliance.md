@@ -9,7 +9,7 @@ permalink: /covid-19/quarantineordercompliance
 
 ![Alt text for image on Isomer site](/images/logos-quarantine.png)
 
-Homer was launched as an OGP Hackathon project at the start of the COVID-19 pandemic as a way to help reduce the spread of the virus by ensuring that potential carriers complied with their Quarantine Orders or Stay-Home-Notices. The monitoring can be done in 2 ways: 
+[Homer](/products/homer/) was launched as an OGP Hackathon project at the start of the COVID-19 pandemic as a way to help reduce the spread of the virus by ensuring that potential carriers complied with their Quarantine Orders or Stay-Home-Notices. The monitoring can be done in 2 ways: 
 
 **(1) The Spot-Check Method**
 
