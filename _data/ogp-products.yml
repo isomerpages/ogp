@@ -1,3 +1,8 @@
+- title: CHECKFIRST
+  image: /images/CheckFirst.png
+  sum: Calculator and eligibility builder for the government
+  link: /products/checkfirst
+  
 - title: DATA.GOV.SG
   image: /images/data.gov.sg.png
   sum: Open repository for Singapore’s public data
@@ -63,7 +68,3 @@
   sum: Block unsolicited messages and calls
   link: /products/scamshield
 
-- title: CHECKFIRST
-  image: /images/CheckFirst.png
-  sum: Calculator and eligibility builder for the government
-  link: /products/checkfirst
