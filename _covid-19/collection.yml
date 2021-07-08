@@ -4,7 +4,7 @@ collections:
     order:
       - covid-19.md
       - instantaneous-covid-19-updates.md
-      - distribute-masks-across-the-nation.md
+      - mask-distribution.md
       - facilitate-antigen-rapid-testing.md
       - ensure-compliance-of-quarantine-orders.md
       - facilitate-appointment-booking-for-vaccination.md
