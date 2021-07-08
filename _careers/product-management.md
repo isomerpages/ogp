@@ -3,9 +3,6 @@ permalink: /careers/product-management/
 title: Product Management
 breadcrumb: Product Manager
 ---
-
-
-
 > You chart the product goals. You plug gaps and gel everything together. You wear many hats to drive the project forward.
 
 Here is a look at what a Product Manager, Chua Swee Chin, has to say about working here.
@@ -51,11 +48,11 @@ We look for people who:
 
 * Have solid communication skills - You need to be able to write clearly and concisely, give good presentations, and know how to get people working together
 
-* Take initiative to make things happen - Our job is to push for change in government, so we need to challenge the status quo and not wait for instruction.
+* Take initiative to make things happen - Our job is to push for change in government, so we need to challenge the status quo and not wait for instruction
 
-* Want to work for the public good - We are public servants, we serve the public. This sometimes means ignoring political pressures and misguided policies. We need people who will push back if something is not in the public interest.
+* Want to work for the public good - We are public servants, we serve the public. This sometimes means ignoring political pressures and misguided policies. We need people who will push back if something is not in the public interest
 
-Overall we look for people who have ability, initiative, good communication, and strong values.
+Overall we look for people who have ability, initiative, good communication, and strong values
  
 <a href="https://opengovernmentproducts.recruitee.com/#section-89477" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
