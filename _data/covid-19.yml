@@ -1,24 +1,24 @@
-- title: INSTANT UPDATES
+- title: Instant Updates
   image: /images/icon_updates.png
   sum: Mass sending of instantaneous COVID-19 updates to citizens
   link: /covid-19/instantupdates
 
-- title: MASK DISTRIBUTION
+- title: Mask Distribution
   sum: Distributing masks to citizens through island-wide campaigns
   image: /images/icon_masks.png
   link: /covid-19/maskdistribution
 
-- title: ANTIGEN RAPID TEST
+- title: Antigen Rapid Test
   image: /images/icon_art.png
   sum: Facilitating pre-event Antigen Rapid Testing
   link: /covid-19/antigenrapidtesting
 
-- title: QUARANTINE ORDERS
+- title: Quarantine Orders
   image: /images/icon_quarantine.png
   sum: Ensuring compliance of Quarantine and Stay Home Notices
   link: /covid-19/quarantineordercompliance
 
-- title: VACCINATION SYSTEM
+- title: Vaccination System
   image: /images/icon_vaccine.png
   sum: Accelerating vaccination throughput to achieve herd immunity against COVID-19
   link: /covid-19/covid19vaccination
