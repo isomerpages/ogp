@@ -1,7 +1,8 @@
 ---
 title: COVID-19
-permalink: /covid19/instantaneous-updates
+permalink: /covid-19
 ---
+
 ![Alt text for image on Isomer site](/images/covid-banner.png)
 
 Since January 2020, Open Government Products has been working to develop and adapt digital tools to help Singapore fight the spread of COVID-19 and adjust to the constantly evolving pandemic. 
