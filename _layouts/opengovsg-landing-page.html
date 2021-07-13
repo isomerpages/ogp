@@ -17,7 +17,7 @@ layout: skeleton
 
 <style>
     .bg-hero {
-        background: url('{{site.baseurl}}/images/ogp_banner_9july.png') no-repeat top center;
+        background: url('{{site.baseurl}}/images/home-banner.png') no-repeat top center;
         -webkit-background-size: cover;
         background-size: cover;
     }
@@ -28,6 +28,12 @@ layout: skeleton
         background-size: cover;
     }
     
+    .hero-text-container {
+        /* Banner is 450px, padding-top/bottom is 3rem each */
+        top: 175px; 
+        transform: translateY(-50%);
+    }
+
     #big-text {
         font-size: calc(12px + 3.5vw);
     }
@@ -36,55 +42,57 @@ layout: skeleton
         height: auto !important;
         min-height: auto !important;
     }
+    
 </style>
 
 <section class="bp-hero bg-hero">
-        <div class="bp-hero-body">
-        <div class="bp-container margin--top--lg margin--bottom--lg">
+    <div class="bp-hero-body" style="min-height: 450px">
+        <div class="bp-container hero-text-container">
             <div class="row is-vcentered is-centered ma no-tall-banner">
-               <!-- <div class="col has-text-white is-hidden-touch has-text-centered"> 
-                    <h1 class="display padding--bottom--lg margin--none" style="color:#276ef1"><b>Build Technology for<br>the Public Good</b></h1> 
-                    <h1 class="display padding--bottom--lg margin--none"><b>Build Technology for<br>the Public Good</b></h1> 
-                   <a href="{{ site.baseurl }}/#careers" class="bp-button is-white is-outlined is-uppercase search-button">Join Us</a> 
-                   <a href="{{ site.baseurl }}/hackathon/2021" class="bp-button is-white is-outlined is-uppercase search-button">2021 Projects</a> 
-               </div> -->
- <!--               <div class="has-text-white has-text-centered is-hidden-desktop">
-                    <h1 class="display padding--bottom--lg margin--none" style="font-size: 3.3rem; line-height: 4.25rem;"><b>Build Technology for the Public Good</b></h1>
-                    <a href="{{ site.baseurl }}/#careers" class="bp-button is-white is-outlined is-uppercase search-button">Join Us</a> -->
-<!--                    <a href="{{ site.baseurl }}/hackathon/2021" class="bp-button is-white is-outlined is-uppercase search-button">2021 Projects</a>
-                </div> -->
             </div>
             <div id="big-text">
-                <span class="" style="  text-transform: uppercase; font-weight: 900; font-style: normal; color: rgb(85, 85, 85); text-decoration: none; text-shadow: 1.5px 1.5px rgb(192, 192, 192);">we build <br> technology for <br> the</span>
-                <span class="" style="  text-transform: uppercase; font-weight: 900; font-style: normal; color: rgb(39, 110, 241); text-decoration: none; text-shadow: 1.5px 1.5px rgb(192, 192, 192);"> public good.</span>
-           </div>
+                <span class="" style=" font-weight: 900; font-style: normal; color: black; text-decoration: none;">We build tech <br>for</span>
+                <span class="" style=" font-weight: 900; font-style: normal; color: rgb(39, 110, 241); text-decoration: none;"> public good.<br/></span>
+            </div>
         </div>
     </div>
 </section>
 
+
+
+<section class="bp-section" style="background: #000000;">
+    <div class="bp-container margin--top--lg margin--bottom--lg">
+        <div class="row justify-content-md-center">
+            <div style="max-width:550px; display:inline-block">
+                <div>
+                <img src="/images/Who-we-are.svg" alt="Who we are"/></div>
+                <span style="color:#ffffff; padding-top: 20px; position: relative; font-size: 16px !important;"><br/>We are an experimental development team built from the ground up to function like a modern tech company working on public sector problems.</span>
+            </div>
+            <div style="display:flex; justify-content:center; align-items:center; margin-left: auto; margin-right: 5%;">
+                <a href="/careers/about-us/" class="padding--top padding--bottom is-block">
+                    <div class="bp-button is-white is-outlined is-uppercase search-button">
+                        More about us
+                    </div>
+                </a>
+            </div>
+        </div>                                                                          
+                                                                                         
+    <div>
+</section>
+
+
+
 <section class="bp-section">
     <div class="bp-container padding--bottom--lg">
-        <a href="{{site.baseurl}}/aboutus/">
-        <div class="row">
-            <div class="col is-8 is-offset-2 has-text-centered padding--top--xl">
-                <p class="padding--bottom eyebrow is-uppercase">
-                    About Us
-                </p>
-                <h1 class="padding--bottom has-text-secondary"><b>Who we are</b></h1>
-                <h3 class="padding--top padding--bottom" style="color:rgb(85, 85, 85)"><center>We are an experimental development team built from the ground up to function like a modern tech company working on public sector problems.</h3></center><br><br>
-                <h3 class="padding--top padding--bottom"><center><b>At Open Government Products, we:</h3></b></center>
-
-            </div>   
-        
-    </div>
-            </a>
-
+         <div class="col is-8 is-offset-2 has-text-centered padding--top--xl">
+                <h3 class="padding--top padding--bottom has-text-secondary"><b>At Open Government Products, we:</b></h3>
+            </div>
         <div class="row margin--top padding--bottom">
             <div class="col is-one-third">
                 <div class="text-card is-white">
                     <center><img class="text-card-icon padding--bottom--sm" src="{{site.baseurl}}/images/solve.svg" /></center>
                     <h4 class="padding--top has-text-secondary padding--bottom"><b><center>Solve Real Problems</center></b></h4>
-                    <p><center>Work on meaningful projects from communications to healthcare. Use your skills to fix actual problems in the community, not to optimise profit.</center></p>
+                    <center><p class="has-text-grey">Work on meaningful projects from communications to healthcare. Use your skills to fix actual problems in the community, not to optimise profit.</p></center>
                 </div>
             </div>
             
@@ -92,7 +100,7 @@ layout: skeleton
                 <div class="text-card is-white">
                     <center><img class="text-card-icon padding--bottom--sm" src="{{site.baseurl}}/images/build.svg"/></center>
                     <h4 class="padding--top has-text-secondary padding--bottom"><b><center>Build for the User</center></b></h4>
-                    <p><center>Design and build products based on what real people actually need, whether they are members of the public or public servants.</center></p>
+                    <center><p class="has-text-grey">Design and build products based on what real people actually need, whether they are members of the public or public servants.</p></center>
                 </div>
             </div>
             
@@ -100,7 +108,7 @@ layout: skeleton
                 <div class="text-card is-white">
                     <center><img class="text-card-icon padding--bottom--sm" src="{{site.baseurl}}/images/push.svg" /></center>
                     <h4 class="padding--top has-text-secondary padding--bottom"><b><center>Push For Change</center></b></h4>
-                    <p><center>Actively prototype and evangelize ideas to make real things happen. Work around or cut through bureaucracy.</center></p>
+                    <center><p class="has-text-grey">Actively prototype and evangelize ideas to make real things happen. Work around or cut through bureaucracy.</p></center>
                 </div>
             </div>
             
@@ -108,26 +116,24 @@ layout: skeleton
     </div>
 </section>
 
-<section class="bp-section padding--left--none padding--right--none" style="background-color:#276ef1">
+<section class="bp-section padding--left--none padding--right--none" style="background-color:#f7f7f7">
     <div class="bp-container product-container">
-       <a href="{{site.baseurl}}/products/overview/">
         <div class="row">
             <div class="col is-8 is-offset-2 has-text-centered padding--top--xl">
-                <p class="padding--bottom eyebrow is-uppercase has-text-white">
+                <p class="padding--bottom eyebrow is-uppercase has-text-grey">
                     PRODUCTS
                 </p>
-                <h1 class="padding--bottom has-text-white padding--left--xl padding--right--xl"><b>Things we've made</b></h1>
+                <h1 class="padding--bottom has-text-secondary padding--left--xl padding--right--xl"><b>Things we've made</b></h1>
             </div>
         </div>
-        </a>
         <div class="row product-row padding--top--xl padding--bottom--xl">
         <div class="col is-half padding--top--xl padding--bottom--xl product-image" style="background-image: url('{{site.baseurl}}/images/VaccOps_nobg.png')">
             </div>
             <div class="col is-half padding--top--lg padding--bottom--lg padding--left--xl padding--right--xl">
-                <h4 class="has-text-white padding--bottom"><b>COVID-19 Vaccination Booking</b></h4>
-                <p class="has-text-white">Suite of systems enabling Singaporeans to book their COVID-19 vaccination appointments.</p>
-                <a href="{{site.baseurl}}/covid-19/covid19vaccination" class="padding--top--lg padding--bottom is-block" target="_blank">
-                    <div class="bp-button is-white is-outlined is-uppercase search-button">
+                <h4 class="has-text-secondary padding--bottom"><b>COVID-19 Vaccination Booking</b></h4>
+                <p class="has-text-grey">Suite of systems enabling Singaporeans to book their COVID-19 vaccination appointments.</p>
+                <a href="{{site.baseurl}}/covid-19/covid19vaccination" class="padding--top--lg padding--bottom is-block">
+                    <div class="bp-button is-black is-outlined is-uppercase search-button">
                         Learn More
                     </div>
                 </a>
@@ -135,10 +141,10 @@ layout: skeleton
         </div>
         <div class="row product-row padding--top--xl padding--bottom--xl">
             <div class="col is-half padding--top--lg padding--bottom--lg padding--left--xl padding--right--xl">
-                <h4 class="has-text-white padding--bottom "><b>Parking.SG</b></h4>
-                <p class="has-text-white">Parking.sg is a mobile application that allows drivers to pay for their parking sessions, receive reminders, and extend their parking sessions, straight from their mobile phones.</p>
-                <a href="{{site.baseurl}}/products/parkingsg" class="padding--top--lg padding--bottom is-block" target="_blank">
-                    <div class="bp-button is-white is-outlined is-uppercase search-button">
+                <h4 class="has-text-secondary padding--bottom "><b>Parking.SG</b></h4>
+                <p class="has-text-grey">Parking.sg is a mobile application that allows drivers to pay for their parking sessions, receive reminders, and extend their parking sessions, straight from their mobile phones.</p>
+                <a href="{{site.baseurl}}/products/parkingsg" class="padding--top--lg padding--bottom is-block">
+                    <div class="bp-button is-black is-outlined is-uppercase search-button">
                         Learn More
                     </div>
                 </a>
@@ -150,10 +156,10 @@ layout: skeleton
             <div class="col is-half padding--top--xl padding--bottom--xl product-image" style="background-image: url('{{site.baseurl}}/images/go.gov.sg_nobg.png')">
             </div>
         <div class="col is-half padding--top--lg padding--bottom--lg padding--left--xl padding--right--xl">
-                <h4 class="has-text-white padding--bottom "><b>Go.gov.sg</b></h4>
-                <p class="has-text-white">Go.gov.sg is the offical government link shortener, granting legitimacy to content shared by public officers.</p>
-                <a href="{{site.baseurl}}/products/gogovsg" class="padding--top--lg padding--bottom is-block" target="_blank">
-                    <div class="bp-button is-white is-outlined is-uppercase search-button">
+                <h4 class="has-text-secondary padding--bottom "><b>Go.gov.sg</b></h4>
+                <p class="has-text-grey">Go.gov.sg is the offical government link shortener, granting legitimacy to content shared by public officers.</p>
+                <a href="{{site.baseurl}}/products/gogovsg" class="padding--top--lg padding--bottom is-block">
+                    <div class="bp-button is-black is-outlined is-uppercase search-button">
                         Learn More
                     </div>
                 </a>
@@ -161,10 +167,10 @@ layout: skeleton
         </div>
         <div class="row product-row padding--top--xl padding--bottom--xl">
             <div class="col is-half padding--top--lg padding--bottom--lg padding--left--xl padding--right--xl">
-                <h4 class="has-text-white padding--bottom "><b>ScamShield</b></h4>
-                <p class="has-text-white">ScamShield is a mobile app that actively works in the background to filter scam messages and calls from numbers used in illegal activities, preventing scammers from contacting you.</p>
-                <a href="{{site.baseurl}}/products/scamshield" class="padding--top--lg padding--bottom is-block" target="_blank">
-                    <div class="bp-button is-white is-outlined is-uppercase search-button">
+                <h4 class="has-text-secondary padding--bottom "><b>ScamShield</b></h4>
+                <p class="has-text-grey">ScamShield is a mobile app that actively works in the background to filter scam messages and calls from numbers used in illegal activities, preventing scammers from contacting you.</p>
+                <a href="{{site.baseurl}}/products/scamshield" class="padding--top--lg padding--bottom is-block">
+                    <div class="bp-button is-black is-outlined is-uppercase search-button">
                         Learn More
                     </div>
                 </a>
@@ -176,22 +182,22 @@ layout: skeleton
             <div class="col is-half padding--top--xl padding--bottom--xl product-image" style="background-image: url('{{site.baseurl}}/images/formsg_nobg.png')">
             </div>
             <div class="col is-half padding--top--lg padding--bottom--lg padding--left--xl padding--right--xl">
-                <h4 class="has-text-white padding--bottom"><b>FormSG</b></h4>
-                <p class="has-text-white">FormSG is an electronic form builder with advanced features that allow public officers to build and launch forms within minutes.</p>
-                <a href="{{site.baseurl}}/products/formsg" class="padding--top--lg padding--bottom is-block" target="_blank">
-                    <div class="bp-button is-white is-outlined is-uppercase search-button">
+                <h4 class="has-text-secondary padding--bottom"><b>FormSG</b></h4>
+                <p class="has-text-grey">FormSG is an electronic form builder with advanced features that allow public officers to build and launch forms within minutes.</p>
+                <a href="{{site.baseurl}}/products/formsg" class="padding--top--lg padding--bottom is-block">
+                    <div class="bp-button is-black is-outlined is-uppercase search-button">
                         Learn More
                     </div>
                 </a>
             </div>
         </div>
     </div>
-     <div class="bp-container">
+    <div class="bp-container">
         <div class="row">
-            <div class="col is-8 is-offset-2 has-text-centered padding--top--lg padding--bottom--lg has-text-white">
+            <div class="col is-8 is-offset-2 has-text-centered padding--top--lg padding--bottom--lg has-text-secondary">
                 <h2 class="padding--bottom" style="font-weight: bold">Learn about the rest of our products.</h2>
                 <a href="{{site.baseurl}}/products/overview/">
-                    <div class="bp-button is-white is-outlined is-uppercase search-button" target="_blank">
+                    <div class="bp-button is-uppercase cta-button" target="_blank">
                        Product Overview
                     </div>
                 </a> 
