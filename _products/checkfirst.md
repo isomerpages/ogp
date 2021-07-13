@@ -50,7 +50,7 @@ Petty Chen<a href="https://github.com/pettypychen"  style="display: inline-block
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a> 
 
-<a href="www.checkfirst.gov.sg" target="_blank">
+<a href="https://www.checkfirst.gov.sg/" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
         Visit website
     </button>
