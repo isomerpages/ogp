@@ -145,3 +145,7 @@
 - name: Natalie
   position: Product Designer
   image: /images/headshots/Natalie.png
+  
+- name: Shu Li
+  position: Software Engineer
+  image: /images/headshots/Shu Li.png
