@@ -7,6 +7,6 @@ notification: This website is in beta - your valuable <a
   href="https://www.google.com">feedback</a> will help us in improving it.
 sections:
   - hero:
-      background: /images/OGP%20Website%20Banner.png
+      background: /images/OGP%20Website%20Banner.jpg
   - carousel: {}
 ---
