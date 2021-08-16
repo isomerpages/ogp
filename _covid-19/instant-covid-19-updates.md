@@ -16,7 +16,7 @@ In addition, [Isomer](/products/isomer/) was used to build website pages for COV
 Lastly, [Go.gov.sg](/products/gogovsg/) has been used by government agencies to shorten important COVID-19 related links such as  COVID-19 press releases, application forms, and more. As the official government link shortener, Go.gov.sg has allowed citizens to easily access important information without the risk of phishing through the use of a legitimate .gov.sg domain.
 
 #### Our Impact
-* Disseminated over 1 billion COVID-19 related announcements daily to over 1 million subscribers on Gov.sg [Whatsapp](https://go.gov.sg/whatsapp) and 300,000 subscribers on Gov.sg [Telegram](https://t.me/Govsg)
+* Disseminated over 1 billion COVID-19 related announcements daily to over 1 million subscribers on Gov.sg [Whatsapp](https://go.gov.sg/whatsapp)
 * Helped teachers communicate with students at home for home-based learning
 * Notified citizens of changes in government agency appointments
 * Enabled Ministry of Health's Healthcare Corps to better manage COVID-19 volunteers
