@@ -2,7 +2,7 @@
 title: Our Hiring Process
 permalink: /careers/hiring
 ---
-> Hiring is the single most important thing we do. 
+&gt; Hiring is the single most important thing we do. 
 
 We believe in bringing in great people, and then giving them the autonomy to work on building tech for public good. 
 
@@ -36,3 +36,9 @@ Whilst our specific hiring process varies between roles, we hold a common philos
 * We assess you against a function-specific career schema and make offers based on your assessed level of performance. Demonstrated expertise and proven ability matter much more than factors like your education qualifications.
 * We base salary offers on this assessed level of performance rather than your last drawn salary or years of experience.
 * We move to promote people as quickly as possible to their assessed level of performance.
+
+<a href="http://go.gov.sg/ogp-jobs">
+    <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
+        Apply Here
+    </button>
+</a>
