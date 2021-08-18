@@ -3,7 +3,7 @@ permalink: /careers/internships/
 title: Internships
 breadcrumb: Internship
 ---
-&gt; You will have a direct hand working on things that matter. There will be opportunities to learn, contribute, and  have autonomy to work on tech for public good.
+>You will have a direct hand working on things that matter. There will be opportunities to learn, contribute, and  have autonomy to work on tech for public good.
 
 <div class="bp-youtube">
 
