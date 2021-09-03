@@ -2,14 +2,14 @@
 title: Corporate Team
 permalink: /careers/corporate-team/
 ---
-> You design and deliver organisation approaches and processes for OGP to function at our best. You share best practices to help transform the rest of government.
+>You design and deliver organisation approaches and processes for OGP to function at our best. You share best practices to help transform the rest of government.
 
 ### **What does Corporate Team do?**
 As a member of the Corporate Team, your job is to design the best approaches to how we run OGP, and then execute on it. We have multiple roles on the Corporate Team, including:
-* **Marketing & Outreach** - Amplifying OGP's efforts through our brand and outreach so as to bring in the best people and effect change.
-* **People & Culture:** - Hiring the best people. Keeping them engaged, growing, and impactful.
-* **Corporate Operations & Finance:** - Keeping OGP running smoothly as an organisation. Implementing initiatives and processes to build strong teams and help people work at their best.
-* **Policy & Propagation** - Propagate OGP practices and influence up-stream policy-making across the rest of government so as to accelerate improvements in government in tech and beyond.
+* **Marketing &amp; Outreach** - Amplifying OGP's efforts through our brand and outreach so as to bring in the best people and effect change.
+* **People &amp; Culture:** - Hiring the best people. Keeping them engaged, growing, and impactful.
+* **Corporate Operations &amp; Finance:** - Keeping OGP running smoothly as an organisation. Implementing initiatives and processes to build strong teams and help people work at their best.
+* **Partnerships** - Propagate OGP practices and influence up-stream policy-making across the rest of government so as to accelerate improvements in government in tech and beyond.
 
 Your exact day-to-day can vary between roles, but on a day-to-day basis, every Corporate Team member can expect to:
 * Look at industry best practices and other organisations to identify approaches to improve how OGP runs
@@ -32,7 +32,7 @@ We look for people who:
 
 Overall we look for people who have ability, initiative, good communication, and strong values.
 
-<a href="https://opengovernmentproducts.recruitee.com/#section-89477" target="_blank">
+<a href="https://opengovernmentproducts.recruitee.com/#section-89477">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
         Apply Here
     </button>

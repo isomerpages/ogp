@@ -3,7 +3,14 @@ permalink: /careers/internships/
 title: Internships
 breadcrumb: Internship
 ---
-> You will have a direct hand working on things that matter. There will be opportunities to learn, contribute, and  have autonomy to work on tech for public good.
+>You will have a direct hand working on things that matter. There will be opportunities to learn, contribute, and  have autonomy to work on tech for public good.
+
+<br>
+<div class="bp-youtube">
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ShPn3AY46U8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
 
 ### **What does it mean to be an OGP intern?**
 
@@ -19,7 +26,7 @@ We have had interns work alongside us on nearly every single product and corpora
 
 Whether you aspire to be part of a corporate team running tech organisations, or building tech for public good as a [Software Engineer](/careers/software-engineer/), [Product Designer](/careers/product-design/), or [Product Manager](/careers/product-management/), you will have the opportunity to experience day-to-day OGP life and contribute your skills and ideas the same way our full-timers do.
 
-[Read more](https://medium.com/open-government-products/tagged/careers) about what our previous interns have done
+[Read more](https://medium.com/open-government-products/tagged/careers) about what our previous interns have done. 
 
 ### **What we look for in our interns**
 
@@ -37,7 +44,7 @@ We want to maintain the highest learning quality by only bringing in interns whe
 
 You can view our openings through the link below. If you do not see an opening for your desired internship position, email us at recruiting@open.gov.sg.
 
-<a href="http://go.gov.sg/ogp-jobs" target="_blank">
+<a href="http://go.gov.sg/ogp-jobs">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
         Apply Here
     </button>
