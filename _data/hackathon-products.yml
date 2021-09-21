@@ -64,16 +64,16 @@
   link: /hackathon/2021/anything-mapper
 
 - title: COMMON.GOV.SG
-  image: /images/solve.svg
+  image: /images/solve.png
   sum: Internal forum for public officers
   link: /hackathon/2021/common
 
 - title: PAYMENTS
-  image: /images/solve.svg
+  image: /images/solve.png
   sum: Enable public-initiated payment on FormSG & Create payment links to collect money from citizens transparently
   link: /hackathon/2021/payments
 
 - title: SANBAIQIAN
-  image: /images/solve.svg
+  image: /images/solve.png
   sum: Helping adults with basic Mandarin Chinese proficiency to self-improve
   link: /hackathon/2021/sanbaiqian
