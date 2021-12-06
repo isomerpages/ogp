@@ -2,6 +2,7 @@ collections:
   hackathon:
     output: true
     order:
+      - Hack for Public Good 2022.md
       - about-hackathon.md
       - hackathon-2021/.keep
       - hackathon-2021/overview.md
