@@ -3,7 +3,7 @@ title: About Hack for Public Good
 permalink: /hackathon/about
 description: ""
 ---
-[![2021 Projects Banner](/images/Hack for Public Good.png)](/hackathon/2021)
+[![2021 Projects Banner](/images/hack_for_public_good.png)](/hackathon/2021)
 
 <br/>
 
