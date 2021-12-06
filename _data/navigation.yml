@@ -10,9 +10,8 @@ links:
     collection: products
   - title: COVID-19
     url: /covid-19/
-  - title: Hackathon
-    url: /hackathon/about/
-    collection: hackathon
+  - title: Hack For Public Good
+    collection: hack-for-public-good
   - title: More
     url: /media
     sublinks:

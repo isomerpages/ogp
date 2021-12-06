@@ -1,0 +1,24 @@
+collections:
+  hack-for-public-good:
+    output: true
+    order:
+      - About Hack for Public Good.md
+      - Hack for Public Good 2022.md
+      - Hack for Public Good 2021/.keep
+      - Hack for Public Good 2021/overview.md
+      - Hack for Public Good 2021/anythingmapper.md
+      - Hack for Public Good 2021/checkfirst.md
+      - Hack for Public Good 2021/chopchopdoc.md
+      - Hack for Public Good 2021/common-gov-sg.md
+      - Hack for Public Good 2021/dash.md
+      - Hack for Public Good 2021/diffindo.md
+      - Hack for Public Good 2021/govsearch.md
+      - Hack for Public Good 2021/handsy.md
+      - Hack for Public Good 2021/help-gov-sg.md
+      - Hack for Public Good 2021/lookback.md
+      - Hack for Public Good 2021/payments.md
+      - Hack for Public Good 2021/personalised-forms.md
+      - Hack for Public Good 2021/queue.md
+      - Hack for Public Good 2021/sanbaiqian.md
+      - Hack for Public Good 2021/transparency.md
+      - Hack for Public Good 2021/typesafe.md
