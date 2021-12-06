@@ -3,29 +3,28 @@ title: About Hack for Public Good
 permalink: /hackathon/about
 description: ""
 ---
-
 [![2021 Projects Banner](/images/Hack2021Banner_withCTA.png)](/hackathon/2021)
 
 <br/>
 
-How did products like [Go.gov.sg](https://go.gov.sg) ,  [Postman.gov.sg](https://postman.gov.sg), and [RedeemSG](https://redeem.gov.sg) come about? They were all ideas born and developed through Open Government Products’ annual Hackathon. 
+How did products like [Go.gov.sg](https://go.gov.sg) ,  [Postman.gov.sg](https://postman.gov.sg), and [RedeemSG](https://redeem.gov.sg) come about? They were all ideas born and developed through Open Government Products’ Hack for Public Good, a month-long event held annually. 
 
-#### What is Hackathon?
+#### What is Hack for Public Good?
 
-Every year,  for the entire month of January, our officers pause non-core projects to work on a public good problem that interests them. Throughout Hackathon month, our officers go through the iterative process of generating new ideas for products, conducting user research, and prototyping, with the end goal of showcasing working prototypes by the end of the month. Hackathon also provides an opportunity for OGP officers to learn and develop new skills as they work to build new products.
+Every year,  for the entire month of January, our officers pause non-core projects to work on a public good problem that interests them. Throughout the month, our officers go through the iterative process of generating new ideas for products, conducting user research, and prototyping, with the end goal of showcasing working prototypes by the end of the month. Hack for Public Good also provides an opportunity for OGP officers to learn and develop new skills as they work to build new products.
 
 <br/>
 
-> Hackathon is an annual fixture of OGP’s way of work to keep us identifying and working on building tech to deliver public good in its various shapes and forms. 
+> Hack for Public Good is an annual fixture of OGP’s way of work to keep us identifying and working on building tech to deliver public good in its various shapes and forms. 
 
 <br/>
 
 ![learning journey sharings](/images/hackathon_talks.jpg)
 
 
-#### What happens during Hackathon?
+#### What happens during Hack for Public Good?
 
- Hackathon starts with the team’s annual retreat, where OGP officers take time to review the past year and discuss their vision for where OGP should go towards in the coming year. 
+ Hack for Public Good starts with the team’s annual retreat, where OGP officers take time to review the past year and discuss their vision for where OGP should go towards in the coming year. 
  
  The team then embarks on learning journeys within the community, attending sharings from public officers on the ground to better understand the nuances and challenges of their work. The invited speakers come from all areas of public service so that our officers are exposed to a wide set of experiences, constraints and opportunities. 
  
@@ -43,7 +42,7 @@ Mixers and ideation workshops  also allow our officers to exchange ideas and ide
 
 <br/>
 
-Hackathon culminates at the end of the month with groups presenting their final working prototypes at Hackathon Finale. After the finale presentations,  many prototypes that have shown potential to create value for the public then get converted to full-fledged OGP products.
+Hack for Public Good culminates at the end of the month with groups presenting their final working prototypes at the finale. After the finale presentations,  many prototypes that have shown potential to create value for the public then get converted to full-fledged OGP products.
 
 <br/>
 
