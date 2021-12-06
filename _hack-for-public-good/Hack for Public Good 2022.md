@@ -4,4 +4,5 @@ permalink: /hackathon/2022
 description: ""
 ---
 Coming soon on 5 Jan 2022. 
-</br>Watch this space for more updates!
+
+Watch this space for more updates!
