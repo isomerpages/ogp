@@ -1,5 +1,5 @@
 collections:
-  hackathon:
+  hack-for-public-good:
     output: true
     order:
       - About Hack for Public Good.md
