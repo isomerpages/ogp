@@ -53,7 +53,7 @@ A place where using government services is as quick and simple as a click of a b
 </section>
 
 
-# How We Work
+# Our Values
 
 ### We maximise our impact on the public good.
 We focus on real problems faced by real people, going beyond theoretical requirements to test that our solutions actually deliver value in practice. We prolifically explore many different ideas and aggressively prune them to focus on the most potent course of action given the resources we have. Bureaucratic pressures, individual aspirations, and even the success of the team are all secondary considerations. All our decisions are based on how we can best improve the lives of the people we serve. 
@@ -68,6 +68,4 @@ Our goal is to maximize the amount of effective brain power we have solving prob
 We take on different roles depending on what needs to get done. Our skills do not limit our scope of responsibility, and we are defined by our mission more than our job. We expect unfamiliar problems and will learn what we need to overcome them. We regularly do cross functional training so that we can work effectively in cross functional teams. Each person in the organization has open-ended ownership of its impact.
 
 ### We help each other to have impact as a team.
-What matters is not each person’s direct contributions but their effect on team delivery as a whole. This means we cover each other’s gaps, support each other’s development, and work constructively together. At the same time, avoiding conflict is not the same as working constructively and is a non-goal. We challenge and criticize to help improve ideas and decisions, while respecting each person’s expertise and prerogative. 
-
-
+What matters is not each person’s direct contributions but their effect on team delivery as a whole. This means we cover each other’s gaps, support each other’s development, and work constructively together. At the same time, avoiding conflict is not the same as working constructively and is a non-goal. We challenge and criticize to help improve ideas and decisions, while respecting each person’s expertise and prerogative.
