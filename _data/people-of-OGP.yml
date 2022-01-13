@@ -18,10 +18,6 @@
   position: Software Engineer
   image: /images/headshots/Arshad.jpg
 
-- name: Azima
-  position: Software Engineer
-  image: /images/headshots/Azima.jpg
-
 - name: Lennard
   position: Product Manager
   image: /images/headshots/Lennard.jpg
@@ -129,10 +125,6 @@
 - name: Daniel
   position: Software Engineer
   image: /images/headshots/Daniel.jpg
-  
-- name: Zixin
-  position: Product Manager
-  image: /images/headshots/Zixin.jpg
 
 - name: Sarah E.
   position: Marketing & Operations
