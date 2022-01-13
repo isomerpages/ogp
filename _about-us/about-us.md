@@ -54,15 +54,20 @@ A place where using government services is as quick and simple as a click of a b
 
 
 # How We Work
-#### People & Hiring
-We hire the best people to work on the most important public problems, and have individual contributor and manager career schemas for every function in OGP. We use these schemas to make expertise-based hiring and promotion decisions, benchmark our compensation rates to top tech companies and pay our people what they're worth in the market. We also dedicate a day weekly to learning within and across domains so that our people grow in their areas of expertise as well as working in cross-functional product teams
 
-### Autonomy & Ownership 
-We create our own projects from the ground up through our annual hackathon and are given the autonomy to make decisions for our products. We are also empowered to carry out experimental work while being able to bypass bureaucracy 
+### We maximise our impact on the public good.
+We focus on real problems faced by real people, going beyond theoretical requirements to test that our solutions actually deliver value in practice. We prolifically explore many different ideas and aggressively prune them to focus on the most potent course of action given the resources we have. Bureaucratic pressures, individual aspirations, and even the success of the team are all secondary considerations. All our decisions are based on how we can best improve the lives of the people we serve. 
 
-### User-Oriented
-We make decisions based on what is in the best interest of the user. We observe and respond to urgent and prevalent public needs, prototype quickly, and release frequently so as to create meaning impact for the public through building high-value products
+### We treat people fairly and communicate openly.
+We want to create a high trust environment so that people can focus on collaborating and doing good. We create clear frameworks for all hiring, performance, and compensation matters, while getting information from multiple sources. By default, all information is openly accessible unless there is a strong reason to close it. All major team decisions are proactively shared with the team. And we open-source our code and best practices for people outside the organization. People should feel confident that they understand where the team is, where it is going, and why.
+
+### We empower people to make good decisions.
+Our goal is to maximize the amount of effective brain power we have solving problems. This means organizing for creativity and autonomy more than command and control. Our organisation’s and managers’ role is to facilitate learning, provide resources, and help clear blockers that people face. We trust people to become experts in their area of focus, and give them autonomy to decide how to maximise impact in their work. 
+
+### We do whatever needs doing for us to deliver.
+We take on different roles depending on what needs to get done. Our skills do not limit our scope of responsibility, and we are defined by our mission more than our job. We expect unfamiliar problems and will learn what we need to overcome them. We regularly do cross functional training so that we can work effectively in cross functional teams. Each person in the organization has open-ended ownership of its impact.
+
+### We help each other to have impact as a team.
+What matters is not each person’s direct contributions but their effect on team delivery as a whole. This means we cover each other’s gaps, support each other’s development, and work constructively together. At the same time, avoiding conflict is not the same as working constructively and is a non-goal. We challenge and criticize to help improve ideas and decisions, while respecting each person’s expertise and prerogative. 
 
 
-### Open Culture 
-We believe in open communication within the team, openly sharing our work and updating approaches with the community through our everyday sharings, as well as being transparent in our decision-making and open sourcing products for the embetterment of public service everywhere
