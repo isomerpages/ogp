@@ -7,4 +7,4 @@ description: ""
 
 The month started with a series of online Learning Journeys with various government agencies to identify pain points and ideas for our projects, followed by a hybrid design thinking workshop and an idea pitching session. Next up, brainstorming and prototyping!
 
-### Watch this space for more updates or follow us on FB, IG, or LinkedIn .
+#### Watch this space for updates or follow us on [Facebook](https://www.facebook.com/opengovsg/) , [LinkedIn](https://www.linkedin.com/company/open-government-products), or [Instagram](https://www.instagram.com/opengovsg/) for more information.
