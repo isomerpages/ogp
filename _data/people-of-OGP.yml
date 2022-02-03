@@ -137,3 +137,27 @@
 - name: Shu Li
   position: Software Engineer
   image: /images/headshots/Shu Li.jpg
+  
+- name: Carina
+  position: Product Designer
+  image: /images/headshots/Carina_headshot.jpg
+
+- name: Kathleen
+  position: Product Manager
+  image: /images/headshots/Kathleen.jpg
+  
+- name: Chi Ling
+  position: Deputy Director
+  image: /images/headshots/Chiling.jpg
+  
+- name: Louiz
+  position: Software Engineer
+  image: /images/headshots/Louiz.jpg
+  
+- name: Chien Ling
+  position: Corporate Operations
+  image: /images/headshots/Chienling.jpg
+
+- name: Jason
+  position: Software Engineer
+  image: /images/headshots/Jason.jpg
