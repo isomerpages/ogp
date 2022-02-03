@@ -18,14 +18,6 @@
   position: Software Engineer
   image: /images/headshots/Arshad.jpg
 
-- name: Azima
-  position: Software Engineer
-  image: /images/headshots/Azima.jpg
-
-- name: Lennard
-  position: Product Manager
-  image: /images/headshots/Lennard.jpg
-
 - name: Chin Ying
   position: Software Engineer
   image: /images/headshots/Chinying.jpg
@@ -42,13 +34,13 @@
   position: Software Engineer
   image: /images/headshots/Ian.jpg
 
-- name: Jean
-  position: Software Engineer
-  image: /images/headshots/Jean.jpg
-
 - name: Leonard
   position: Product Manager
   image: /images/headshots/Leonard.jpg
+    
+- name: Chien Ling
+  position: Corporate Operations
+  image: /images/headshots/Chienling.jpg
   
 - name: Jie Hao
   position: Software Engineer
@@ -71,7 +63,7 @@
   image: /images/headshots/Preston.jpg
   
 - name: Rahul
-  position: People & Culture
+  position: Partnerships
   image: /images/headshots/Rahul.jpg
   
 - name: Yong Jie
@@ -89,14 +81,6 @@
 - name: Kevan
   position: Software Engineer
   image: /images/headshots/Kevan.jpg
-  
-- name: Kai Yi
-  position: Software Engineer
-  image: /images/headshots/Kai Yi.jpg
-  
-- name: Sarah S.
-  position: Product Designer
-  image: /images/headshots/Sarah S.jpg
   
 - name: Jackson
   position: Product Operations
@@ -125,16 +109,8 @@
 - name: Russell
   position: People & Culture
   image: /images/headshots/Russell.jpg
-  
-- name: Daniel
-  position: Software Engineer
-  image: /images/headshots/Daniel.jpg
-  
-- name: Zixin
-  position: Product Manager
-  image: /images/headshots/Zixin.jpg
 
-- name: Sarah E.
+- name: Sarah
   position: Marketing & Operations
   image: /images/headshots/Sarah E.jpg
   
@@ -149,3 +125,23 @@
 - name: Shu Li
   position: Software Engineer
   image: /images/headshots/Shu Li.jpg
+  
+- name: Carina
+  position: Product Designer
+  image: /images/headshots/Carina_headshot.jpg
+
+- name: Kathleen
+  position: Product Manager
+  image: /images/headshots/Kathleen.jpg
+  
+- name: Louiz
+  position: Software Engineer
+  image: /images/headshots/Louiz.jpg
+  
+- name: Chi Ling
+  position: Deputy Director
+  image: /images/headshots/Chiling.jpg
+
+- name: Jason
+  position: Software Engineer
+  image: /images/headshots/Jason.jpg
