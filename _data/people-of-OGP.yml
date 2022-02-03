@@ -18,10 +18,6 @@
   position: Software Engineer
   image: /images/headshots/Arshad.jpg
 
-- name: Lennard
-  position: Product Manager
-  image: /images/headshots/Lennard.jpg
-
 - name: Chin Ying
   position: Software Engineer
   image: /images/headshots/Chinying.jpg
@@ -41,6 +37,10 @@
 - name: Leonard
   position: Product Manager
   image: /images/headshots/Leonard.jpg
+    
+- name: Chien Ling
+  position: Corporate Operations
+  image: /images/headshots/Chienling.jpg
   
 - name: Jie Hao
   position: Software Engineer
@@ -134,17 +134,13 @@
   position: Product Manager
   image: /images/headshots/Kathleen.jpg
   
-- name: Chi Ling
-  position: Deputy Director
-  image: /images/headshots/Chiling.jpg
-  
 - name: Louiz
   position: Software Engineer
   image: /images/headshots/Louiz.jpg
   
-- name: Chien Ling
-  position: Corporate Operations
-  image: /images/headshots/Chienling.jpg
+- name: Chi Ling
+  position: Deputy Director
+  image: /images/headshots/Chiling.jpg
 
 - name: Jason
   position: Software Engineer
