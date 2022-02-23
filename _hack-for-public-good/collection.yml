@@ -2,6 +2,7 @@ collections:
   hack-for-public-good:
     output: true
     order:
+      - Hack for Public Good 2022/Hack for Public Good 2022.md
       - Hack for Public Good 2022/.keep
       - About Hack for Public Good.md
       - Hack for Public Good 2021/.keep
