@@ -18,7 +18,7 @@ The motivations for Memo are twofold:
 #### What tech stack did you use?
 The frontend is built with React, and the backend is built on NestJS with a Postgres database.
 
-#### What were the key challenges you faced in building CalSG? 
+#### What were the key challenges you faced in building Memo? 
 
 Design wise, it was important to provide a streamlined flow for public officers to design and issue memos, whilst still remaining familiar and easy to grasp for those who may not be so technically inclined. User tests with potential users revealed UX subtleties and feature requirements that need to be addressed, such as the template editor UI, and the need for a clear paper trail for issuing memos.
  
