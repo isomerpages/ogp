@@ -4,44 +4,40 @@ permalink: /hackathon/2022/oneunifiedsystem
 description: ""
 third_nav_title: Hack for Public Good 2022
 ---
-<iframe allowfullscreen="true" height="515" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRn6vLqlb2-W4W8cgQWEBWSOgDpP9Pe9f0N0ld0wLdBYjp8zLuAQGEQzoGk8FcE-JB1dlXA-u6YGH1N/embed?start=false&loop=false&delayms=3000" ></iframe>
+<iframe allowfullscreen="true" height="515" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSmuHdM0eJoOLvWaspWzXKNr1fW22J5VxHALwg_OVs9MOUFdtV9VXqnn0p-Gbw4ic7yrEkUjTGDWs7E/embed?start=false&loop=false&delayms=3000" ></iframe>
 
-#### What is CalSG?
-An appointment booking system for all agencies
+#### What is OneUnified System Starter Pack?
+A collection of resources to empower public officers when modernising their agency’s legacy systems.
 
 #### What motivated you to build this product?
-Citizens book appointments with government agencies all the time, but each of these agencies has its own custom appointment booking system. This means that every single public-facing agency has to spend time and money to build and maintain its own system, and the quality of these systems can vary significantly.
+Agencies are commonly running on silo-ed legacy systems that have not been updated in years. This leads to inefficiencies, such as manual data transfer between systems. Many times, an officer has to open multiple tabs just to do 1 action.
 
-We wanted to build a tool for public officers to easily publish time slots which others could then book using a public link. From our research on existing appointment booking systems, this tool also had to include form-building capabilities so that officers could collect relevant information (e.g. name, reason for appointment) along with the appointment booking.
+While agencies are aware of this problem, they usually assign laymen public officers to this gargantuan task, who do not have the appropriate expertise or domain knowledge for it. These officers are hence intimidated by the scale and don’t know where to even begin. Usually, the result is either too abstract or becomes outdated by the time of actualisation.
 
-During the project, we realised that if this tool was accessible to all public officers, they could also use it internally, e.g. to book time slots for meetings or shared facilities.
+As part of OGP’s mission to evangelise the rest of the government to modernise their tech processes, we see an opportunity to give our own advice and principles on how to get out of this situation, and what type of system architecture agencies should be moving towards to ensure a long-lasting solution.
 
 #### What tech stack did you use?
+We host this content on Isomer to keep it out of email inboxes, and easily accessible to all officers and even members of the public.
 
-NextJS, Prisma and PostgreSQL
+#### What were the key challenges you faced in building OneUnifiedSystem? 
 
-#### What were the key challenges you faced in building CalSG? 
+Penning down our thoughts was difficult, especially ensuring it was in language easily understood by the layman officer since we are trying to explain more complex technical talk to individuals who are not as familiar. 
 
-We had to make a lot of key engineering and product decisions in the beginning. First, should we build a standalone product or integrate with FormSG? A standalone product would be technically simpler, but FormSG allowed us to leverage on its powerful form-building capabilities. We decided that form-building was essential based on what we observed from existing appointment systems, so we went with a FormSG integration.
+It also took us a while to understand the user journey for the procurement process, as well as discover the various routes and options you can take at each step.
 
-Next, how do we address the double-booking issue where multiple people try to claim the same slot? We decided to have the FormSG client confirm the slot with the CalSG server before sending the submission to the FormSG server, as this was the simplest to implement. However, given more time, we would move this confirmation step to the FormSG server instead.
+#### What is the product vision for OneUnifiedSystem? 
+We hope this starter pack can help accelerate the digital transformation of agencies, and also stop the cycle of silo-ed systems constantly being built every few years, wasting taxpayer money.
 
-Designing the integration between FormSG and CalSG was also a challenge. We were initially going to require the public officer to enter their FormSG secret key into CalSG so that CalSG could store the form responses encrypted, but this was both more difficult to implement and much poorer UX. Hence we decided to store the responses in plaintext and limit the steps required for integration to just one: pasting the CalSG shortcode into FormSG.
-
-#### What is the product vision for CalSG? 
-We have talked to several agencies about concrete use cases, such as:
-- Scheduling intern interviews (MTI)
-- Parent-teacher meetings (MOE)
-- Booking time slots for driver training (RSAF)
+Since this is a common problem across several agencies, the knowledge from the pack can be used across various agencies. We also aim to collaborate with other agencies and find existing resources already made available, and use this platform to help collate and leverage on them.
 
 #### Fun facts!
 **One interesting finding:**\\
-People are surprisingly willing to try out a new product if it might help them solve a real problem!
+It was interesting to map out all the different aspects one would have to think of when trying to push for such a change. What started out looking like just tech advice was actually influenced by multiple factors, and we branched out into sections on change management, stakeholder buy-in, and mindset shifting amongst others.
 
 **One thing you'd have done differently:**\\
-We would have spent more time on UI reviews and user tests to improve the usability of our product.
+Spoken to more agencies to find resources that we ourselves could use as a starting point, instead of starting from scratch!
 
 **Takeaway/learnings:**\\
-When working on a new idea, build an MVP and try it out with real users as soon as possible. Feedback from real users is the best kind of feedback.
+Digital transformation is a long and arduous process – It’s not just the adoption of a single tech solution. There is no finish line or clear endpoint, instead, we can only keep improving and making sure we set up infrastructure to support this initiative. The impact also may not be immediately apparent, but can gradually appear in small everyday micro-interactions. At the end of the day, while things still get done, there is much we can do to improve the quality of life of staff, who are our best resource. Agencies need to invest more than just money into the problem, but also time and resources.
 
 ![CalSG product demo image](/images/calsg-snapshot.jpeg)
