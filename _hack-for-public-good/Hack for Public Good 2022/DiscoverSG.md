@@ -4,44 +4,34 @@ permalink: /hackathon/2022/discoversg
 description: ""
 third_nav_title: Hack for Public Good 2022
 ---
-<iframe allowfullscreen="true" height="515" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRn6vLqlb2-W4W8cgQWEBWSOgDpP9Pe9f0N0ld0wLdBYjp8zLuAQGEQzoGk8FcE-JB1dlXA-u6YGH1N/embed?start=false&loop=false&delayms=3000" ></iframe>
+<iframe allowfullscreen="true" height="515" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSiB6VsBPygfmTdfapvoLuNsjww4pLWHjU9poyfImNeNsr883mQEczGNek0cNSIQ_WVRvwwe9Z5NyWN/embed?start=false&loop=false&delayms=3000" ></iframe>
 
-#### What is CalSG?
-An appointment booking system for all agencies
+#### What is DiscoverSG?
+A Pokemon GO styled NFT project to boost local tourism
 
 #### What motivated you to build this product?
-Citizens book appointments with government agencies all the time, but each of these agencies has its own custom appointment booking system. This means that every single public-facing agency has to spend time and money to build and maintain its own system, and the quality of these systems can vary significantly.
-
-We wanted to build a tool for public officers to easily publish time slots which others could then book using a public link. From our research on existing appointment booking systems, this tool also had to include form-building capabilities so that officers could collect relevant information (e.g. name, reason for appointment) along with the appointment booking.
-
-During the project, we realised that if this tool was accessible to all public officers, they could also use it internally, e.g. to book time slots for meetings or shared facilities.
+As we all know with the pandemic, most places - be it famous tourist attractions or some of Singapore's hidden gems require local tourism to survive, but how do we motivate people to explore Singapore? More importantly, how do we incentivise people to want to visit these places repeatedly?
 
 #### What tech stack did you use?
-
-NextJS, Prisma and PostgreSQL
+AWS, MATIC/Polygon - for the smart contract
 
 #### What were the key challenges you faced in building CalSG? 
 
-We had to make a lot of key engineering and product decisions in the beginning. First, should we build a standalone product or integrate with FormSG? A standalone product would be technically simpler, but FormSG allowed us to leverage on its powerful form-building capabilities. We decided that form-building was essential based on what we observed from existing appointment systems, so we went with a FormSG integration.
+On the engineering front, it was more on the smart contract side for the NFT. Finding a chain that would have low gas (transaction fees) so that the project can scale to the level we require. Apart from that, also making a decision on how NFTs would be 'redeemed' by users.
+ 
+ On the design side, given the uncertainty and volatile perception of NFTs, we needed to think how we could educate users about the technology and also make it simple enough for a user to understand how to go about collecting and accessing their collections.
 
-Next, how do we address the double-booking issue where multiple people try to claim the same slot? We decided to have the FormSG client confirm the slot with the CalSG server before sending the submission to the FormSG server, as this was the simplest to implement. However, given more time, we would move this confirmation step to the FormSG server instead.
-
-Designing the integration between FormSG and CalSG was also a challenge. We were initially going to require the public officer to enter their FormSG secret key into CalSG so that CalSG could store the form responses encrypted, but this was both more difficult to implement and much poorer UX. Hence we decided to store the responses in plaintext and limit the steps required for integration to just one: pasting the CalSG shortcode into FormSG.
-
-#### What is the product vision for CalSG? 
-We have talked to several agencies about concrete use cases, such as:
-- Scheduling intern interviews (MTI)
-- Parent-teacher meetings (MOE)
-- Booking time slots for driver training (RSAF)
+#### What is the product vision for DiscoverSG? 
+DiscoverSG’s vision is to create a more tangible connection between local establishments and our citizens while giving government agencies a platform to build digital campaigns on in the future, to boost footfalls to any place in Singapore.
 
 #### Fun facts!
 **One interesting finding:**\\
-People are surprisingly willing to try out a new product if it might help them solve a real problem!
+On the research side, to see other countries trying to adopt a similar approach to boost tourism, along with seeing the adoption of digital wallets in Singapore was pleasantly surprising and encouraging.
 
 **One thing you'd have done differently:**\\
-We would have spent more time on UI reviews and user tests to improve the usability of our product.
+We would've looked into adding more advanced functions into the contract, to build towards the vision of making the NFTs a digital loyalty card of sorts - especially on our 'reservation' and 'redeem' mechanics.
 
 **Takeaway/learnings:**\\
-When working on a new idea, build an MVP and try it out with real users as soon as possible. Feedback from real users is the best kind of feedback.
+The technology is still relatively early in terms of mass user adoption, but as the push to digitalisation continues, platforms like DiscoverSG could be a great way to bridge the gap between brick and mortar services and our citizens.
 
-![CalSG product demo image](/images/calsg-snapshot.jpeg)
+![CalSG product demo image](/images/discoversg-snapshot.jpeg)
