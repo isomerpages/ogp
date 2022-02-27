@@ -19,7 +19,7 @@ We also wanted to create a base design system which every product could use as a
 
 React, with ChakraUI as the underlying theming library. Package is built using Rollup. Netlify CMS is used for documentation of the components.
  You can view it at [https://design.hack.gov.sg](https://design.hack.gov.sg)
-#### What were the key challenges you faced in building CalSG? 
+#### What were the key challenges you faced in building OGP Design System? 
 
 ##### Design
 For design, deep diving into many different topics within a short period of time: understanding and implementing the concept of tokens, theming, exploring colour palettes, creating complex components such as Tables.
@@ -27,7 +27,7 @@ For design, deep diving into many different topics within a short period of time
 ##### Engineering
 Engineering wise, it was a challenge trying to get the published package to work across multiple tool chains (such as getting ESM dependencies to work well together in projects that may not support them). It was also a lot of trial and error to get the package size down, by using tree-shaking techniques. That is still a work in progress, to be honest. We’ll get there one day.
 
-#### What is the product vision for CalSG? 
+#### What is the product vision for OGP Design System? 
 We want to create a shared design language and visual consistency across OGP products by using reusable components and patterns, as well as following usage and accessibility guidelines. Creating a shared design language provides familiarity across the different OGP products for users.
 
 As an extension to creating components, understanding the thinking behind how and when to apply them is also important. Creating guidelines for usage educates both designers and non-designers to be more aware of creating a good experience for the users.
