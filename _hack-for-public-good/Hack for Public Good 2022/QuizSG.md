@@ -4,44 +4,37 @@ permalink: /hackathon/2022/quizsg
 description: ""
 third_nav_title: Hack for Public Good 2022
 ---
-<iframe allowfullscreen="true" height="515" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRn6vLqlb2-W4W8cgQWEBWSOgDpP9Pe9f0N0ld0wLdBYjp8zLuAQGEQzoGk8FcE-JB1dlXA-u6YGH1N/embed?start=false&loop=false&delayms=3000" ></iframe>
-
 #### What is QuizSG?
-An appointment booking system for all agencies
+QuizSG is a no-code tool for public officers to easily create and administer quizzes which learners can take by simply accessing a weblink.
 
 #### What motivated you to build this product?
-Citizens book appointments with government agencies all the time, but each of these agencies has its own custom appointment booking system. This means that every single public-facing agency has to spend time and money to build and maintain its own system, and the quality of these systems can vary significantly.
+There is no easy way for public officers to administer quizzes internally or externally. Multiple platforms are needed for different tests/quizzes for each individual learner, which leads to nightmares in consolidating one's learning.
 
-We wanted to build a tool for public officers to easily publish time slots which others could then book using a public link. From our research on existing appointment booking systems, this tool also had to include form-building capabilities so that officers could collect relevant information (e.g. name, reason for appointment) along with the appointment booking.
-
-During the project, we realised that if this tool was accessible to all public officers, they could also use it internally, e.g. to book time slots for meetings or shared facilities.
+Our research also showed that there >100 FormSG forms are quizzes which creators manually “mark” after test-takers submit their answers. :Public officers have jumped through hoops to build in the logic on FormSG to create quizzes for their staff or MOP, and FormSG wasn’t built to administer quizzes nor provide analysis of such data which would be critical to the instructor’s understanding of how much knowledge a learner has gained after attending a course. FormSG is also unable to provide the learner with any outcomes or insights of his learning as it is a one-way tool.
 
 #### What tech stack did you use?
 
-NextJS, Prisma and PostgreSQL
+We build our application on the OGP starter-kit called ts-template.  Under the hood, the backend runs in AWS as a nodejs application built with the nestJS framework, and connecting to a PostgreSQL database. The frontend is a reactJS single page application built with UI components from OGP's design system.
 
 #### What were the key challenges you faced in building QuizSG? 
 
-We had to make a lot of key engineering and product decisions in the beginning. First, should we build a standalone product or integrate with FormSG? A standalone product would be technically simpler, but FormSG allowed us to leverage on its powerful form-building capabilities. We decided that form-building was essential based on what we observed from existing appointment systems, so we went with a FormSG integration.
-
-Next, how do we address the double-booking issue where multiple people try to claim the same slot? We decided to have the FormSG client confirm the slot with the CalSG server before sending the submission to the FormSG server, as this was the simplest to implement. However, given more time, we would move this confirmation step to the FormSG server instead.
-
-Designing the integration between FormSG and CalSG was also a challenge. We were initially going to require the public officer to enter their FormSG secret key into CalSG so that CalSG could store the form responses encrypted, but this was both more difficult to implement and much poorer UX. Hence we decided to store the responses in plaintext and limit the steps required for integration to just one: pasting the CalSG shortcode into FormSG.
+Quiz engines are very complex! We started off trying to tweak Moodle for our use since it was open source but we soon realised that Moodle was too complex as was a full-suite Learning Management System and administering quizzes was just a small component in the Moodle universe. Moodle also was a little antiquated :( A whole week had passed and we were back to square one! We needed to re-iterate and re-think our MVP. We also had to be realistic about what we could build within a very short period (<2 weeks).
 
 #### What is the product vision for QuizSG? 
-We have talked to several agencies about concrete use cases, such as:
-- Scheduling intern interviews (MTI)
-- Parent-teacher meetings (MOE)
-- Booking time slots for driver training (RSAF)
+Clean and modern platform for public officers to easily administer quizzes on-the-go while conducting training or outreach. 
+
+A platform that doesn't require multiple account creations and logins for different learner groups. 
+
+A platform where learners can review all their government-administered quizzes easily with simple and elegant UI/UX, and administrators can also glean insights from the quizzes they administer via a dashboard that is easy to use and visually pleasing.
 
 #### Fun facts!
 **One interesting finding:**\\
-People are surprisingly willing to try out a new product if it might help them solve a real problem!
+Our hypothesis is while work is diverse, workflow is generic across use cases, and includes a) verified user identity, b) background of user, c), concern, d) internal communication, e) external communication and f) approvals.
 
 **One thing you'd have done differently:**\\
-We would have spent more time on UI reviews and user tests to improve the usability of our product.
+Test against another agency early on apart from just ESG to substantiate our hypothesis
 
 **Takeaway/learnings:**\\
-When working on a new idea, build an MVP and try it out with real users as soon as possible. Feedback from real users is the best kind of feedback.
-
-![CalSG product demo image](/images/calsg-snapshot.jpeg)
+Most of us on the team were familiar with using sequelize or typeorm as an ORM for interaction with our database. For this hackathon project, we gave Prisma a try and though Prisma did have lackings such as not supporting typing of json columns, overall we found the typing in prisma to be far superior to previous ORMs that we used. You can read more [here](https://www.prisma.io/docs/concepts/more/comparisons/prisma-and-typeorm). 
+ 
+We also opted to compute and store the status of a case instead of computing it on the fly, as previous experiences on projects such as Vault have shown that pre-computing, though it presents the risk of denormalized data going out of sync, helps ensure that fetching case information is quick and straightforward process. We used a handy library called [XState](https://xstate.js.org/docs/) to manage this.
