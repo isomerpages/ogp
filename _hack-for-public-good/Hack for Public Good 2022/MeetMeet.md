@@ -24,14 +24,14 @@ All the while, decisions are deferred, progress is slowed and the cost of delay 
 - Postgres Database 
 - Deployed on AWS, DNS on cloudflare
  
-#### What were the key challenges you faced in building CalSG? 
+#### What were the key challenges you faced in building Meet?Meet. ? 
 
 - Differentiating our product from commercially available solutions
  - Time constraints – our team only formed a week and a half before the end of the hackathon
  - Having to cut down features to produce a MVP showing only the essential user flows
  - Making the right connections and finding the right users for feedback before the end of the hackathon
 
-#### What is the product vision for CalSG? 
+#### What is the product vision for Meet?Meet. ? 
 We want to eliminate the cost of delay associated with scheduling complications so that public officers can make progress on key decisions, initiatives, and strategies as quickly as possible.
 
 We always envisioned that Meet?Meet. could be an extension of the CalSG product that was built by another hackathon team. These two products could come together to create a holistic scheduling and appointment booking solution for public officers.
