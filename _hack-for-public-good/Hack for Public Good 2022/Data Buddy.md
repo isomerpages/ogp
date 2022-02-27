@@ -4,44 +4,43 @@ permalink: /hackathon/2022/databuddy
 description: ""
 third_nav_title: Hack for Public Good 2022
 ---
-<iframe allowfullscreen="true" height="515" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRn6vLqlb2-W4W8cgQWEBWSOgDpP9Pe9f0N0ld0wLdBYjp8zLuAQGEQzoGk8FcE-JB1dlXA-u6YGH1N/embed?start=false&loop=false&delayms=3000" ></iframe>
+<iframe allowfullscreen="true" height="515" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRQeUHSC0ABp-I9mI0Rxxj92dQnF3fW8-O4GYgG_jlEbKkjwwlQrIp3KAS70yYJT8mRBoKG8gJYUZlJ/embed?start=false&loop=false&delayms=3000" ></iframe>
 
-#### What is CalSG?
-An appointment booking system for all agencies
+
+#### What is Data Buddy?
+No-code tool that allows you to turn transactional data into workflow apps in minutes
 
 #### What motivated you to build this product?
-Citizens book appointments with government agencies all the time, but each of these agencies has its own custom appointment booking system. This means that every single public-facing agency has to spend time and money to build and maintain its own system, and the quality of these systems can vary significantly.
+Transactional data is at the heart of every agency process/workflow. Data producers want a way to provide data in a more easily consumed way (e.g. through APIs that their system can integrate with, a way to clean or validate data). Data consumers want a way to make sense of their data or build apps that connect with the data. Yet both producers and consumers don’t know how to solve their challenges. 
 
-We wanted to build a tool for public officers to easily publish time slots which others could then book using a public link. From our research on existing appointment booking systems, this tool also had to include form-building capabilities so that officers could collect relevant information (e.g. name, reason for appointment) along with the appointment booking.
-
-During the project, we realised that if this tool was accessible to all public officers, they could also use it internally, e.g. to book time slots for meetings or shared facilities.
+Data Buddy is a no code tool that allows policymakers, IT teams ops staff to turn transactional data into workflow apps in minutes. First, we allow public officers to easily convert data into an API. Second, we provide public officers with the ability to both more easily produce data (through e.g. data validation or cleaning tools) and consume the data (e.g. through off-the-shelf apps for analytics, attendance tracking, kanban). 
 
 #### What tech stack did you use?
 
-NextJS, Prisma and PostgreSQL
+Data Buddy API: Express, AWS Lambda, Amazon API Gateway,  DynamoDB
+Data Buddy Apps: React, Amazon SES
 
 #### What were the key challenges you faced in building CalSG? 
 
-We had to make a lot of key engineering and product decisions in the beginning. First, should we build a standalone product or integrate with FormSG? A standalone product would be technically simpler, but FormSG allowed us to leverage on its powerful form-building capabilities. We decided that form-building was essential based on what we observed from existing appointment systems, so we went with a FormSG integration.
+The key challenge that we faced was in finding a way to quickly convey the potential of the product to public officers. At first we started with just the API, but it was only understandable by more technical people. Which was the motivation for us building Data Buddy applications like “FormSG Integration”, which allows FormSG submissions to be stored in Data Buddy, which is immediately obvious to users how Data Buddy might work.
 
-Next, how do we address the double-booking issue where multiple people try to claim the same slot? We decided to have the FormSG client confirm the slot with the CalSG server before sending the submission to the FormSG server, as this was the simplest to implement. However, given more time, we would move this confirmation step to the FormSG server instead.
+Given this challenge, we pivoted to make the product much more application focussed so public officers can see immediately how Data Buddy could improve their workflows. For example, we built “Analytics Buddy” which showcased how the data that is stored can quickly be turned into charts which is useful for public officers trying to analyse survey data collected from FormSG for example. 
 
-Designing the integration between FormSG and CalSG was also a challenge. We were initially going to require the public officer to enter their FormSG secret key into CalSG so that CalSG could store the form responses encrypted, but this was both more difficult to implement and much poorer UX. Hence we decided to store the responses in plaintext and limit the steps required for integration to just one: pasting the CalSG shortcode into FormSG.
+We also built an “Attendance Buddy” because a common problem we found when interviewing public officers was that of keeping track of attendance - in class or at a meeting. By using Data Buddy, an agency officer can easily set up a workflow where participants for an event can sign up through FormSG, have the participant list show up in Attendance Buddy and take attendance in the application itself.
 
-#### What is the product vision for CalSG? 
-We have talked to several agencies about concrete use cases, such as:
-- Scheduling intern interviews (MTI)
-- Parent-teacher meetings (MOE)
-- Booking time slots for driver training (RSAF)
+#### What is the product vision for Data Buddy? 
+In the future, any public officer will be able to use Data Buddy to spin up tools to automate their key processes even if they do not know how to code. 
 
 #### Fun facts!
 **One interesting finding:**\\
-People are surprisingly willing to try out a new product if it might help them solve a real problem!
+We experimented with storing data as blobs in S3 and then using S3 Select to query the data. We found this method to be feasible for use cases where data is written once and read multiple times. Since we need to be able to update the dataset, we moved to using DynamoDB.
 
 **One thing you'd have done differently:**\\
-We would have spent more time on UI reviews and user tests to improve the usability of our product.
+Build more productivity apps
+Package the API and productivity tools into a more coherent product/interface
+Add authenticated API endpoint for modifying data
 
 **Takeaway/learnings:**\\
-When working on a new idea, build an MVP and try it out with real users as soon as possible. Feedback from real users is the best kind of feedback.
+A simple data API can enable many complex workflows
 
-![CalSG product demo image](/images/calsg-snapshot.jpeg)
+![Data Buddy product demo image](/images/databuddy-snapshot.jpeg)
