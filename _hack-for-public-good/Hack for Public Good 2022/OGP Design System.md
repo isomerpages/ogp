@@ -4,44 +4,50 @@ permalink: /hackathon/2022/ogpdesignsystem
 description: ""
 third_nav_title: Hack for Public Good 2022
 ---
-<iframe allowfullscreen="true" height="515" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRn6vLqlb2-W4W8cgQWEBWSOgDpP9Pe9f0N0ld0wLdBYjp8zLuAQGEQzoGk8FcE-JB1dlXA-u6YGH1N/embed?start=false&loop=false&delayms=3000" ></iframe>
+<iframe allowfullscreen="true" height="515" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRfsDFExNtMg7cqCLWJLaHaJDqW5jmqBxNEOB6gNaROMC-26p5UxsL39nQPJCRXHl9JEMbbWY1FKn1P/embed?start=false&loop=false&delayms=3000" ></iframe>
 
-#### What is CalSG?
-An appointment booking system for all agencies
+#### What is OGP Design System?
+An accessible multi-brand design system for OGP products.
 
 #### What motivated you to build this product?
-Citizens book appointments with government agencies all the time, but each of these agencies has its own custom appointment booking system. This means that every single public-facing agency has to spend time and money to build and maintain its own system, and the quality of these systems can vary significantly.
-
-We wanted to build a tool for public officers to easily publish time slots which others could then book using a public link. From our research on existing appointment booking systems, this tool also had to include form-building capabilities so that officers could collect relevant information (e.g. name, reason for appointment) along with the appointment booking.
-
-During the project, we realised that if this tool was accessible to all public officers, they could also use it internally, e.g. to book time slots for meetings or shared facilities.
+Many products within OGP are using their own design systems which leads to visual and interaction inconsistencies and duplication of work designing and building components and patterns.
+ Visual and interaction consistency is important for us because it removes confusion and cognitive load for our users. It strengthens their intuition so they understand and expect certain behaviour from the elements in our products.
+ 
+We also wanted to create a base design system which every product could use as a starting point and build on top of if necessary. This way we could direct our focus more toward product and user challenges rather than recreating components over and over.
 
 #### What tech stack did you use?
 
-NextJS, Prisma and PostgreSQL
-
+React, with ChakraUI as the underlying theming library. Package is built using Rollup. Netlify CMS is used for documentation of the components.
+ You can view it at [https://design.hack.gov.sg](https://design.hack.gov.sg)
 #### What were the key challenges you faced in building CalSG? 
 
-We had to make a lot of key engineering and product decisions in the beginning. First, should we build a standalone product or integrate with FormSG? A standalone product would be technically simpler, but FormSG allowed us to leverage on its powerful form-building capabilities. We decided that form-building was essential based on what we observed from existing appointment systems, so we went with a FormSG integration.
-
-Next, how do we address the double-booking issue where multiple people try to claim the same slot? We decided to have the FormSG client confirm the slot with the CalSG server before sending the submission to the FormSG server, as this was the simplest to implement. However, given more time, we would move this confirmation step to the FormSG server instead.
-
-Designing the integration between FormSG and CalSG was also a challenge. We were initially going to require the public officer to enter their FormSG secret key into CalSG so that CalSG could store the form responses encrypted, but this was both more difficult to implement and much poorer UX. Hence we decided to store the responses in plaintext and limit the steps required for integration to just one: pasting the CalSG shortcode into FormSG.
+##### Design
+For design, deep diving into many different topics within a short period of time: understanding and implementing the concept of tokens, theming, exploring colour palettes, creating complex components such as Tables.
+ 
+##### Engineering
+Engineering wise, it was a challenge trying to get the published package to work across multiple tool chains (such as getting ESM dependencies to work well together in projects that may not support them). It was also a lot of trial and error to get the package size down, by using tree-shaking techniques. That is still a work in progress, to be honest. We’ll get there one day.
 
 #### What is the product vision for CalSG? 
-We have talked to several agencies about concrete use cases, such as:
-- Scheduling intern interviews (MTI)
-- Parent-teacher meetings (MOE)
-- Booking time slots for driver training (RSAF)
+We want to create a shared design language and visual consistency across OGP products by using reusable components and patterns, as well as following usage and accessibility guidelines. Creating a shared design language provides familiarity across the different OGP products for users.
+
+As an extension to creating components, understanding the thinking behind how and when to apply them is also important. Creating guidelines for usage educates both designers and non-designers to be more aware of creating a good experience for the users.
+ 
+For both design and engineering, the ideal state would be for all OGP products to extend from this base design system, so as to reduce redundant design and engineering work, increase efficiency in implementation, and create consistent designs across all our products.
+ 
+Extensions for engineering would include more components, handling of dark/light mode, and making it easier for non-engineers to update non-technical aspects of the design system such as documentation.
+ 
+Another extension could be to shard out the existing tokens and produce more product-specific tokens that can be easily layered on the design system for additional customization.
 
 #### Fun facts!
 **One interesting finding:**\\
-People are surprisingly willing to try out a new product if it might help them solve a real problem!
+Having both ESM and CJS compatibility at the same time is painful. It is also really hard to make generic enough components yet abstracting away the non-essential configuration options.
 
 **One thing you'd have done differently:**\\
-We would have spent more time on UI reviews and user tests to improve the usability of our product.
+Test the usability of the new system by using it in our respective products such as Form, Isomer, AskGov, etc.
+
+Engineering wise, we could have done more research on other design system packages and understanding why they chose to structure it that way, and incorporating it into the current system.
 
 **Takeaway/learnings:**\\
-When working on a new idea, build an MVP and try it out with real users as soon as possible. Feedback from real users is the best kind of feedback.
+Was pleasantly surprised that engineers are really supportive when we want to test out new tools and plugins! We have the best teammates.
 
-![CalSG product demo image](/images/calsg-snapshot.jpeg)
+![CalSG product demo image](/images/ogp-design-system-snapshot.jpeg)
