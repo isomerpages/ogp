@@ -40,4 +40,4 @@ Spoken to more agencies to find resources that we ourselves could use as a start
 **Takeaway/learnings:**\\
 Digital transformation is a long and arduous process – It’s not just the adoption of a single tech solution. There is no finish line or clear endpoint, instead, we can only keep improving and making sure we set up infrastructure to support this initiative. The impact also may not be immediately apparent, but can gradually appear in small everyday micro-interactions. At the end of the day, while things still get done, there is much we can do to improve the quality of life of staff, who are our best resource. Agencies need to invest more than just money into the problem, but also time and resources.
 
-![CalSG product demo image](/images/calsg-snapshot.jpeg)
+![OneUnifiedSystem product demo image](/images/oneunifiedsystem-snapshot.jpeg)
