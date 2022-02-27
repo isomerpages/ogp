@@ -20,7 +20,7 @@ Data Buddy is a no code tool that allows policymakers, IT teams ops staff to tur
 Data Buddy API: Express, AWS Lambda, Amazon API Gateway,  DynamoDB
 Data Buddy Apps: React, Amazon SES
 
-#### What were the key challenges you faced in building CalSG? 
+#### What were the key challenges you faced in building Data Buddy? 
 
 The key challenge that we faced was in finding a way to quickly convey the potential of the product to public officers. At first we started with just the API, but it was only understandable by more technical people. Which was the motivation for us building Data Buddy applications like “FormSG Integration”, which allows FormSG submissions to be stored in Data Buddy, which is immediately obvious to users how Data Buddy might work.
 
