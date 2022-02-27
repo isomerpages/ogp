@@ -18,7 +18,7 @@ This usually takes 1-3 working days. The agency might also have to pay a small a
 
 FormSG Webhook SDK, TypeScript and Express.js
 
-#### What were the key challenges you faced in building CalSG? 
+#### What were the key challenges you faced in building Isomer Launch? 
 
 This was an interesting exercise in figuring out the challenges when working with an external co-hacker. As he did not have access to Isomer's infrastructure, it was left to someone on the Isomer team to test the prototype and adjust it for improvements.
 
