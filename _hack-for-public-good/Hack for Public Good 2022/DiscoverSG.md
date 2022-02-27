@@ -15,7 +15,7 @@ As we all know with the pandemic, most places - be it famous tourist attractions
 #### What tech stack did you use?
 AWS, MATIC/Polygon - for the smart contract
 
-#### What were the key challenges you faced in building CalSG? 
+#### What were the key challenges you faced in building DiscoverSG? 
 
 On the engineering front, it was more on the smart contract side for the NFT. Finding a chain that would have low gas (transaction fees) so that the project can scale to the level we require. Apart from that, also making a decision on how NFTs would be 'redeemed' by users.
  
