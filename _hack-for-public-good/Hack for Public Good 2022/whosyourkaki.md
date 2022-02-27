@@ -4,44 +4,38 @@ permalink: /hackathon/2022/whosyourkaki
 description: ""
 third_nav_title: Hack for Public Good 2022
 ---
-<iframe allowfullscreen="true" height="515" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRn6vLqlb2-W4W8cgQWEBWSOgDpP9Pe9f0N0ld0wLdBYjp8zLuAQGEQzoGk8FcE-JB1dlXA-u6YGH1N/embed?start=false&loop=false&delayms=3000" ></iframe>
-
 #### What is whosyourkaki?
-An appointment booking system for all agencies
+Buddy matching system in your neighbourhood
 
 #### What motivated you to build this product?
-Citizens book appointments with government agencies all the time, but each of these agencies has its own custom appointment booking system. This means that every single public-facing agency has to spend time and money to build and maintain its own system, and the quality of these systems can vary significantly.
+The impact that kampongkaki produces is great, however, their current process involves quite a significant amount of manual work. I would say to helping automate the process and free up their time to work on more important things is the main motivation point.
+ 
 
-We wanted to build a tool for public officers to easily publish time slots which others could then book using a public link. From our research on existing appointment booking systems, this tool also had to include form-building capabilities so that officers could collect relevant information (e.g. name, reason for appointment) along with the appointment booking.
-
-During the project, we realised that if this tool was accessible to all public officers, they could also use it internally, e.g. to book time slots for meetings or shared facilities.
+The problem we're trying to solve in the hackathon was to make the onboarding process better for volunteers and also eliminate the need of having matchmakers manually the script on the system every week.
 
 #### What tech stack did you use?
 
-NextJS, Prisma and PostgreSQL
+NextJS for frontend, NestJS for backend, Flask for matching API and Chakra UI for ui/css framework
 
 #### What were the key challenges you faced in building whosyourkaki? 
 
-We had to make a lot of key engineering and product decisions in the beginning. First, should we build a standalone product or integrate with FormSG? A standalone product would be technically simpler, but FormSG allowed us to leverage on its powerful form-building capabilities. We decided that form-building was essential based on what we observed from existing appointment systems, so we went with a FormSG integration.
+For engineering, the key challenges are making it mobile friendly and backend would be integration the integration with sgid. Designing how the matching algorithm would work as a separate service from the backend
+ 
 
-Next, how do we address the double-booking issue where multiple people try to claim the same slot? We decided to have the FormSG client confirm the slot with the CalSG server before sending the submission to the FormSG server, as this was the simplest to implement. However, given more time, we would move this confirmation step to the FormSG server instead.
+ For Design, thinking through the implications of the product & design when it came to identity and beneficiary safety
+ 
 
-Designing the integration between FormSG and CalSG was also a challenge. We were initially going to require the public officer to enter their FormSG secret key into CalSG so that CalSG could store the form responses encrypted, but this was both more difficult to implement and much poorer UX. Hence we decided to store the responses in plaintext and limit the steps required for integration to just one: pasting the CalSG shortcode into FormSG.
+ For product, we're still unsure how volunteers would react to the matching system.
 
 #### What is the product vision for whosyourkaki? 
-We have talked to several agencies about concrete use cases, such as:
-- Scheduling intern interviews (MTI)
-- Parent-teacher meetings (MOE)
-- Booking time slots for driver training (RSAF)
+I believe there could be a couple of NGOs requiring some sort of matchmaking system. This could be a useful example for those NGO to reference.
 
 #### Fun facts!
 **One interesting finding:**\\
-People are surprisingly willing to try out a new product if it might help them solve a real problem!
+Not all beneficiaries require physical support but rather mental support such as having a volunteer over to their place just to chit chat.
 
 **One thing you'd have done differently:**\\
-We would have spent more time on UI reviews and user tests to improve the usability of our product.
+We would want to interview more volunteers and beneficiaries to check whether were there any gaps our product have missed
 
 **Takeaway/learnings:**\\
-When working on a new idea, build an MVP and try it out with real users as soon as possible. Feedback from real users is the best kind of feedback.
-
-![CalSG product demo image](/images/calsg-snapshot.jpeg)
+Thankfully, there is a surplus of volunteers in this project entirely and this shines a bright light that there are a lot more people wanting to do good. However, one of the bigger issues is the lack of suitable skills from volunteers.
