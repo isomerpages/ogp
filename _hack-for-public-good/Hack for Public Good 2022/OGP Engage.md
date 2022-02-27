@@ -13,11 +13,11 @@ I realised there is a lack of ad-hoc communication between OGP and agencies on t
 #### What tech stack did you use?
 Telegram
 
-#### What were the key challenges you faced in building CalSG? 
+#### What were the key challenges you faced in building OGP Engage? 
 
 To get users join our telegram group chat was and still is the challenge.
 
-#### What is the product vision for CalSG? 
+#### What is the product vision for OGP Engage? 
 If each products in OGP started to get a large amount of users, we can create a telegram group chat for each of this product to better engage with users directly to understand their pain points and use case better.
 
 #### Fun facts!
