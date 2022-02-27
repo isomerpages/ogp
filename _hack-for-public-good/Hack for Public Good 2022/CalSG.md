@@ -4,8 +4,7 @@ permalink: /hackathon/2022/calsg
 description: ""
 third_nav_title: Hack for Public Good 2022
 ---
-
-<iframe allowfullscreen="true" height="515" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRUyZW4JXP-BCw6D9PUfWaLC9nto1RtGJbovjZ_nkV-ZZEdBGn3IGoWY3LksKAQOKg0DDk7f9_IQBYI/embed?start=false&amp;loop=false&amp;delayms=3000"></iframe>
+<iframe allowfullscreen="true" height="515" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRn6vLqlb2-W4W8cgQWEBWSOgDpP9Pe9f0N0ld0wLdBYjp8zLuAQGEQzoGk8FcE-JB1dlXA-u6YGH1N/embed?start=false&loop=false&delayms=3000" ></iframe>
 
 #### What is CheckFirst?
 CheckFirst is a self-service tool that government officers can use to create eligibility checkers or calculators within a matter of minutes.
