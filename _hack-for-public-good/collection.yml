@@ -2,6 +2,7 @@ collections:
   hack-for-public-good:
     output: true
     order:
+      - Hack for Public Good 2022/Spotlight.md
       - Hack for Public Good 2022/PetitionsSG.md
       - Hack for Public Good 2022/Ownself Go.md
       - Hack for Public Good 2022/OneUnifiedSystem Starter Pack.md
