@@ -2,6 +2,7 @@ collections:
   hack-for-public-good:
     output: true
     order:
+      - Hack for Public Good 2022/ResolveSG.md
       - Hack for Public Good 2022/DocuLens.md
       - Hack for Public Good 2022/WhoThis.md
       - Hack for Public Good 2022/Spotlight.md
