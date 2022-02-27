@@ -15,11 +15,11 @@ We wanted to be able to provide everyone who took part in the hackathon an AWS c
 #### What tech stack did you use?
 AWS - Control Tower, Single Sign-On, Landing Zone, Security Hub
 
-#### What were the key challenges you faced in building CalSG? 
+#### What were the key challenges you faced in building CloudCity? 
 Our main challenges were on operating higher-order cloud services in a federated account setup, and communicating clearly to users on the guardrails provided by Cloud City.
 
 
-#### What is the product vision for CalSG? 
+#### What is the product vision for CloudCity? 
 We envision that other tech teams within government be able to leverage the cloud sandbox for their projects.
 
 #### Fun facts!
