@@ -2,9 +2,9 @@ collections:
   hack-for-public-good:
     output: true
     order:
-      - Hack for Public Good 2022/CalSG.md
-      - Hack for Public Good 2022/Overview.md
       - Hack for Public Good 2022/.keep
+      - Hack for Public Good 2022/Overview.md
+      - Hack for Public Good 2022/CalSG.md
       - About Hack for Public Good.md
       - Hack for Public Good 2021/.keep
       - Hack for Public Good 2021/overview.md
