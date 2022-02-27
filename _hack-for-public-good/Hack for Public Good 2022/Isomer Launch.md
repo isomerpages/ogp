@@ -22,7 +22,7 @@ FormSG Webhook SDK, TypeScript and Express.js
 
 This was an interesting exercise in figuring out the challenges when working with an external co-hacker. As he did not have access to Isomer's infrastructure, it was left to someone on the Isomer team to test the prototype and adjust it for improvements.
 
-#### What is the product vision for CalSG? 
+#### What is the product vision for Isomer Launch? 
 Any public officer can create a web presence on his or her own! Other possible use cases include hosting bigger web sites or services that may be temporary or otherwise have little need to register a permanent top-level domain.
 
 #### Fun facts!
