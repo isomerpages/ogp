@@ -4,44 +4,46 @@ permalink: /hackathon/2022/meetmeet
 description: ""
 third_nav_title: Hack for Public Good 2022
 ---
-<iframe allowfullscreen="true" height="515" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRn6vLqlb2-W4W8cgQWEBWSOgDpP9Pe9f0N0ld0wLdBYjp8zLuAQGEQzoGk8FcE-JB1dlXA-u6YGH1N/embed?start=false&loop=false&delayms=3000" ></iframe>
+<iframe allowfullscreen="true" height="515" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ2VZMSEexIX2dNODjeIy4Cn4abbhzkveBnLx-eEHYSFgrX7nNkaRz3fKk2Tp8lKniLZ7MTadZIr4wf/embed?start=false&loop=false&delayms=3000"></iframe>
 
-#### What is CalSG?
-An appointment booking system for all agencies
+#### What is Meet?Meet. ?
+Meet?Meet. is a fast and easy way to find a common time for a meeting across multiple individuals, departments, and agencies.
 
 #### What motivated you to build this product?
-Citizens book appointments with government agencies all the time, but each of these agencies has its own custom appointment booking system. This means that every single public-facing agency has to spend time and money to build and maintain its own system, and the quality of these systems can vary significantly.
+Every day, across all of government, public officers meet in order to make progress on key decisions, initiatives, and strategies that help determine the future of Singapore. However, these critical decision making moments are often delayed due to a very simple reason – people struggle to find a common time to meet.
 
-We wanted to build a tool for public officers to easily publish time slots which others could then book using a public link. From our research on existing appointment booking systems, this tool also had to include form-building capabilities so that officers could collect relevant information (e.g. name, reason for appointment) along with the appointment booking.
+Emails are created with data tables of names and proposed dates and times that get sent back and forth between individuals and departments confirming time slots with yes, no's, and maybe so's. And these long email chains can result in confusion and no final meeting time.
 
-During the project, we realised that if this tool was accessible to all public officers, they could also use it internally, e.g. to book time slots for meetings or shared facilities.
+All the while, decisions are deferred, progress is slowed and the cost of delay creeps slowly upwards.
+ That's the problem we're trying to solve with Meet?Meet, a simple calendar polling application designed to combat the cost of delay by making it easy to find a time that works for everyone.
 
 #### What tech stack did you use?
 
-NextJS, Prisma and PostgreSQL
-
+- Backend using nodejs with express
+- Frontend using react
+- Postgres Database 
+- Deployed on AWS, DNS on cloudflare
+ 
 #### What were the key challenges you faced in building CalSG? 
 
-We had to make a lot of key engineering and product decisions in the beginning. First, should we build a standalone product or integrate with FormSG? A standalone product would be technically simpler, but FormSG allowed us to leverage on its powerful form-building capabilities. We decided that form-building was essential based on what we observed from existing appointment systems, so we went with a FormSG integration.
-
-Next, how do we address the double-booking issue where multiple people try to claim the same slot? We decided to have the FormSG client confirm the slot with the CalSG server before sending the submission to the FormSG server, as this was the simplest to implement. However, given more time, we would move this confirmation step to the FormSG server instead.
-
-Designing the integration between FormSG and CalSG was also a challenge. We were initially going to require the public officer to enter their FormSG secret key into CalSG so that CalSG could store the form responses encrypted, but this was both more difficult to implement and much poorer UX. Hence we decided to store the responses in plaintext and limit the steps required for integration to just one: pasting the CalSG shortcode into FormSG.
+- Differentiating our product from commercially available solutions
+ - Time constraints – our team only formed a week and a half before the end of the hackathon
+ - Having to cut down features to produce a MVP showing only the essential user flows
+ - Making the right connections and finding the right users for feedback before the end of the hackathon
 
 #### What is the product vision for CalSG? 
-We have talked to several agencies about concrete use cases, such as:
-- Scheduling intern interviews (MTI)
-- Parent-teacher meetings (MOE)
-- Booking time slots for driver training (RSAF)
+We want to eliminate the cost of delay associated with scheduling complications so that public officers can make progress on key decisions, initiatives, and strategies as quickly as possible.
+
+We always envisioned that Meet?Meet. could be an extension of the CalSG product that was built by another hackathon team. These two products could come together to create a holistic scheduling and appointment booking solution for public officers.
 
 #### Fun facts!
 **One interesting finding:**\\
-People are surprisingly willing to try out a new product if it might help them solve a real problem!
+People are often able to simply use Outlook to help book meetings across multiple parties but after 5+ participants scheduling gets complicated. It was interesting to hear about all of the hacks that people use today to help find a common meeting time like bullet point lists of time slots, tables of names and proposed times sent via email, spreadsheets of the same, and even MS Teams wiki pages.
 
 **One thing you'd have done differently:**\\
-We would have spent more time on UI reviews and user tests to improve the usability of our product.
+If we had more time, we would have liked to conduct additional research with more users and test our working software instead of our clickable prototype. This would help us to de-risk the product and ensure that we’re building something that works for public officers.
 
 **Takeaway/learnings:**\\
-When working on a new idea, build an MVP and try it out with real users as soon as possible. Feedback from real users is the best kind of feedback.
+You can accomplish more than you think in a short period of time. Our team got a late start so we only had a week and a half before the finale but we nearly had a fully functioning product before the end.
 
-![CalSG product demo image](/images/calsg-snapshot.jpeg)
+![MeetMeet product demo image](/images/meetmeet-snapshot.jpeg)
