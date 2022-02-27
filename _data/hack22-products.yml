@@ -58,6 +58,11 @@
   sum: Track and resolve cases in a few days
   link: /hackathon/2022/resolvesg
 
+- title: UNBORINGSG
+  image: /images/unboringsg-snapshot.jpg
+  sum: A website and browser extension that aims to help Singaporean residents discover interesting things to eat, do, and learn in the city, and challenges the perception that Singapore is ‘boring’.
+  link: /hackathon/2022/unboringsg
+  
 - title: ISOMER LAUNCH
   sum: Launch your Isomer site, quickly and freely
   image: /images/solve.png
@@ -82,11 +87,6 @@
   image: /images/solve.png
   sum: No-code tool for public officers to easily create and administer quizzes which learners can take by simply accessing a weblink
   link: /hackathon/2022/quizsg
-
-- title: UNBORINGSG
-  image: /images/solve.png
-  sum: A website and browser extension that aims to help Singaporean residents discover interesting things to eat, do, and learn in the city, and challenges the perception that Singapore is ‘boring’.
-  link: /hackathon/2022/unboringsg
   
 - title: WHOSYOURKAKI
   image: /images/solve.png
