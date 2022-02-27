@@ -6,7 +6,7 @@ third_nav_title: Hack for Public Good 2022
 ---
 <iframe allowfullscreen="true" height="515" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRn6vLqlb2-W4W8cgQWEBWSOgDpP9Pe9f0N0ld0wLdBYjp8zLuAQGEQzoGk8FcE-JB1dlXA-u6YGH1N/embed?start=false&loop=false&delayms=3000" ></iframe>
 
-#### What is CalSG?
+#### What is WhoThis?
 An appointment booking system for all agencies
 
 #### What motivated you to build this product?
@@ -20,7 +20,7 @@ During the project, we realised that if this tool was accessible to all public o
 
 NextJS, Prisma and PostgreSQL
 
-#### What were the key challenges you faced in building CalSG? 
+#### What were the key challenges you faced in building WhoThis? 
 
 We had to make a lot of key engineering and product decisions in the beginning. First, should we build a standalone product or integrate with FormSG? A standalone product would be technically simpler, but FormSG allowed us to leverage on its powerful form-building capabilities. We decided that form-building was essential based on what we observed from existing appointment systems, so we went with a FormSG integration.
 
@@ -28,11 +28,8 @@ Next, how do we address the double-booking issue where multiple people try to cl
 
 Designing the integration between FormSG and CalSG was also a challenge. We were initially going to require the public officer to enter their FormSG secret key into CalSG so that CalSG could store the form responses encrypted, but this was both more difficult to implement and much poorer UX. Hence we decided to store the responses in plaintext and limit the steps required for integration to just one: pasting the CalSG shortcode into FormSG.
 
-#### What is the product vision for CalSG? 
-We have talked to several agencies about concrete use cases, such as:
-- Scheduling intern interviews (MTI)
-- Parent-teacher meetings (MOE)
-- Booking time slots for driver training (RSAF)
+#### What is the product vision for WhoThis? 
+
 
 #### Fun facts!
 **One interesting finding:**\\
