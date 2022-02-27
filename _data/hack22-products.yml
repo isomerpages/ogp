@@ -1,79 +1,94 @@
-- title: CHECKFIRST
-  image: /images/checkfirst-snapshot.png
-  sum: Self-service eligibility checker and calculator for the government
-  link: /hackathon/2021/checkfirst
+- title: CALSG
+  image: /images/calsg-snapshot.jpeg
+  sum: An appointment booking system for all agencies
+  link: /hackathon/2022/calsg
 
-- title: QUEUE
+- title: CLOUDCITY
   sum: Allows citizens to queue and monitor their positions digitally while organisers manage the queue via drag-and-drop
-  image: /images/Queue_snapshot.png
-  link: /hackathon/2021/queue
-
-- title: CHOPCHOPDOC
-  image: /images/chopchopdocx_snapshot_updated.png
-  sum: Create documents from templates! Fill in forms and receive completed documents in your inbox right away
-  link: /hackathon/2021/chopchopdoc
-
-- title: LOOKBACK
-  image: /images/CitizenYearInReview_snapshot.png
-  sum: Interactive instagrammable sequence commemorating the past year spent in Singapore
-  link: /hackathon/2021/lookback
-
-- title: DASH.GOV.SG
-  image: /images/Dash_snapshot.png
-  sum: The common inbox for the government to address incoming queries
-  link: /hackathon/2021/dash
-
-- title: HANDSY
-  sum: Simple, fun in-browser game to get seniors moving and keeping healthy!
-  image: /images/Handsy_snapshot.png
-  link: /hackathon/2021/handsy
-
-- title: HELP.GOV.SG
-  image: /images/Helpgov_snapshot.png
-  sum: Citizens take a while to get answers for general enquiries, and officers are bombarded with repeat questions. Help.gov.sg is Quora for govt
-  link: /hackathon/2021/helpgov
-
-- title: TYPESAFE
-  image: /images/typesafe.png
-  sum: Linting rules to help JS/TS developers catch exceptions and unhandled promises!
-  link: /hackathon/2021/typesafe
-
-- title: TRANSPARENCY
-  image: /images/Transparency_snapshot.png
-  sum: Crack open data silos by enabling federated queries across multiple databases with Presto.
-  link: /hackathon/2021/transparency
-
-- title: GOVSEARCH
-  sum: A one-stop shop for anyone to search for government information
-  image: /images/GovSearch_snapshot.png
-  link: /hackathon/2021/govsearch
-
-- title: PERSONALISED FORMS
-  sum: Allows FormSG to pull data from agencies' APIs for display within the form. Spin-up Singpass-enabled forms and display personalised information to citizens!
-  image: /images/PersonalisedForm_snapshot.png
-  link: /hackathon/2021/personalised-forms
-
-- title: DIFFINDO
-  image: /images/Diffindo_snapshot.png
-  sum: Tracked-changes interface for civil servants to quickly take submissions modified in outlook, and easily accept/ reject each change
-  link: /hackathon/2021/diffindo
-
-- title: ANYTHING MAPPER
-  image: /images/AnythingMapper_snapshot.png
-  sum: Upload a list of locations & characteristics, and convert it into a map that others can search and filter
-  link: /hackathon/2021/anything-mapper
-
-- title: COMMON.GOV.SG
   image: /images/solve.png
-  sum: Internal forum for public officers
-  link: /hackathon/2021/common
+  link: /hackathon/2022/cloudcity
 
-- title: PAYMENTS
-  image: /images/solve.png
-  sum: Enable public-initiated payment on FormSG & Create payment links to collect money from citizens transparently
-  link: /hackathon/2021/payments
+- title: DATA BUDDY
+  image: /images/databuddy-snapshot.jpeg
+  sum: No-code tool that allows you to turn transactional data into workflow apps in minutes
+  link: /hackathon/2022/databuddy
 
-- title: SANBAIQIAN
+- title: DISCOVERSG
+  image: /images/discoversg-snapshot.jpeg
+  sum: A Pokemon GO styled NFT project to boost local tourism
+  link: /hackathon/2022/discoversg
+
+- title: DOCULENS
+  image: /images/doculens-snapshot.jpeg
+  sum: Allows government officers to easily receive and view applications for grants and schemes that require many supporting documents.
+  link: /hackathon/2022/doculens
+
+- title: ISOMER LAUNCH
+  sum: Launch your Isomer site, quickly and freely
   image: /images/solve.png
-  sum: Helping adults with basic Mandarin Chinese proficiency to self-improve
-  link: /hackathon/2021/sanbaiqian
+  link: /hackathon/2022/isomerlaunch
+
+- title: MEET?MEET.
+  image: /images/meetmeet-snapshot.jpeg
+  sum: Fast and easy way to find a common time for a meeting across multiple individuals, departments, and agencies.
+  link: /hackathon/2022/meetmeet
+
+- title: MEMO
+  image: /images/solve.png
+  sum: Generates templated, verifiable, and identifiable memos accessible via a weblink.
+  link: /hackathon/2022/memo
+
+- title: OGP DESIGN SYSTEM
+  image: /images/ogp-design-system-snapshot.jpeg
+  sum: An accessible multi-brand design system for OGP products
+  link: /hackathon/2022/ogpdesignsystem
+
+- title: OGP-ENGAGE
+  sum: Engage with OGP officers on telegram!
+  image: /images/solve.png
+  link: /hackathon/2022/ogpengage
+
+- title: ONEUNIFIEDSYSTEM STARTER PACK
+  sum: A collection of resources to empower public officers when modernising their agency’s legacy systems.
+  image: /images/oneunifiedsystem-snapshot.jpeg
+  link: /hackathon/2022/oneunifiedsystem
+
+- title: OWNSELF GO
+  image: /images/playground-snapshot.jpeg
+  sum: A set of exercises in Figma to teach non-design colleagues about Figma and its useful shortcuts to improve handoff
+  link: /hackathon/2022/ownselfgo
+
+- title: PETITIONS SG
+  image: /images/petitionsg-snapshot.jpeg
+  sum: A government platform for citizens to push for change that matters, connecting the most important sentiments from the ground to ministries.
+  link: /hackathon/2022/petitionssg
+
+- title: QUIZSG
+  image: /images/solve.png
+  sum: No-code tool for public officers to easily create and administer quizzes which learners can take by simply accessing a weblink
+  link: /hackathon/2022/quizsg
+
+- title: RESOLVESG
+  image: /images/resolvesg-snapshot.jpeg
+  sum: Track and resolve cases in a few days
+  link: /hackathon/2022/resolvesg
+  
+- title: SPOTLIGHT
+  image: /images/spotlight-snapshot.jpeg
+  sum: Provides a safe space for public officers to surface the tech problems they face at work and seek solutions within the WOG community
+  link: /hackathon/2022/spotlight
+  
+- title: UNBORINGSG
+  image: /images/solve.png
+  sum: A website and browser extension that aims to help Singaporean residents discover interesting things to eat, do, and learn in the city, and challenges the perception that Singapore is ‘boring’.
+  link: /hackathon/2022/unboringsg
+  
+- title: WHOSYOURKAKI
+  image: /images/solve.png
+  sum: Buddy matching system in your neighbourhood
+  link: /hackathon/2022/whosyourkaki
+  
+- title: WHOTHIS
+  image: /images/whothis-snapshot.jpeg
+  sum: A web app that enables members of the public to easily and authoritatively verify the identity of public officers
+  link: /hackathon/2022/whothis
