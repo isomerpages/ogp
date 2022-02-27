@@ -6,45 +6,42 @@ third_nav_title: Hack for Public Good 2022
 ---
 <iframe allowfullscreen="true" height="515" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRn6vLqlb2-W4W8cgQWEBWSOgDpP9Pe9f0N0ld0wLdBYjp8zLuAQGEQzoGk8FcE-JB1dlXA-u6YGH1N/embed?start=false&loop=false&delayms=3000" ></iframe>
 
-#### What is CheckFirst?
-CheckFirst is a self-service tool that government officers can use to create eligibility checkers or calculators within a matter of minutes.
+#### What is CalSG?
+An appointment booking system for all agencies
 
 #### What motivated you to build this product?
-We wanted to make it easier to figure out if someone qualified for policy schemes. In some cases today, a public user needs to either i) download a clunky Excel sheet or ii) read through several paragraphs of text in order to figure out if they qualify for certain policy schemes.
+Citizens book appointments with government agencies all the time, but each of these agencies has its own custom appointment booking system. This means that every single public-facing agency has to spend time and money to build and maintain its own system, and the quality of these systems can vary significantly.
 
-Moreover, custom eligibility checker web applications can be expensive and time-consuming to build. So we thought - why not create a low-cost tool that government agencies can use to create eligibility checkers/calculators quickly?
+We wanted to build a tool for public officers to easily publish time slots which others could then book using a public link. From our research on existing appointment booking systems, this tool also had to include form-building capabilities so that officers could collect relevant information (e.g. name, reason for appointment) along with the appointment booking.
+
+During the project, we realised that if this tool was accessible to all public officers, they could also use it internally, e.g. to book time slots for meetings or shared facilities.
 
 #### What tech stack did you use?
 
-We used React for our frontend web application, ExpressJS for our backend server, and PostgreSQL for our database. We also depend on Math.js to power our calculation/logic engine. The service is hosted on API Gateway and AWS Lambda.
+NextJS, Prisma and PostgreSQL
 
-#### What were the key challenges you faced in building CheckFirst 
+#### What were the key challenges you faced in building CalSG? 
 
-**Engineering challenges:**\\
-We’re really excited to share about this challenge because it’s such a cool problem to solve (and it comes with an elegant solution)!
-One of the most challenging parts of building CheckFirst was figuring out how to perform static analysis for the calculator evaluation engine to see if a user-defined calculator was valid. Let us explain what this means (note: this part gets a little technical!).
+We had to make a lot of key engineering and product decisions in the beginning. First, should we build a standalone product or integrate with FormSG? A standalone product would be technically simpler, but FormSG allowed us to leverage on its powerful form-building capabilities. We decided that form-building was essential based on what we observed from existing appointment systems, so we went with a FormSG integration.
 
-Assume that someone has built a simple calculator which has a result that depends on a question input field. Let’s say that the calculator has only one question - “What is your age?“. And the calculator just does one operation, which is to multiply your age by 2.
+Next, how do we address the double-booking issue where multiple people try to claim the same slot? We decided to have the FormSG client confirm the slot with the CalSG server before sending the submission to the FormSG server, as this was the simplest to implement. However, given more time, we would move this confirmation step to the FormSG server instead.
 
-This is a valid calculator because the operation step (“Multiply your age by 2”) can run successfully because all of its dependencies exist. Specifically, the only dependency that the operation depends on is the question “What is your age?“.
+Designing the integration between FormSG and CalSG was also a challenge. We were initially going to require the public officer to enter their FormSG secret key into CalSG so that CalSG could store the form responses encrypted, but this was both more difficult to implement and much poorer UX. Hence we decided to store the responses in plaintext and limit the steps required for integration to just one: pasting the CalSG shortcode into FormSG.
 
-However, let’s say that someone accidentally deletes the question. Or even worse, sets the result of the operation step to depend on itself. How are we able to statically determine if the calculator is a valid one?
-
-We decided to tackle this problem by using a little graph theory. We convert our entire calculator into a graph, where each variable (operation or question) is a node on the graph, and each dependency is represented by an edge. Once we model the problem as a graphical one, we can very easily find out if the calculator is valid by checking that all dependencies exist and that there are no cycles in the graph!
-
-**Design challenges:**\\
-Calculators by themselves are not difficult to understand. However, learning how to use a tool that builds a calculator is challenging because the inputs are not just numbers, but also strings and arrays too. As such, the process of building the logic for the calculator can get complicated.
-
-Specifically, it is challenging for a new user to understand the concept of applying logical/arithmetic expressions on question inputs, such as IF/ELSE statements. We attempt to make the user experience easier to understand by creating custom components - such as an IF/ELSE widget so that users can focus on building their calculator instead of having to remember programming syntax.
+#### What is the product vision for CalSG? 
+We have talked to several agencies about concrete use cases, such as:
+- Scheduling intern interviews (MTI)
+- Parent-teacher meetings (MOE)
+- Booking time slots for driver training (RSAF)
 
 #### Fun facts!
 **One interesting finding:**\\
-Our user research has shown that people often use FAQs as a way to check for eligibility!
-
-**One thing you're most proud of accomplishing:**\\
-We are really proud that we managed to get a fully-functional prototype that is ready to be used in production.
+People are surprisingly willing to try out a new product if it might help them solve a real problem!
 
 **One thing you'd have done differently:**\\
-If we had slightly more time, we would have tried using Aurora Serverless in the stack, just to try something new.
+We would have spent more time on UI reviews and user tests to improve the usability of our product.
 
-![Checkfirst product demo image](/images/checkfirst-snapshot.png)
+**Takeaway/learnings:**\\
+When working on a new idea, build an MVP and try it out with real users as soon as possible. Feedback from real users is the best kind of feedback.
+
+![CalSG product demo image](/images/calsg-snapshot.jpeg)
