@@ -28,9 +28,11 @@ The product is a ticket resolution system much like Zendesk, mixed in with simpl
 Our hypothesis is while work is diverse, workflow is generic across use cases, and includes a) verified user identity, b) background of user, c), concern, d) internal communication, e) external communication and f) approvals.
 
 **One thing you'd have done differently:**\\
-Test against another agency early on apart from just ESG to substantiate our hypothesis.
+Test against another agency early on apart from just ESG to substantiate our hypothesis
 
 **Takeaway/learnings:**\\
-When working on a new idea, build an MVP and try it out with real users as soon as possible. Feedback from real users is the best kind of feedback.
+Most of us on the team were familiar with using sequelize or typeorm as an ORM for interaction with our database. For this hackathon project, we gave Prisma a try and though Prisma did have lackings such as not supporting typing of json columns, overall we found the typing in prisma to be far superior to previous ORMs that we used. You can read more [here](https://www.prisma.io/docs/concepts/more/comparisons/prisma-and-typeorm). 
+ 
+We also opted to compute and store the status of a case instead of computing it on the fly, as previous experiences on projects such as Vault have shown that pre-computing, though it presents the risk of denormalized data going out of sync, helps ensure that fetching case information is quick and straightforward process. We used a handy library called [XState](https://xstate.js.org/docs/) to manage this.
 
-![CalSG product demo image](/images/calsg-snapshot.jpeg)
+![ResolveSG product demo image](/images/resolvesg-snapshot.jpeg)
