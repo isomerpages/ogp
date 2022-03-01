@@ -6,6 +6,8 @@ third_nav_title: Hack for Public Good 2022
 ---
 <iframe allowfullscreen="true" height="515" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRn6vLqlb2-W4W8cgQWEBWSOgDpP9Pe9f0N0ld0wLdBYjp8zLuAQGEQzoGk8FcE-JB1dlXA-u6YGH1N/embed?start=false&loop=false&delayms=3000" ></iframe>
 
+Watch our Finale presentation on [YouTube](https://youtu.be/nUT422jXG1U)!
+
 #### What is CalSG?
 An appointment booking system for all agencies
 
