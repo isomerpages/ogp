@@ -6,6 +6,7 @@ third_nav_title: Hack for Public Good 2022
 ---
 <iframe allowfullscreen="true" height="515" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRQeUHSC0ABp-I9mI0Rxxj92dQnF3fW8-O4GYgG_jlEbKkjwwlQrIp3KAS70yYJT8mRBoKG8gJYUZlJ/embed?start=false&loop=false&delayms=3000" ></iframe>
 
+Watch our Finale presentation on [YouTube](https://youtu.be/3gHhFwrz5SY)!
 
 #### What is Data Buddy?
 No-code tool that allows you to turn transactional data into workflow apps in minutes
