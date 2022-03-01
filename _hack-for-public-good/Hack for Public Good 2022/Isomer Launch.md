@@ -4,6 +4,8 @@ permalink: /hackathon/2022/isomerlaunch
 description: ""
 third_nav_title: Hack for Public Good 2022
 ---
+<iframe allowfullscreen="true" height="515" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRhbmDe2iemD1fsQ0JKwl09IdMyfRbUMz7D6aTA5Qt_x_RN2HtSSdPnCJwEnqbA7qHZ3cLFGxKucPsf/embed?start=false&loop=false&delayms=3000" ></iframe>
+
 #### What is Isomer Launch?
 Launch your Isomer site, quickly and freely
 
