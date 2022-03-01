@@ -6,6 +6,8 @@ third_nav_title: Hack for Public Good 2022
 ---
 <iframe allowfullscreen="true" height="515" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSJRGCdlz78zWGvy_zE22plgeYBLajDiGJbCyNH-CWB3bd_95x0s0x0DNB_2sriuWbmXw0W1Fdp0HLP/embed?start=false&loop=false&delayms=3000" ></iframe>
 
+Watch our Finale presentation on [YouTube](https://youtu.be/Kc-EfKB6Gc8)!
+
 #### What is CloudCity?
 A cloud sandbox for government services
 
