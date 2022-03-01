@@ -6,6 +6,8 @@ third_nav_title: Hack for Public Good 2022
 ---
 <iframe allowfullscreen="true" height="515" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vQ6WInIM6xcDd8Dv7sID8HCx3akPN1BRg5MV0yRYecTFAcPhgdnY79097dBTEntT8qN4pz1mDwy6JGp/embed?start=false&loop=false&delayms=3000" ></iframe>
 
+Watch our Finale presentation on [YouTube](https://youtu.be/rINJPnUndOQ)!
+
 #### What is Ownself Go?
 A set of exercises in Figma to teach non-design colleagues about Figma and its useful shortcuts to improve handoff.
 
