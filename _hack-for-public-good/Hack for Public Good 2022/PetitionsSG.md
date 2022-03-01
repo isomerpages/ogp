@@ -91,6 +91,7 @@ Our vision is for this platform to connect sentiments from members of the public
 
 #### Fun facts!
 **An interesting finding:**\\
+
 1. An increasing need for a more inclusive and open government
  
 Most of the Singaporeans we interviewed, especially the younger generations, wanted a more inclusive civic participation landscape in Singapore. There was a consistent theme that material needs were not enough; people need to feel heard and cared by the Singapore government. 
