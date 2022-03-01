@@ -6,6 +6,8 @@ third_nav_title: Hack for Public Good 2022
 ---
 <iframe allowfullscreen="true" height="515" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRfsDFExNtMg7cqCLWJLaHaJDqW5jmqBxNEOB6gNaROMC-26p5UxsL39nQPJCRXHl9JEMbbWY1FKn1P/embed?start=false&loop=false&delayms=3000" ></iframe>
 
+Watch our Finale presentation on [YouTube](https://youtu.be/Q-2wcTWGrR0)!
+
 #### What is OGP Design System?
 An accessible multi-brand design system for OGP products.
 
