@@ -30,19 +30,22 @@ Many officers are facing the same issues everywhere in the government but not ma
 We were using this chance to try out frameworks such as NestJS that were unfamiliar to us. Even though the product was simple, we needed some time to familiarise ourselves with the frameworks.
 
 ##### Design
-We have no designers! PM/Eng has to double up as designer
+We have no designers! PM/Engineer had to double up as designer.
 
 #### What is the product vision for Spotlight? 
 We envision an environment like Stackoverflow where public officers actively contribute the problems and solutions to help each other in their work. In the longer term, this could also be extended to more than just WOG.
 
 #### Fun facts!
 **One interesting finding:**\\
-It’s surprising how many officers are hesitant to speak and share the actual issues that they face in fear of being punished. On the flip side, it’s also surprising that there is also a small group of public officers who are proactive in giving feedback due to their sense of duty.
+
+It is surprising how many officers are hesitant to speak and share the actual issues that they face in fear of being punished. On the flip side, it is also surprising that there is also a small group of public officers who are proactive in giving feedback due to their sense of duty.
 
 **One thing you'd have done differently:**\\
+
 More research by speaking to users and stakeholders to find out if this tool is indeed useful for them. Many of them already have existing unofficial channels with different strengths and weaknesses.
 
 **Takeaway/learnings:**\\
+
 In order to make this work - the cultural barrier has to be broken so that people are more comfortable with sharing failures, problems and things that don't work.
 
 ![Spotlight product demo image](/images/spotlight-snapshot.jpeg)
