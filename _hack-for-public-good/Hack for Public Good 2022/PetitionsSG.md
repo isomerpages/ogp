@@ -85,7 +85,7 @@ Our vision is for this platform to connect sentiments from members of the public
  Our hope is that this platform can bring about a greater sense of empowerment, engagement, and inclusion in Singapore among members of the public to work towards a better Singapore.
 
 #### Fun facts!
-**An interesting finding:**\\
+**An interesting finding:**\
 
 1. An increasing need for a more inclusive and open government
  
