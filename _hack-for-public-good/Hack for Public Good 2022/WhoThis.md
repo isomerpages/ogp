@@ -30,8 +30,6 @@ On the product usability side, we went through many iterations of the authentica
 
 One of the authentication mechanisms we initially thought of involved exchanging OTPs between the citizen and the public officer. This would support workflows where the public officer does not have the NRIC number of the member of the public (MOP) they are calling. However, this imposed a higher level of complexity for the MOP, and would have been an unintuitive user experience, especially for the elderly or less tech-savvy people. This additional complexity may have opened up a gap for potential scammers to exploit.
 
-Hence, one of our key takeaways was to keep the user journey as simple as possible, rather than trying to account for all possible use cases from the outset.
-
 #### What is the product vision for WhoThis? 
 We envision WhoThis as a platform for establishing trust between the public and the government. Immediate use cases would be MOH’s COVID-related operations, and official surveys conducted by the government (e.g. Department of Statistics), while future use cases could be to extend to government vendors and selected businesses.
 
@@ -39,12 +37,15 @@ WhoThis can also be extended to the physical realm for in-person verification of
 
 #### Fun facts!
 **One interesting finding:**\\
+
 It is hard to come up with a single solution for all possible use cases, e.g. some elderly folk rely on Lions Befrienders for all their phone-related activities, and would not be able to use our app. For these, a hardware token such as the TraceTogether token would be more suitable. Our solution is also not suitable without adjustments for email and SMS, but we have taken the approach of addressing one of the most common use cases – phone calls – first.
 
 **One thing you'd have done differently:**\\
+
 More research into possible integrations with existing products such as Singpass and ScamShield.
 
 **Takeaway/learnings:**\\
-As above, keep the user journey as simple as possible!
+
+Keep the user journey as simple as possible, rather than trying to account for all possible use cases from the outset.
 
 ![WhoThis product demo image](/images/whothis-snapshot.jpeg)
