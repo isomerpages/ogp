@@ -19,7 +19,7 @@ While agencies are aware of this problem, they usually assign laymen public offi
 As part of OGP’s mission to evangelise the rest of the government to modernise their tech processes, we see an opportunity to give our own advice and principles on how to get out of this situation, and what type of system architecture agencies should be moving towards to ensure a long-lasting solution.
 
 #### What tech stack did you use?
-We host this content on Isomer to keep it out of email inboxes, and easily accessible to all officers and even members of the public.
+We host this content on [Isomer](https://www.isomer.gov.sg/) to keep it out of email inboxes, and easily accessible to all officers and even members of the public.
 
 #### What were the key challenges you faced in building OneUnifiedSystem? 
 
@@ -33,13 +33,15 @@ We hope this starter pack can help accelerate the digital transformation of agen
 Since this is a common problem across several agencies, the knowledge from the pack can be used across various agencies. We also aim to collaborate with other agencies and find existing resources already made available, and use this platform to help collate and leverage on them.
 
 #### Fun facts!
-**One interesting finding:**\\
+**One interesting finding:**
 It was interesting to map out all the different aspects one would have to think of when trying to push for such a change. What started out looking like just tech advice was actually influenced by multiple factors, and we branched out into sections on change management, stakeholder buy-in, and mindset shifting amongst others.
 
-**One thing you'd have done differently:**\\
+**One thing you'd have done differently:**
 Spoken to more agencies to find resources that we ourselves could use as a starting point, instead of starting from scratch!
 
-**Takeaway/learnings:**\\
-Digital transformation is a long and arduous process – It’s not just the adoption of a single tech solution. There is no finish line or clear endpoint, instead, we can only keep improving and making sure we set up infrastructure to support this initiative. The impact also may not be immediately apparent, but can gradually appear in small everyday micro-interactions. At the end of the day, while things still get done, there is much we can do to improve the quality of life of staff, who are our best resource. Agencies need to invest more than just money into the problem, but also time and resources.
+**Takeaway/learnings:**
+Digital transformation is a long and arduous process – It is not just the adoption of a single tech solution. There is no finishing line or clear endpoint, instead, we can only keep improving and making sure we set up infrastructure to support this initiative. 
+
+The impact also may not be immediately apparent, but can gradually appear in small everyday micro-interactions. At the end of the day, while things still get done, there is much we can do to improve the quality of life of staff, who are our best resource. Agencies need to invest more than just money into the problem, but also time and resources.
 
 ![OneUnifiedSystem product demo image](/images/oneunifiedsystem-snapshot.jpeg)
