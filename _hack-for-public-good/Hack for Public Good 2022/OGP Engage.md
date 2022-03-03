@@ -24,10 +24,13 @@ If each product in OGP starts to get a large amount of users, we can create a Te
 
 #### Fun facts!
 **One interesting finding:**
+
 Cpf.gov.sg actually built something similar to go.gov.sg. Something that we weren't aware of.
 
 **One thing you'd have done differently:**
+
 We would want to market the Telegram channel better and also create more interactive content to engage with our users on a weekly basis.
 
 **Takeaway/learnings:**
+
 There are a tons of things happening with other agencies which OGP could really help.
