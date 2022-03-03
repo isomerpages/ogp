@@ -17,7 +17,8 @@ Every day, across all of government, public officers meet in order to make progr
 Emails are created with data tables of names and proposed dates and times that get sent back and forth between individuals and departments confirming time slots with yes, no's, and maybe so's. And these long email chains can result in confusion and no final meeting time.
 
 All the while, decisions are deferred, progress is slowed and the cost of delay creeps slowly upwards.
- That's the problem we're trying to solve with Meet?Meet, a simple calendar polling application designed to combat the cost of delay by making it easy to find a time that works for everyone.
+
+That's the problem we're trying to solve with Meet?Meet, a simple calendar polling application designed to combat the cost of delay by making it easy to find a time that works for everyone.
 
 #### What tech stack did you use?
 
@@ -28,15 +29,12 @@ All the while, decisions are deferred, progress is slowed and the cost of delay 
  
 #### What were the key challenges you faced in building Meet?Meet. ? 
 
-- Differentiating our product from commercially available solutions
- - Time constraints – our team only formed a week and a half before the end of the hackathon
- - Having to cut down features to produce a MVP showing only the essential user flows
- - Making the right connections and finding the right users for feedback before the end of the hackathon
+Firstly, we had to differentiate our product from commercially available solutions. There were also time constraints – our team only formed a week and a half before the end of Hack for Public Good. This meant we had to cut down features to produce a MVP showing only the essential user flows. Lastly, we had to search for the right connections and find the right users for feedback before the end of the Hack for Public Good.
 
 #### What is the product vision for Meet?Meet. ? 
 We want to eliminate the cost of delay associated with scheduling complications so that public officers can make progress on key decisions, initiatives, and strategies as quickly as possible.
 
-We always envisioned that Meet?Meet. could be an extension of the CalSG product that was built by another hackathon team. These two products could come together to create a holistic scheduling and appointment booking solution for public officers.
+We have always envisioned that Meet?Meet. could be an extension of the CalSG product that was built by another hackathon team. These two products could come together to create a holistic scheduling and appointment booking solution for public officers.
 
 #### Fun facts!
 **One interesting finding:**\\
