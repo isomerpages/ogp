@@ -20,15 +20,15 @@ During the project, we realised that if this tool was accessible to all public o
 
 #### What tech stack did you use?
 
-NextJS, Prisma and PostgreSQL
+NextJS, Prisma and PostgreSQL.
 
 #### What were the key challenges you faced in building CalSG? 
 
-We had to make a lot of key engineering and product decisions in the beginning. First, should we build a standalone product or integrate with FormSG? A standalone product would be technically simpler, but FormSG allowed us to leverage on its powerful form-building capabilities. We decided that form-building was essential based on what we observed from existing appointment systems, so we went with a FormSG integration.
+We had to make a lot of key engineering and product decisions in the beginning. First, should we build a standalone product or integrate with our existing product, [FormSG](https://form.gov.sg/#!/)? A standalone product would be technically simpler, but FormSG allowed us to leverage on its powerful form-building capabilities. We decided that form-building was essential based on what we observed from existing appointment systems, so we went with a FormSG integration.
 
 Next, how do we address the double-booking issue where multiple people try to claim the same slot? We decided to have the FormSG client confirm the slot with the CalSG server before sending the submission to the FormSG server, as this was the simplest to implement. However, given more time, we would move this confirmation step to the FormSG server instead.
 
-Designing the integration between FormSG and CalSG was also a challenge. We were initially going to require the public officer to enter their FormSG secret key into CalSG so that CalSG could store the form responses encrypted, but this was both more difficult to implement and much poorer UX. Hence we decided to store the responses in plaintext and limit the steps required for integration to just one: pasting the CalSG shortcode into FormSG.
+Designing the integration between FormSG and CalSG was also a challenge. We were initially going to require public officers to enter their FormSG secret key into CalSG so that CalSG could store the form responses encrypted, but this was both more difficult to implement and much poorer UX. Hence we decided to store the responses in plaintext and limit the steps required for integration to just one: pasting the CalSG shortcode into FormSG.
 
 #### What is the product vision for CalSG? 
 We have talked to several agencies about concrete use cases, such as:
