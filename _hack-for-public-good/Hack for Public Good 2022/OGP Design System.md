@@ -44,17 +44,18 @@ Extensions for engineering would include more components, handling of dark/light
 Another extension could be to shard out the existing tokens and produce more product-specific tokens that can be easily layered on the design system for additional customization.
 
 #### Fun facts!
-**One interesting finding:**\\
+**One interesting finding:**
 
 Having both ESM and CJS compatibility at the same time is painful. It is also really hard to make generic enough components yet abstracting away the non-essential configuration options.
 
-**One thing you'd have done differently:**\\
+**One thing you'd have done differently:**
 
 Test the usability of the new system by using it in our respective products such as Form, Isomer, AskGov, etc.
 
 Engineering wise, we could have done more research on other design system packages and understand why they chose to structure it that way, and incorporating it into the current system.
 
-**Takeaway/learnings:**\\
+**Takeaway/learnings:**
+
 We were pleasantly surprised that engineers were really supportive when we wanted to test out new tools and plugins! We have the best teammates.
 
 ![CalSG product demo image](/images/ogp-design-system-snapshot.jpeg)
