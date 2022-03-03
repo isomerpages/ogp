@@ -12,7 +12,7 @@ QuizSG is a no-code tool for public officers to easily create and administer qui
 #### What motivated you to build this product?
 There is no easy way for public officers to administer quizzes internally or externally. Multiple platforms are needed for different tests/quizzes for each individual learner, which leads to nightmares in consolidating one's learning.
 
-Our research also showed that there >100 FormSG forms are quizzes which creators manually “mark” after test-takers submit their answers. :Public officers have jumped through hoops to build in the logic on FormSG to create quizzes for their staff or MOP, and FormSG wasn’t built to administer quizzes nor provide analysis of such data which would be critical to the instructor’s understanding of how much knowledge a learner has gained after attending a course. FormSG is also unable to provide the learner with any outcomes or insights of his learning as it is a one-way tool.
+Our research also showed that there >100 [FormSG](https://form.gov.sg/#!/) forms are quizzes which creators manually “mark” after test-takers submit their answers. Public officers have jumped through hoops to build in the logic on FormSG to create quizzes for their staff or members of the public. However, FormSG wasn’t built to administer quizzes nor provide analysis of such data which would be critical to the instructor’s understanding of how much knowledge a learner has gained after attending a course. It is also unable to provide the learner with any outcomes or insights of his learning as it is a one-way tool.
 
 #### What tech stack did you use?
 
@@ -35,5 +35,6 @@ Our co-hacker is a software engineer but was a designer previously so we got the
 
 **One thing you'd have done differently:**\\
 We would have reached out to more users to understand their pain points better.
+
 **Takeaway/learnings:**\\
 Big thanks to our collaborators from NHB and MOE who provided their time and valuable insights to us!
