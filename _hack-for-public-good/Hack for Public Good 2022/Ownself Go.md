@@ -37,15 +37,18 @@ We see design education as a large mission of the design team here in OGP, and i
 We also hope to officially get added to the onboarding document for new teammates of course!
 
 #### Fun facts!
-**One interesting finding:**
+**One interesting finding:**\\
+
 Even though we work with our teammates all the time, it was quite eye opening observing how they used Figma and what they looked out for as they navigated the file. In some instances, it was also heartwarming to see teammates taking an interest in understanding and wanting to get educated about design, understanding design patterns and guidelines."
 
-**One thing you'd have done differently:**
+**One thing you'd have done differently:**\\
+
 For Hack for Public Good itself, we specifically focused on creating the playground for engineers although we would have loved to create a playground for our product managers as well.
 
 We would also have loved to observe how our colleagues used the playground we created and to improve from there!
 
-**Takeaway/learnings:**
+**Takeaway/learnings:**\\
+
 We have a newfound understanding of what engineers lookout for and what their concerns are when implementing our designs. We’ve both gotten a lot more empathetic through this process of trying to understand our teammates’ pain points.
 
 ![Ownself Go product demo image](/images/playground-hero.jpg)
