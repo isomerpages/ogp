@@ -36,10 +36,12 @@ Since this is a common problem across several agencies, the knowledge from the p
 **One interesting finding:**
 It was interesting to map out all the different aspects one would have to think of when trying to push for such a change. What started out looking like just tech advice was actually influenced by multiple factors, and we branched out into sections on change management, stakeholder buy-in, and mindset shifting amongst others.
 
-**One thing you'd have done differently:**
+**One thing you'd have done differently:**\\
+
 Spoken to more agencies to find resources that we ourselves could use as a starting point, instead of starting from scratch!
 
-**Takeaway/learnings:**
+**Takeaway/learnings:**\\
+
 Digital transformation is a long and arduous process – It is not just the adoption of a single tech solution. There is no finishing line or clear endpoint, instead, we can only keep improving and making sure we set up infrastructure to support this initiative. 
 
 The impact also may not be immediately apparent, but can gradually appear in small everyday micro-interactions. At the end of the day, while things still get done, there is much we can do to improve the quality of life of staff, who are our best resource. Agencies need to invest more than just money into the problem, but also time and resources.
