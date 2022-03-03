@@ -9,7 +9,7 @@ third_nav_title: Hack for Public Good 2022
 Watch our Finale presentation on [YouTube](https://youtu.be/rPpBptrHrQU)!
 
 #### What is Isomer Launch?
-Launch your Isomer site, quickly and freely
+Launch your [Isomer](https://www.isomer.gov.sg/) site, quickly and freely.
 
 #### What motivated you to build this product?
 We built this to address a pain point we found when helping agencies go-live with their Isomer site.
@@ -20,7 +20,7 @@ This usually takes 1-3 working days. The agency might also have to pay a small a
 
 #### What tech stack did you use?
 
-FormSG Webhook SDK, TypeScript and Express.js
+FormSG Webhook SDK, TypeScript and Express.js.
 
 #### What were the key challenges you faced in building Isomer Launch? 
 
@@ -31,7 +31,7 @@ Any public officer can create a web presence on his or her own! Other possible u
 
 #### Fun facts!
 **One interesting finding:**\\
-With the right top-level domain (in this case, by.gov.sg), websites parked as a subdomain can have very memorable URLs, eg, hackforpublicgood.by.gov.sg
+With the right top-level domain (in this case, by.gov.sg), websites parked as a subdomain can have very memorable URLs, eg, hackforpublicgood.by.gov.sg.
 
 **One thing you'd have done differently:**\\
-I might have considered getting at least one more memorable domain, perhaps at.gov.sg
+We might have considered getting at least one more memorable domain, perhaps at.gov.sg.
