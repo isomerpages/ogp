@@ -20,7 +20,7 @@ We build our application on the OGP starter-kit called ts-template.  Under the h
 
 #### What were the key challenges you faced in building QuizSG? 
 
-Quiz engines are very complex! We started off trying to tweak Moodle for our use since it was open source but we soon realised that Moodle was too complex as was a full-suite Learning Management System and administering quizzes was just a small component in the Moodle universe. Moodle also was a little antiquated :( A whole week had passed and we were back to square one! We needed to re-iterate and re-think our MVP. We also had to be realistic about what we could build within a very short period (<2 weeks).
+Quiz engines are very complex! We started off trying to tweak Moodle for our use since it was open source but we soon realised that Moodle was too complex as was a full-suite Learning Management System and administering quizzes was just a small component in the Moodle universe. Moodle also was a little antiquated. A whole week had passed and we were back to square one! We needed to re-iterate and re-think our MVP. We also had to be realistic about what we could build within a very short period (<2 weeks).
 
 #### What is the product vision for QuizSG? 
 Clean and modern platform for public officers to easily administer quizzes on-the-go while conducting training or outreach. 
