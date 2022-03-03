@@ -12,15 +12,18 @@ Watch our Finale presentation on [YouTube](https://youtu.be/Q-2wcTWGrR0)!
 An accessible multi-brand design system for OGP products.
 
 #### What motivated you to build this product?
-Many products within OGP are using their own design systems which leads to visual and interaction inconsistencies and duplication of work designing and building components and patterns.
- Visual and interaction consistency is important for us because it removes confusion and cognitive load for our users. It strengthens their intuition so they understand and expect certain behaviour from the elements in our products.
+Many products within OGP are using their own design systems which leads to visual and interaction inconsistencies and duplication of work designing and building components and patterns. 
+
+Visual and interaction consistency is important for us because it removes confusion and cognitive load for our users. It strengthens their intuition so they understand and expect certain behaviour from the elements in our products.
  
 We also wanted to create a base design system which every product could use as a starting point and build on top of if necessary. This way we could direct our focus more toward product and user challenges rather than recreating components over and over.
 
 #### What tech stack did you use?
 
 React, with ChakraUI as the underlying theming library. Package is built using Rollup. Netlify CMS is used for documentation of the components.
- You can view it at [https://design.hack.gov.sg](https://design.hack.gov.sg)
+
+View it at [https://design.hack.gov.sg](https://design.hack.gov.sg)
+
 #### What were the key challenges you faced in building OGP Design System? 
 
 ##### Design
@@ -41,15 +44,15 @@ Extensions for engineering would include more components, handling of dark/light
 Another extension could be to shard out the existing tokens and produce more product-specific tokens that can be easily layered on the design system for additional customization.
 
 #### Fun facts!
-**One interesting finding:**\\
+**One interesting finding:**
 Having both ESM and CJS compatibility at the same time is painful. It is also really hard to make generic enough components yet abstracting away the non-essential configuration options.
 
-**One thing you'd have done differently:**\\
+**One thing you'd have done differently:**
 Test the usability of the new system by using it in our respective products such as Form, Isomer, AskGov, etc.
 
-Engineering wise, we could have done more research on other design system packages and understanding why they chose to structure it that way, and incorporating it into the current system.
+Engineering wise, we could have done more research on other design system packages and understand why they chose to structure it that way, and incorporating it into the current system.
 
-**Takeaway/learnings:**\\
-Was pleasantly surprised that engineers are really supportive when we want to test out new tools and plugins! We have the best teammates.
+**Takeaway/learnings:**
+We were pleasantly surprised that engineers were really supportive when we wanted to test out new tools and plugins! We have the best teammates.
 
 ![CalSG product demo image](/images/ogp-design-system-snapshot.jpeg)
