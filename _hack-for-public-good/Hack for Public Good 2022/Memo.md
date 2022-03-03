@@ -37,7 +37,7 @@ That physical or digital manually generated memos are quite expensive to generat
 **One thing you'd have done differently:**\\
 With the recent uptick in online impersonation scams, making Memo provide verifiable and spoof-proof communications is now an important consideration. Incorporating some form of provable verification (like notarising), is likely to be a significant design and engineering challenge that could warp the entire issuing/receiving process around it. It would have been desirable to incorporate this concern from the start, and ship this as a core feature of Memo.
 
-**Takeaway/learnings:**\\
+**Takeaway/learnings:**
 1. Design with real end users in mind, always. 
 2. Test and test and test prototypes with end users, watch them interact with our systems to get a real feel of where we can improve user experience.
 3. Dogfood the product wherever possible!
