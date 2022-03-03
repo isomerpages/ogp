@@ -9,7 +9,7 @@ third_nav_title: Hack for Public Good 2022
 #### What is UnboringSG?
 UnboringSG is a website and browser extension that aims to help Singaporean residents discover interesting things to eat, do, and learn in the city, and challenges the perception that Singapore is ‘boring’.
 
-It's kind of like your favourite colleague telling you about that cool new thing they found last weekend!
+It is kind of like your favourite colleague telling you about that cool new thing they found last weekend!
 
 #### What motivated you to build this product?
 UnboringSG was born out of a genuine belief that there’s a LOT more to Singapore than is typically believed or explored. Much of this has to do with the picture-perfect impression that most international tourists tend to have, and a lack of awareness among local residents.
@@ -24,7 +24,7 @@ At a broader level, we want to encourage a deeper appreciation of Singapore and 
 
 For the [website](https://github.com/thorwebdev/unboring.sg/tree/main/website) and [API layer](https://github.com/thorwebdev/unboring.sg/tree/main/website/pages/api), we used [Next.js](https://nextjs.org/) hosted on [Vercel](https://vercel.com/home), and for the backend data layer we used [Supabase](https://supabase.com/), probably the best stack for building MVPs quickly.
 
-For the user interface we utilised [Open Government Products Design System](https://github.com/opengovsg/design-system), one of the other Hackathon projects, which uses Chakra UI under the hood.
+For the user interface we utilised [Open Government Products Design System](https://github.com/opengovsg/design-system), one of the other Hack for Public Good projects, which uses Chakra UI under the hood.
 
 The [Chrome extension](https://github.com/thorwebdev/unboring.sg/tree/main/chrome_extension) was built in VanillaJS and is using the website and APIs under the hood.
 
@@ -32,7 +32,7 @@ The [Chrome extension](https://github.com/thorwebdev/unboring.sg/tree/main/chrom
 
 The single biggest challenge was ensuring we had a large enough database for each of our three categories: Eat, Do, and Learn. Since the product allows a user to ‘shuffle’ through a few ideas in each category, it was important for us to have enough content to show without any repetition.
 
-Our database was initially populated with personal recommendations from our team, friends, and family, but this approach was very hard to scale and sustain. We were fortunate to get support from the Singapore Tourism Board, who gave us access to their Tourism Information & Services Hub (TISH) APIs, which allowed us to import a large number of recommendations at once. 
+Our database was initially populated with personal recommendations from our team, friends, and family, but this approach was very hard to scale and sustain. We were fortunate to get support from the Singapore Tourism Board, who gave us access to their Tourism Information & Services Hub (TIH) APIs, which allowed us to import a large number of recommendations at once. 
 
 Another challenge we foresee is having to manually curate and moderate content, to prevent duplicate or outdated information being shown to users.
 
@@ -43,12 +43,15 @@ There is also great potential for partnerships with local discovery/activity-bas
 
 #### Fun facts!
 **One interesting finding:**\\
+
 When going through the initial list of submissions from teammates and friends, we were amazed at how many new things each of us discovered – it was a clear indication that we’d be filling a gap for a much wider audience with UnboringSG.
 
 **One thing you'd have done differently:**\\
+
 Better curated recommendations, and possibly included content from more sources.
 
 **Takeaway/learnings:**\\
+
 First off, that Singapore is NOT boring! We also learned some of the challenges of sourcing and curating large quantities of content.
 
 ![UnboringSG product demo image](/images/unboringsg-snapshot.jpg)
