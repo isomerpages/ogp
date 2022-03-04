@@ -2,7 +2,6 @@ collections:
   products:
     output: true
     order:
-      - Sync.md
       - overview.md
       - checkfirst.md
       - data-gov-sg.md
@@ -18,3 +17,4 @@ collections:
       - redeemsg.md
       - sgid.md
       - scamshield.md
+      - Sync.md
