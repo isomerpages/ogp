@@ -34,7 +34,8 @@ RedeemSG provides a simple and digital solution that solves the inefficiencies a
 * Integrated > 1.1 thousand vending machines integrated
 
 * Mr Chris Liang, 27, a second-generation hawker who just took over his family's seafood business at Chong Pang Market, is [optimistic that the voucher scheme will boost sales](https://www.straitstimes.com/singapore/community/over-1-million-sporean-households-have-claimed-cdc-vouchers-over-28m-spent).
-"Having to deal with fresh seafood and other wet items, it was inconvenient for me to receive physical vouchers. We can now easily scan the digital vouchers... and receive the payout the next day," he said.
+
+>"Having to deal with fresh seafood and other wet items, it was inconvenient for me to receive physical vouchers. We can now easily scan the digital vouchers... and receive the payout the next day," he said.
 
 * "We are greatly heartened that Singaporeans are rallying behind and supporting our heartland hawkers and merchants by spending over [$28 million worth of vouchers to date](https://tnp.straitstimes.com/news/singapore/over-million-singaporean-households-have-claimed-cdc-vouchers-over-28m-spent)," said Mayor Low Yen Ling
 
