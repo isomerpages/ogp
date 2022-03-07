@@ -4,7 +4,7 @@ permalink: /products/sync
 description: ""
 image: /images/Sync Hero Image_with logo.png
 ---
-![Sync](/images/Sync%20Hero%20Image_with%20logo.png)
+![Sync](/images/Sync_Hero Image_with_logo.png)
 
 ### Keep your COVID-19 records in sync
 
