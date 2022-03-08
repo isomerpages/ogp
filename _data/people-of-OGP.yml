@@ -170,10 +170,6 @@
   position: Corporate Operations
   image: /images/headshots/Jiahui2.jpg
 
-- name: Jing Yi
-  position: Product Designer
-  image: /images/headshots/JingYi2.jpg
-
 - name: Joshua
   position: Finance Operations
   image: /images/headshots/Joshua2.jpg
@@ -221,3 +217,7 @@
 - name: Oliver
   position: Software Engineer
   image: /images/headshots/Oliver.jpg
+
+- name: Jing Yi
+  position: Product Designer
+  image: /images/headshots/JingYi2.jpg
