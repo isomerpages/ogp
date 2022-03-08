@@ -40,7 +40,7 @@
     
 - name: Chien Ling
   position: Corporate Operations
-  image: /images/headshots/ChienLing2.jpg
+  image: /images/headshots/ChienLing3.jpg
   
 - name: Jie Hao
   position: Software Engineer
@@ -72,15 +72,11 @@
   
 - name: Yuan Ruo
   position: Software Engineer
-  image: /images/headshots/Yuanruo2.jpg
+  image: /images/headshots/Yuanruo3.jpg
   
 - name: Lisa
   position: Product Manager
   image: /images/headshots/Lisa.jpg
-  
-- name: Kevan
-  position: Software Engineer
-  image: /images/headshots/Kevan.jpg
   
 - name: Jackson
   position: Product Operations
@@ -152,43 +148,43 @@
 
 - name: Austin
   position: Software Engineer
-  image: /images/headshots/Austin.jpg
+  image: /images/headshots/Austin2.jpg
 
 - name: Charmaine
   position: Product Manager
-  image: /images/headshots/Charmaine.jpg
+  image: /images/headshots/Charmaine2.jpg
 
 - name: Cheryl
   position: Marketing
-  image: /images/headshots/Cheryl.jpg
+  image: /images/headshots/Cheryl2.jpg
 
 - name: Daryl
   position: Software Engineer
-  image: /images/headshots/Daryl.jpg
+  image: /images/headshots/Daryl2.jpg
 
 - name: Ivan
   position: Software Engineer
-  image: /images/headshots/Ivan.jpg
+  image: /images/headshots/Ivan2.jpg
 
 - name: Jiahui
   position: Corporate Operations
-  image: /images/headshots/Jiahui.jpg
+  image: /images/headshots/Jiahui2.jpg
 
 - name: Jing Yi
   position: Product Designer
-  image: /images/headshots/JingYi.jpg
+  image: /images/headshots/JingYi2.jpg
 
 - name: Joshua
   position: Finance Operations
-  image: /images/headshots/Joshua.jpg
+  image: /images/headshots/Joshua2.jpg
 
 - name: Julian
   position: People & Culture
-  image: /images/headshots/Julian.jpg
+  image: /images/headshots/Julian2.jpg
 
 - name: Khaleedah
   position: Product Designer
-  image: /images/headshots/Khaleedah.jpg
+  image: /images/headshots/Khaleedah2.jpg
 
 - name: Reshma
   position: Product Operations
@@ -196,7 +192,7 @@
 
 - name: Sam
   position: Product Operations
-  image: /images/headshots/Sam.jpg
+  image: /images/headshots/Sam2.jpg
 
 - name: Shannen
   position: Marketing
@@ -212,7 +208,7 @@
 
 - name: Sheikh
   position: Software Engineer
-  image: /images/headshots/Sheikh.jpg
+  image: /images/headshots/Sheikh2.jpg
 
 - name: Stanley
   position: Software Engineer
@@ -220,7 +216,7 @@
 
 - name: Tim
   position: Software Engineer
-  image: /images/headshots/Tim.jpg
+  image: /images/headshots/Tim2.jpg
 
 - name: Oliver
   position: Software Engineer
