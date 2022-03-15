@@ -1,28 +1,28 @@
-- title: HOW TO BUILD GOOD SOFTWARE
-  image: /images/howtobuildgoodsoftware.jpeg
-  sum: OGP Director, Li Hongyi, explains how software development requires a different, iterative approach.
-  link: https://www.csc.gov.sg/articles/how-to-build-good-software
+- title: SYNC TO UPDATE REAL-TIME COVID-19 TEST RESULTS & RECORDS
+  image: /images/Sync-zaobao.jpeg
+  sum: [CH] 包括检测结果与疫苗接种状态 新平台Sync集中个人冠病数据 供指定机构使用
+  link: https://www.zaobao.com.sg/news/singapore/story20220216-1243100
 
-- title: SCAMSHIELD ON CHANNEL 8
-  sum: Product Manager, Lennard Lim, shares with seniors how to protect themselves against scams as part of Channel 8's "Get Fit with Me" series.
-  image: /images/scamshieldch8.jpg
-  link: https://www.mewatch.sg/watch/Get-Fit-With-Me-S7-S7-E24-224892
+- title: SYNC FOR PRIVATE SECTOR
+  image: /images/sync-st.jpeg
+  sum: Online platform to offer employees simpler way of sharing Covid-19 test results, vaccination records
+  link: https://www.straitstimes.com/tech/tech-news/online-platform-to-offer-employees-simpler-way-of-sharing-covid-19-test-results-vaccination-records
 
-- title: SGID & DIGITAL IDENTITY
-  image: /images/sgID.png
-  sum: OGP Director, Li Hongyi, shares about sgID and digital identity as part of Civil Service College Singapore's Tech and Policy Talks. 
-  link: https://youtu.be/eKf9PneIlDA
+- title: SYNC TO SHARE REAL-TIME UPDATES OF COVID-19 TEST RESULTS & RECORDS
+  image: /images/Sync-ch8.jpg
+  sum: [CH] 线上平台Sync可分享冠病检测结果和接种状态
+  link: https://www.8world.com/singapore/sync-platform-for-sharing-covid-test-result-and-vaccination-status-1728451
 
-- title: PIVOTING TO FIGHT COVID-19
-  image: /images/IMG_8210.jpg
-  sum: Rahul Daswani, Head of People & Culture, talks with GovInsider on how OGP pivoted to combat COVID-19. 
-  link: https://govinsider.asia/future-of-work/how-this-govtech-unit-pivoted-to-fight-covid-19/
-  
-- title: MAKING ONLINE FORMS A BREEZE
-  image: /images/FormSG.jpg
-  sum: FormSG, used for NDP 2019 ticketing, makes filling online government forms a breeze.
-  link: https://www.facebook.com/TheStraitsTimes/videos/412165322712683/
-  
+- title: 5.3 MILLION DIGITAL MEDICAL CERTIFICATES ISSUED
+  image: /images/digimc-zaobao.jpeg
+  sum: [CH] 政府科技局开发系统 过去三年签发530万张电子病假单
+  link: https://www.zaobao.com.sg/news/singapore/story20220203-1238785
+
+- title: REDEEMSG ON CHANNEL 8 CLICKIT
+  image: /images/RedeemSG-Ch8.jpg
+  sum: [CH] 狮城有约 | 科技一点通：社理会邻里购物券
+  link: https://www.8world.com/stories/hello-singapore/click-it-cdc-vouchers-1694746
+
 - title: CDC VOUCHER SCHEME TO GO DIGITAL
   image: /images/redeem-cna.jpeg
   sum: RedeemSG used for CDC Voucher Scheme to help heartland hawkers and merchants
@@ -32,10 +32,40 @@
   image: /images/engagerocket.jpeg
   sum: Rahul shares with EngageRocket how OGP transitioned to remote work during COVID-19
   link: https://www.engagerocket.co/covid-19_perspectives_productivity_mental_health
-  
+
+- title: SCAMSHIELD ON CHANNEL 8
+  sum: [CH] We share with seniors how to protect themselves against scams as part of Channel 8's "Get Fit with Me" series
+  image: /images/scamshieldch8.jpg
+  link: https://www.mewatch.sg/watch/Get-Fit-With-Me-S7-S7-E24-224892
+
 - title: BUILDING TECH FOR THE PANDEMIC
   image: /images/ch8-ogp-2020.jpg
-  sum: How an experimental tech team helped Singapore fight the COVID-19 pandemic
+  sum: [CH] How an experimental tech team helped Singapore fight the COVID-19 pandemic
   link: https://www.8world.com/singapore/govtech-series-1351906
+  
+- title: PIVOTING TO FIGHT COVID-19
+  image: /images/IMG_8210.jpg
+  sum: Rahul Daswani, Head of People & Culture, talks with GovInsider on how OGP pivoted to combat COVID-19 
+  link: https://govinsider.asia/future-of-work/how-this-govtech-unit-pivoted-to-fight-covid-19/
+
+- title: DIGITAL MEDICAL CERTIFICATES
+  image: /images/how-digimc-works.jpeg
+  sum: DigiMC is set to replace Singhealth's paper medical certificates by 2020
+  link: https://www.channelnewsasia.com/singapore/digital-mc-medical-certificates-paper-singhealth-govtech-860911
+
+- title: MAKING ONLINE FORMS A BREEZE
+  image: /images/FormSG.jpg
+  sum: FormSG, used for NDP 2019 ticketing, makes filling online government forms a breeze
+  link: https://www.facebook.com/TheStraitsTimes/videos/412165322712683/
+
+- title: SGID & DIGITAL IDENTITY
+  image: /images/sgID.png
+  sum: OGP Director, Li Hongyi, shares about sgID and digital identity as part of Civil Service College Singapore's Tech and Policy Talks 
+  link: https://youtu.be/eKf9PneIlDA
+
+- title: HOW TO BUILD GOOD SOFTWARE
+  image: /images/howtobuildgoodsoftware.jpeg
+  sum: OGP Director, Li Hongyi, explains how software development requires a different, iterative approach
+  link: https://www.csc.gov.sg/articles/how-to-build-good-software
 
 
