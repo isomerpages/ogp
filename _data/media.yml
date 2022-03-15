@@ -1,28 +1,3 @@
-- title: HOW TO BUILD GOOD SOFTWARE
-  image: /images/howtobuildgoodsoftware.jpeg
-  sum: OGP Director, Li Hongyi, explains how software development requires a different, iterative approach.
-  link: https://www.csc.gov.sg/articles/how-to-build-good-software
-
-- title: SCAMSHIELD ON CHANNEL 8
-  sum: Product Manager, Lennard Lim, shares with seniors how to protect themselves against scams as part of Channel 8's "Get Fit with Me" series.
-  image: /images/scamshieldch8.jpg
-  link: https://www.mewatch.sg/watch/Get-Fit-With-Me-S7-S7-E24-224892
-
-- title: SGID & DIGITAL IDENTITY
-  image: /images/sgID.png
-  sum: OGP Director, Li Hongyi, shares about sgID and digital identity as part of Civil Service College Singapore's Tech and Policy Talks. 
-  link: https://youtu.be/eKf9PneIlDA
-
-- title: PIVOTING TO FIGHT COVID-19
-  image: /images/IMG_8210.jpg
-  sum: Rahul Daswani, Head of People & Culture, talks with GovInsider on how OGP pivoted to combat COVID-19. 
-  link: https://govinsider.asia/future-of-work/how-this-govtech-unit-pivoted-to-fight-covid-19/
-  
-- title: MAKING ONLINE FORMS A BREEZE
-  image: /images/FormSG.jpg
-  sum: FormSG, used for NDP 2019 ticketing, makes filling online government forms a breeze.
-  link: https://www.facebook.com/TheStraitsTimes/videos/412165322712683/
-  
 - title: CDC VOUCHER SCHEME TO GO DIGITAL
   image: /images/redeem-cna.jpeg
   sum: RedeemSG used for CDC Voucher Scheme to help heartland hawkers and merchants
@@ -32,10 +7,40 @@
   image: /images/engagerocket.jpeg
   sum: Rahul shares with EngageRocket how OGP transitioned to remote work during COVID-19
   link: https://www.engagerocket.co/covid-19_perspectives_productivity_mental_health
-  
+
+- title: SCAMSHIELD ON CHANNEL 8
+  sum: Product Manager, Lennard Lim, shares with seniors how to protect themselves against scams as part of Channel 8's "Get Fit with Me" series.
+  image: /images/scamshieldch8.jpg
+  link: https://www.mewatch.sg/watch/Get-Fit-With-Me-S7-S7-E24-224892
+
 - title: BUILDING TECH FOR THE PANDEMIC
   image: /images/ch8-ogp-2020.jpg
   sum: How an experimental tech team helped Singapore fight the COVID-19 pandemic
   link: https://www.8world.com/singapore/govtech-series-1351906
+  
+- title: PIVOTING TO FIGHT COVID-19
+  image: /images/IMG_8210.jpg
+  sum: Rahul Daswani, Head of People & Culture, talks with GovInsider on how OGP pivoted to combat COVID-19. 
+  link: https://govinsider.asia/future-of-work/how-this-govtech-unit-pivoted-to-fight-covid-19/
+
+- title: Replacing paper medical certificates with digital MCs
+  image: /images/how-digimc-works.jpeg
+  sum: DigiMC is set to replace Singhealth's paper medical certificates by 2020
+  link: https://www.channelnewsasia.com/singapore/digital-mc-medical-certificates-paper-singhealth-govtech-860911
+
+- title: MAKING ONLINE FORMS A BREEZE
+  image: /images/FormSG.jpg
+  sum: FormSG, used for NDP 2019 ticketing, makes filling online government forms a breeze.
+  link: https://www.facebook.com/TheStraitsTimes/videos/412165322712683/
+
+- title: SGID & DIGITAL IDENTITY
+  image: /images/sgID.png
+  sum: OGP Director, Li Hongyi, shares about sgID and digital identity as part of Civil Service College Singapore's Tech and Policy Talks. 
+  link: https://youtu.be/eKf9PneIlDA
+
+- title: HOW TO BUILD GOOD SOFTWARE
+  image: /images/howtobuildgoodsoftware.jpeg
+  sum: OGP Director, Li Hongyi, explains how software development requires a different, iterative approach.
+  link: https://www.csc.gov.sg/articles/how-to-build-good-software
 
 
