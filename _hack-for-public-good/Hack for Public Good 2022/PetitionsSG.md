@@ -87,11 +87,11 @@ Our vision is for this platform to connect sentiments from members of the public
 #### Fun facts!
 **An interesting finding:**
 
-1. An increasing need for a more inclusive and open government
+**An increasing need for a more inclusive and open government**
  
 Most of the Singaporeans we interviewed, especially the younger generations, wanted a more inclusive civic participation landscape in Singapore. There was a consistent theme that material needs were not enough; people need to feel heard and cared by the Singapore government. 
  
-2. An “Us and Them” mentality we had to reframe
+**An “Us and Them” mentality we had to reframe**
  
 Our conversations with people working in government showed that there were worries that this platform could encourage citizens to be against the government openly. Surprisingly, citizens saw it differently – they perceived the platform as a step forward for Singapore, seeing hope in a more collaborative process to tackle the more complex issues that Singapore faces and would face. 
 
