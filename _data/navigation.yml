@@ -10,8 +10,8 @@ links:
     collection: products
   - title: COVID-19
     url: /covid-19/
-  - title: How We Build
-    collection: how-we-build
+  - title: Hack for Public Good
+    collection: hack-for-public-good
   - title: More
     url: /media
     sublinks:
