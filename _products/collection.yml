@@ -2,5 +2,5 @@ collections:
   products:
     output: true
     order:
-      - About Hack for Public Good.md
       - Our Products.md
+      - About Hack for Public Good.md
