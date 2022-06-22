@@ -2,4 +2,5 @@ collections:
   how-we-build:
     output: true
     order:
+      - About Hack for Public Good.md
       - overview.md
