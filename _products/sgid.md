@@ -30,15 +30,19 @@ Ian Chen <a href="https://github.com/pregnantboy" style="display: inline-block; 
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a> | Kwa Jie Hao <a href="https://github.com/kwajiehao" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a> | Kwa Jie Hao <a href="https://github.com/kwajiehao" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Sonjia Yan <a href="https://github.com/syan-syan" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a> | 
+</a> | Samuel Koh <a href="https://github.com/samuelKSE" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a> | Veena Rao <a href="https://github.com/veenaraoa" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a> 
 
 #### Past Contributors
 
-Aaron Lee<a href="https://github.com/Buooy"  style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+Lisa Tjide<a href="https://github.com/lisatjide"  style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a> | Wayne Tee<a href="https://github.com/waynetee" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+</a> | Pallani | Sarah Salim | Liwei Loh | Huang Kaiwen | Pearly Ong | Alwyn Tan<a href="https://github.com/lonerifle" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 
 <a href="https://id.gov.sg/" target="_blank">
