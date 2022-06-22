@@ -1,5 +1,5 @@
 collections:
-  how-we-build:
+  products:
     output: true
     order:
       - About Hack for Public Good.md
