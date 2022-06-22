@@ -1,5 +1,5 @@
 collections:
-  products:
+  individual-product-pages:
     output: true
     order:
       - checkfirst.md
