@@ -2,5 +2,6 @@ collections:
   products:
     output: true
     order:
+      - covid-19.md
       - Our Products.md
       - How We Build.md
