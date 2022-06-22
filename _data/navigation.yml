@@ -5,9 +5,8 @@ links:
   - title: Careers
     url: /careers/product-manager/
     collection: careers
-  - title: Products
-    url: /products/datagovsg/
-    collection: products
+  - title: Individual Product Pages
+    collection: individual-product-pages
   - title: COVID-19
     url: /covid-19/
   - title: Hack for Public Good
