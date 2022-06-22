@@ -2,7 +2,6 @@ collections:
   products:
     output: true
     order:
-      - overview.md
       - checkfirst.md
       - data-gov-sg.md
       - digimc.md
