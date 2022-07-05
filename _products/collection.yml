@@ -2,19 +2,6 @@ collections:
   products:
     output: true
     order:
-      - overview.md
-      - checkfirst.md
-      - data-gov-sg.md
-      - digimc.md
-      - form.md
-      - go-gov-sg.md
-      - homer.md
-      - isomer.md
-      - opendoc.md
-      - parking-sg.md
-      - paysg.md
-      - postman-gov-sg.md
-      - redeemsg.md
-      - sgid.md
-      - scamshield.md
-      - Sync.md
+      - Our Products.md
+      - How We Build.md
+      - covid-19.md

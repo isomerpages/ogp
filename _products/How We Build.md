@@ -1,8 +1,10 @@
 ---
-title: About Hack for Public Good
+title: How We Build
 permalink: /hackathon/about
 description: ""
 ---
+
+
 [![2021 Projects Banner](/images/hack_for_public_good.png)](/hackathon/2021)
 
 <br/>

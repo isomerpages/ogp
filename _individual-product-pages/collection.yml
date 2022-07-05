@@ -1,0 +1,19 @@
+collections:
+  individual-product-pages:
+    output: true
+    order:
+      - checkfirst.md
+      - data-gov-sg.md
+      - digimc.md
+      - form.md
+      - go-gov-sg.md
+      - homer.md
+      - isomer.md
+      - opendoc.md
+      - parking-sg.md
+      - paysg.md
+      - postman-gov-sg.md
+      - redeemsg.md
+      - sgid.md
+      - scamshield.md
+      - Sync.md
