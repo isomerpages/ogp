@@ -33,4 +33,12 @@ To meet anticipated demand, we are inviting all CHAS clinics to sign up. With HA
 (append webinar invite)
 
 Kenneth Sng <a href="https://github.com/kenneths111" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
-    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png"> | Jan Donyada <a href="https://github.com/jandonyada" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png"> | Lai Jing Yi <a href="https://github.com/laijingyiogp" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png"> | Feliciana Natali | Lam Kee Wei <a href="https://github.com/lamkeewei" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png"> | Alwyn Tan <a href="https://github.com/lonerifle" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png"> | Ian Chen <a href="https://github.com/pregnantboy" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png"> | Jason Chong <a href="https://github.com/jasonchong96" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png"> | Dexter Tan <a href="https://github.com/dextertanyj" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png"> | Richard Qi <a href="https://github.com/riccqi" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png"> 
