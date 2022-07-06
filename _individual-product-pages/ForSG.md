@@ -3,8 +3,7 @@ title: ForSG
 permalink: /products/for-sg
 description: ""
 ---
-
-![Sync](/images/forsg.png)
+![For.sg](/images/forsg.png)
 
 ### **The official link shortener for healthcare institutions**
 
