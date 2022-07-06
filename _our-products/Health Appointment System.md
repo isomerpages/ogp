@@ -28,7 +28,9 @@ Open Government Products will be launching the Health Appointment System in mid-
 
 For the initial launch, the Government will reach out to 600,000 eligible elderly to take their CHAS-subsidised Pneumococcal vaccines (i.e. PCV13 and PPSV23). We will then gradually expand to other NAIS vaccines.
 
-To meet anticipated demand, we are inviting all CHAS clinics to sign up. With HAS, participating clinics can set their availability, allowing Singaporeans to easily find a clinic closest to them with suitable time slots. 
+To meet anticipated demand, we are inviting all CHAS clinics to sign up. With HAS, participating clinics can set their availability, allowing Singaporeans to easily find a clinic closest to them with suitable time slots. To find out more, please [sign up](http://go.gov.sg/has-interest-form) for the two Zoom Webinars on: 
+*   19 July (Tue), 7pm
+*   23 July (Sat), 2pm
 
 (append webinar invite)
 
