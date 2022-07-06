@@ -2,13 +2,13 @@ collections:
   our-products:
     output: true
     order:
-      - Health Appointment System.md
       - checkfirst.md
       - data-gov-sg.md
       - digimc.md
       - ForSG.md
       - form.md
       - go-gov-sg.md
+      - Health Appointment System.md
       - homer.md
       - isomer.md
       - opendoc.md
