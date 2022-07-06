@@ -1,10 +1,11 @@
 collections:
-  individual-product-pages:
+  our-products:
     output: true
     order:
       - checkfirst.md
       - data-gov-sg.md
       - digimc.md
+      - ForSG.md
       - form.md
       - go-gov-sg.md
       - homer.md
