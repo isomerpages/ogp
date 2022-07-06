@@ -28,6 +28,11 @@
   sum: Create official government links in seconds
   link: /products/gogovsg
 
+- title: HEALTH APPOINTMENT SYSTEM
+  image: /images/HAS.png
+  sum: Find and book vaccine appointments near you
+  link: /products/HAS
+
 - title: HOMER
   image: /images/homer.png
   sum: Health and location reporting tool for those on COVID-19 Quarantine Order / Stay-Home Notice
