@@ -32,6 +32,8 @@ To meet anticipated demand, we are inviting all CHAS clinics to sign up. With HA
 
 (append webinar invite)
 
+#### Team
+
 Kenneth Sng <a href="https://github.com/kenneths111" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png" /> </a>  | Jan Donyada <a href="https://github.com/jandonyada" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png"> </a> | Lai Jing Yi <a href="https://github.com/laijingyiogp" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
