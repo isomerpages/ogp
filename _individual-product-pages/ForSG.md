@@ -3,7 +3,7 @@ title: ForSG
 permalink: /individual-product-pages/for-sg
 description: ""
 ---
-![Sync](/images/Sync_Hero_Image_with_logo.png)
+![Sync](/images/forsg.png)
 
 ### **The official link shortener for healthcare institutions**
 
@@ -34,14 +34,19 @@ For.sg is an anti-scam measure built to provide public healthcare institutions a
 #### Team
 
 **
-*   [Alexis Goh](https://github.com/gweiying)
-*   [Benjamin Bowes](https://sg.linkedin.com/in/bowesdesign)  
-*   [Christabel Png](https://sg.linkedin.com/in/christabelpng)
-*   [Dat Le Thanh](https://github.com/thanhdatle) 
-*   [Hena Shah](https://github.com/henashah7)
-*   [Lisa Kwok](https://github.com/lisatjide)
-*   [Samuel Koh](https://github.com/samuelKSE)
-*   [Yong Jie](https://github.com/yong-jie)
+Alexis Goh<a href="https://github.com/gweiying"  style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a> | Benjamin Bowes | Christabel Png | Dat Le Thanh <a href="https://github.com/thanhdatle"  style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a> | Hena Shah <a href="https://github.com/henashah7"  style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a> | Lisa Kwok  <a href="https://github.com/lisatjide"  style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a> | Samuel Koh  <a href="https://github.com/samuelKSE"  style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a> | Yong Jie Foo <a href="https://github.com/yong-jie"  style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a> 
     
 
 **
