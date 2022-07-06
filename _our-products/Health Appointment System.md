@@ -4,8 +4,6 @@ permalink: /products/HAS
 description: Find and book vaccine appointments near you
 image: /images/HAS.png
 ---
-
-
 ![Health Appointment System](/images/HAS.png)
 
 ### Find and book vaccine appointments near you
@@ -34,4 +32,5 @@ To meet anticipated demand, we are inviting all CHAS clinics to sign up. With HA
 
 (append webinar invite)
 
-(add team members and github icon)
+Antariksh Mahajan <a href="https://github.com/mantariksh" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
