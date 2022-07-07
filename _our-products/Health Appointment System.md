@@ -32,7 +32,7 @@ To meet anticipated demand, we are inviting all CHAS clinics to sign up. With HA
 *   19 July (Tue), 7pm
 *   23 July (Sat), 2pm
 
-(append webinar invite)
+![](/images/EDM_Webinar.png)
 
 #### Team
 
