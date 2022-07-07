@@ -4,7 +4,7 @@ permalink: /products/HAS
 description: Find and book vaccine appointments near you
 image: /images/HAS.png
 ---
-![Health Appointment System](/images/HAS.png)
+![](/images/revised%20banner.png)
 
 ### Find and book vaccine appointments near you
 
