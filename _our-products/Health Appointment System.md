@@ -16,11 +16,11 @@ One of the key reasons is accessibility—"Where do I sign up for vaccines? Do I
 
 #### Solution
 
-HAS is a Government initiative to encourage Singaporeans to take recommended vaccines. You can book vaccines at nearby Community Health Assist Scheme (CHAS) GP clinics using HAS. The National Adult Immunisation Schedule (NAIS) recommends taking these vaccinations.
+HAS is a Government initiative to encourage Singaporeans to take recommended vaccines. The National Adult Immunisation Schedule (NAIS) recommends taking these vaccinations.
 
-Our goal is for HAS to significantly increase adult vaccination rates. HAS makes it easy for Singaporeans to book vaccinations at nearby CHAS clinics.
+Our goal is to increase adult vaccination rates by making them easy to book. HAS makes it easy to book vaccinations at nearby CHAS clinics.
 
-HAS also allows clinics to quickly make vaccination slots to the general public. This facilitates a large volume of appointments in a smooth, hassle-free way.
+HAS also allows clinics to quickly make slots available to the general public. This facilitates a large volume of appointments in a smooth, hassle-free way.
 
 #### Launch
 
