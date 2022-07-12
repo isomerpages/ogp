@@ -3,13 +3,12 @@ title: How We Build
 permalink: /hackathon/about
 description: ""
 ---
-
-
 [![2021 Projects Banner](/images/hack_for_public_good.png)](/hackathon/2021)
 
-<br/>
+*(Click to view Hack for Public Good [2022](https://www.open.gov.sg/hackathon/2022) and [2021](https://www.open.gov.sg/hackathon/2021) projects)*
 
 How did products like [Go.gov.sg](https://go.gov.sg) ,  [Postman.gov.sg](https://postman.gov.sg), and [RedeemSG](https://redeem.gov.sg) come about? They were all ideas born and developed through Open Government Products’ Hack for Public Good, a month-long event held annually. 
+
 
 #### What is Hack for Public Good?
 
