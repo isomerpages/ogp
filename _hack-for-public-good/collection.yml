@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - Hack for Public Good 2022/.keep
-      - Hack for Public Good 2022/Overview.md
       - Hack for Public Good 2022/CalSG.md
       - Hack for Public Good 2022/CloudCity.md
       - Hack for Public Good 2022/Data Buddy.md
