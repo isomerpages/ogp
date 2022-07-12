@@ -10,25 +10,25 @@ image: /images/HAS.png
 
 #### Background 
 
-Pneumonia is the third leading cause of death in Singapore, taking away about 4,400 lives in Singapore each year. It's highly preventable via Pneumococcal and flu vaccines, yet less than 10% of Singaporeans above the age of 65 have taken both doses of their Pneumococcal vaccines.
+Pneumonia is the third leading cause of death in Singapore, claiming over 4,000 lives each year. Fortunately, pneumonia vaccines provide significant defenses against pneumonia. Yet, less than 10% of Singaporeans (above the age of 65) have taken them.
 
 One of the key reasons is accessibility—"Where do I sign up for vaccines? Do I go to a GP or polyclinic? Can I get an appointment?"
 
 #### Solution
 
-The Health Appointment System (HAS) is a pilot Government initiative to encourage Singaporeans to take the vaccines recommended under the National Adult Immunisation Schedule (NAIS) at their nearest Community Health Assist Scheme (CHAS) GP clinics.
+HAS is a Government initiative to encourage Singaporeans to take recommended vaccines. You can book vaccines at nearby Community Health Assist Scheme (CHAS) GP clinics using HAS. The National Adult Immunisation Schedule (NAIS) recommends taking these vaccinations.
 
-Our goal is to increase adult vaccination rates by making it easy for Singaporeans to book vaccinations at nearby CHAS clinics.
+Our goal is for HAS to significantly increase adult vaccination rates. HAS makes it easy for Singaporeans to book vaccinations at nearby CHAS clinics.
 
-HAS allows clinics to quickly make available vaccine appointment slots to the general public and facilitate a large volume of appointments in a smooth, hassle-free way. 
+HAS also allows clinics to quickly make vaccination slots to the general public. This facilitates a large volume of appointments in a smooth, hassle-free way.
 
 #### Launch
 
-Open Government Products will be launching the Health Appointment System in mid-August. 
+Open Government Products will be launching HAS in mid-August 2022.
 
-For the initial launch, the Government will reach out to 600,000 eligible elderly to take their CHAS-subsidised Pneumococcal vaccines (i.e. PCV13 and PPSV23). We will then gradually expand to other NAIS vaccines.
+For the initial launch, the Government will reach out to 600,000 eligible elderly. We will propose they take their pneumonia vaccines (i.e. PCV13 and PPSV23). We will then gradually expand to other NAIS vaccines. Based on your eligibility, the vaccinations will be CHAS-subsidised.
 
-To meet anticipated demand, we are inviting all CHAS clinics to sign up. With HAS, participating clinics can set their availability, allowing Singaporeans to easily find a clinic closest to them with suitable time slots. To find out more, please [sign up](http://go.gov.sg/has-interest-form) for the two Zoom Webinars on: 
+To meet anticipated demand, we are inviting all CHAS clinics to sign up.To find out more, please [sign up](http://go.gov.sg/has-interest-form) for the two Zoom Webinars on: 
 *   21 July (Thurs), 1pm
 *   23 July (Sat), 2pm
 
@@ -46,4 +46,5 @@ Kenneth Sng <a href="https://github.com/kenneths111" style="display: inline-bloc
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png"></a> | Suhaila Roslan <a href="https://github.com/sraelynn" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png"></a> | Dexter Tan <a href="https://github.com/dextertanyj" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png"></a> | Richard Qi <a href="https://github.com/riccqi" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png"></a> | Shantanu Basrur <a href="https://github.com/shanty-ogp" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
