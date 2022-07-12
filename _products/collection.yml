@@ -2,7 +2,7 @@ collections:
   products:
     output: true
     order:
-      - Overview.md
+      - Hack for Public Good 2022.md
       - Our Products.md
       - How We Build.md
       - Hack for Public Good 2021.md
