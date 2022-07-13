@@ -28,7 +28,7 @@ Open Government Products will be launching HAS in mid-August 2022.
 
 For the initial launch, the Government will reach out to 600,000 eligible elderly. We will propose they take their pneumonia vaccines (i.e. PCV13 and PPSV23). We will then gradually expand to other NAIS vaccines. Based on your eligibility, the vaccinations will be CHAS-subsidised.
 
-To meet anticipated demand, we are inviting all CHAS clinics to sign up.To find out more, please [sign up](http://go.gov.sg/has-interest-form) for the two Zoom Webinars on: 
+To meet anticipated demand, we are inviting all CHAS clinics to sign up. To find out more, please [sign up](http://go.gov.sg/has-interest-form) for the two Zoom Webinars on: 
 *   21 July (Thurs), 1pm
 *   23 July (Sat), 2pm
 
