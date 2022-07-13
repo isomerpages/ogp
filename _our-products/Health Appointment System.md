@@ -12,11 +12,11 @@ image: /images/HAS_updated.png
 
 Pneumonia is the third leading cause of death in Singapore, claiming over 4,000 lives each year. Fortunately, pneumonia vaccines provide significant defenses against pneumonia. Yet, less than 10% of Singaporeans (above the age of 65) have taken them.
 
-One of the key reasons is accessibility—"Where do I sign up for vaccines? Do I go to a GP or polyclinic? Can I get an appointment?"
+One of the key reasons is accessibility: "Where do I sign up for vaccines? Do I go to a GP or polyclinic? Can I get an appointment?"
 
 #### Solution
 
-HAS is a Government initiative to encourage Singaporeans to take recommended vaccines. The National Adult Immunisation Schedule (NAIS) recommends taking these vaccinations.
+HAS is the Government initiative to encourage Singaporeans to take recommended vaccines. The National Adult Immunisation Schedule (NAIS) recommends taking these vaccinations.
 
 Our goal is to increase adult vaccination rates by making them easy to book. HAS makes it easy to book vaccinations at nearby CHAS clinics.
 
