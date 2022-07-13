@@ -16,7 +16,7 @@ One of the key reasons is accessibility: "Where do I sign up for vaccines? Do I 
 
 #### Solution
 
-HAS is the Government initiative to encourage Singaporeans to take recommended vaccines. The National Adult Immunisation Schedule (NAIS) recommends taking these vaccinations.
+HAS is the pilot Government initiative to encourage Singaporeans to take recommended vaccines. The National Adult Immunisation Schedule (NAIS) recommends taking these vaccinations.
 
 Our goal is to increase adult vaccination rates by making them easy to book. HAS makes it easy to book vaccinations at nearby CHAS clinics.
 
