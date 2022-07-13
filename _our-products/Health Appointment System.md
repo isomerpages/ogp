@@ -12,11 +12,11 @@ image: /images/HAS_updated.png
 
 Pneumonia is the third leading cause of death in Singapore, claiming over 4,000 lives each year. Fortunately, pneumonia vaccines provide significant defenses against pneumonia. Yet, less than 10% of Singaporeans (above the age of 65) have taken them.
 
-One of the key reasons is accessibility—"Where do I sign up for vaccines? Do I go to a GP or polyclinic? Can I get an appointment?"
+One of the key reasons is accessibility: "Where do I sign up for vaccines? Do I go to a GP or polyclinic? Can I get an appointment?"
 
 #### Solution
 
-HAS is a Government initiative to encourage Singaporeans to take recommended vaccines. The National Adult Immunisation Schedule (NAIS) recommends taking these vaccinations.
+HAS is the pilot Government initiative to encourage Singaporeans to take recommended vaccines. The National Adult Immunisation Schedule (NAIS) recommends taking these vaccinations.
 
 Our goal is to increase adult vaccination rates by making them easy to book. HAS makes it easy to book vaccinations at nearby CHAS clinics.
 
@@ -47,4 +47,5 @@ Kenneth Sng <a href="https://github.com/kenneths111" style="display: inline-bloc
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png"></a> | Dexter Tan <a href="https://github.com/dextertanyj" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png"></a> | Richard Qi <a href="https://github.com/riccqi" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png"></a> | Shantanu Basrur <a href="https://github.com/shanty-ogp" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
-    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png"></a> | Nicola Lew <a href="https://github.com/nicolaxylew" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png"></a>
