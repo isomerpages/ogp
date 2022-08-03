@@ -19,13 +19,13 @@ Form has been used for:
 * Feedback from public officers on remote work
 * Mandatory primary school registration for 7 year olds nationwide 
 
-Key benefits
+Key engineering features
 * Anti-phishing - grants legitimacy to government forms collecting sensitive data, making it difficult for malicious actors to steal citizen data 
-* E2E encryption (not available in commercial form managers) protecting classified and sensitive data
+* End-to-end encryption (not available in commercial form managers) protecting classified and sensitive data
+* Webhook SDKs in [TypeScript](https://github.com/opengovsg/formsg-javascript-sdk), [Python](https://github.com/opengovsg/formsg-python-sdk) and [Ruby](https://github.com/opengovsg/formsg-ruby-sdk) to handle form submissions, including decryption of payloads
+* Webhook retries to better guarantee delivery of form submissions to webhook destinations
 * Rich features that especially support public sector needs, such as table-input fields, OTP verification of contact details, email domain restrictions, logic to disable submissions and date validations
-* Scalable to support extremely high volume form submissions
 * Modular tool able to be used with other tools/services like identity providers or downstream case management tools in many government workflows
-
 
 
 ## Go
@@ -83,4 +83,4 @@ Key benefits:
 * Secure infrastructure without any expensive hosting or database management
 * Fast loading sites with minimal downtime (99.9% uptime)
 * Low hosting and infrastructure costs 
-* Site templates makes it easy for agencies to launch websites 
+* Site templates makes it easy for agencies to launch websites
