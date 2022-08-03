@@ -2,13 +2,11 @@
 title: Open Source
 permalink: /resources/opensource
 ---
-# Open source tools for digital government
-
 We open source many of our tools in order for us to work together with developers around the world to tackle common challenges. With the emergence of the COVID-19 pandemic, the importance of sharing tools and learnings across borders has become even more pertinent, and we hope that by sharing our products below we can help others to digitise processes and improve public good around the world. 
 
 ## Form
-https://form.gov.sg
-
+**Official Site**: https://form.gov.sg  
+**GitHub**: https://github.com/opengovsg/FormSG  
 **Contact**: form@open.gov.sg
 
 Form builder and manager used by the Singapore government and public healthcare institutions to securely collect data from residents and businesses. Since its launch in 2017, Form has helped 44k public officers to collect over 58 million submissions.
@@ -28,13 +26,11 @@ Key benefits
 * Scalable to support extremely high volume form submissions
 * Modular tool able to be used with other tools/services like identity providers or downstream case management tools in many government workflows
 
-#### Form is open sourced at [go.gov.sg/opensource-formsg](https://go.gov.sg/opensource-formsg). 
-
 
 
 ## Go
-https://go.gov.sg
-
+**Official Site**: https://go.gov.sg  
+**GitHub**: https://github.com/opengovsg/GoGovSG  
 **Contact**: go@open.gov.sg  
 
 Government link shortener granting legitimacy to content shared by public officers. To date, Go has been used by over 13k public officers to shorten over 86k links that have been accessed over 78 million times.
@@ -51,11 +47,9 @@ Key benefits:
 * Anti-phishing - let’s citizens know that they are accessing from a government source
 * Analytics - track link clicks across government links
 
-#### Go is open sourced at [go.gov.sg/go-opensource](https://go.gov.sg/go-opensource/).
-
 ## Postman
-https://postman.gov.sg 
-
+**Official Site**: https://postman.gov.sg  
+**GitHub**: https://github.com/opengovsg/postmangovsg  
 **Contact:**  postman@open.gov.sg
 
 Official mass communication tool used by Singapore public agencies launched in May 2020. Postman has been supporting COVID-19 related use cases to help our public officers reach citizens in this uncertain period of time. Postman has since helped over 90 Singapore government agencies to send over 3 million messages. 
@@ -73,11 +67,9 @@ Key benefits:
 * Omnichannel platform
 * Campaign analytics
 
-#### Postman is open sourced at [go.gov.sg/opensource-postman](https://github.com/opengovsg/postmangovsg/).
-
 ## Isomer
-https://isomer.gov.sg 
-
+**Official Site**: https://isomer.gov.sg  
+**GitHub**: https://github.com/isomerpages/  
 **Contact:** admin@isomer.gov.sg 
 
 Isomer is a static site builder for the government. We provide end to end hosting service while the users focus on their site content. Instead of spending months and hefty amounts of money, Isomer enables public officers to launch secure and cheap websites in as fast as 36 hours. 
@@ -92,5 +84,3 @@ Key benefits:
 * Fast loading sites with minimal downtime (99.9% uptime)
 * Low hosting and infrastructure costs 
 * Site templates makes it easy for agencies to launch websites 
-
-#### Isomer is open sourced at [go.gov.sg/opensource-isomer](https://go.gov.sg/opensource-isomer).
