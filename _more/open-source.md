@@ -69,7 +69,9 @@ Isomer has been used for:
 
 ## CheckFirst
 
-**[Official Site](https://checkfirst.gov.sg)** | **[GitHub](https://github.com/opengovsg/checkfirst)** | **[Contact](https://go.gov.sg/checkfirst-contact)**
+**[Official Site](https://checkfirst.gov.sg)** |
+**[GitHub](https://github.com/opengovsg/checkfirst)** |
+**[Contact](https://go.gov.sg/checkfirst-contact)**
 
 CheckFirst allows public officers to build online eligibility checkers and calculators to help members of the public better understand policies. This is a better alternative to Excel spreadsheets and bespoke web applications.
 
