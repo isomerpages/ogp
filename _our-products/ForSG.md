@@ -4,14 +4,13 @@ permalink: /products/for-sg
 description: ""
 image: /images/forSG_hero.png
 ---
-
 ![github](/images/forSG_hero.png)
 
 ### **The official link shortener for healthcare institutions**
 
 #### Background 
 
-In recent years, there has been a spike in the number of phishing scams, including those in the healthcare sector. Healthcare institutions rely heavily on sending links to members of public (MOPs) to provide general information or updates on healthcare matters. These URLs are long and hard to read, therefore giving opportunities for scammers to spoof these links.
+asdsadasdadsIn recent years, there has been a spike in the number of phishing scams, including those in the healthcare sector. Healthcare institutions rely heavily on sending links to members of public (MOPs) to provide general information or updates on healthcare matters. These URLs are long and hard to read, therefore giving opportunities for scammers to spoof these links.
 
 #### Solution
 
