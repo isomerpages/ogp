@@ -40,7 +40,7 @@ Read more about how we think about hiring [here](/careers/hiring/).
 
 We are open to internships all year round!
 
-We want to maintain the highest learning quality by only bringing in interns when we have willing and able intern managers to mentor them. This means that at times, we fill all our internship slots and have to temporarily close our intern openings
+We want to maintain the highest learning quality by only bringing in interns when we have willing and able intern managers to mentor them. This means that at times, we fill all our internship slots and have to temporarily close our intern openings.
 
 You can view our openings through the link below. If you do not see an opening for your desired internship position, email us at recruiting@open.gov.sg.
 
