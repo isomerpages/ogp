@@ -226,8 +226,12 @@
   position: Marketing
   image: /images/headshots/yihan2.jpg
   
-  name: Zul
+- name: Zul
   position: Product Designer
   image: /images/headshots/Zul.jpg
+  
+- name: Khant
+  position: Software Engineer
+  image: /images/headshots/Khant.jpg
   
   
