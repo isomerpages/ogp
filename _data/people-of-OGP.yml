@@ -50,10 +50,6 @@
   position: Software Engineer
   image: /images/headshots/Kee Wei.jpg
   
-- name: Laura
-  position: Data Scientist
-  image: /images/headshots/Laura.jpg
-  
 - name: Pallani
   position: Software Engineer
   image: /images/headshots/Pallani.jpg
@@ -106,8 +102,8 @@
   position: People & Culture
   image: /images/headshots/Russell.jpg
 
-- name: Sarah
-  position: Marketing & Operations
+- name: Sarah E.
+  position: Marketing
   image: /images/headshots/Sarah E.jpg
   
 - name: Sue
@@ -135,7 +131,7 @@
   image: /images/headshots/Louiz.jpg
   
 - name: Chi Ling
-  position: Deputy Director
+  position: Corporate Operations
   image: /images/headshots/Chiling.jpg
 
 - name: Jason
@@ -171,7 +167,7 @@
   image: /images/headshots/Jiahui2.jpg
 
 - name: Joshua
-  position: Finance Operations
+  position: Corporate Operations
   image: /images/headshots/Joshua2.jpg
 
 - name: Julian
