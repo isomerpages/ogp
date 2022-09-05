@@ -39,7 +39,7 @@
   image: /images/headshots/Leonard.jpg
     
 - name: Chien Ling
-  position: Corporate Operations
+  position: People & Culture
   image: /images/headshots/ChienLing3.jpg
   
 - name: Jie Hao
@@ -49,10 +49,6 @@
 - name: Kee Wei
   position: Software Engineer
   image: /images/headshots/Kee Wei.jpg
-  
-- name: Laura
-  position: Data Scientist
-  image: /images/headshots/Laura.jpg
   
 - name: Pallani
   position: Software Engineer
@@ -106,8 +102,8 @@
   position: People & Culture
   image: /images/headshots/Russell.jpg
 
-- name: Sarah
-  position: Marketing & Operations
+- name: Sarah E.
+  position: Marketing
   image: /images/headshots/Sarah E.jpg
   
 - name: Sue
@@ -135,7 +131,7 @@
   image: /images/headshots/Louiz.jpg
   
 - name: Chi Ling
-  position: Deputy Director
+  position: Policy & Corporate Operations
   image: /images/headshots/Chiling.jpg
 
 - name: Jason
@@ -171,7 +167,7 @@
   image: /images/headshots/Jiahui2.jpg
 
 - name: Joshua
-  position: Finance Operations
+  position: Corporate Operations
   image: /images/headshots/Joshua2.jpg
 
 - name: Julian
@@ -221,3 +217,48 @@
 - name: Jing Yi
   position: Product Designer
   image: /images/headshots/JingYi2.jpg
+  
+- name: Yihan
+  position: Marketing
+  image: /images/headshots/yihan2.jpg
+  
+- name: Zul
+  position: Product Designer
+  image: /images/headshots/Zul.jpg
+  
+- name: Khant
+  position: Software Engineer
+  image: /images/headshots/Khant.jpg
+  
+- name: Wan Ling
+  position: Software Engineer
+  image: /images/headshots/Wan Ling.jpg
+  
+- name: Jessendra
+  position: Product Manager
+  image: /images/headshots/Jessendra.jpg
+  
+- name: Justyn
+  position: Software Engineer
+  image: /images/headshots/Justyn.jpg
+  
+- name: Kendra
+  position: Product Operations
+  image: /images/headshots/Kendra.jpg
+  
+- name: Jennifer
+  position: Product Manager
+  image: /images/headshots/Jen Liu.jpg
+  
+- name: Paul
+  position: Product Manager
+  image: /images/headshots/Paul.jpg
+  
+- name: Kishore
+  position: Software Engineer
+  image: /images/headshots/Kishore.jpg
+  
+- name: Hui Xuan
+  position: Policy
+  image: /images/headshots/Hui xuan.jpg
+  
