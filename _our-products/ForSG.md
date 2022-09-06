@@ -8,9 +8,6 @@ image: /images/forSG_hero.png
 
 ### **The official link shortener for healthcare institutions**
 
-#### Impact
-
-* **[MOHH entities consisting of 33 public healthcare institutions](https://guide.for.sg/#who-can-use-for.sg) have onboarded, including all public hospitals**
 
 #### Background 
 
@@ -25,6 +22,11 @@ For.sg is an anti-scam measure built to provide public healthcare institutions a
 *   Allows file sharing via a customised and trustworthy short link
 *   Allows for search of links owned by other officers and request for link transfer
 *   Educate the MOPs to verify domains of the urls through a short transition page
+
+#### Impact
+
+* **[MOHH entities consisting of 33 public healthcare institutions](https://guide.for.sg/#who-can-use-for.sg) have onboarded, including all public hospitals**
+
 
 #### Team
 
