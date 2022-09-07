@@ -25,8 +25,8 @@ HAS also allows clinics to quickly make slots available to the general public. T
 #### Impact
 
 * 657 clinics enrolled (1 in 2 CHAS clinics)
-* 473 appointments created
-* 172 vaccinations actualised
+* Close to 500 appointments created
+* Close to 200 vaccinations actualised
 
 #### Team
 
