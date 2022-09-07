@@ -1,6 +1,6 @@
 ---
 title: Health Appointment System
-permalink: /products/HAS
+permalink: /products/HAS/
 description: Find and book vaccine appointments near you
 image: /images/HAS_updated.png
 ---
@@ -22,17 +22,11 @@ Our goal is to increase adult vaccination rates by making them easy to book. HAS
 
 HAS also allows clinics to quickly make slots available to the general public. This facilitates a large volume of appointments in a smooth, hassle-free way.
 
-#### Launch
+#### Impact
 
-Open Government Products will be launching HAS in mid-August 2022.
-
-For the initial launch, the Government will reach out to 600,000 eligible elderly. We will propose they take their pneumonia vaccines (i.e. PCV13 and PPSV23). We will then gradually expand to other NAIS vaccines. Based on your eligibility, the vaccinations will be CHAS-subsidised.
-
-To meet anticipated demand, we are inviting all CHAS clinics to sign up. To find out more, please [sign up](http://go.gov.sg/has-interest-form) for the two Zoom Webinars on: 
-*   21 July (Thurs), 1pm
-*   23 July (Sat), 2pm
-
-![](/images/EDM_Webinar%20(2).png)
+* 657 clinics enrolled (1 in 2 CHAS clinics)
+* Close to 500 appointments created
+* Close to 200 vaccinations actualised
 
 #### Team
 
@@ -48,4 +42,12 @@ Kenneth Sng <a href="https://github.com/kenneths111" style="display: inline-bloc
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png"></a> | Richard Qi <a href="https://github.com/riccqi" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png"></a> | Shantanu Basrur <a href="https://github.com/shanty-ogp" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png"></a> | Nicola Lew <a href="https://github.com/nicolaxylew" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png"></a> | Ajayraj Singh <a href="https://github.com/Ajayrs97" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png"></a> | Md. Shahril <a href="https://github.com/MdShahrilOGP" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png"></a>
+		
+<a href="https://book.health.gov.sg/" target="_blank">
+    <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
+        Visit website
+    </button>
+</a>

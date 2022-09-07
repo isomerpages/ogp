@@ -1,9 +1,10 @@
 ---
 title: DiscoverSG
-permalink: /hackathon/2022/discoversg
+permalink: /hackathon/2022/discoversg/
 description: ""
-third_nav_title: Hack for Public Good 2023
+third_nav_title: Hack for Public Good 2022
 ---
+
 
 <iframe allowfullscreen="true" height="515" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSiB6VsBPygfmTdfapvoLuNsjww4pLWHjU9poyfImNeNsr883mQEczGNek0cNSIQ_WVRvwwe9Z5NyWN/embed?start=false&loop=false&delayms=3000" ></iframe>
 

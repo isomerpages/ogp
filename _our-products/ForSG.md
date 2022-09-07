@@ -1,12 +1,13 @@
 ---
 title: ForSG
-permalink: /products/for-sg
+permalink: /products/for-sg/
 description: ""
 image: /images/forSG_hero.png
 ---
 ![github](/images/forSG_hero.png)
 
 ### **The official link shortener for healthcare institutions**
+
 
 #### Background 
 

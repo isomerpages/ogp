@@ -1,9 +1,10 @@
 ---
 title: Data Buddy
-permalink: /hackathon/2022/databuddy
+permalink: /hackathon/2022/databuddy/
 description: ""
-third_nav_title: Hack for Public Good 2023
+third_nav_title: Hack for Public Good 2022
 ---
+
 
 <iframe allowfullscreen="true" height="515" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRQeUHSC0ABp-I9mI0Rxxj92dQnF3fW8-O4GYgG_jlEbKkjwwlQrIp3KAS70yYJT8mRBoKG8gJYUZlJ/embed?start=false&loop=false&delayms=3000" ></iframe>
 

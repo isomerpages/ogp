@@ -1,9 +1,10 @@
 ---
 title: OGP Design System
-permalink: /hackathon/2022/ogpdesignsystem
+permalink: /hackathon/2022/ogpdesignsystem/
 description: ""
-third_nav_title: Hack for Public Good 2023
+third_nav_title: Hack for Public Good 2022
 ---
+
 
 <iframe allowfullscreen="true" height="515" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vRfsDFExNtMg7cqCLWJLaHaJDqW5jmqBxNEOB6gNaROMC-26p5UxsL39nQPJCRXHl9JEMbbWY1FKn1P/embed?start=false&loop=false&delayms=3000" ></iframe>
 

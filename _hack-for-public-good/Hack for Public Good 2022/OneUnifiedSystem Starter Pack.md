@@ -1,9 +1,10 @@
 ---
 title: OneUnifiedSystem Starter Pack
-permalink: /hackathon/2022/oneunifiedsystem
+permalink: /hackathon/2022/oneunifiedsystem/
 description: ""
-third_nav_title: Hack for Public Good 2023
+third_nav_title: Hack for Public Good 2022
 ---
+
 
 <iframe allowfullscreen="true" height="515" width="100%" frameborder="0" src="https://docs.google.com/presentation/d/e/2PACX-1vSmuHdM0eJoOLvWaspWzXKNr1fW22J5VxHALwg_OVs9MOUFdtV9VXqnn0p-Gbw4ic7yrEkUjTGDWs7E/embed?start=false&loop=false&delayms=3000" ></iframe>
 
