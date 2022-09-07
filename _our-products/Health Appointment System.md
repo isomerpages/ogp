@@ -42,6 +42,8 @@ Kenneth Sng <a href="https://github.com/kenneths111" style="display: inline-bloc
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png"></a> | Richard Qi <a href="https://github.com/riccqi" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png"></a> | Shantanu Basrur <a href="https://github.com/shanty-ogp" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png"></a> | Nicola Lew <a href="https://github.com/nicolaxylew" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png"></a> | Ajayraj Singh <a href="https://github.com/Ajayrs97" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png"></a> | Md. Shahril <a href="https://github.com/MdShahrilOGP" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png"></a>
 		
 <a href="https://book.health.gov.sg/" target="_blank">
