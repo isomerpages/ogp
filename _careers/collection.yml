@@ -2,9 +2,9 @@ collections:
   careers:
     output: true
     order:
-      - Roles.md
       - our-hiring-process.md
       - what-we-look-for.md
+      - Roles.md
       - internships.md
       - corporate-team.md
       - product-design.md
