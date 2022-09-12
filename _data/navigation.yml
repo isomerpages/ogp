@@ -7,12 +7,10 @@ links:
     collection: careers
   - title: Products
     collection: products
-  - title: COVID-19
-    url: /covid-19/
   - title: Hack for Public Good
     collection: hack-for-public-good
-  - title: More
-    url: /media
+  - title: Developers
+    url: /resources/opensource
     sublinks:
       - title: Media
         url: /media
@@ -20,5 +18,7 @@ links:
         url: https://medium.com/open-government-products
       - title: Open Source
         url: /resources/opensource
+  - title: Newsroom
+    collection: newsroom
   - title: Contact Us
     url: /contact-us/
