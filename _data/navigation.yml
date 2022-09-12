@@ -12,12 +12,10 @@ links:
   - title: Developers
     url: /resources/opensource
     sublinks:
-      - title: Media
-        url: /media
-      - title: Blog
-        url: https://medium.com/open-government-products
       - title: Open Source
         url: /resources/opensource
+      - title: Product status
+        url: https://status.open.gov.sg/
   - title: Newsroom
     url: /media
     sublinks:
