@@ -1,4 +1,5 @@
 collections:
   newsroom:
     output: true
-    order: []
+    order:
+      - media.md
