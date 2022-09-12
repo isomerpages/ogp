@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - about-us.md
+      - Who we are.md
       - Life@OGP.md
       - meet-the-team.md
