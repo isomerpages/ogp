@@ -2,11 +2,6 @@
 title: Our Hiring Process
 permalink: /careers/hiring/
 ---
->Hiring is the single most important thing we do. 
-
-We believe in bringing in great people, and then giving them the autonomy to work on building tech for public good. 
-
-Because hiring is so important, we run a hiring process focused on being fair, thorough, and transparent. We do so because we want candidates to show up at their best, and for us and our candidates to make the right call on whether we’re a good fit for one another.
 
 ### How do we run our hiring process?
 Your time should be respected through the hiring process. You should know what to expect from every stage of the hiring process 3-4 assessment rounds (including screening) for permanent roles, and 2 rounds for internships Our end-to-end hiring process typically takes 3-5 weeks We focus on assessing realistic workpieces such as portfolios, skill-based tests, and written assignments. We ask specific role-based questions to assess how well you’d do on the job rather than just your interviewing skills. You will be assessed and offered terms based on your market worth and not your employment history
