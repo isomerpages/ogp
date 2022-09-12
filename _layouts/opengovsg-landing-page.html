@@ -30,6 +30,40 @@ layout: skeleton
         min-height: auto !important;
     }
     
+    .scrolling-words-box {
+        margin: .2em;
+        height: calc(12px + 3.5vw);
+        overflow: hidden;
+    }
+    .scrolling-words-box ul {
+        padding: 0;
+        animation: scrollUp 4s infinite;
+    }
+    .scrolling-words-box ul li {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        height: calc(12px + 3.5vw);
+        list-style: none;
+        font-size: calc(12px + 3.5vw);
+        line-height: calc(12px + 3.5vw);
+        color: rgb(39, 110, 241);
+    }
+
+    @keyframes scrollUp {
+        15%, 25% {
+            transform: translateY(-20%);
+        }
+        40%, 50% {
+            transform: translateY(-40%);
+        }
+        65%, 75% {
+            transform: translateY(-60%);
+        }
+        90%, 100% {
+            transform: translateY(-80%);
+        }
+    }
 </style>
 
 <section class="bp-hero bg-hero">
@@ -38,8 +72,19 @@ layout: skeleton
             <div class="row is-vcentered is-centered ma no-tall-banner">
             </div>
             <div id="big-text">
-                <span class="" style=" font-weight: 900; font-style: normal; color: black; text-decoration: none;">We build tech <br>for</span>
-                <span class="" style=" font-weight: 900; font-style: normal; color: rgb(39, 110, 241); text-decoration: none;"> public good.<br/></span>
+                <span class="" style=" font-weight: 900; font-style: normal; color: black; text-decoration: none; display:flex;">We build
+                    <div class="scrolling-words-box">
+                        <ul>
+                            <li>tech</li>
+                            <li>websites</li>
+                            <li style="padding-bottom: .2em">parking apps</li>
+                            <li style="padding-top: .1em">forms</li>
+                            <li>tech</li>
+                        </ul>
+                    </div>
+                  <br>
+                </span>
+                <span style=" font-weight: 900; font-style: normal; color: black; text-decoration: none;">for</span><span class="" style=" font-weight: 900; font-style: normal; color: rgb(39, 110, 241); text-decoration: none;"> public good.<br/></span>
             </div>
             <a href="https://go.gov.sg/join-ogp" class="padding--top padding--bottom is-inline-block">
                 <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
