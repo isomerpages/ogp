@@ -2,5 +2,4 @@ collections:
   more:
     output: true
     order:
-      - media.md
       - open-source.md
