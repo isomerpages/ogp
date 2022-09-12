@@ -3,7 +3,6 @@ title: Who we are
 permalink: /aboutus/
 description: ""
 ---
-
 ![Alt text for image on Isomer site](/images/theteam.JPG)
 
 ### A modern tech team working on public sector problems
@@ -23,6 +22,8 @@ We encourage initiative in problem solving. That’s why we empower individuals 
 
 ### Our people, our strength.
 
-Our people are our most valuable asset. We ensure that every employee feels valued and trusted through open communication. We believe in a flat hierarchy where everyone is given the same autonomy to make decisions that maximises the impact of their work. Learning keeps the team growing. Apart from Learning Fridays and team syncs, OGP also has Learning Month- a whole month dedicated to either completing a course or improving on a skill of one’s choice. Some ran workshops while others conducted crash courses for the team. Ultimately, we aim to get everyone in the team to learn through creating an environment that encourages learning.
+Our people are our most valuable asset. We ensure that every employee feels valued and trusted through open communication. We believe in a flat hierarchy where everyone is given the same autonomy to make decisions that maximises the impact of their work. 
+
+Learning keeps the team growing. Apart from Learning Fridays and team syncs, OGP also has Learning Month- a whole month dedicated to either completing a course or improving on a skill of one’s choice. Some ran workshops while others conducted crash courses for the team. Ultimately, we aim to get everyone in the team to learn through creating an environment that encourages learning.
 
 [Read more](/about-us/lifeatogp/)
