@@ -3,7 +3,7 @@ title: Who we are
 permalink: /aboutus/
 description: ""
 ---
-![Alt text for image on Isomer site](/images/theteam.JPG)
+![Alt text for image on Isomer site](/images/aboutus.png)
 
 ### A modern tech team working on public sector problems
 
