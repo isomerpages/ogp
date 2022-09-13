@@ -8,7 +8,7 @@ title: Contact Us
 Find us on [Facebook,](https://www.facebook.com/opengovsg/) [LinkedIn](https://www.linkedin.com/company/open-government-products), [Instagram](https://www.instagram.com/opengovsg/), and [Medium](https://medium.com/open-government-products)
 
 ### **Keen to learn more?**
-If you are interested in finding out more about our team and how we can work together, please reach out to us below.
+Are you passionate about public good? Do you have skills in product design or development?  If you are interested in finding out more about our team and how we can work together, please reach out to us below.
 
 <div style="font-family:Sans-Serif;font-size:15px;color:#000;opacity:0.9;padding-top:5px;padding-bottom:8px">If the form below is not loaded, you can also fill it in <a href="https://form.gov.sg/5bed1be1ccecca000fd23587">here</a>.</div>
 
@@ -33,6 +33,5 @@ OGP shares our approach to digital government and open-source products with fore
 #### Private sector organisation 
 
 OGP is keen to continue learning from the best practices of high-performing organisations. Willing to share your innovative organisational practices with us? OGP works with our private sector partners in both formal and ad-hoc advisory roles. Contact us at partnerships@open.gov.sg to learn more.
-
 
 
