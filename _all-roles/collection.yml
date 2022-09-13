@@ -2,4 +2,5 @@ collections:
   all-roles:
     output: true
     order:
+      - corporate-team.md
       - internships.md
