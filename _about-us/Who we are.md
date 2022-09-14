@@ -3,7 +3,6 @@ title: Who we are
 permalink: /aboutus/
 description: ""
 ---
-
 ![](/images/buildwus.png)
 
 ### A modern tech team working on public sector problems
@@ -14,7 +13,7 @@ We are motivated by problems that have strong impact on the public. We listen to
 ### Problem solving is our core
 We experiment with new practices to create successful products and demonstrate that they work, so that we can propagate our best practices to the rest of the public service and ultimately, accelerate the digitalization of the government. Solutions we have created include digitalising paper coupons and government forms, accelerating vaccination rollouts during the Covid-19 pandemic and blocking unsolicited messages and calls to prevent scams.
 
-[Our Products](/ourproducts/)
+View the rest of our products [here](/ourproducts/)
 
 ### Hack For Public Good
 We encourage initiative in problem solving. That’s why we empower individuals to be creative in their approach to problem solving through our annual [Hack for Public Good](/hackathon/2022/). 
