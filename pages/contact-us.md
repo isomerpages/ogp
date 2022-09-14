@@ -17,7 +17,7 @@ Are you passionate about public good? Do you have skills in product design or de
 
 
 ### **Partner with us**
-<img src="{{site.baseurl}}/images/healthtechsprint.jpg" style="width:50%;height:200px">
+<img src="{{site.baseurl}}/images/healthtechsprint.jpg" style="width:100%;height:400px">
 #### Singapore Public Agencies
 
 OGP works with other Singapore government agencies to support transformation and digitalisation. We work via three models: project manager, consultant and resource-provider. Our past and ongoing projects include tech-solutioning, tech-hiring and adopting progressive HR practices. 
