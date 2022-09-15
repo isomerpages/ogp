@@ -10,7 +10,7 @@ Find us on [Facebook,](https://www.facebook.com/opengovsg/) [LinkedIn](https://w
 ### **Keen to learn more?**
 Are you passionate about public good? Do you have skills in product design or development?  If you are interested in finding out more about our team and how we can work together, please reach out to us.
 
-  <a href="https://www.open.gov.sg/contact-us/" class="padding--top padding--bottom is-inline-block">
+  <a href="https://form.gov.sg/#!/5bed1be1ccecca000fd23587" class="padding--top padding--bottom is-inline-block">
                 <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
                     Contact us
                 </button>
