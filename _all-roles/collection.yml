@@ -2,7 +2,6 @@ collections:
   all-roles:
     output: true
     order:
-      - product-operations.md
       - product-management.md
       - product-design.md
       - corporate-team.md
