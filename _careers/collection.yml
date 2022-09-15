@@ -2,10 +2,10 @@ collections:
   careers:
     output: true
     order:
-      - internships.md
-      - corporate-team.md
+      - our-hiring-process.md
+      - software-engineering.md
       - product-design.md
       - product-management.md
       - product-operations.md
-      - software-engineering.md
-      - our-hiring-process.md
+      - corporate-team.md
+      - internships.md
