@@ -8,10 +8,10 @@ description: ""
 ### A modern tech team working on public sector problems
 
   
-We are motivated by problems that have strong impact on the public. We listen to issues on the ground and take them back to experiment and develop technology for the public good. Our role is to accelerate the digital transformation of the Singapore Government by being a space where we can experiment with new tech practices, including new technologies, management techniques, corporate systems, and even cultural norms. Our end goal is that through our work, Singapore becomes a model of how governments can use technology to improve the public good.
+We are motivated by problems that have strong impact on the public. We listen to issues on the ground and take them back to experiment and develop technology for the public good. Our role is to **accelerate the digital transformation of the Singapore Government** by being a space where we can experiment with new tech practices, including new technologies, management techniques, corporate systems, and even cultural norms. Our end goal is that through our work, Singapore becomes a **model of how governments can use technology to improve the public good.**
 
 ### Problem solving is our core
-We experiment with new practices to create successful products and demonstrate that they work, so that we can propagate our best practices to the rest of the public service and ultimately, accelerate the digitalization of the government. Solutions we have created include digitalising paper coupons and government forms, accelerating vaccination rollouts during the Covid-19 pandemic and blocking unsolicited messages and calls to prevent scams.
+We **experiment with new practices** to create successful products and demonstrate that they work, so that we can **propagate our best practices** to the rest of the public service and ultimately, **accelerate the digitalization of the government**. Solutions we have created include digitalising paper coupons and government forms, accelerating vaccination rollouts during the Covid-19 pandemic and blocking unsolicited messages and calls to prevent scams.
 
 View the rest of our products [here](/products/overview)
 
@@ -22,7 +22,7 @@ We encourage initiative in problem solving. That’s why we empower individuals 
 
 ### Our people, our strength.
 
-Our people are our most valuable asset. We ensure that every employee feels valued and trusted through open communication. We believe in a flat hierarchy where everyone is given the same autonomy to make decisions that maximises the impact of their work. 
+Our people are our most valuable asset. We ensure that every employee feels **valued and trusted through open communication.** We believe in a **flat hierarchy** where everyone is given the same autonomy to make decisions that maximises the impact of their work. 
 
 Learning keeps the team growing. Apart from Learning Fridays and team syncs, OGP also has Learning Month- a whole month dedicated to either completing a course or improving on a skill of one’s choice. Some ran workshops while others conducted crash courses for the team. Ultimately, we aim to get everyone in the team to learn through creating an environment that encourages learning.
 
