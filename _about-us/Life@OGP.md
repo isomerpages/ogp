@@ -3,6 +3,7 @@ title: Life@OGP
 permalink: /about-us/lifeatogp/
 description: ""
 ---
+![life at ogp](/images/lifeatogp.jpg)
 ### Work From Anywhere
 #### It's all about flexibility.
 Currently, we are housed at WeWork CityHouse, right at the Central Business District (CBD) area. Choose to work at our open office space or work from home, or simply anywhere. It doesn't matter where you are, as long as the work gets done.
