@@ -1,3 +1,18 @@
+- title: Launch of For.sg
+  image: /images/forsgmedia.png
+  sum: New For.sg link to be used by public hospitals when sending e-mails, SMSes
+  link: https://www.straitstimes.com/singapore/new-forsg-link-to-be-used-by-public-hospitals-when-sending-out-e-mails-and-smses
+  
+- title: Launch of Health Appointment System (HAS)
+  image: /images/hasmedia.png
+  sum: 65岁及以上年长者 本地试行上网预约接种肺炎疫苗
+  link: https://www.zaobao.com.sg/news/singapore/story20220829-1307482
+  
+- title: ParkingSG to replace paper coupons soon
+  image: /images/parkingmedia.png
+  sum: 超过九成车辆以Parking.sg应用付停车费 纸质固本料不久后逐步淘汰
+  link: https://www.zaobao.com.sg/news/singapore/story20220818-1303969
+  
 - title: REAL-TIME COVID-19 UPDATES WITH SYNC
   image: /images/Sync-zaobao.jpeg
   sum: (CH) 包括检测结果与疫苗接种状态 新平台Sync集中个人冠病数据 供指定机构使用
@@ -72,20 +87,4 @@
   image: /images/howtobuildgoodsoftware.jpeg
   sum: OGP Director, Li Hongyi, explains how software development requires a different, iterative approach
   link: https://www.csc.gov.sg/articles/how-to-build-good-software
-  
-- title: Launch of For.sg
-  image: /images/forsgmedia.png
-  sum: New For.sg link to be used by public hospitals when sending e-mails, SMSes
-  link: https://www.straitstimes.com/singapore/new-forsg-link-to-be-used-by-public-hospitals-when-sending-out-e-mails-and-smses
-  
-- title: Launch of Health Appointment System (HAS)
-  image: /images/hasmedia.png
-  sum: 65岁及以上年长者 本地试行上网预约接种肺炎疫苗
-  link: https://www.zaobao.com.sg/news/singapore/story20220829-1307482
-  
-- title: ParkingSG to replace paper coupons soon
-  image: /images/parkingmedia.png
-  sum: 超过九成车辆以Parking.sg应用付停车费 纸质固本料不久后逐步淘汰
-  link: https://www.zaobao.com.sg/news/singapore/story20220818-1303969
-
 
