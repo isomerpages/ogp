@@ -2,6 +2,5 @@ collections:
   all-roles:
     output: true
     order:
-      - product-design.md
       - corporate-team.md
       - internships.md
