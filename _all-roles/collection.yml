@@ -1,5 +1,4 @@
 collections:
   all-roles:
     output: true
-    order:
-      - internships.md
+    order: []
