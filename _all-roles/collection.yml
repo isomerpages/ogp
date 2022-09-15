@@ -1,4 +1,5 @@
 collections:
   all-roles:
     output: true
-    order: []
+    order:
+      - Roles.md
