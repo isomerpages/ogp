@@ -23,8 +23,10 @@ links:
         url: /media
       - title: Blog
         url: https://medium.com/open-government-products
-  - title: Contact us
+  - title: Contact
     url: /contact-us/
     sublinks:
+      - title: Contact us
+        url: /contact-us/
       - title: Partner with us
         url: /partnerwithus
