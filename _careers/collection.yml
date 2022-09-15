@@ -2,6 +2,7 @@ collections:
   careers:
     output: true
     order:
+      - product-operations.md
       - software-engineering.md
       - our-hiring-process.md
       - what-we-look-for.md
