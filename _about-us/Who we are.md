@@ -4,7 +4,7 @@ permalink: /aboutus/
 description: ""
 ---
 ![about us](/images/aboutus.png)
-### A modern tech team working on public sector problems  
+## A modern tech team working on public sector problems  
 
   
 
@@ -14,7 +14,7 @@ We are an experimental development team that builds technology for the public go
 
   
 
-###  Our Mission
+##  Our Mission
 
   
 
@@ -26,7 +26,7 @@ We are an experimental development team that builds technology for the public go
 
   
 
-### Our Vision
+## Our Vision
 
 #### The end goal is to have Singapore become a model of technology enabled government. 
 
@@ -35,7 +35,7 @@ We are an experimental development team that builds technology for the public go
 A place where using government services is as quick and simple as a click of a button. A place where government operations are efficiently automated, improving reliability while freeing up human focus to tackle cases that slip through the cracks. Where data is freely accessible so that citizens and policymakers alike have a clear view to make informed decisions. Where healthcare becomes so efficient that no one ever gets diagnosed with a late stage disease. Where our legal system is so accessible that no one gets denied access to justice.
 
 
-### Our Philosophy
+## Our Philosophy
 
 <section class="bp-section">
 
@@ -95,7 +95,7 @@ A place where using government services is as quick and simple as a click of a b
 
   
 
-###  Our Values
+##  Our Values
 #### We maximise our impact on the public good.
 
 We focus on real problems faced by real people, going beyond theoretical requirements to test that our solutions actually deliver value in practice. We prolifically explore many different ideas and aggressively prune them to focus on the most potent course of action given the resources we have. Bureaucratic pressures, individual aspirations, and even the success of the team are all secondary considerations. All our decisions are based on how we can best improve the lives of the people we serve. 
