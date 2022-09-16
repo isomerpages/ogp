@@ -7,18 +7,26 @@ links:
     collection: careers
   - title: Products
     collection: products
-  - title: COVID-19
-    url: /covid-19/
   - title: Hack for Public Good
     collection: hack-for-public-good
-  - title: More
+  - title: Developers
+    url: /resources/opensource
+    sublinks:
+      - title: Open Source
+        url: /resources/opensource
+      - title: Product status
+        url: https://status.open.gov.sg/
+  - title: Newsroom
     url: /media
     sublinks:
       - title: Media
         url: /media
       - title: Blog
         url: https://medium.com/open-government-products
-      - title: Open Source
-        url: /resources/opensource
-  - title: Contact Us
+  - title: Contact
     url: /contact-us/
+    sublinks:
+      - title: Partner with us
+        url: /partnerwithus
+      - title: Contact us
+        url: /contact-us/

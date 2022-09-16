@@ -1,5 +1,5 @@
 collections:
-  more:
+  all-roles:
     output: true
     order:
-      - open-source.md
+      - Roles.md

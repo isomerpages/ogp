@@ -1,5 +1,5 @@
 collections:
-  more:
+  newsroom:
     output: true
     order:
-      - open-source.md
+      - media.md

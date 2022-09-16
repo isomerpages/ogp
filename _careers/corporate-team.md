@@ -2,6 +2,8 @@
 title: Corporate Team
 permalink: /careers/corporate-team/
 ---
+
+
 >You design and deliver organisation approaches and processes for OGP to function at our best. You share best practices to help transform the rest of government.
 
 ### **What does Corporate Team do?**

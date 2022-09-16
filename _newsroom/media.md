@@ -1,6 +1,7 @@
 ---
 title: Media
-permalink: /media
+permalink: /media/
 ---
+
 
 {% include media.html careers=site.data.media %}

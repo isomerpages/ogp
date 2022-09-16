@@ -1,7 +1,9 @@
 ---
 title: What We Look For
-permalink: /careers/aicv
+permalink: /careers/aicv/
 ---
+
+
 ### What do we look for in candidates?
 
 Beyond assessing OGP officers against established career schemas, we assess any potential OGP employee on 4 core attributes -  Ability, Initiative, Communication, and Values. 

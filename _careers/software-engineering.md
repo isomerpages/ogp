@@ -1,7 +1,9 @@
 ---
 title: Software Engineering
-permalink: /careers/software-engineer
+permalink: /careers/software-engineer/
 ---
+
+
 > You solve problems. You design and build systems and make sure it works.
 
 Here is a look at what a Software Engineer, Pallani Kumaran, has to say about working here.

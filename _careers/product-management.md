@@ -3,6 +3,8 @@ permalink: /careers/product-management/
 title: Product Management
 breadcrumb: Product Manager
 ---
+
+
 > You chart the product goals. You plug gaps and gel everything together. You wear many hats to drive the project forward.
 
 Here is a look at what a Product Manager, Chua Swee Chin, has to say about working here.
