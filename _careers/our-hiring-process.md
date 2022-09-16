@@ -2,58 +2,46 @@
 title: Our Hiring Process
 permalink: /careers/hiring/
 ---
-### How do we run our hiring process?
+### Hiring is the single most important thing we do.
+We believe in bringing in great people, and then giving them the autonomy to work on building tech for public good.
 
+Because hiring is so important, we run a hiring process focused on being fair, thorough, and transparent. We do so because we want candidates to show up at their best, and for us and our candidates to make the right call on whether we’re a good fit for one another.
 
-We want to respect the time and effort you put in  throughout the hiring process. There are generally up to 4 rounds of assessment (including screening) for most permanent roles, and 2 rounds for internships. Our end-to-end hiring process typically takes 3-5 weeks. Our assessments focus on real-world workpieces such as portfolios, skill-based tests, and written assignments. We ask specific role-based questions to assess how well you’d do on the job rather than how well you interview. You will be assessed and offered terms based on your market worth and not your employment history.
+### How do we run our hiring processes?
 
+Whilst our specific hiring process varies between roles, we hold a common philosophy for how we want our prospective employees to experience our hiring process:
 
+**You will have full knowledge of what we’re looking for and how your assessment went.** _You should have what you need to prepare, so that you can show up and interview at your best._
 
-### What do we look for in candidates?
-  
+*   We share details on what to expect for every interview stage and what we are looking for.
+*   We offer and provide feedback if requested for every candidate who has had at least one interview with us, so you know where to improve.
 
-We define levels of impact we would expect someone to make at different levels of their function, and assess candidates directly against this. Broadly, we assess any potential employee on 4 core attributes - ability, initiative, communication, and values:
+**Your time should be respected through the hiring process.** _Our candidates take time off from their busy schedules to meet us, and we don’t believe in taking this courtesy for granted._
 
-#### Ability
+*   We screen and respond to all applicants quickly, whether or not we proceed with their application.
+*   To respect the time you’ve set aside to spend with us, we structure all our interview components to keep things on time.
+*   We don’t believe in running an excessive number of interviews. We run 3-4 assessment rounds (including screening) for permanent roles, and 2 rounds for internships
+*   Our end-to-end hiring process typically takes 3-5 weeks, mainly due to scheduling and time needed for any take home assignments. We fast track any applicants who need answers sooner (our record is 7 days from application to offer!)
 
-**What this is:** How competent is the individual in their technical field? 
+**You will be evaluated on real-world performance relevant to the role, and not arbitrary nor theoretical brainteasers.** _The best candidate assessments are the ones which focus on how well a candidate would do in the job._
 
-**Why this is important:** Our mission is to build tech for public good. This requires having people who not only care about what they do, but are good at it. We need people who are excellent in each of their fields to come together and contribute toward our mission.
- 
-#### Initiative
+*   We focus on assessing realistic workpieces such as portfolios, skill-based tests, and written assignments.
+*   We ask specific role-based questions to assess how well you’d do on the job rather than just your interviewing skills.
+*   We do not ask ‘gotcha’ questions or random brainteasers.
 
-**What this is**: How proactive is the candidate at pushing for change and solving problems where there are no clear instructions?
+**You will be assessed as fairly as possible by multiple independent assessors.** _All assessments are inherently subjective. We want to make sure that we control for individual subjectivity and bias._
 
-  
-**Why this is important:** Initiative is a non-negotiable to get things done by pushing for change, and solving problems where there aren’t readily available solutions. We need people who have a strong internal drive, and are comfortable working in an environment with more problems to be solved than directions to be given.
+*   We run highly structured interviews focused on real-world tasks and structured questioning.
+*   For non-internship roles, we have multiple interviewers present at interview rounds. Every interviewer completes independent evaluations before a single word of discussion takes place.
+*   We use structured evaluation processes and clear assessment rubrics for every interview, and discuss all evaluations before making a decision on candidates.
 
+**You will be assessed and offered terms based on your market worth and not your employment history.** 
 
+You should be hired and paid based on the job you are able to accomplish, and not on other extraneous factors such as your years of experience, last drawn pay or education pedigree._
 
-#### Communication
-
-**What this is:** How well can the individual talk and reason about their work to others both within and outside their functional area?
-
-  
-
-**Why this is important:** We work in lean, cross-functional teams that require communication within and across officers' domain of expertise. In pushing for change and working quickly in high-performing teams, we run as well as the poorest communicator in the room. We need people who can communicate well not just to be understood, but to influence and push for change within and beyond OGP.
-
-
-#### Values
-
-**What this is:** How much does the candidate desire to work on bringing about change for public good?
-
-**Why this is important:** We exist to deliver public good through technology. We need all members of our team to get behind our mission and work toward this common goal. We need people who care about working on something beyond themselves, and show this passion for public good through their thoughts and actions.
-
-
-
-
-
-
-
-### What can you expect from working at OGP?
-Your contribution is measured in the impact you create, not the number of hours you sit at your desk. You can look forward to a young and dynamic team that works with a flat hierarchy where everyone is given the autonomy to maximise the impact of their work. 
-
-[Learn More](open.gov.sg)
+*   We assess you against a function-specific career schema and make offers based on your assessed level of performance. Demonstrated expertise and proven ability matter much more than factors like your education qualifications.
+*   We base salary offers on this assessed level of performance rather than your last drawn salary or years of experience.
+*   We move to promote people as quickly as possible to their assessed level of performance.
 
 
 <a href="http://go.gov.sg/ogp-jobs">
