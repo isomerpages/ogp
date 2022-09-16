@@ -4,9 +4,9 @@ collections:
     order:
       - our-hiring-process.md
       - what-we-look-for.md
+      - internships.md
       - software-engineering.md
       - product-design.md
       - product-management.md
       - product-operations.md
       - corporate-team.md
-      - internships.md
