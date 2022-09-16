@@ -26,7 +26,7 @@ links:
   - title: Contact
     url: /contact-us/
     sublinks:
-      - title: Contact us
-        url: /contact-us/
       - title: Partner with us
         url: /partnerwithus
+      - title: Contact us
+        url: /contact-us/
