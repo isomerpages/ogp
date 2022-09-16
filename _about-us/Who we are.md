@@ -3,11 +3,7 @@ title: Who we are
 permalink: /aboutus/
 description: ""
 ---
-
-
-
-  
-
+![about us](/images/aboutus.png)
 ### A modern tech team working on public sector problems  
 
   
