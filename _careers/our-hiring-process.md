@@ -27,7 +27,7 @@ We define levels of impact we would expect someone to make at different levels o
   
 **Why this is important:** Initiative is a non-negotiable to get things done by pushing for change, and solving problems where there aren’t readily available solutions. We need people who have a strong internal drive, and are comfortable working in an environment with more problems to be solved than directions to be given.
 
-**
+
 
 #### Communication
 
