@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Who we are.md
-      - Life@OGP.md
       - meet-the-team.md
