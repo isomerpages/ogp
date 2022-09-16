@@ -96,9 +96,6 @@ A place where using government services is as quick and simple as a click of a b
   
 
 ###  Our Values
-
-  
-
 #### We maximise our impact on the public good.
 
 We focus on real problems faced by real people, going beyond theoretical requirements to test that our solutions actually deliver value in practice. We prolifically explore many different ideas and aggressively prune them to focus on the most potent course of action given the resources we have. Bureaucratic pressures, individual aspirations, and even the success of the team are all secondary considerations. All our decisions are based on how we can best improve the lives of the people we serve. 
