@@ -24,4 +24,3 @@ We share our approach to digital government and open-source products with foreig
 
 
 We arekeen to continue learning from the best practices of high-performing organisations. Willing to share your innovative organisational practices with us? We workwith our private sector partners in both formal and ad-hoc advisory roles. Contact us at <a href="partnerships@open.gov.sg">partnerships@open.gov.sg</a> to learn more.
-
