@@ -184,7 +184,7 @@
 
 - name: Sam
   position: Product Operations
-  image: /images/headshots/Sam2.jpg
+  image: /images/headshots/sam3.png
 
 - name: Shannen
   position: Marketing
@@ -240,7 +240,7 @@
   
 - name: Justyn
   position: Software Engineer
-  image: /images/headshots/justyn2.png
+  image: /images/headshots/justyn3.png
   
 - name: Kendra
   position: Product Operations
@@ -252,7 +252,7 @@
   
 - name: Paul
   position: Product Manager
-  image: /images/headshots/Paul.jpg
+  image: /images/headshots/paul4.png
   
 - name: Kishore
   position: Software Engineer
@@ -285,3 +285,16 @@
 - name: Stephanie
   position: Partnerships
   image: /images/headshots/steph.png
+  
+- name: Feli
+  position: Product Designer
+  image: /images/headshots/feli2.png
+  
+- name: Nitya
+  position: Partnerships
+  image: /images/headshots/nitya2.png
+  
+- name: Latasha
+  position: Software Engineer
+  image: /images/headshots/latasha2.png
+  
