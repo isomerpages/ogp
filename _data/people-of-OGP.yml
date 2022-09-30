@@ -300,15 +300,15 @@
   
 - name: Praveen
   position: Policy
-  image: /images/headshots/praveen.png
+  image: /images/headshots/praveen2.png
   
 - name: Aditya
   position: Software Engineer
-  image: /images/headshots/aditya.png
+  image: /images/headshots/aditya2.png
   
 - name: Jia Chin
   position: Software Engineer
-  image: /images/headshots/chin.png
+  image: /images/headshots/chin2.png
   
 - name: Kenneth
   position: Product Manager
