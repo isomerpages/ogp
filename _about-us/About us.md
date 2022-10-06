@@ -124,3 +124,11 @@ We take on different roles depending on what needs to get done. Our skills do no
 
 What matters is not each person’s direct contributions but their effect on team delivery as a whole. This means we cover each other’s gaps, support each other’s development, and work constructively together. At the same time, avoiding conflict is not the same as working constructively and is a non-goal. We challenge and criticize to help improve ideas and decisions, while respecting each person’s expertise and prerogative.
 
+### Our Achievements 
+![Great place to work](/images/gptw.png)
+
+In order to do good work, you need a great workplace!  
+  
+We strive to not only be a high-performing organisation, but to also earn trust from our people too. And that means taking care of our employees and ensuring they have what they need to thrive - autonomy, little bureaucracy and a purpose-driven culture to create impact in government.
+
+Find out more about our workplace culture [here](https://greatplacetowork.com.sg/gptwcertified/open-government-products/)
