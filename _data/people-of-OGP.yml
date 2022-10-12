@@ -317,3 +317,7 @@
 - name: Stacey
   position: Product Designer
   image: /images/headshots/stacey.png
+  
+- name: Xiaofan
+  position: Software Engineer
+  image: /images/headshots/xiaofan.png
