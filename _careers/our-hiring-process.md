@@ -37,11 +37,12 @@ Whilst our specific hiring process varies between roles, we hold a common philos
 
 **You will be assessed and offered terms based on your market worth and not your employment history.** 
 
-You should be hired and paid based on the job you are able to accomplish, and not on other extraneous factors such as your years of experience, last drawn pay or education pedigree._
+You should be hired and paid based on the job you are able to accomplish, and not on other extraneous factors such as your years of experience, last drawn pay or education pedigree.\_
 
 *   We assess you against a function-specific career schema and make offers based on your assessed level of performance. Demonstrated expertise and proven ability matter much more than factors like your education qualifications.
 *   We base salary offers on this assessed level of performance rather than your last drawn salary or years of experience.
 *   We move to promote people as quickly as possible to their assessed level of performance.
+
 
 
 <a href="http://go.gov.sg/ogp-jobs">
