@@ -3,7 +3,6 @@ title: About us
 permalink: /aboutus/
 description: ""
 ---
-
 ![about us](/images/aboutus.png)
 ## A modern tech team working on public sector problems  
 
@@ -124,3 +123,4 @@ We take on different roles depending on what needs to get done. Our skills do no
 #### We help each other to have impact as a team.
 
 What matters is not each person’s direct contributions but their effect on team delivery as a whole. This means we cover each other’s gaps, support each other’s development, and work constructively together. At the same time, avoiding conflict is not the same as working constructively and is a non-goal. We challenge and criticize to help improve ideas and decisions, while respecting each person’s expertise and prerogative.
+
