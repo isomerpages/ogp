@@ -313,3 +313,11 @@
 - name: Kenneth
   position: Product Manager
   image: /images/headshots/kennethsng.png
+  
+- name: Stacey
+  position: Product Designer
+  image: /images/headshots/stacey.png
+  
+- name: Kenneth Chang
+  position: Product Operations
+  image: /images/headshots/kennethchang.png
