@@ -11,7 +11,6 @@ We have this Board of Advisors to provide advice, mentorship, and support to hel
 ### Introducing our advisors
 
 #### Johanna Airth
-![Johanna](/images/Johanna2.png)
 
 Johanna Airth is a co-founder of FABLE - a narrative design studio which exists  to help leaders & their organizations align their values and business strategy under a unique perspective. Prior to FABLE, Johanna was a Japanese pop singer turned investment banker in fixed income products, before becoming a freelance writer and Japanese/ English translator for the BBC. She is the occasional mathematician, constant reader, and forever mother.
 
