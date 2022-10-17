@@ -2,6 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - Board of Advisors.md
       - About us.md
       - meet-the-team.md
+      - Board of Advisors.md
