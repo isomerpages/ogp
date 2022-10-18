@@ -4,7 +4,7 @@ permalink: /careers/software-engineer/
 ---
 > You solve problems. You design and build systems and make sure it works.
 
-Here is a look at what a Software Engineer, Pallani Kumaran, has to say about working here.
+Here is a look at what a Software Engineer, Alexis, has to say about working here.
 
 <div class="bp-youtube">
 	<iframe width="560" height="315" src="https://www.youtube.com/watch?v=IHQl_5Y0REo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
