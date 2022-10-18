@@ -3,11 +3,6 @@ title: Board of Advisors
 permalink: /about-us/advisors/
 description: ""
 ---
-### OGP's Board of Advisors
-Our Board of Advisors is a group of five industry experts, who have committed to spending minimally half-a-day per quarter with OGP to share their experience and expertise with us in a personal capacity.
-
-We have this Board of Advisors to provide advice, mentorship, and support to help OGP and our officers make informed decisions as we build and scale our functions, practices, and organisation. Advisors can be engaged in groups, 1-1, on specific projects, for workshops etc.
-
 ### Introducing our advisors
 
 #### Johanna Airth
