@@ -3,6 +3,9 @@ title: Board of Advisors
 permalink: /about-us/advisors/
 description: ""
 ---
+### OGP's Board of Advisors
+OGP's Board of Advisors are industry experts who will provide advice, mentorship, and support, in their personal capacity, to OGP and our officers as we build and scale our impact and organisation.
+
 ### Introducing our advisors
 
 #### Johanna Airth
