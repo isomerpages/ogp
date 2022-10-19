@@ -31,4 +31,7 @@ JJ Geewax is a software engineer at Google, currently focusing on real-time paym
 
 #### Kai Sotto
 
-Kai is a monkish (in look) wanderer, who travels the earth to serve his ikigai. He’s a surfer, photographer, father to teenage daughters. A pioneer of Facebook and Instagram’s Growth teams, he co-founded People & Company which was recently acquired by Substack. He’s a co-author of the book Get Together. He was featured by Colony Clothing, with words and stories written by Jo.
+
+
+Kai’s a surfer, photographer, father to teenage daughters. A pioneer of Facebook and Instagram’s Growth teams, he co-founded People & Company, which was recently acquired by Substack. He’s a co-author of the book Get Together about how to build communities. Today, he designs narratives for leaders.
+
