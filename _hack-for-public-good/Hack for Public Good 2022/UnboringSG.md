@@ -57,3 +57,11 @@ Better curated recommendations, and possibly included content from more sources.
 First off, that Singapore is NOT boring! We also learned some of the challenges of sourcing and curating large quantities of content.
 
 ![UnboringSG product demo image](/images/unboringsg-snapshot.jpg)
+
+#### Meet the Team
+
+- [Kathleen Koh](https://www.linkedin.com/in/kathleenkohhuiying/)
+- [Sarah Espaldon](https://www.linkedin.com/in/sarahespaldon/)
+- [Shannen Ho](https://www.linkedin.com/in/shannen-ho/)
+- [Shantanu (Shanty) Basrur](https://www.linkedin.com/in/sbasrur/)
+- [Thorsten Schaeff (@thorwebdev) - co-hacker from Supabase](https://www.linkedin.com/in/thorwebdev/)

@@ -1,5 +1,0 @@
-collections:
-  newsroom:
-    output: true
-    order:
-      - media.md
