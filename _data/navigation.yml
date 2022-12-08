@@ -20,7 +20,7 @@ links:
     url: /media
     sublinks:
       - title: Media
-        url: /media
+        url: /media/
       - title: Blog
         url: https://medium.com/open-government-products
   - title: Contact
