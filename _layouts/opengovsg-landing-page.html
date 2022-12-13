@@ -22,13 +22,24 @@ layout: skeleton
         transform: translateY(-50%);
     }
 
-    #big-text {
-        font-size: calc(5px + 3.5vw);
+    @media screen and (max-width: 925px) {
+      #big-text {
+        font-size: 37.375px;
+      }
+    
+      .scrolling-words-box {
+        height: 43.8438px;
+      }
+    
+      .scrolling-words-box ul li {
+        height: 43.8438px;
+        font-size: 37.375px;
+        line-height: 37.375px;
+      }
     }
     
-    .no-tall-banner {
-        height: auto !important;
-        min-height: auto !important;
+    #big-text {
+        font-size: calc(5px + 3.5vw);
     }
     
     .scrolling-words-box {
@@ -37,10 +48,7 @@ layout: skeleton
         overflow: hidden;
         
     }
-    .scrolling-words-box ul {
-        padding: 0;
-        animation: scrollUp 5s infinite;
-    }
+    
     .scrolling-words-box ul li {
         display: flex;
         align-items: center;
@@ -52,6 +60,16 @@ layout: skeleton
         font-size: calc(5px + 3.5vw);
         line-height: calc(5px + 3.5vw);
         color: rgb(39, 110, 241);
+    }
+    
+    .no-tall-banner {
+        height: auto !important;
+        min-height: auto !important;
+    }
+    
+    .scrolling-words-box ul {
+        padding: 0;
+        animation: scrollUp 5s infinite;
     }
 
     @keyframes scrollUp {
