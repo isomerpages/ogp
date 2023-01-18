@@ -5,7 +5,7 @@ description: ""
 ---
 <style>
 	 @media screen and (min-width: 768px) {
-	   .imageSmall img {
+	   img.imageSmall {
         width: 50%;
     }
 	}
