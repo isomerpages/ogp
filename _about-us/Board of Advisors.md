@@ -4,9 +4,10 @@ permalink: /about-us/advisors/
 description: ""
 ---
 <style>
-	 .imageSmall {
-    width: 30%;
-	  height:30%;
+	 .imageSmall img {
+	  @media (min-width: 768px) {
+        width: 50%;
+    }
 	}
 </style>
 
