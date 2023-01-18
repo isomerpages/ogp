@@ -4,7 +4,7 @@ permalink: /about-us/advisors/
 description: ""
 ---
 <style>
-	 @media (min-width: 768px) {
+	 @media screen and (min-width: 768px) {
 	   .imageSmall img {
         width: 50%;
     }
