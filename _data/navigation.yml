@@ -8,7 +8,7 @@ links:
   - title: Products
     collection: products
   - title: Hack for Public Good
-    url: hack.gov.sg
+    url: https://hack.gov.sg
   - title: Developers
     url: /resources/opensource
     sublinks:
