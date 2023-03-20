@@ -54,9 +54,9 @@
   position: Software Engineer
   image: /images/headshots/Pallani.jpg
   
-- name: Preston
-  position: Software Engineer
-  image: /images/headshots/Preston.jpg
+- name: Sarah Salim
+  position: Product Designer
+  image: /images/headshots/Sarah S.jpg
   
 - name: Rahul
   position: Partnerships
@@ -338,4 +338,54 @@
   position: Product Manager
   image: /images/headshots/Jan.png
   
+  - name: Richard
+  position: Software Engineer
+  image: /images/headshots/Richard.jpg
   
+  - name: Ben
+  position: Product Designer
+  image: /images/headshots/Ben.jpg
+
+  - name: Caleb
+  position: Software Engineer
+  image: /images/headshots/Caleb.jpg
+
+  - name: Huiqing
+  position: Software Engineer
+  image: /images/headshots/Huiqing.jpg
+
+  - name: Ken
+  position: Software Engineer
+  image: /images/headshots/Ken.jpg
+
+  - name: Kah How
+  position: Product Operations
+  image: /images/headshots/Ken.jpg
+
+  - name: James
+  position: Software Engineer
+  image: /images/headshots/James.jpg
+
+  - name: Pranu
+  position: Software Engineer
+  image: /images/headshots/Pranu.jpg
+
+  - name: Raisa
+  position: Software Engineer
+  image: /images/headshots/Raisa.jpg
+
+  - name: Theodore
+  position: Software Engineer
+  image: /images/headshots/Theodore.jpg
+
+  - name: Zi Yang
+  position: Software Engineer
+  image: /images/headshots/Zi Yang.jpg
+
+  - name: Moses
+  position: Product Manager
+  image: /images/headshots/Moses.jpg
+
+  - name: Zi Wei
+  position: Software Engineer
+  image: /images/headshots/Zi Wei.jpg
