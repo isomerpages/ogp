@@ -32,7 +32,7 @@ Randy Hunt is a multi-hyphenate designer, executive, artist, musician, and write
 #### JJ Geewax
 <img alt="JJ" src="/images/Board%20of%20advisors/JJGeewax.png" class="imageSmall"/>
 
-JJ Geewax is a software engineer at Meta, currently working on WhatsApp business interactions. He was a software engineer at Google, focusing on real-time payment networks and financial inclusion around the world. In his role on the Payments team, he was responsible for Google's contributions to Mojaloop, an open-source real-time payment system, representing Google on the Technical Governing Board of the Mojaloop Foundation, and advising governments on technical aspects of RTP systems and third-party payment initiation. JJ is also the author of two books Google Cloud Platform in Action and API Design Patterns and has a Bachelor's degree in computer science from the University of Pennsylvania. He lives with his wife and son in Singapore.
+JJ Geewax is a software engineer at Meta, currently working on WhatsApp business interactions. JJ is also the author of two books Google Cloud Platform in Action and API Design Patterns and has a Bachelor's degree in computer science from the University of Pennsylvania. He lives with his wife and son in Singapore.
 
 #### Johanna Airth
 <img alt="Johanna" src="/images/Board%20of%20advisors/Johanna3.png" class="imageSmall"/>
