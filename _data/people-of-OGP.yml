@@ -338,54 +338,54 @@
   position: Product Manager
   image: /images/headshots/Jan.png
   
-  - name: Richard
+- name: Richard
   position: Software Engineer
   image: /images/headshots/Richard.jpg
   
-  - name: Ben
+- name: Ben
   position: Product Designer
   image: /images/headshots/Ben.jpg
 
-  - name: Caleb
+- name: Caleb
   position: Software Engineer
   image: /images/headshots/Caleb.jpg
 
-  - name: Huiqing
+- name: Huiqing
   position: Software Engineer
   image: /images/headshots/Huiqing.jpg
 
-  - name: Ken
+- name: Ken
   position: Software Engineer
   image: /images/headshots/Ken.jpg
 
-  - name: Kah How
+- name: Kah How
   position: Product Operations
   image: /images/headshots/Ken.jpg
 
-  - name: James
+- name: James
   position: Software Engineer
   image: /images/headshots/James.jpg
 
-  - name: Pranu
+- name: Pranu
   position: Software Engineer
   image: /images/headshots/Pranu.jpg
 
-  - name: Raisa
+- name: Raisa
   position: Software Engineer
   image: /images/headshots/Raisa.jpg
 
-  - name: Theodore
+- name: Theodore
   position: Software Engineer
   image: /images/headshots/Theodore.jpg
 
-  - name: Zi Yang
+- name: Zi Yang
   position: Software Engineer
   image: /images/headshots/Zi Yang.jpg
 
-  - name: Moses
+- name: Moses
   position: Product Manager
   image: /images/headshots/Moses.jpg
 
-  - name: Zi Wei
+- name: Zi Wei
   position: Software Engineer
   image: /images/headshots/Zi Wei.jpg
