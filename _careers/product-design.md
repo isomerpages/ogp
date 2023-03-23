@@ -3,14 +3,12 @@ permalink: /careers/product-design/
 title: Product Design
 breadcrumb: Product Designer
 ---
-
-
 > You bridge user needs and business goals. You make complex systems easy to use. You make the product work well and look good.
 
-Here is a look at what a Product Designer, Fiza Husin, has to say about working here.
+Here is a look at what our Product Designer, Jing Yi, has to say about designing at OGP.
 
 <div class="bp-youtube">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/k3-sp71D2wE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FPWVuh4eIVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 ### **What does a Product Designer do?**
