@@ -5,7 +5,7 @@ breadcrumb: Product Designer
 ---
 > You bridge user needs and business goals. You make complex systems easy to use. You make the product work well and look good.
 
-Here is a look at what our Product Designer, Jing Yi, has to say about designing at OGP.
+Here is a look at what our Product Designer, Jing Yi, has to say about product design at OGP.
 
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FPWVuh4eIVI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
