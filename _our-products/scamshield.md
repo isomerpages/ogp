@@ -1,6 +1,6 @@
 ---
 title: ScamShield
-permalink: /products/scamshield
+permalink: /products/scamshield/
 ---
 ![Alt text for image on Isomer site](/images/Scamshield.png)
 ### Block unsolicited messages and calls
@@ -13,11 +13,14 @@ The number of scams reported in 2020 hit a record high, climbing 65.1% from 2019
 #### Solution
 Once installed on a citizen’s device, ScamShield actively works in the background to filter scam messages from unknown contacts by running it through ScamShield’s on-device classifier and filter calls from numbers used in illegal activities. 
 
-
 #### Impact
 
 * Blocked > 850k SMSes till date
 * Cumulatively blocked and blacklisted > 6,000 numbers used in scams
+
+#### Share with us your feedback
+Our team is building a new product to improve scam awareness and we need your inputs to help us make it great. Share with us what you know about scams and be our user tester at
+[go.gov.sg/scam-awareness](https://go.gov.sg/scam-awareness) . 
 
 #### Team
 
