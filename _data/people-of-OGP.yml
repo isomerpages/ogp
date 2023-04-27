@@ -33,10 +33,6 @@
 - name: Ian
   position: Software Engineer
   image: /images/headshots/Ian.jpg
-
-- name: Leonard
-  position: Product Manager
-  image: /images/headshots/Leonard.jpg
     
 - name: Chien Ling
   position: People & Culture
@@ -268,7 +264,7 @@
   
 - name: Ajay
   position: Product Operations
-  image: /images/headshots/Ajay2.png
+  image: /images/headshots/Ajay_4.jpg
   
 - name: Amit
   position: Product Manager
@@ -317,10 +313,6 @@
 - name: Stacey
   position: Product Designer
   image: /images/headshots/stacey.png
-  
-- name: Xiaofan
-  position: Software Engineer
-  image: /images/headshots/xiaofan.png
   
 - name: Dat
   position: Software Engineer
