@@ -51,13 +51,13 @@
 <div class="people">
     {% assign sorted = include.people | sort: 'name' %}
     {% for person in sorted %}
-    <a href="{{ person.profile }}">
-        <div class="person">
+    <div class="person">
+        <a href="{{ person.profile }}">
             <img src="{{ person.image }}" class="border-radius: 8px;" alt="{{ person.name }}" title="{{ person.name }}"/>
-            <span class="person-name">{{ person.name }}</span>
-            <span class="person-position">{{ person.position }}</span>
-        </div>
-    </a>
+        </a>
+        <span class="person-name">{{ person.name }}</span>
+        <span class="person-position">{{ person.position }}</span>
+    </div>
     {% endfor %}
 </div>
 
