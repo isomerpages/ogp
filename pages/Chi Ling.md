@@ -3,7 +3,7 @@ title: Chi Ling
 permalink: /people/chiling/
 description: ""
 ---
-![](/images/headshots/Chiling.jpg)
+<img src="/images/headshots/Chiling.jpg" alt="Chiling" style="width:50%;margin-left:0">
 
 ## About Me
 
@@ -13,7 +13,7 @@ description: ""
 
 ## What I've worked on
 
- **Products/things I've worked on**: 
+ **Products/things I've worked on**:&nbsp;
 * Former Head of Policy
 * Former Head of Corporate Operations
 * Former Covid-19 Product Manager
