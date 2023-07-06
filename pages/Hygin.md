@@ -3,6 +3,8 @@ title: Hygin
 permalink: /people/hygin/
 description: ""
 ---
+<img src="/images/headshots/Hygin.jpg" alt="Hygin" style="width:50%;margin-left:0">
+
 ## About Me
 **Joined on**: 1st August 2022
 
