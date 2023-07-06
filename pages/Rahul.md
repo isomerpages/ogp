@@ -3,7 +3,7 @@ title: Rahul
 permalink: /people/rahul/
 description: ""
 ---
-![](/images/headshots/Rahul.jpg)
+<img src="/images/headshots/Rahul.jpg" alt="Rahul" style="width:50%;margin-left:0">
 
 About Me
 --------
