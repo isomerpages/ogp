@@ -35,7 +35,7 @@
   image: /images/headshots/Ian.jpg
     
 - name: Chien Ling
-  position: People & Culture
+  position: People
   image: /images/headshots/ChienLing3.jpg
   profile: /people/chienling
   
@@ -51,13 +51,14 @@
   position: Software Engineer
   image: /images/headshots/Pallani.jpg
   
-- name: Sarah Salim
+- name: Sarah S.
   position: Product Designer
   image: /images/headshots/Sarah S.jpg
   
 - name: Rahul
   position: Partnerships
   image: /images/headshots/Rahul.jpg
+  profile: /people/rahul
   
 - name: Yong Jie
   position: Software Engineer
@@ -96,12 +97,14 @@
   image: /images/headshots/Kar Rui.jpg
   
 - name: Russell
-  position: People & Culture
+  position: People
   image: /images/headshots/Russell.jpg
+  profile: /people/russell
 
 - name: Sarah E.
   position: Marketing
   image: /images/headshots/Sarah E.jpg
+  profile: /people/sarahe
   
 - name: Sue
   position: Product Operations
@@ -128,8 +131,9 @@
   image: /images/headshots/Louiz.jpg
   
 - name: Chi Ling
-  position: Policy & Corporate Operations
+  position: Corporate Operations
   image: /images/headshots/Chiling.jpg
+  profile: /people/chiling
 
 - name: Jason
   position: Software Engineer
@@ -148,7 +152,7 @@
   image: /images/headshots/Charmaine2.jpg
 
 - name: Cheryl
-  position: Marketing
+  position: Product Manager
   image: /images/headshots/Cheryl2.jpg
 
 - name: Daryl
@@ -162,14 +166,17 @@
 - name: Jiahui
   position: Corporate Operations
   image: /images/headshots/Jiahui2.jpg
+  profile: /people/jiahui
 
 - name: Joshua
   position: Corporate Operations
   image: /images/headshots/Joshua2.jpg
+  profile: /people/joshua
 
 - name: Julian
-  position: People & Culture
+  position: People
   image: /images/headshots/Julian2.jpg
+  profile: /people/julian
 
 - name: Khaleedah
   position: Product Designer
@@ -186,14 +193,16 @@
 - name: Shannen
   position: Marketing
   image: /images/headshots/Shannen.jpg
+  profile: /people/shannen
 
 - name: Shanty
   position: Product Designer
   image: /images/headshots/Shanty.jpg
 
 - name: Shawn
-  position: Policy
+  position: Partnerships
   image: /images/headshots/Shawn.jpg
+  profile: /people/shawn
 
 - name: Sheikh
   position: Software Engineer
@@ -218,6 +227,7 @@
 - name: Yihan
   position: Marketing
   image: /images/headshots/yihan2.jpg
+  profile: /people/yihan
   
 - name: Zul
   position: Product Designer
@@ -258,6 +268,7 @@
 - name: Hui Xuan
   position: Policy
   image: /images/headshots/Hui xuan.jpg
+  profile: /people/huixuan
   
 - name: Clement
   position: Product Operations
@@ -282,6 +293,7 @@
 - name: Stephanie
   position: Partnerships
   image: /images/headshots/steph.png
+  profile: /people/stephanie
   
 - name: Feli
   position: Product Designer
@@ -290,14 +302,16 @@
 - name: Nitya
   position: Partnerships
   image: /images/headshots/nitya2.png
+  profile: /people/nitya
   
 - name: Latasha
   position: Software Engineer
   image: /images/headshots/latasha2.png
   
 - name: Praveen
-  position: Policy
+  position: Policy & Partnerships
   image: /images/headshots/praveen2.png
+  profile: /people/praveen
   
 - name: Aditya
   position: Software Engineer
@@ -307,7 +321,7 @@
   position: Software Engineer
   image: /images/headshots/chin2.png
   
-- name: Kenneth Sng
+- name: Kenneth S.
   position: Product Manager
   image: /images/headshots/kennethsng.png
   
@@ -378,3 +392,18 @@
 - name: Zi Wei
   position: Software Engineer
   image: /images/headshots/Zi Wei.jpg
+
+- name: Bernadette
+  position: Chief Operating Officer
+  image: /images/headshots/Bernadette.jpg
+  profile: /people/bernadette
+
+- name: Airika
+  position: Policy
+  image: /images/headshots/Airika.jpg
+  profile: /people/airika
+
+- name: Clifford
+  position: People
+  image: /images/headshots/Clifford.jpg
+  profile: /people/clifford
