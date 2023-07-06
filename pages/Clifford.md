@@ -3,6 +3,8 @@ title: Clifford
 permalink: /people/clifford/
 description: ""
 ---
+<img src="/images/headshots/Clifford.jpg" alt="Clifford" style="width:50%;margin-left:0">
+
 ## About Me
 **Joined on**: 29th May 2023
 
