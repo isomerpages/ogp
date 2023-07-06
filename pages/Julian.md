@@ -3,7 +3,7 @@ title: Julian
 permalink: /people/julian/
 description: ""
 ---
-![](/images/headshots/Julian.jpg)
+<img src="/images/headshots/Julian.jpg" alt="Julian" style="width:50%;margin-left:0">
 
 ## About Me
 **Joined on**: 10th August 2021
