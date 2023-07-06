@@ -3,7 +3,7 @@ title: Hui Xuan
 permalink: /people/huixuan/
 description: ""
 ---
-![](/images/headshots/Hui%20xuan.jpg)
+<img src="/images/headshots/Hui%20xuan.jpg" alt="Huixuan" style="width:50%;margin-left:0">
 
 ## About Me
 **Joined on**: 4th July 2022
@@ -16,4 +16,4 @@ description: ""
 * 
 
 **Some of my accomplishments**:
-*   
+*
