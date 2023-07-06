@@ -11,6 +11,9 @@ description: ""
 ## What I've worked on
 
 **Products/things I've worked on**: 
-* 
+
+*I'm new - watch this space!*
+
 **Some of my accomplishments**:
-*   
+
+*I'm new - watch this space!*
