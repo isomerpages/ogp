@@ -3,7 +3,7 @@ title: Jiahui
 permalink: /people/jiahui/
 description: ""
 ---
-![](/images/headshots/Jiahui.jpg)
+<img src="/images/headshots/Jiahui.jpg" alt="Jiahui" style="width:50%;margin-left:0">
 
 ## About Me
 **Joined on**: 6th September 2021
