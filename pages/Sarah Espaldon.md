@@ -3,7 +3,7 @@ title: Sarah Espaldon
 permalink: /people/sarahe/
 description: ""
 ---
-![](/images/headshots/Sarah%20E.jpg)
+<img src="/images/headshots/Sarah%20E.jpg" alt="Sarah Espaldon" style="width:50%;margin-left:0">
 
 ## About Me
 
@@ -13,7 +13,7 @@ description: ""
 
 ## What I've worked on
 
- **Products/things I've worked on**: 
+ **Products/things I've worked on**:&nbsp;
  * Former Head of Corporate Operations
  * Head of Marketing
  * Running OGP Hackathons / Hack for Public Good
