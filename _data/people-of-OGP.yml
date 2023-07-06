@@ -407,3 +407,23 @@
   position: People
   image: /images/headshots/Clifford.jpg
   profile: /people/clifford
+  
+- name: Joanna
+  position: People
+  image: /images/headshots/Joanna.jpg
+  profile: /people/joanna
+
+- name: Ciqin
+  position: Partnerships
+  image: /images/headshots/Ciqin.jpg
+  profile: /people/ciqin
+
+- name: Marcus
+  position: Marketing
+  image: /images/headshots/Marketing.jpg
+  profile: /people/marketing
+
+- name: Lorraine
+  position: Corporate Operations
+  image: /images/headshots/Lorraine.jpg
+  profile: /people/lorraine
