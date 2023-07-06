@@ -3,7 +3,7 @@ title: Joshua
 permalink: /people/joshua/
 description: ""
 ---
-![](/images/headshots/Joshua.jpg)
+<img src="/images/headshots/Joshua.jpg" alt="Joshua" style="width:50%;margin-left:0">
 
 ## About Me
 **Joined on**: 6th September 2021
@@ -22,4 +22,4 @@ description: ""
 *   Planned and managed Finance team of 2
 *   Secured funding for expanded OGP team of nearly 200
 *   Backend finance process automations
-*   Finance sprint to consolidate and visualise finance data to track OGP expenditure by team 
+*   Finance sprint to consolidate and visualise finance data to track OGP expenditure by team
