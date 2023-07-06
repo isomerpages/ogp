@@ -3,6 +3,8 @@ title: Bernadette
 permalink: /people/bernadette/
 description: ""
 ---
+<img src="/images/headshots/Bernadette.jpg" alt="Bernadette" style="width:50%;margin-left:0">
+
 ## About Me
 **Joined on**: 20th March 2023
 
