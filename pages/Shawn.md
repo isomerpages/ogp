@@ -3,7 +3,7 @@ title: Shawn
 permalink: /people/shawn/
 description: ""
 ---
-![](/images/headshots/Shawn.jpg)
+<img src="/images/headshots/Shawn.jpg" alt="Shawn" style="width:50%;margin-left:0">
 
 ## About Me
 **Joined on**: 29th July 2021
