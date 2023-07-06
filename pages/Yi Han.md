@@ -3,7 +3,7 @@ title: Yi Han
 permalink: /people/yihan/
 description: ""
 ---
-![](/images/headshots/yihan2.jpg)
+<img src="/images/headshots/yihan2.jpg" alt="Yihan" style="width:50%;margin-left:0">
 
 ## About Me
 **Joined on**: 18th July 2022
