@@ -3,7 +3,7 @@ title: Chien Ling
 permalink: /people/chienling/
 description: ""
 ---
-![](/images/headshots/ChienLing2.jpg)
+<img src="/images/headshots/ChienLing2.jpg" alt="ChienLing" style="width:50%;margin-left:0">
 
 ## About Me
 **Joined on**: 10th August 2021
