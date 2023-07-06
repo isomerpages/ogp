@@ -3,7 +3,7 @@ title: Russell
 permalink: /people/russell/
 description: ""
 ---
-![](/images/headshots/Russell.jpg)
+<img src="/images/headshots/Russell.jpg" alt="Russell" width="50%"/>
 
 ## About Me
 **Joined on**: 2nd September 2019
