@@ -3,6 +3,8 @@ title: Marcus
 permalink: /people/marcus/
 description: ""
 ---
+<img src="/images/headshots/Marcus.jpg" alt="Marcus" style="width:50%;margin-left:0">
+
 ## About Me
 **Joined on**: 2nd May 2023
 
