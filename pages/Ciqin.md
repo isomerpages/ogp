@@ -3,6 +3,8 @@ title: Ciqin
 permalink: /people/ciqin/
 description: ""
 ---
+<img src="/images/headshots/Ciqin.jpg" alt="Ciqin" style="width:50%;margin-left:0">
+
 ## About Me
 **Joined on**: 22nd May 2023
 
