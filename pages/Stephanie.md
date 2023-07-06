@@ -5,8 +5,6 @@ description: ""
 ---
 <img src="/images/headshots/steph.png" alt="Stephanie" style="width:50%;margin-left:0">
 
-![](/images/headshots/steph.png)
-
 ## About Me
 **Joined on**: 4th April 2022
 
