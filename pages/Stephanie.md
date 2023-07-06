@@ -3,6 +3,8 @@ title: Stephanie
 permalink: /people/stephanie/
 description: ""
 ---
+<img src="/images/headshots/steph.png" alt="Stephanie" style="width:50%;margin-left:0">
+
 ![](/images/headshots/steph.png)
 
 ## About Me
