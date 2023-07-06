@@ -3,7 +3,8 @@ title: Nitya
 permalink: /people/nitya/
 description: ""
 ---
-![](/images/headshots/nitya2.png)
+<img src="/images/headshots/nitya2.png" alt="Nitya" style="width:50%;margin-left:0">
+
 
 ## About Me
 **Joined on**: 28th August 2022
