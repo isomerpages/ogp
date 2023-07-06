@@ -3,6 +3,8 @@ title: Airika
 permalink: /people/airika/
 description: ""
 ---
+<img src="/images/headshots/Airika.jpg" alt="Airika" style="width:50%;margin-left:0">
+
 ## About Me
 **Joined on**: 12th June 2023
 
