@@ -3,7 +3,7 @@ title: Shannen
 permalink: /people/shannen/
 description: ""
 ---
-![](/images/headshots/Shannen.jpg)
+<img src="/images/headshots/Shannen.jpg" alt="Shannen" style="width:50%;margin-left:0">
 
 ## About Me
 **Joined on**: 25th October 2021
