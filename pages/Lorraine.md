@@ -3,6 +3,8 @@ title: Lorraine
 permalink: /people/lorraine/
 description: ""
 ---
+<img src="/images/headshots/Lorraine.jpg" alt="Lorraine" style="width:50%;margin-left:0">
+
 ## About Me
 **Joined on**: 5th June 2023
 
