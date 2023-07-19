@@ -4,9 +4,10 @@ permalink: /products/scamshield/
 ---
 ### What is ScamShield?
 
-ScamShield is a product suite that defends against scams, and was developed by Open Government Products in collaboration with the Singapore Police Force (SPF) and the National Crime Prevention Council (NCPC).
-
+ScamShield is a product suite that defends against scams, and was developed by Open Government Products in collaboration with the Singapore Police Force (SPF) and the National Crime Prevention Council (NCPC). ScamShield currently comprises of the ScamShield App (iOS and Android), and the ScamShield Bot.
 ##### **With the soft launch of the ScamShield Bot on WhatsApp, now you can check or report a scam directly to the Singapore Police Force via the official ScamShield Bot on WhatsApp at [https://go.gov.sg/scamshield-bot](https://go.gov.sg/scamshield-bot)**
+
+The ScamShield Bot comes as the latest anti-scam product to help users identify and report scams. Therefore, to get protection from scam SMSes and calls, use the ScamShield App in conjunction with reporting and checking scams on the Bot to receive more protective benefits from ScamShield’s overall defense system.
 
 #### Find out more about ScamShield:
 <a href="https://www.scamshield.org.sg" target="_blank">
@@ -15,31 +16,7 @@ ScamShield is a product suite that defends against scams, and was developed by O
     </button>
 </a>
 
-### The ScamShield Defense System
-
-The ScamShield Bot comes as the latest anti-scam product to help users identify and report scams. Therefore, to get protection from scam SMSes and calls, use the ScamShield App in conjunction with reporting and checking scams on the Bot to receive more protective benefits from ScamShield’s overall defense system.
-
-#### App Features
-
-The ScamShield mobile app has 3 main features:&nbsp;
-
-*   Automatically blocks scam calls
-*   Automatically detects scam messages
-*   Allows users to report scam messages and calls
-
-App's Impact 
-* Blocked &gt; 4 million SMSes till date
-* Cumulatively blocked and blacklisted &gt; 85,000 numbers used in scams
-
-#### Bot Features
-
-The ScamShield Bot has 2 core features:&nbsp;
-
-*   Check if a message or a call is a scam
-*   Report scams to the SPF
-
 ## Introducing: the ScamShield Bot
-
 
 #### What is the ScamShield bot?
 
@@ -85,7 +62,24 @@ When you report a scam:
 *   When the SPF blocks suspicious numbers, the ScamShield App will then detect scam SMSes from these numbers, and block their calls.
 *   Your report also help others spot scams whenever they check for a scam on the Bot.
 
+## About the ScamShield App
+#### App Features
 
+The ScamShield mobile app has 3 main features:&nbsp;
+
+*   Automatically blocks scam calls
+*   Automatically detects scam messages
+*   Allows users to report scam messages and calls
+
+App's Impact 
+* Blocked &gt; 4 million SMSes till date
+* Cumulatively blocked and blacklisted &gt; 85,000 numbers used in scams
+
+Download ScamShield from the Google Play Store or Apple App Store by clicking on the button below:
+
+<a href="https://play.google.com/store/apps/details?id=sg.gov.scamshield" alt="Google Play Store link"><img src="/images/GooglePlayStore.png" style="width:160px;float:left"></a><br> 
+
+<a href="https://apps.apple.com/sg/app/scamshield/id1497144087" alt="Apple App Store link"><img src="/images/applestore.png" style="width:160px;float:left"></a><br> 
 
 <a href="https://www.scamshield.org.sg" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
