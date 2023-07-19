@@ -75,11 +75,11 @@ App's Impact
 * Blocked &gt; 4 million SMSes till date
 * Cumulatively blocked and blacklisted &gt; 85,000 numbers used in scams
 
-Download ScamShield from the Google Play Store or Apple App Store by clicking on the button below:
+Find out how to set up about the ScamShield App below:
 
-<a href="https://play.google.com/store/apps/details?id=sg.gov.scamshield" alt="Google Play Store link"><img src="/images/GooglePlayStore.png" style="width:160px;float:left"></a><br> 
+[Set up Android App](https://www.scamshield.org.sg/android-guide/)
 
-<a href="https://apps.apple.com/sg/app/scamshield/id1497144087" alt="Apple App Store link"><img src="/images/applestore.png" style="width:160px;float:left"></a><br> 
+[Set up iOS App](https://www.scamshield.org.sg/ios-guide/)
 
 <a href="https://www.scamshield.org.sg" target="_blank">
     <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
