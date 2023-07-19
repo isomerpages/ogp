@@ -27,7 +27,7 @@ The ScamShield mobile app has 3 main features:&nbsp;
 *   Automatically detects scam messages
 *   Allows users to report scam messages and calls
 
-###### App's Impact 
+App's Impact 
 * Blocked &gt; 4 million SMSes till date
 * Cumulatively blocked and blacklisted &gt; 85,000 numbers used in scams
 
