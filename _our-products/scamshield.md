@@ -9,16 +9,11 @@ ScamShield is a product suite that defends against scams, and was developed by O
 
 The ScamShield Bot comes as the latest anti-scam product to help users identify and report scams. Therefore, to get protection from scam SMSes and calls, use the ScamShield App in conjunction with reporting and checking scams on the Bot to receive more protective benefits from ScamShield’s overall defense system.
 
-#### Find out more about ScamShield:
-<a href="https://www.scamshield.org.sg" target="_blank">
-    <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
-        Visit website
-    </button>
-</a>
+###### Find out more about ScamShield at [https://scamshield.org.sg/](https://scamshield.org.sg/)
 
 ## Introducing: the ScamShield Bot
 
-![ScamShield Bot]()
+![ScamShield Bot](/images/scamshield%20bot%20open%20gov%20website%20v3.png)
 
 #### What is the ScamShield bot?
 
