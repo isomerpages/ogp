@@ -20,7 +20,7 @@ The ScamShield Bot comes as the latest anti-scam product to help users identify 
 
 #### What is the ScamShield bot?
 
-The ScamShield Bot enables users to conveniently report scams received from across multiple platforms directly to the Singapore Police Force, and to let users easily check whether a message or call is a scam, all within WhatsApp.
+The ScamShield Bot enables users to conveniently report scams received from across multiple platforms directly to the Singapore Police Force, and to let users easily check whether a message or call is a scam, all within WhatsApp: [https://go.gov.sg/scamshield-bot](https://go.gov.sg/scamshield-bot)
 
 #### Why use the ScamShield Bot?
 
