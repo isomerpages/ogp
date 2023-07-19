@@ -5,13 +5,14 @@ permalink: /products/scamshield/
 ### What is ScamShield?
 
 ScamShield is a product suite that defends against scams, and was developed by Open Government Products in collaboration with the Singapore Police Force (SPF) and the National Crime Prevention Council (NCPC). ScamShield currently comprises of the ScamShield App (iOS and Android), and the ScamShield Bot.
+
 ##### **With the soft launch of the ScamShield Bot on WhatsApp, now you can check or report a scam directly to the Singapore Police Force via the official ScamShield Bot on WhatsApp at [https://go.gov.sg/scamshield-bot](https://go.gov.sg/scamshield-bot)**
 
 The ScamShield Bot comes as the latest anti-scam product to help users identify and report scams. Therefore, to get protection from scam SMSes and calls, use the ScamShield App in conjunction with reporting and checking scams on the Bot to receive more protective benefits from ScamShield’s overall defense system.
 
-###### Find out more about ScamShield at [https://scamshield.org.sg/](https://scamshield.org.sg/)
+Find out more about ScamShield at [https://scamshield.org.sg/](https://scamshield.org.sg/)
 
-## Introducing: the ScamShield Bot
+## [Soft Launch] ScamShield Bot
 
 ![ScamShield Bot](/images/scamshield%20bot%20open%20gov%20website%20v3.png)
 
