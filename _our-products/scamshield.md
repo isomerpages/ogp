@@ -14,7 +14,9 @@ Find out more about ScamShield at [https://scamshield.org.sg/](https://scamshiel
 
 ## [Soft Launch] ScamShield Bot
 
-![ScamShield Bot](/images/scamshield%20bot%20open%20gov%20website%20v3.png)
+<a href="https://go.gov.sg/scamshield-bot"><img src="/images/scamshield%20bot%20open%20gov%20website%20v3.png"></a>
+
+
 
 #### What is the ScamShield bot?
 
