@@ -4,7 +4,6 @@ collections:
     order:
       - checkfirst.md
       - data-gov-sg.md
-      - digimc.md
       - ForSG.md
       - form.md
       - go-gov-sg.md
