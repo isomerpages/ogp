@@ -3,7 +3,7 @@ title: CalSG
 permalink: /our-products/calsg/
 description: ""
 ---
-![CalSG admin dashboard and appointment booking screens](/images/calsg_ogp_website.png)
+![CalSG admin dashboard and appointment booking screens](/images/calsg_ogp_website_3.png)
 
 ### CalSG: Appointment bookings for Government
 
