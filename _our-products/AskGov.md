@@ -1,5 +1,5 @@
 ---
 title: AskGov
-permalink: /our-products/askgov/
+permalink: /products/askgov/
 description: ""
 ---

@@ -2,8 +2,8 @@ collections:
   our-products:
     output: true
     order:
-      - CalSG.md
       - AskGov.md
+      - CalSG.md
       - checkfirst.md
       - data-gov-sg.md
       - form.md

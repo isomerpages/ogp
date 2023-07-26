@@ -1,6 +1,6 @@
 ---
 title: CalSG
-permalink: /our-products/calsg/
+permalink: /products/calsg/
 description: ""
 ---
 ![CalSG admin dashboard and appointment booking screens](/images/calsg_ogp_website_3.png)
