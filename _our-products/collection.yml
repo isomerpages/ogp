@@ -2,10 +2,12 @@ collections:
   our-products:
     output: true
     order:
+      - CalSG.md
+      - AskGov.md
       - checkfirst.md
       - data-gov-sg.md
-      - ForSG.md
       - form.md
+      - ForSG.md
       - go-gov-sg.md
       - Health Appointment System.md
       - isomer.md
@@ -13,5 +15,5 @@ collections:
       - paysg.md
       - postman-gov-sg.md
       - redeemsg.md
-      - sgid.md
       - scamshield.md
+      - sgid.md
