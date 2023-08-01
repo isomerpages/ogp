@@ -17,5 +17,4 @@ description: ""
 * Chief Operating Officer
 
 **Some of my accomplishments**:
-*   Set-up OGP people management practices and processes
 *   Launched organisation feedback initiatives to drive a stronger feedback culture across OGP
