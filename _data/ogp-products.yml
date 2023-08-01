@@ -38,6 +38,11 @@
   image: /images/isomer.png
   link: /products/isomer
 
+- title: PAIR
+  image: https://file.go.gov.sg/pair-banner-ogp.png
+  sum: Large language model powered assistant for public officers
+  link: /products/pair
+
 - title: PARKING.SG
   image: /images/parkingsg.png
   sum: Pay for parking using your mobile devices
