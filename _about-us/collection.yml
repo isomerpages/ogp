@@ -3,5 +3,10 @@ collections:
     output: true
     order:
       - About us.md
-      - meet-the-team.md
+      - corporate.md
+      - design.md
+      - eng.md
+      - ops.md
+      - pm.md
+      - partnerships_n_policy.md
       - Board of Advisors.md
