@@ -1,3 +1,4 @@
 collections:
   people:
+    sort_by: name
     output: true
