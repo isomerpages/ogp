@@ -16,8 +16,6 @@ const csvContent = await readFile(`${SOURCE_PEOPLE_CSV}`);
 
 const records = (await parseAsync(csvContent, {bom: true})).slice(1) // drop header
 
-console.log(records)
-
 // 1 generate the data file
 const namedRecords = records.map(([name, joinDate, email]) => ({
     id: email.split('@')[0],
@@ -33,8 +31,6 @@ const namedRecords = records.map(([name, joinDate, email]) => ({
 // order the record by name
 namedRecords.sort((r1, r2) => r1.name < r2.name ? -1 : 1)
 
-console.log(namedRecords)
-
 await writeFile(TARGET_PEOPLE_DATA_FILE_YML, YAML.stringify(namedRecords))
 
 
@@ -42,7 +38,8 @@ await writeFile(TARGET_PEOPLE_DATA_FILE_YML, YAML.stringify(namedRecords))
 const templateContent = (await readFile(STAFF_TEMPLATE_MD)).toString() // assumes UTF-8
 
 for (const record of namedRecords) {
-    console.log(`Writing file for ${record.id} (${record.name})`, record)
+    console.log(`Writing file for ${record.id} (${record.name})`
+    )
     const processed = templateContent.replace(/\{\{([a-z]+)\}\}/gi, (_match, itemId) => {
         if (!(itemId in record)) {
             console.warn(`${record.id}: placeholder item [${itemId}] not found in record - wiping`)
