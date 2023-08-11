@@ -1,0 +1,21 @@
+---
+title: {{name}}
+permalink: /people/{{id}}
+description: "{{description}}"
+---
+
+<img src="/images/headshots/{{id}}.jpg" title="{{name}}" alt="{{name}}" style="width:50%;margin-left:0">
+
+## About Me
+
+**Joined on**: {{joinDate}}
+
+**Function**: {{function}}
+
+## What I've worked on
+
+**Products/things I've worked on**:
+{{products}}
+
+**Some of my accomplishments**:
+{{accomplishments}}
