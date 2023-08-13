@@ -1,10 +1,10 @@
 ---
 title: Choo, Lorraine
-permalink: /people/Lorraine
+permalink: /people/lorraine
 description: ""
 ---
 
-{%- assign staff = site.data.people | find: "id", "Lorraine" -%}
+{%- assign staff = site.data.people | find: "id", "lorraine" -%}
 {% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me

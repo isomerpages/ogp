@@ -198,7 +198,7 @@
   description: ""
   products: ""
   accomplishments: ""
-- id: Lorraine
+- id: lorraine
   name: Choo, Lorraine
   joinDate: ""
   function: eng
@@ -390,7 +390,7 @@
   description: ""
   products: ""
   accomplishments: ""
-- id: Malcolm
+- id: malcolm
   name: Hong Malcolm, Ong Guan
   joinDate: ""
   function: eng
@@ -758,7 +758,7 @@
   description: ""
   products: ""
   accomplishments: ""
-- id: Gautam
+- id: gautam
   name: Manek, Gautam
   joinDate: ""
   function: eng
@@ -1166,7 +1166,7 @@
   description: ""
   products: ""
   accomplishments: ""
-- id: Weilun
+- id: weilun
   name: Tan, Wei Lun
   joinDate: ""
   function: eng

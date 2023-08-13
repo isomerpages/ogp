@@ -1,10 +1,10 @@
 ---
 title: Tan, Wei Lun
-permalink: /people/Weilun
+permalink: /people/weilun
 description: ""
 ---
 
-{%- assign staff = site.data.people | find: "id", "Weilun" -%}
+{%- assign staff = site.data.people | find: "id", "weilun" -%}
 {% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me

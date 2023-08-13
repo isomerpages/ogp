@@ -1,10 +1,10 @@
 ---
 title: Manek, Gautam
-permalink: /people/Gautam
+permalink: /people/gautam
 description: ""
 ---
 
-{%- assign staff = site.data.people | find: "id", "Gautam" -%}
+{%- assign staff = site.data.people | find: "id", "gautam" -%}
 {% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me

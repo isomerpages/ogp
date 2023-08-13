@@ -1,10 +1,10 @@
 ---
 title: Hong Malcolm, Ong Guan
-permalink: /people/Malcolm
+permalink: /people/malcolm
 description: ""
 ---
 
-{%- assign staff = site.data.people | find: "id", "Malcolm" -%}
+{%- assign staff = site.data.people | find: "id", "malcolm" -%}
 {% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me

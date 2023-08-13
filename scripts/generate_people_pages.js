@@ -1,5 +1,5 @@
 import assert from 'assert';
-import { readFile, writeFile } from 'fs/promises'
+import { readFile, writeFile, unlink } from 'fs/promises'
 import { parse } from 'csv-parse';
 import { promisify } from 'util';
 import YAML from 'yaml'
@@ -18,7 +18,7 @@ const records = (await parseAsync(csvContent, {bom: true})).slice(1) // drop hea
 
 // 1 generate the data file
 const namedRecords = records.map(([name, joinDate, email, func, title]) => ({
-    id: email.split('@')[0],
+    id: email.split('@')[0].toLowerCase(),
     name,
     joinDate,
     function: func || 'eng', // stupid default, but to make sure things don't break 🤷
@@ -48,5 +48,6 @@ for (const record of namedRecords) {
         return record[itemId]
     });
 
+    await unlink(`${TARGET_PEOPLE_COLLECTION_DIR}${record.id}.md`)
     await writeFile(`${TARGET_PEOPLE_COLLECTION_DIR}${record.id}.md`, processed)
 }
