@@ -4,7 +4,8 @@ permalink: /people/weiseng2
 description: ""
 ---
 
-<img src="/images/headshots/weiseng2.jpg" title="Tan, Wei Seng" alt="Tan, Wei Seng" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "weiseng2" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

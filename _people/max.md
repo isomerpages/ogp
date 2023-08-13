@@ -4,7 +4,8 @@ permalink: /people/max
 description: ""
 ---
 
-<img src="/images/headshots/max.jpg" title="Tan, Huiyi" alt="Tan, Huiyi" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "max" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

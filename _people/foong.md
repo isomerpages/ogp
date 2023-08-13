@@ -4,7 +4,8 @@ permalink: /people/foong
 description: ""
 ---
 
-<img src="/images/headshots/foong.jpg" title="Yi Zhuan, Foong" alt="Yi Zhuan, Foong" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "foong" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

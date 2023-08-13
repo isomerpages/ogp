@@ -4,13 +4,14 @@ permalink: /people/moses
 description: ""
 ---
 
-<img src="/images/headshots/moses.jpg" title="Soh, Moses" alt="Soh, Moses" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "moses" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.pm %}
 
 ## About Me
 
 **Joined on**: 05/12/2022
 
-**Function**: 
+**Function**: pm
 
 ## What I've worked on
 

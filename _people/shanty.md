@@ -4,7 +4,8 @@ permalink: /people/shanty
 description: ""
 ---
 
-<img src="/images/headshots/shanty.jpg" title="Basrur, Shantanu Dilip" alt="Basrur, Shantanu Dilip" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "shanty" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

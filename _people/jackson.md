@@ -4,13 +4,14 @@ permalink: /people/jackson
 description: ""
 ---
 
-<img src="/images/headshots/jackson.jpg" title="Yap, Jackson" alt="Yap, Jackson" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "jackson" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.ops %}
 
 ## About Me
 
 **Joined on**: 31/08/2020
 
-**Function**: 
+**Function**: ops
 
 ## What I've worked on
 

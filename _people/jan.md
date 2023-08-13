@@ -4,7 +4,8 @@ permalink: /people/jan
 description: ""
 ---
 
-<img src="/images/headshots/jan.jpg" title="Donyada, Jan" alt="Donyada, Jan" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "jan" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

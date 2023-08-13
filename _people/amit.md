@@ -4,13 +4,14 @@ permalink: /people/amit
 description: ""
 ---
 
-<img src="/images/headshots/amit.jpg" title="Samdarshi, Amit" alt="Samdarshi, Amit" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "amit" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.pm %}
 
 ## About Me
 
 **Joined on**: 
 
-**Function**: 
+**Function**: pm
 
 ## What I've worked on
 

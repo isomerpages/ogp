@@ -4,13 +4,14 @@ permalink: /people/mayying
 description: ""
 ---
 
-<img src="/images/headshots/mayying.jpg" title="Tee, May Ying" alt="Tee, May Ying" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "mayying" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me
 
 **Joined on**: 
 
-**Function**: 
+**Function**: eng
 
 ## What I've worked on
 

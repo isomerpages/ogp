@@ -4,7 +4,8 @@ permalink: /people/amitha
 description: ""
 ---
 
-<img src="/images/headshots/amitha.jpg" title="Fernando, Amitha" alt="Fernando, Amitha" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "amitha" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

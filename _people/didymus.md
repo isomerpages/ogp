@@ -4,7 +4,8 @@ permalink: /people/didymus
 description: ""
 ---
 
-<img src="/images/headshots/didymus.jpg" title="Ne, Didymus" alt="Ne, Didymus" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "didymus" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

@@ -4,7 +4,8 @@ permalink: /people/brianlee
 description: ""
 ---
 
-<img src="/images/headshots/brianlee.jpg" title="Lee, Siu Hei" alt="Lee, Siu Hei" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "brianlee" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

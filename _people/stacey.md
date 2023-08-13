@@ -4,13 +4,14 @@ permalink: /people/stacey
 description: ""
 ---
 
-<img src="/images/headshots/stacey.jpg" title="Tan Seok Sim, Stacey" alt="Tan Seok Sim, Stacey" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "stacey" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.design %}
 
 ## About Me
 
 **Joined on**: 07/02/2022
 
-**Function**: 
+**Function**: design
 
 ## What I've worked on
 

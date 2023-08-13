@@ -4,7 +4,8 @@ permalink: /people/ian
 description: ""
 ---
 
-<img src="/images/headshots/ian.jpg" title="Chen, Wei Ian" alt="Chen, Wei Ian" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "ian" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

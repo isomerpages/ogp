@@ -4,7 +4,8 @@ permalink: /people/Weilun
 description: ""
 ---
 
-<img src="/images/headshots/Weilun.jpg" title="Tan, Wei Lun" alt="Tan, Wei Lun" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "Weilun" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

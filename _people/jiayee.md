@@ -4,13 +4,14 @@ permalink: /people/jiayee
 description: ""
 ---
 
-<img src="/images/headshots/jiayee.jpg" title="Lim, Jia Yee" alt="Lim, Jia Yee" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "jiayee" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me
 
 **Joined on**: 
 
-**Function**: 
+**Function**: eng
 
 ## What I've worked on
 

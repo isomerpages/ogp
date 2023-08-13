@@ -4,13 +4,14 @@ permalink: /people/james
 description: ""
 ---
 
-<img src="/images/headshots/james.jpg" title="Hibberd, James" alt="Hibberd, James" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "james" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me
 
 **Joined on**: 
 
-**Function**: 
+**Function**: eng
 
 ## What I've worked on
 

@@ -4,7 +4,8 @@ permalink: /people/peizhen
 description: ""
 ---
 
-<img src="/images/headshots/peizhen.jpg" title="Yap, Pei Zhen" alt="Yap, Pei Zhen" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "peizhen" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

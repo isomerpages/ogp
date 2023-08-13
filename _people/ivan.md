@@ -4,13 +4,14 @@ permalink: /people/ivan
 description: ""
 ---
 
-<img src="/images/headshots/ivan.jpg" title="Ho, Ivan" alt="Ho, Ivan" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "ivan" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me
 
 **Joined on**: 06/04/2020
 
-**Function**: 
+**Function**: eng
 
 ## What I've worked on
 

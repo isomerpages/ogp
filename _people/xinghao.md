@@ -4,7 +4,8 @@ permalink: /people/xinghao
 description: ""
 ---
 
-<img src="/images/headshots/xinghao.jpg" title="Yang, XingHao" alt="Yang, XingHao" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "xinghao" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

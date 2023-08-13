@@ -4,7 +4,8 @@ permalink: /people/kendra
 description: ""
 ---
 
-<img src="/images/headshots/kendra.jpg" title="Wong, Kendra" alt="Wong, Kendra" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "kendra" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

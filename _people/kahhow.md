@@ -4,13 +4,14 @@ permalink: /people/kahhow
 description: ""
 ---
 
-<img src="/images/headshots/kahhow.jpg" title="Lee, Kahhow" alt="Lee, Kahhow" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "kahhow" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.ops %}
 
 ## About Me
 
 **Joined on**: 
 
-**Function**: 
+**Function**: ops
 
 ## What I've worked on
 

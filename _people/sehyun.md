@@ -4,7 +4,8 @@ permalink: /people/sehyun
 description: ""
 ---
 
-<img src="/images/headshots/sehyun.jpg" title="Park, Se Hyun" alt="Park, Se Hyun" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "sehyun" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

@@ -4,13 +4,14 @@ permalink: /people/jennifer
 description: ""
 ---
 
-<img src="/images/headshots/jennifer.jpg" title="Liu, Jennifer" alt="Liu, Jennifer" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "jennifer" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.pm %}
 
 ## About Me
 
 **Joined on**: 
 
-**Function**: 
+**Function**: pm
 
 ## What I've worked on
 

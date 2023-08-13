@@ -4,7 +4,8 @@ permalink: /people/talitha
 description: ""
 ---
 
-<img src="/images/headshots/talitha.jpg" title="Chin, Rui Ling Talitha" alt="Chin, Rui Ling Talitha" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "talitha" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

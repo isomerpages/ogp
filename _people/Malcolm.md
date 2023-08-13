@@ -4,7 +4,8 @@ permalink: /people/Malcolm
 description: ""
 ---
 
-<img src="/images/headshots/Malcolm.jpg" title="Hong Malcolm, Ong Guan" alt="Hong Malcolm, Ong Guan" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "Malcolm" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

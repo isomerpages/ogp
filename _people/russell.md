@@ -4,13 +4,14 @@ permalink: /people/russell
 description: ""
 ---
 
-<img src="/images/headshots/russell.jpg" title="Chan, Russell" alt="Chan, Russell" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "russell" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.workplace %}
 
 ## About Me
 
 **Joined on**: 02/09/2019
 
-**Function**: 
+**Function**: workplace
 
 ## What I've worked on
 

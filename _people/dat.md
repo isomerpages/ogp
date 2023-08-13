@@ -4,13 +4,14 @@ permalink: /people/dat
 description: ""
 ---
 
-<img src="/images/headshots/dat.jpg" title="Le Thanh, Dat" alt="Le Thanh, Dat" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "dat" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me
 
 **Joined on**: 
 
-**Function**: 
+**Function**: eng
 
 ## What I've worked on
 

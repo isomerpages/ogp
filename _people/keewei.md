@@ -4,13 +4,14 @@ permalink: /people/keewei
 description: ""
 ---
 
-<img src="/images/headshots/keewei.jpg" title="Lam, Kee Wei" alt="Lam, Kee Wei" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "keewei" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me
 
 **Joined on**: 01/06/2020
 
-**Function**: 
+**Function**: eng
 
 ## What I've worked on
 

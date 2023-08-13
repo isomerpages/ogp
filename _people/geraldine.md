@@ -4,13 +4,14 @@ permalink: /people/geraldine
 description: ""
 ---
 
-<img src="/images/headshots/geraldine.jpg" title="Tan, Geraldine" alt="Tan, Geraldine" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "geraldine" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.ops %}
 
 ## About Me
 
 **Joined on**: 
 
-**Function**: 
+**Function**: ops
 
 ## What I've worked on
 

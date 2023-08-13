@@ -4,13 +4,14 @@ permalink: /people/benjamin
 description: ""
 ---
 
-<img src="/images/headshots/benjamin.jpg" title="Bowes, Benjamin" alt="Bowes, Benjamin" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "benjamin" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.design %}
 
 ## About Me
 
 **Joined on**: 
 
-**Function**: 
+**Function**: design
 
 ## What I've worked on
 

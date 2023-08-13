@@ -4,7 +4,8 @@ permalink: /people/simin
 description: ""
 ---
 
-<img src="/images/headshots/simin.jpg" title="Ong, Si Min" alt="Ong, Si Min" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "simin" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

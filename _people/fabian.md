@@ -4,7 +4,8 @@ permalink: /people/fabian
 description: ""
 ---
 
-<img src="/images/headshots/fabian.jpg" title="Chia Hup Peng, Fabian" alt="Chia Hup Peng, Fabian" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "fabian" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

@@ -4,7 +4,8 @@ permalink: /people/rachel
 description: ""
 ---
 
-<img src="/images/headshots/rachel.jpg" title="Rachel, Tan Si Ying" alt="Rachel, Tan Si Ying" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "rachel" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

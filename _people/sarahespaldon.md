@@ -4,13 +4,14 @@ permalink: /people/sarahespaldon
 description: ""
 ---
 
-<img src="/images/headshots/sarahespaldon.jpg" title="Espaldon, Sarah" alt="Espaldon, Sarah" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "sarahespaldon" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.workplace %}
 
 ## About Me
 
 **Joined on**: 04/11/2019
 
-**Function**: 
+**Function**: workplace
 
 ## What I've worked on
 

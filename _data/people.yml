@@ -1,7 +1,7 @@
 - id: chienling
   name: Ang, Chien Ling
   joinDate: 10/08/2021
-  function: ""
+  function: workplace
   title: ""
   description: ""
   products: ""
@@ -25,7 +25,7 @@
 - id: kishen
   name: Ashok Kumar, Kishen
   joinDate: 06/06/2022
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -49,7 +49,7 @@
 - id: sheikh
   name: Bin Mohamed Aneess Alrragi, Sheikh Salim
   joinDate: ""
-  function: "eng"
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -65,7 +65,7 @@
 - id: shazli
   name: Bin Shahril Shintaro, Muhammad Shazli
   joinDate: ""
-  function: "ops"
+  function: ops
   title: ""
   description: ""
   products: ""
@@ -73,7 +73,7 @@
 - id: benjamin
   name: Bowes, Benjamin
   joinDate: ""
-  function: "design"
+  function: design
   title: ""
   description: ""
   products: ""
@@ -81,7 +81,7 @@
 - id: daryl
   name: Chan, Daryl
   joinDate: 03/01/2022
-  function: "eng"
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -89,7 +89,7 @@
 - id: oliver
   name: Chan, Oliver
   joinDate: 13/12/2021
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -97,7 +97,7 @@
 - id: russell
   name: Chan, Russell
   joinDate: 02/09/2019
-  function: ""
+  function: workplace
   title: ""
   description: ""
   products: ""
@@ -113,7 +113,7 @@
 - id: shreyas
   name: Chandrakanth Rao Inna, Shreyas
   joinDate: 22/05/2023
-  function: ""
+  function: ops
   title: ""
   description: ""
   products: ""
@@ -153,7 +153,7 @@
 - id: clement
   name: Chia, Clement
   joinDate: ""
-  function: ""
+  function: ops
   title: ""
   description: ""
   products: ""
@@ -161,7 +161,7 @@
 - id: caleb
   name: Chiam, Caleb
   joinDate: ""
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -185,7 +185,7 @@
 - id: bernadette
   name: Cho, Bernadette Marisa Chien Ling
   joinDate: ""
-  function: ""
+  function: workplace
   title: ""
   description: ""
   products: ""
@@ -193,7 +193,7 @@
 - id: jason
   name: Chong, Jason
   joinDate: 11/05/2020
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -257,7 +257,7 @@
 - id: jiachin
   name: Er, Jia Chin
   joinDate: 04/01/2021
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -265,7 +265,7 @@
 - id: sarahespaldon
   name: Espaldon, Sarah
   joinDate: 04/11/2019
-  function: ""
+  function: workplace
   title: ""
   description: ""
   products: ""
@@ -273,7 +273,7 @@
 - id: hygin
   name: Fernandez, Hygin
   joinDate: ""
-  function: ""
+  function: policy
   title: ""
   description: ""
   products: ""
@@ -289,7 +289,7 @@
 - id: chifa
   name: Foo, Chi Fa
   joinDate: ""
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -297,7 +297,7 @@
 - id: yongjie
   name: Foo, Yong Jie
   joinDate: 02/12/2019
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -305,7 +305,7 @@
 - id: chinyao
   name: Gan, Chin Yao
   joinDate: ""
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -345,7 +345,7 @@
 - id: blake
   name: Gong, Blake
   joinDate: ""
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -353,15 +353,15 @@
 - id: timothee
   name: Groleau, Timothee
   joinDate: ""
-  function: "eng"
-  title: ""
+  function: eng
+  title: Lead Software Engineer
   description: ""
   products: ""
   accomplishments: ""
 - id: james
   name: Hibberd, James
   joinDate: ""
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -369,7 +369,7 @@
 - id: shannen
   name: Ho Yun Fang, Shannen
   joinDate: ""
-  function: ""
+  function: workplace
   title: ""
   description: ""
   products: ""
@@ -377,7 +377,7 @@
 - id: ivan
   name: Ho, Ivan
   joinDate: 06/04/2020
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -409,7 +409,7 @@
 - id: kaiwen
   name: Huang, Kaiwen
   joinDate: 04/07/2016
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -425,7 +425,7 @@
 - id: aditya
   name: Jain, Aditya
   joinDate: ""
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -433,7 +433,7 @@
 - id: raisa
   name: Kabir, Raisa
   joinDate: ""
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -441,7 +441,7 @@
 - id: louiz
   name: Kim-Chan, Louiz
   joinDate: ""
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -449,7 +449,7 @@
 - id: aiko
   name: Klostermann, Aiko
   joinDate: ""
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -457,7 +457,7 @@
 - id: kathleen
   name: Koh, Kathleen
   joinDate: ""
-  function: ""
+  function: pm
   title: ""
   description: ""
   products: ""
@@ -465,7 +465,7 @@
 - id: samuel
   name: Koh, Samuel
   joinDate: ""
-  function: ""
+  function: ops
   title: ""
   description: ""
   products: ""
@@ -481,7 +481,7 @@
 - id: jiehao
   name: Kwa, Jie Hao
   joinDate: 09/09/2019
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -497,7 +497,7 @@
 - id: keewei
   name: Lam, Kee Wei
   joinDate: 01/06/2020
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -505,7 +505,7 @@
 - id: karrui
   name: Lau, Kar Rui
   joinDate: 03/02/2020
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -513,7 +513,7 @@
 - id: dat
   name: Le Thanh, Dat
   joinDate: ""
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -521,7 +521,7 @@
 - id: alexander
   name: Lee, Alexander
   joinDate: 15/06/2020
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -529,7 +529,7 @@
 - id: charmaine
   name: Lee, Charmaine
   joinDate: ""
-  function: ""
+  function: pm
   title: ""
   description: ""
   products: ""
@@ -537,7 +537,7 @@
 - id: cheryl
   name: Lee, Cheryl
   joinDate: ""
-  function: ""
+  function: pm
   title: ""
   description: ""
   products: ""
@@ -545,7 +545,7 @@
 - id: kahhow
   name: Lee, Kahhow
   joinDate: ""
-  function: ""
+  function: ops
   title: ""
   description: ""
   products: ""
@@ -553,7 +553,7 @@
 - id: ken
   name: Lee, Ken
   joinDate: 27/02/2023
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -585,7 +585,7 @@
 - id: latasha
   name: Lenus, Latasha
   joinDate: ""
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -601,7 +601,7 @@
 - id: huixuan
   name: Leow, Hui Xuan
   joinDate: 04/07/2022
-  function: ""
+  function: policy
   title: ""
   description: ""
   products: ""
@@ -609,7 +609,7 @@
 - id: boren
   name: Lew, Bo Ren
   joinDate: ""
-  function: ""
+  function: finance
   title: ""
   description: ""
   products: ""
@@ -625,7 +625,7 @@
 - id: yuanruo
   name: Liang, Yuanruo
   joinDate: 01/07/2019
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -657,7 +657,7 @@
 - id: jiayee
   name: Lim, Jia Yee
   joinDate: ""
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -689,7 +689,7 @@
 - id: huiqing
   name: Lin, Huiqing
   joinDate: 06/09/2021
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -697,7 +697,7 @@
 - id: jennifer
   name: Liu, Jennifer
   joinDate: ""
-  function: ""
+  function: pm
   title: ""
   description: ""
   products: ""
@@ -729,7 +729,7 @@
 - id: rayner
   name: Loh, Rayner
   joinDate: 03/04/2023
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -753,7 +753,7 @@
 - id: antariksh
   name: Mahajan, Antariksh
   joinDate: 02/03/2020
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -761,7 +761,7 @@
 - id: Gautam
   name: Manek, Gautam
   joinDate: ""
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -769,7 +769,7 @@
 - id: nitya
   name: Menon, Nitya
   joinDate: ""
-  function: "partnerships"
+  function: partnerships
   title: ""
   description: ""
   products: ""
@@ -833,7 +833,7 @@
 - id: jenwei
   name: Niam, Jen Wei
   joinDate: ""
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -865,7 +865,7 @@
 - id: pearly
   name: Ong, Pearly
   joinDate: 21/10/2019
-  function: ""
+  function: design
   title: ""
   description: ""
   products: ""
@@ -905,7 +905,7 @@
 - id: christabelpng
   name: Png, Christabel
   joinDate: 01/06/2020
-  function: ""
+  function: design
   title: ""
   description: ""
   products: ""
@@ -921,7 +921,7 @@
 - id: kishore
   name: R, Kishore
   joinDate: ""
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -937,7 +937,7 @@
 - id: praveen
   name: Raj Kumar, Praveen
   joinDate: ""
-  function: "policy"
+  function: policy
   title: ""
   description: ""
   products: ""
@@ -961,7 +961,7 @@
 - id: khaleedah
   name: Sairi, Khaleedah
   joinDate: 12/07/2021
-  function: ""
+  function: design
   title: ""
   description: ""
   products: ""
@@ -969,7 +969,7 @@
 - id: sarahsalim
   name: Salim, Siti Sarah
   joinDate: ""
-  function: ""
+  function: design
   title: ""
   description: ""
   products: ""
@@ -977,7 +977,7 @@
 - id: amit
   name: Samdarshi, Amit
   joinDate: ""
-  function: "pm"
+  function: pm
   title: ""
   description: ""
   products: ""
@@ -985,12 +985,12 @@
 - id: chinying
   name: Seah, Chin Ying
   joinDate: 19/11/2018
-  function: "eng"
+  function: eng
   title: ""
   description: ""
   products: ""
   accomplishments: ""
-- id: sean
+- id: ""
   name: Sean, Lum Jian Yang
   joinDate: ""
   function: ""
@@ -1009,7 +1009,7 @@
 - id: hena
   name: Shah, Hena
   joinDate: ""
-  function: "pm"
+  function: pm
   title: ""
   description: ""
   products: ""
@@ -1033,7 +1033,7 @@
 - id: stephanie
   name: Siow, Stephanie
   joinDate: 01/04/2022
-  function: ""
+  function: partnerships
   title: ""
   description: ""
   products: ""
@@ -1041,7 +1041,7 @@
 - id: kenneth
   name: Sng, Kenneth
   joinDate: ""
-  function: ""
+  function: pm
   title: ""
   description: ""
   products: ""
@@ -1049,7 +1049,7 @@
 - id: moses
   name: Soh, Moses
   joinDate: 05/12/2022
-  function: ""
+  function: pm
   title: ""
   description: ""
   products: ""
@@ -1065,7 +1065,7 @@
 - id: nicolas
   name: Spano, Nicolas
   joinDate: ""
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -1081,7 +1081,7 @@
 - id: airika
   name: Takeguchi, Airika
   joinDate: ""
-  function: ""
+  function: workplace
   title: ""
   description: ""
   products: ""
@@ -1089,7 +1089,7 @@
 - id: stacey
   name: Tan Seok Sim, Stacey
   joinDate: 07/02/2022
-  function: ""
+  function: design
   title: ""
   description: ""
   products: ""
@@ -1113,7 +1113,7 @@
 - id: geraldine
   name: Tan, Geraldine
   joinDate: ""
-  function: ""
+  function: ops
   title: ""
   description: ""
   products: ""
@@ -1137,7 +1137,7 @@
 - id: joshua
   name: Tan, Junming
   joinDate: 06/09/2021
-  function: "finance"
+  function: ""
   title: ""
   description: ""
   products: ""
@@ -1145,7 +1145,7 @@
 - id: kevan
   name: Tan, Kevan
   joinDate: 18/11/2019
-  function: "eng"
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -1161,7 +1161,7 @@
 - id: natalie
   name: Tan, Natalie
   joinDate: 06/04/2020
-  function: "design"
+  function: ""
   title: ""
   description: ""
   products: ""
@@ -1185,7 +1185,7 @@
 - id: zixiang
   name: Tan, Zi Xiang
   joinDate: 10/01/2022
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -1209,7 +1209,7 @@
 - id: mayying
   name: Tee, May Ying
   joinDate: ""
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -1217,7 +1217,7 @@
 - id: shawn
   name: Ten, Shawn
   joinDate: ""
-  function: ""
+  function: policy
   title: ""
   description: ""
   products: ""
@@ -1233,7 +1233,7 @@
 - id: shuli
   name: Teo, Shu Li
   joinDate: 20/04/2020
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -1249,7 +1249,7 @@
 - id: wanling
   name: Thoo, Wan Ling
   joinDate: 13/09/2021
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -1257,7 +1257,7 @@
 - id: lisa
   name: Tjide, Lisa
   joinDate: 26/11/2018
-  function: ""
+  function: pm
   title: ""
   description: ""
   products: ""
@@ -1265,7 +1265,7 @@
 - id: reshma
   name: Vasu, Reshma
   joinDate: ""
-  function: ""
+  function: ops
   title: ""
   description: ""
   products: ""
@@ -1273,7 +1273,7 @@
 - id: harish
   name: Venkatesan, Harish
   joinDate: ""
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -1289,7 +1289,7 @@
 - id: sebastian
   name: Wong Zhi Qian, Sebastian
   joinDate: ""
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -1305,7 +1305,7 @@
 - id: austin
   name: Woon Quan, Austin
   joinDate: ""
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -1313,15 +1313,7 @@
 - id: qilu
   name: Xie, Qilu
   joinDate: 06/02/2023
-  function: ""
-  title: ""
-  description: ""
-  products: ""
-  accomplishments: ""
-- id: qilu
-  name: Xie, Qilu
-  joinDate: 06/02/2023
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -1337,7 +1329,7 @@
 - id: syan
   name: Yan, Sonjia
   joinDate: 04/09/2019
-  function: ""
+  function: pm
   title: ""
   description: ""
   products: ""
@@ -1353,7 +1345,7 @@
 - id: jackson
   name: Yap, Jackson
   joinDate: 31/08/2020
-  function: "ops"
+  function: ops
   title: ""
   description: ""
   products: ""
@@ -1361,7 +1353,7 @@
 - id: jiahui
   name: Yap, Jia Hui
   joinDate: ""
-  function: "workplace"
+  function: workplace
   title: ""
   description: ""
   products: ""
@@ -1393,7 +1385,7 @@
 - id: khant
   name: Zaw, Khant
   joinDate: ""
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""
@@ -1409,7 +1401,7 @@
 - id: pallani
   name: s/o Selvan, Pallanikumaran
   joinDate: 11/05/2015
-  function: ""
+  function: eng
   title: ""
   description: ""
   products: ""

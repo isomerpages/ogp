@@ -4,13 +4,14 @@ permalink: /people/chifa
 description: ""
 ---
 
-<img src="/images/headshots/chifa.jpg" title="Foo, Chi Fa" alt="Foo, Chi Fa" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "chifa" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me
 
 **Joined on**: 
 
-**Function**: 
+**Function**: eng
 
 ## What I've worked on
 

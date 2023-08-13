@@ -4,13 +4,14 @@ permalink: /people/antariksh
 description: ""
 ---
 
-<img src="/images/headshots/antariksh.jpg" title="Mahajan, Antariksh" alt="Mahajan, Antariksh" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "antariksh" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me
 
 **Joined on**: 02/03/2020
 
-**Function**: 
+**Function**: eng
 
 ## What I've worked on
 

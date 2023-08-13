@@ -4,13 +4,14 @@ permalink: /people/daryl
 description: ""
 ---
 
-<img src="/images/headshots/daryl.jpg" title="Chan, Daryl" alt="Chan, Daryl" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "daryl" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me
 
 **Joined on**: 03/01/2022
 
-**Function**: 
+**Function**: eng
 
 ## What I've worked on
 

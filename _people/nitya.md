@@ -4,13 +4,14 @@ permalink: /people/nitya
 description: ""
 ---
 
-<img src="/images/headshots/nitya.jpg" title="Menon, Nitya" alt="Menon, Nitya" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "nitya" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.partnerships %}
 
 ## About Me
 
 **Joined on**: 
 
-**Function**: 
+**Function**: partnerships
 
 ## What I've worked on
 

@@ -4,13 +4,14 @@ permalink: /people/chienling
 description: ""
 ---
 
-<img src="/images/headshots/chienling.jpg" title="Ang, Chien Ling" alt="Ang, Chien Ling" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "chienling" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.workplace %}
 
 ## About Me
 
 **Joined on**: 10/08/2021
 
-**Function**: 
+**Function**: workplace
 
 ## What I've worked on
 

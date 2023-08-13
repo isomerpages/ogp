@@ -4,13 +4,14 @@ permalink: /people/sheikh
 description: ""
 ---
 
-<img src="/images/headshots/sheikh.jpg" title="Bin Mohamed Aneess Alrragi, Sheikh Salim" alt="Bin Mohamed Aneess Alrragi, Sheikh Salim" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "sheikh" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me
 
 **Joined on**: 
 
-**Function**: 
+**Function**: eng
 
 ## What I've worked on
 

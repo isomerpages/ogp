@@ -4,7 +4,8 @@ permalink: /people/lennard
 description: ""
 ---
 
-<img src="/images/headshots/lennard.jpg" title="Lim, Fa Ping Lennard" alt="Lim, Fa Ping Lennard" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "lennard" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

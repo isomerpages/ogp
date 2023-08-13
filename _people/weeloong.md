@@ -4,7 +4,8 @@ permalink: /people/weeloong
 description: ""
 ---
 
-<img src="/images/headshots/weeloong.jpg" title="Kuan, Wee Loong" alt="Kuan, Wee Loong" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "weeloong" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

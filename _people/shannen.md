@@ -4,13 +4,14 @@ permalink: /people/shannen
 description: ""
 ---
 
-<img src="/images/headshots/shannen.jpg" title="Ho Yun Fang, Shannen" alt="Ho Yun Fang, Shannen" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "shannen" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.workplace %}
 
 ## About Me
 
 **Joined on**: 
 
-**Function**: 
+**Function**: workplace
 
 ## What I've worked on
 

@@ -4,13 +4,14 @@ permalink: /people/pallani
 description: ""
 ---
 
-<img src="/images/headshots/pallani.jpg" title="s/o Selvan, Pallanikumaran" alt="s/o Selvan, Pallanikumaran" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "pallani" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me
 
 **Joined on**: 11/05/2015
 
-**Function**: 
+**Function**: eng
 
 ## What I've worked on
 

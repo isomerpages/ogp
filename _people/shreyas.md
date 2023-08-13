@@ -4,13 +4,14 @@ permalink: /people/shreyas
 description: ""
 ---
 
-<img src="/images/headshots/shreyas.jpg" title="Chandrakanth Rao Inna, Shreyas" alt="Chandrakanth Rao Inna, Shreyas" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "shreyas" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.ops %}
 
 ## About Me
 
 **Joined on**: 22/05/2023
 
-**Function**: 
+**Function**: ops
 
 ## What I've worked on
 

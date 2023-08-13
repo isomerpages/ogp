@@ -4,13 +4,14 @@ permalink: /people/jiahui
 description: ""
 ---
 
-<img src="/images/headshots/jiahui.jpg" title="Yap, Jia Hui" alt="Yap, Jia Hui" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "jiahui" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.workplace %}
 
 ## About Me
 
 **Joined on**: 
 
-**Function**: 
+**Function**: workplace
 
 ## What I've worked on
 

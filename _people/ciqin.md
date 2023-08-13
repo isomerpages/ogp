@@ -4,7 +4,8 @@ permalink: /people/ciqin
 description: ""
 ---
 
-<img src="/images/headshots/ciqin.jpg" title="Ghwee, Ciqin" alt="Ghwee, Ciqin" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "ciqin" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

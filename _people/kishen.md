@@ -4,13 +4,14 @@ permalink: /people/kishen
 description: ""
 ---
 
-<img src="/images/headshots/kishen.jpg" title="Ashok Kumar, Kishen" alt="Ashok Kumar, Kishen" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "kishen" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me
 
 **Joined on**: 06/06/2022
 
-**Function**: 
+**Function**: eng
 
 ## What I've worked on
 

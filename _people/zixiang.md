@@ -4,13 +4,14 @@ permalink: /people/zixiang
 description: ""
 ---
 
-<img src="/images/headshots/zixiang.jpg" title="Tan, Zi Xiang" alt="Tan, Zi Xiang" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "zixiang" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me
 
 **Joined on**: 10/01/2022
 
-**Function**: 
+**Function**: eng
 
 ## What I've worked on
 

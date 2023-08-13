@@ -4,13 +4,14 @@ permalink: /people/yongjie
 description: ""
 ---
 
-<img src="/images/headshots/yongjie.jpg" title="Foo, Yong Jie" alt="Foo, Yong Jie" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "yongjie" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me
 
 **Joined on**: 02/12/2019
 
-**Function**: 
+**Function**: eng
 
 ## What I've worked on
 

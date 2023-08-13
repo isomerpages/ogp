@@ -4,13 +4,14 @@ permalink: /people/kishore
 description: ""
 ---
 
-<img src="/images/headshots/kishore.jpg" title="R, Kishore" alt="R, Kishore" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "kishore" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me
 
 **Joined on**: 
 
-**Function**: 
+**Function**: eng
 
 ## What I've worked on
 

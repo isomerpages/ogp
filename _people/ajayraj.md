@@ -4,7 +4,8 @@ permalink: /people/ajayraj
 description: ""
 ---
 
-<img src="/images/headshots/ajayraj.jpg" title="Singh, Ajayraj" alt="Singh, Ajayraj" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "ajayraj" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

@@ -4,7 +4,8 @@ permalink: /people/veena
 description: ""
 ---
 
-<img src="/images/headshots/veena.jpg" title="Rao, Anavatti Veena" alt="Rao, Anavatti Veena" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "veena" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

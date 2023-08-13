@@ -4,7 +4,8 @@ permalink: /people/christabel
 description: ""
 ---
 
-<img src="/images/headshots/christabel.jpg" title="Neo, Xiuwen Christabel" alt="Neo, Xiuwen Christabel" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "christabel" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

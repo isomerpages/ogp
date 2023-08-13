@@ -4,13 +4,14 @@ permalink: /people/khant
 description: ""
 ---
 
-<img src="/images/headshots/khant.jpg" title="Zaw, Khant" alt="Zaw, Khant" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "khant" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me
 
 **Joined on**: 
 
-**Function**: 
+**Function**: eng
 
 ## What I've worked on
 

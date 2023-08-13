@@ -4,13 +4,14 @@ permalink: /people/lisa
 description: ""
 ---
 
-<img src="/images/headshots/lisa.jpg" title="Tjide, Lisa" alt="Tjide, Lisa" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "lisa" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.pm %}
 
 ## About Me
 
 **Joined on**: 26/11/2018
 
-**Function**: 
+**Function**: pm
 
 ## What I've worked on
 

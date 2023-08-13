@@ -4,7 +4,8 @@ permalink: /people/jieyin
 description: ""
 ---
 
-<img src="/images/headshots/jieyin.jpg" title="Tan, Jie Yin" alt="Tan, Jie Yin" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "jieyin" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

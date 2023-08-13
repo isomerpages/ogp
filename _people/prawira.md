@@ -4,7 +4,8 @@ permalink: /people/prawira
 description: ""
 ---
 
-<img src="/images/headshots/prawira.jpg" title="Genestonlia, Prawira" alt="Genestonlia, Prawira" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "prawira" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

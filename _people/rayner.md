@@ -4,13 +4,14 @@ permalink: /people/rayner
 description: ""
 ---
 
-<img src="/images/headshots/rayner.jpg" title="Loh, Rayner" alt="Loh, Rayner" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "rayner" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me
 
 **Joined on**: 03/04/2023
 
-**Function**: 
+**Function**: eng
 
 ## What I've worked on
 

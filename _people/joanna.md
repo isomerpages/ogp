@@ -4,7 +4,8 @@ permalink: /people/joanna
 description: ""
 ---
 
-<img src="/images/headshots/joanna.jpg" title="Lo Wai Fun, Joanna" alt="Lo Wai Fun, Joanna" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "joanna" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

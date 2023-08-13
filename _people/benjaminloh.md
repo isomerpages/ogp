@@ -4,7 +4,8 @@ permalink: /people/benjaminloh
 description: ""
 ---
 
-<img src="/images/headshots/benjaminloh.jpg" title="Loh, Benjamin" alt="Loh, Benjamin" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "benjaminloh" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

@@ -4,7 +4,8 @@ permalink: /people/pranu
 description: ""
 ---
 
-<img src="/images/headshots/pranu.jpg" title="Pranu, Sarna" alt="Pranu, Sarna" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "pranu" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

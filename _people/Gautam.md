@@ -4,13 +4,14 @@ permalink: /people/Gautam
 description: ""
 ---
 
-<img src="/images/headshots/Gautam.jpg" title="Manek, Gautam" alt="Manek, Gautam" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "Gautam" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me
 
 **Joined on**: 
 
-**Function**: 
+**Function**: eng
 
 ## What I've worked on
 

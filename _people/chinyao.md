@@ -4,13 +4,14 @@ permalink: /people/chinyao
 description: ""
 ---
 
-<img src="/images/headshots/chinyao.jpg" title="Gan, Chin Yao" alt="Gan, Chin Yao" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "chinyao" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me
 
 **Joined on**: 
 
-**Function**: 
+**Function**: eng
 
 ## What I've worked on
 

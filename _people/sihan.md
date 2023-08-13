@@ -4,7 +4,8 @@ permalink: /people/sihan
 description: ""
 ---
 
-<img src="/images/headshots/sihan.jpg" title="Ding, Si Han" alt="Ding, Si Han" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "sihan" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

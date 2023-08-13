@@ -4,13 +4,14 @@ permalink: /people/caleb
 description: ""
 ---
 
-<img src="/images/headshots/caleb.jpg" title="Chiam, Caleb" alt="Chiam, Caleb" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "caleb" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me
 
 **Joined on**: 
 
-**Function**: 
+**Function**: eng
 
 ## What I've worked on
 

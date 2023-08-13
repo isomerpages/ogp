@@ -4,7 +4,8 @@ permalink: /people/justyn
 description: ""
 ---
 
-<img src="/images/headshots/justyn.jpg" title="Oh, Wei Jin" alt="Oh, Wei Jin" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "justyn" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

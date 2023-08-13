@@ -4,7 +4,8 @@ permalink: /people/yuling
 description: ""
 ---
 
-<img src="/images/headshots/yuling.jpg" title="Yu Ling, Tan" alt="Yu Ling, Tan" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "yuling" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

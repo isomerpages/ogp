@@ -4,13 +4,14 @@ permalink: /people/khaleedah
 description: ""
 ---
 
-<img src="/images/headshots/khaleedah.jpg" title="Sairi, Khaleedah" alt="Sairi, Khaleedah" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "khaleedah" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.design %}
 
 ## About Me
 
 **Joined on**: 12/07/2021
 
-**Function**: 
+**Function**: design
 
 ## What I've worked on
 

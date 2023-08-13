@@ -4,13 +4,14 @@ permalink: /people/shuli
 description: ""
 ---
 
-<img src="/images/headshots/shuli.jpg" title="Teo, Shu Li" alt="Teo, Shu Li" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "shuli" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me
 
 **Joined on**: 20/04/2020
 
-**Function**: 
+**Function**: eng
 
 ## What I've worked on
 

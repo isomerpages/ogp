@@ -4,7 +4,8 @@ permalink: /people/lynette
 description: ""
 ---
 
-<img src="/images/headshots/lynette.jpg" title="Lee, Lynette" alt="Lee, Lynette" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "lynette" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

@@ -4,13 +4,14 @@ permalink: /people/kaiwen
 description: ""
 ---
 
-<img src="/images/headshots/kaiwen.jpg" title="Huang, Kaiwen" alt="Huang, Kaiwen" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "kaiwen" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me
 
 **Joined on**: 04/07/2016
 
-**Function**: 
+**Function**: eng
 
 ## What I've worked on
 

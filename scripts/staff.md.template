@@ -4,7 +4,8 @@ permalink: /people/{{id}}
 description: "{{description}}"
 ---
 
-<img src="/images/headshots/{{id}}.jpg" title="{{name}}" alt="{{name}}" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "{{id}}" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.{{function}} %}
 
 ## About Me
 

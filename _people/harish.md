@@ -4,13 +4,14 @@ permalink: /people/harish
 description: ""
 ---
 
-<img src="/images/headshots/harish.jpg" title="Venkatesan, Harish" alt="Venkatesan, Harish" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "harish" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me
 
 **Joined on**: 
 
-**Function**: 
+**Function**: eng
 
 ## What I've worked on
 

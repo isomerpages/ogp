@@ -4,13 +4,14 @@ permalink: /people/qilu
 description: ""
 ---
 
-<img src="/images/headshots/qilu.jpg" title="Xie, Qilu" alt="Xie, Qilu" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "qilu" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me
 
 **Joined on**: 06/02/2023
 
-**Function**: 
+**Function**: eng
 
 ## What I've worked on
 

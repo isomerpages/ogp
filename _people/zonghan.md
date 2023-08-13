@@ -4,7 +4,8 @@ permalink: /people/zonghan
 description: ""
 ---
 
-<img src="/images/headshots/zonghan.jpg" title="Ho, Zong Han" alt="Ho, Zong Han" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "zonghan" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

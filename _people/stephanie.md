@@ -4,13 +4,14 @@ permalink: /people/stephanie
 description: ""
 ---
 
-<img src="/images/headshots/stephanie.jpg" title="Siow, Stephanie" alt="Siow, Stephanie" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "stephanie" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.partnerships %}
 
 ## About Me
 
 **Joined on**: 01/04/2022
 
-**Function**: 
+**Function**: partnerships
 
 ## What I've worked on
 

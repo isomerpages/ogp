@@ -4,7 +4,8 @@ permalink: /people/angel
 description: ""
 ---
 
-<img src="/images/headshots/angel.jpg" title="Suhardi, Maria" alt="Suhardi, Maria" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "angel" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

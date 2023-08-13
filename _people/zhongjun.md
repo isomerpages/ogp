@@ -4,7 +4,8 @@ permalink: /people/zhongjun
 description: ""
 ---
 
-<img src="/images/headshots/zhongjun.jpg" title="Hsu, Zhong Jun" alt="Hsu, Zhong Jun" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "zhongjun" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

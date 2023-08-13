@@ -4,13 +4,14 @@ permalink: /people/yuanruo
 description: ""
 ---
 
-<img src="/images/headshots/yuanruo.jpg" title="Liang, Yuanruo" alt="Liang, Yuanruo" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "yuanruo" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me
 
 **Joined on**: 01/07/2019
 
-**Function**: 
+**Function**: eng
 
 ## What I've worked on
 

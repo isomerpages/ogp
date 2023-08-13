@@ -4,7 +4,8 @@ permalink: /people/alexis
 description: ""
 ---
 
-<img src="/images/headshots/alexis.jpg" title="Goh, Weiying" alt="Goh, Weiying" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "alexis" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

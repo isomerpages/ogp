@@ -4,13 +4,14 @@ permalink: /people/samuel
 description: ""
 ---
 
-<img src="/images/headshots/samuel.jpg" title="Koh, Samuel" alt="Koh, Samuel" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "samuel" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.ops %}
 
 ## About Me
 
 **Joined on**: 
 
-**Function**: 
+**Function**: ops
 
 ## What I've worked on
 

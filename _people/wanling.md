@@ -4,13 +4,14 @@ permalink: /people/wanling
 description: ""
 ---
 
-<img src="/images/headshots/wanling.jpg" title="Thoo, Wan Ling" alt="Thoo, Wan Ling" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "wanling" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me
 
 **Joined on**: 13/09/2021
 
-**Function**: 
+**Function**: eng
 
 ## What I've worked on
 

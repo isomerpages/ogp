@@ -4,7 +4,8 @@ permalink: /people/sufyan
 description: ""
 ---
 
-<img src="/images/headshots/sufyan.jpg" title="Bin Selamet, Sufyan" alt="Bin Selamet, Sufyan" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "sufyan" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

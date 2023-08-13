@@ -4,13 +4,14 @@ permalink: /people/timothee
 description: ""
 ---
 
-<img src="/images/headshots/timothee.jpg" title="Groleau, Timothee" alt="Groleau, Timothee" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "timothee" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me
 
 **Joined on**: 
 
-**Function**: 
+**Function**: eng
 
 ## What I've worked on
 

@@ -4,13 +4,14 @@ permalink: /people/boren
 description: ""
 ---
 
-<img src="/images/headshots/boren.jpg" title="Lew, Bo Ren" alt="Lew, Bo Ren" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "boren" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.finance %}
 
 ## About Me
 
 **Joined on**: 
 
-**Function**: 
+**Function**: finance
 
 ## What I've worked on
 

@@ -4,13 +4,14 @@ permalink: /people/huixuan
 description: ""
 ---
 
-<img src="/images/headshots/huixuan.jpg" title="Leow, Hui Xuan" alt="Leow, Hui Xuan" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "huixuan" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.policy %}
 
 ## About Me
 
 **Joined on**: 04/07/2022
 
-**Function**: 
+**Function**: policy
 
 ## What I've worked on
 

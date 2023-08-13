@@ -4,7 +4,8 @@ permalink: /people/fiona
 description: ""
 ---
 
-<img src="/images/headshots/fiona.jpg" title="Pay Si Ying, Fiona" alt="Pay Si Ying, Fiona" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "fiona" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

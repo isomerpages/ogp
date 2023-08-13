@@ -4,13 +4,14 @@ permalink: /people/sarahsalim
 description: ""
 ---
 
-<img src="/images/headshots/sarahsalim.jpg" title="Salim, Siti Sarah" alt="Salim, Siti Sarah" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "sarahsalim" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.design %}
 
 ## About Me
 
 **Joined on**: 
 
-**Function**: 
+**Function**: design
 
 ## What I've worked on
 

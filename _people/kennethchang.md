@@ -4,7 +4,8 @@ permalink: /people/kennethchang
 description: ""
 ---
 
-<img src="/images/headshots/kennethchang.jpg" title="Chang, Kenneth" alt="Chang, Kenneth" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "kennethchang" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

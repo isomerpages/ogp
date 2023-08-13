@@ -4,7 +4,8 @@ permalink: /people/zulhilmi
 description: ""
 ---
 
-<img src="/images/headshots/zulhilmi.jpg" title="Icksan, Mohammad Zulhilmi" alt="Icksan, Mohammad Zulhilmi" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "zulhilmi" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

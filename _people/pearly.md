@@ -4,13 +4,14 @@ permalink: /people/pearly
 description: ""
 ---
 
-<img src="/images/headshots/pearly.jpg" title="Ong, Pearly" alt="Ong, Pearly" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "pearly" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.design %}
 
 ## About Me
 
 **Joined on**: 21/10/2019
 
-**Function**: 
+**Function**: design
 
 ## What I've worked on
 

@@ -4,13 +4,14 @@ permalink: /people/sebastian
 description: ""
 ---
 
-<img src="/images/headshots/sebastian.jpg" title="Wong Zhi Qian, Sebastian" alt="Wong Zhi Qian, Sebastian" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "sebastian" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me
 
 **Joined on**: 
 
-**Function**: 
+**Function**: eng
 
 ## What I've worked on
 

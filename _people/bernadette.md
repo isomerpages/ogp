@@ -4,13 +4,14 @@ permalink: /people/bernadette
 description: ""
 ---
 
-<img src="/images/headshots/bernadette.jpg" title="Cho, Bernadette Marisa Chien Ling" alt="Cho, Bernadette Marisa Chien Ling" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "bernadette" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.workplace %}
 
 ## About Me
 
 **Joined on**: 
 
-**Function**: 
+**Function**: workplace
 
 ## What I've worked on
 

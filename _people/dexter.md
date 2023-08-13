@@ -4,7 +4,8 @@ permalink: /people/dexter
 description: ""
 ---
 
-<img src="/images/headshots/dexter.jpg" title="Tan Ying Jie, Dexter" alt="Tan Ying Jie, Dexter" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "dexter" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

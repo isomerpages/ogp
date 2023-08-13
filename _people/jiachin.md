@@ -4,13 +4,14 @@ permalink: /people/jiachin
 description: ""
 ---
 
-<img src="/images/headshots/jiachin.jpg" title="Er, Jia Chin" alt="Er, Jia Chin" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "jiachin" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me
 
 **Joined on**: 04/01/2021
 
-**Function**: 
+**Function**: eng
 
 ## What I've worked on
 

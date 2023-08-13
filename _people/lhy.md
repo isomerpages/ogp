@@ -4,7 +4,8 @@ permalink: /people/lhy
 description: ""
 ---
 
-<img src="/images/headshots/lhy.jpg" title="Li, Hongyi" alt="Li, Hongyi" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "lhy" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

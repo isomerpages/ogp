@@ -4,7 +4,8 @@ permalink: /people/carina
 description: ""
 ---
 
-<img src="/images/headshots/carina.jpg" title="Lim, Carina" alt="Lim, Carina" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "carina" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

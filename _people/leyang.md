@@ -4,7 +4,8 @@ permalink: /people/leyang
 description: ""
 ---
 
-<img src="/images/headshots/leyang.jpg" title="Tan, Le Yang" alt="Tan, Le Yang" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "leyang" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

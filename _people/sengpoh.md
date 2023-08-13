@@ -4,7 +4,8 @@ permalink: /people/sengpoh
 description: ""
 ---
 
-<img src="/images/headshots/sengpoh.jpg" title="Lim, Seng Poh" alt="Lim, Seng Poh" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "sengpoh" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

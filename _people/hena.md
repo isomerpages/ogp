@@ -4,13 +4,14 @@ permalink: /people/hena
 description: ""
 ---
 
-<img src="/images/headshots/hena.jpg" title="Shah, Hena" alt="Shah, Hena" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "hena" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.pm %}
 
 ## About Me
 
 **Joined on**: 
 
-**Function**: 
+**Function**: pm
 
 ## What I've worked on
 

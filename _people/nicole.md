@@ -4,7 +4,8 @@ permalink: /people/nicole
 description: ""
 ---
 
-<img src="/images/headshots/nicole.jpg" title="Loh Wan Hua, Nicole" alt="Loh Wan Hua, Nicole" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "nicole" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 

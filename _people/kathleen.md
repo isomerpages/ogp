@@ -4,13 +4,14 @@ permalink: /people/kathleen
 description: ""
 ---
 
-<img src="/images/headshots/kathleen.jpg" title="Koh, Kathleen" alt="Koh, Kathleen" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "kathleen" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.pm %}
 
 ## About Me
 
 **Joined on**: 
 
-**Function**: 
+**Function**: pm
 
 ## What I've worked on
 

@@ -4,13 +4,14 @@ permalink: /people/hygin
 description: ""
 ---
 
-<img src="/images/headshots/hygin.jpg" title="Fernandez, Hygin" alt="Fernandez, Hygin" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "hygin" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.policy %}
 
 ## About Me
 
 **Joined on**: 
 
-**Function**: 
+**Function**: policy
 
 ## What I've worked on
 

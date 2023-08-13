@@ -4,13 +4,14 @@ permalink: /people/chinying
 description: ""
 ---
 
-<img src="/images/headshots/chinying.jpg" title="Seah, Chin Ying" alt="Seah, Chin Ying" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "chinying" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me
 
 **Joined on**: 19/11/2018
 
-**Function**: 
+**Function**: eng
 
 ## What I've worked on
 

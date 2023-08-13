@@ -4,13 +4,14 @@ permalink: /people/syan
 description: ""
 ---
 
-<img src="/images/headshots/syan.jpg" title="Yan, Sonjia" alt="Yan, Sonjia" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "syan" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.pm %}
 
 ## About Me
 
 **Joined on**: 04/09/2019
 
-**Function**: 
+**Function**: pm
 
 ## What I've worked on
 

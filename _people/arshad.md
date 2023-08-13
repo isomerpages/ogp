@@ -4,7 +4,8 @@ permalink: /people/arshad
 description: ""
 ---
 
-<img src="/images/headshots/arshad.jpg" title="s/o Abdul Samad, Arshad Ali" alt="s/o Abdul Samad, Arshad Ali" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "arshad" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors. %}
 
 ## About Me
 
