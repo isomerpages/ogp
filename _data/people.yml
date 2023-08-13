@@ -769,7 +769,7 @@
 - id: nitya
   name: Menon, Nitya
   joinDate: ""
-  function: ""
+  function: "partnerships"
   title: ""
   description: ""
   products: ""
@@ -937,7 +937,7 @@
 - id: praveen
   name: Raj Kumar, Praveen
   joinDate: ""
-  function: ""
+  function: "policy"
   title: ""
   description: ""
   products: ""
@@ -1137,7 +1137,7 @@
 - id: joshua
   name: Tan, Junming
   joinDate: 06/09/2021
-  function: ""
+  function: "finance"
   title: ""
   description: ""
   products: ""
@@ -1145,7 +1145,7 @@
 - id: kevan
   name: Tan, Kevan
   joinDate: 18/11/2019
-  function: ""
+  function: "eng"
   title: ""
   description: ""
   products: ""
@@ -1161,7 +1161,7 @@
 - id: natalie
   name: Tan, Natalie
   joinDate: 06/04/2020
-  function: ""
+  function: "design"
   title: ""
   description: ""
   products: ""
@@ -1353,7 +1353,7 @@
 - id: jackson
   name: Yap, Jackson
   joinDate: 31/08/2020
-  function: ""
+  function: "ops"
   title: ""
   description: ""
   products: ""
@@ -1361,7 +1361,7 @@
 - id: jiahui
   name: Yap, Jia Hui
   joinDate: ""
-  function: ""
+  function: "workplace"
   title: ""
   description: ""
   products: ""
