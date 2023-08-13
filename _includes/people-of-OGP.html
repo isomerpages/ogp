@@ -10,17 +10,12 @@
             grid-template-columns: 25% 25% 25% 25%;
         }
 
-        .person {
+        a.person {
             margin-bottom: 40px;
             position: relative;
-            display: flex;
-            flex-direction: column;
-            /* border-radius: 8px; */
             padding: 0px;
             font-size: 14px;
-            /* border: 1.5px solid #474849; */
-            /* box-shadow: 0 0 4px rgba(33,33,33,.2); */
-            /* cursor: pointer; */
+            cursor: pointer;
         }
 
         .person-pic {
@@ -49,13 +44,13 @@
 <div class="people">
     {% assign sorted = include.people | sort: 'name' %}
     {% for person in sorted %}
-    <div class="person">
+    <a class="person" href="/people/{{ person.id }}">
         <div class="person-pic" style="background-image:url(/images/headshots/{{ person.id }}.jpg)"></div>
         <div class="person-info" style="background-color:{{include.color}}">
             <div class="person-name">{{ person.name }}</div>
             <div class="person-position">{{ person.position }}</div>
         </div>
-    </div>
+    </a>
     {% endfor %}
 </div>
 
