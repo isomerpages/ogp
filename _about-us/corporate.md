@@ -5,4 +5,4 @@ permalink: /about-us/corporate
 
 ## **Corporate Team**
 
-{% include people-of-OGP.html people=site.data.people-of-OGP  %}
+{% include people-of-OGP.html people=site.data.people-of-OGP  color=site.colors.function-colors.corporate %}

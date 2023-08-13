@@ -28,22 +28,15 @@ colors:
     - title: media-color-five
       color: "#00838f"
   function-colors:
-    - title: finance
-      color: "#1361F0"
-    - title: workplace
-      color: "#1361F0"
-    - title: design
-      color: "#2D978C"
-    - title: eng
-      color: "#E74F4F"
-    - title: ops
-      color: "#5D6785"
-    - title: pm
-      color: "#C4992A"
-    - title: partnership
-      color: "#272D41"
-    - title: policy
-      color: "#272D41"
+    finance: "#1361F0"
+    workplace: "#1361F0"
+    corporate: "#1361F0"
+    design: "#2D978C"
+    eng: "#E74F4F"
+    ops: "#5D6785"
+    pm: "#C4992A"
+    partnership: "#272D41"
+    policy: "#272D41"
 google_analytics: UA-189280200-1
 staging: https://ogp-staging.netlify.app
 prod: https://isomer-opengovsg-prod.netlify.app
