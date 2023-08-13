@@ -5,7 +5,7 @@ description: "Roslan, Suhaila - Serious Title"
 ---
 
 {%- assign staff = site.data.people | find: "id", "suhaila" -%}
-{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.ops %}
 
 <p>I joined since 05/04/2021 and I am currently working on currentProducts.</p>
 

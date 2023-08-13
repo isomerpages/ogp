@@ -5,7 +5,7 @@ description: "Lui, Desmond - Serious Title"
 ---
 
 {%- assign staff = site.data.people | find: "id", "desmond" -%}
-{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.design %}
 
 <p>I joined since 1970-01-01 and I am currently working on currentProducts.</p>
 

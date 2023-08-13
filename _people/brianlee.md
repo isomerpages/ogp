@@ -5,7 +5,7 @@ description: "Lee, Siu Hei - Serious Title"
 ---
 
 {%- assign staff = site.data.people | find: "id", "brianlee" -%}
-{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.pm %}
 
 <p>I joined since 20/03/2023 and I am currently working on currentProducts.</p>
 
