@@ -1,4 +1,4 @@
 collections:
   people:
-    sort_by: name
+    sort_by: title
     output: true
