@@ -10,7 +10,7 @@
             grid-template-columns: 25% 25% 25% 25%;
         }
 
-        a.person {
+        a.staff {
             margin-bottom: 40px;
             position: relative;
             padding: 0px;
@@ -18,14 +18,14 @@
             cursor: pointer;
         }
 
-        .person-pic {
+        .staff-pic {
             width: 190px;
             height: 162px;
             border-radius: 9px 9px 0 0;
             background-repeat: no-repeat;
             background-size: cover;
         }
-        .person-info {
+        .staff-info {
             width: 190px;
             border-radius: 0 0 9px 9px;
             padding: 20px;
@@ -43,12 +43,12 @@
 </style>
 <div class="people">
     {% assign sorted = include.people | sort: 'name' %}
-    {% for person in sorted %}
-    <a class="person" href="/people/{{ person.id }}">
-        <div class="person-pic" style="background-image:url(/images/headshots/{{ person.id }}.jpg)"></div>
-        <div class="person-info" style="background-color:{{include.color}}">
-            <div class="person-name">{{ person.name }}</div>
-            <div class="person-position">{{ person.position }}</div>
+    {% for staff in sorted %}
+    <a class="staff" href="/people/{{ staff.id }}">
+        <div class="staff-pic" style="background-image:url(/images/headshots/{{ staff.id }}.jpg)"></div>
+        <div class="staff-info" style="background-color:{{include.color}}">
+            <div class="staff-name">{{ staff.name }}</div>
+            <div class="staff-title">{{ staff.title }}</div>
         </div>
     </a>
     {% endfor %}

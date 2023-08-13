@@ -4,18 +4,17 @@ permalink: /people/aiko
 description: ""
 ---
 
-<img src="/images/headshots/aiko.jpg" title="Klostermann, Aiko" alt="Klostermann, Aiko" style="width:50%;margin-left:0">
+{%- assign staff = site.data.people | find: "id", "aiko" -%}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 ## About Me
 
-**Joined on**: 
+**Joined on**:
 
-**Function**: 
+**Function**:
 
 ## What I've worked on
 
 **Products/things I've worked on**:
 
-
 **Some of my accomplishments**:
-

@@ -1,0 +1,50 @@
+<style>
+    .heading {
+        display: flex;
+        gap: 15px;
+        font-size: 16px;
+    }
+
+    .main {
+        display: flex
+        gap: 0;
+    }
+
+    .info {
+        border-radius: 9px 0 0 9px;
+        padding: 20px;
+        text-align: left;
+        color: white;
+    }
+
+    .staff-name {
+        font-size: 32px;
+    }
+
+    .staff-pic {
+        width: 160px;
+        height: 160px;
+        border-radius: 0 9px 9px 0;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    q {
+        display: block;
+        padding-left: 15px;
+        font-size: 20px;
+        font-style: italic;
+        border-left: 1px solid black;
+    }
+</style>
+
+<div class="heading">
+    <div class="main">
+        <div class="info">
+            <div class="staff-name">{{ include.staff.name }}</div>
+            <div class="staff-title">{{ include.staff.position }}</div>
+        </div>
+        <div class="staff-pic"></div>
+    </div>
+    <q>{{ include.staff.position }}</q>
+</div>
