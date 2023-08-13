@@ -6,7 +6,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Treat your family like friends and your friends like family.
+  quote: Family is the heart of a home.
 - id: jasmine
   name: Ang, Jasmine
   joinDate: 1970-01-01
@@ -15,8 +15,9 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: There is no doubt that it is around the family and the home that all the
-    greatest virtues… are created, strengthened and maintained.
+  quote: Family isn’t always blood. It’s the people in your life who want you in
+    theirs; the ones who accept you for who you are. The ones that would do
+    anything to see you smile and who love you no matter what.
 - id: yixin
   name: Ang, Yi Xin
   joinDate: 06/03/2023
@@ -25,9 +26,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Family isn’t always blood. It’s the people in your life who want you in
-    theirs; the ones who accept you for who you are. The ones that would do
-    anything to see you smile and who love you no matter what.
+  quote: Family and friendships are two of the greatest facilitators of happiness.
 - id: kishen
   name: Ashok Kumar, Kishen
   joinDate: 06/06/2022
@@ -36,8 +35,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: The only rock I know that stays steady, the only institution I know that
-    works, is the family.
+  quote: Families are like fudge – mostly sweet with a few nuts.
 - id: prakriti
   name: Bansal, Prakriti
   joinDate: 1970-01-01
@@ -46,7 +44,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Family is not defined by our genes, it is built and maintained through love.
+  quote: It’s all about the quality of life and finding a happy balance between
+    work and friends and family.
 - id: shanty
   name: Basrur, Shantanu Dilip
   joinDate: 1970-01-01
@@ -55,7 +54,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Other things may change us, but we start and end with the family.
+  quote: Ohana means family and family means nobody gets left behind or forgotten.
 - id: sheikh
   name: Bin Mohamed Aneess Alrragi, Sheikh Salim
   joinDate: 1970-01-01
@@ -64,7 +63,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: A happy family is but an earlier heaven.
+  quote: The family – that dear octopus from whose tentacles we never quite
+    escape, nor, in our inmost hearts, ever quite wish to.
 - id: sufyan
   name: Bin Selamet, Sufyan
   joinDate: 1970-01-01
@@ -73,8 +73,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Stick to the basics, hold on to your family and friends – they will never
-    go out of fashion.
+  quote: It didn’t matter how big our house was; it mattered that there was love
+    in it.
 - id: shazli
   name: Bin Shahril Shintaro, Muhammad Shazli
   joinDate: 1970-01-01
@@ -83,7 +83,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Family is not an important thing. It’s everything.
+  quote: Being a family means you are a part of something very wonderful. It means
+    you will love and be loved for the rest of your life.
 - id: benjamin
   name: Bowes, Benjamin
   joinDate: 1970-01-01
@@ -92,7 +93,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Family is the heart of a home.
+  quote: Families are the compass that guides us. They are the inspiration to
+    reach great heights, and our comfort when we occasionally falter.
 - id: daryl
   name: Chan, Daryl
   joinDate: 03/01/2022
@@ -101,7 +103,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: To us, family means putting your arms around each other and being there.
+  quote: "Family: A social unit where the father is concerned with parking space,
+    the children with outer space, and the mother with closet space."
 - id: oliver
   name: Chan, Oliver
   joinDate: 13/12/2021
@@ -110,8 +113,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Having somewhere to go is home. Having someone to love is family. And
-    having both is a blessing.
+  quote: Being part of a family means smiling for photos.
 - id: russell
   name: Chan, Russell
   joinDate: 02/09/2019
@@ -120,8 +122,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Families are the compass that guides us. They are the inspiration to
-    reach great heights, and our comfort when we occasionally falter.
+  quote: Our family is a circle of strength of love with every birth and every
+    union the circle grows.
 - id: tiffany
   name: Chan, Tiffany
   joinDate: 1970-01-01
@@ -130,8 +132,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: In family life, love is the oil that eases friction, the cement that
-    binds closer together, and the music that brings harmony.
+  quote: Nothing is better than going home to family and eating good food and relaxing
 - id: shreyas
   name: Chandrakanth Rao Inna, Shreyas
   joinDate: 22/05/2023
@@ -140,7 +141,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Family and friends are hidden treasures, seek them and enjoy their riches.
+  quote: To us, family means putting your arms around each other and being there.
 - id: kennethchang
   name: Chang, Kenneth
   joinDate: 1970-01-01
@@ -149,7 +150,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Nothing is better than going home to family and eating good food and relaxing
+  quote: Treat your family like friends and your friends like family.
 - id: ian
   name: Chen, Wei Ian
   joinDate: 03/09/2018
@@ -158,7 +159,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Family gives you the roots to stand tall and strong.
+  quote: The bond that links your true family is not one of blood, but of respect
+    and joy in each other’s life.
 - id: keith
   name: Chew, Mun Kei
   joinDate: 1970-01-01
@@ -167,8 +169,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: "Call it a clan, call it a network, call it a tribe, call it a family:
-    Whatever you call it, whoever you are, you need one."
+  quote: "Blended families: woven together by choice, strengthened together by
+    love, tested by everything, and each uniquely ours."
 - id: fabian
   name: Chia Hup Peng, Fabian
   joinDate: 04/07/2022
@@ -177,8 +179,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: The bond that links your true family is not one of blood, but of respect
-    and joy in each other’s life.
+  quote: In time of test, family is best.
 - id: clement
   name: Chia, Clement
   joinDate: 1970-01-01
@@ -187,7 +188,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: The memories we make with our family is everything.
+  quote: Family is family.
 - id: caleb
   name: Chiam, Caleb
   joinDate: 1970-01-01
@@ -196,7 +197,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Ohana means family and family means nobody gets left behind or forgotten.
+  quote: Family and friends are hidden treasures, seek them and enjoy their riches.
 - id: kokseng
   name: Chiew, Kok Seng
   joinDate: 1970-01-01
@@ -205,8 +206,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Our family is a circle of strength of love with every birth and every
-    union the circle grows.
+  quote: Happiness is having a large, loving, caring, close-knit family in another
+    city.
 - id: talitha
   name: Chin, Rui Ling Talitha
   joinDate: 15/10/2018
@@ -215,8 +216,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Happiness is having a large, loving, caring, close-knit family in another
-    city.
+  quote: Stick to the basics, hold on to your family and friends – they will never
+    go out of fashion.
 - id: bernadette
   name: Cho, Bernadette Marisa Chien Ling
   joinDate: 1970-01-01
@@ -236,8 +237,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: It didn’t matter how big our house was; it mattered that there was love
-    in it.
+  quote: Some people are worth melting for.
 - id: lorraine
   name: Choo, Lorraine
   joinDate: 1970-01-01
@@ -246,7 +246,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: In time of test, family is best.
+  quote: Family ties mean that no matter how much you might want to run from your
+    family, you can’t.
 - id: christian
   name: Chow, Christian
   joinDate: 1970-01-01
@@ -255,8 +256,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: The family – that dear octopus from whose tentacles we never quite
-    escape, nor, in our inmost hearts, ever quite wish to.
+  quote: This is my family. I found it all on my own. It’s little, and broken, but
+    still good. Yeah. Still good.
 - id: hanu
   name: Damodaran, Hanu
   joinDate: 27/02/2023
@@ -265,8 +266,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: The family is the test of freedom; because the family is the only thing
-    that the free man makes for himself and by himself.
+  quote: Family is not an important thing. It’s everything.
 - id: danelynn
   name: Danelynn, Ding You Jia,
   joinDate: 1970-01-01
@@ -275,8 +275,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: "Family: A social unit where the father is concerned with parking space,
-    the children with outer space, and the mother with closet space."
+  quote: There is no doubt that it is around the family and the home that all the
+    greatest virtues… are created, strengthened and maintained.
 - id: sihan
   name: Ding, Si Han
   joinDate: 13/06/2022
@@ -285,7 +285,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Where there is family, there is love.
+  quote: We may have our differences, but nothing’s more important than family.
 - id: wenjia
   name: Dong, Wen Jia
   joinDate: 17/07/2023
@@ -294,7 +294,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: I didn’t give you the gift of life, but life gave me the gift of you.
+  quote: Rejoice with your family in the beautiful land of life.
 - id: jan
   name: Donyada, Jan
   joinDate: 1970-01-01
@@ -303,8 +303,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: My family is my life, and everything else comes second as far as what’s
-    important to me.
+  quote: Family gives you the roots to stand tall and strong.
 - id: jiachin
   name: Er, Jia Chin
   joinDate: 04/01/2021
@@ -313,8 +312,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Being a family means you are a part of something very wonderful. It means
-    you will love and be loved for the rest of your life.
+  quote: The memories we make with our family is everything.
 - id: sarahespaldon
   name: Espaldon, Sarah
   joinDate: 04/11/2019
@@ -323,7 +321,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: We may have our differences, but nothing’s more important than family.
+  quote: When trouble comes, it’s your family that supports you.
 - id: hygin
   name: Fernandez, Hygin
   joinDate: 1970-01-01
@@ -332,16 +330,17 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Life is beautiful. It’s about giving. It’s about family.
+  quote: The most important thing in the world is family and love.
 - id: amitha
   name: Fernando, Amitha
   joinDate: 1970-01-01
-  function: eng
+  function: finance
   title: Serious Title
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Some people are worth melting for.
+  quote: Having somewhere to go is home. Having someone to love is family. And
+    having both is a blessing.
 - id: chifa
   name: Foo, Chi Fa
   joinDate: 1970-01-01
@@ -350,7 +349,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Being part of a family means smiling for photos.
+  quote: The only rock I know that stays steady, the only institution I know that
+    works, is the family.
 - id: yongjie
   name: Foo, Yong Jie
   joinDate: 02/12/2019
@@ -359,7 +359,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Rejoice with your family in the beautiful land of life.
+  quote: In family life, love is the oil that eases friction, the cement that
+    binds closer together, and the music that brings harmony.
 - id: chinyao
   name: Gan, Chin Yao
   joinDate: 1970-01-01
@@ -368,7 +369,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Family and friendships are two of the greatest facilitators of happiness.
+  quote: "Call it a clan, call it a network, call it a tribe, call it a family:
+    Whatever you call it, whoever you are, you need one."
 - id: hongyao
   name: Gan, Hong Yao
   joinDate: 14/08/2023
@@ -377,8 +379,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Family ties mean that no matter how much you might want to run from your
-    family, you can’t.
+  quote: Where there is family, there is love.
 - id: prawira
   name: Genestonlia, Prawira
   joinDate: 1970-01-01
@@ -387,8 +388,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: "Blended families: woven together by choice, strengthened together by
-    love, tested by everything, and each uniquely ours."
+  quote: The informality of family life is a blessed condition that allows us all
+    to become our best while looking our worst.
 - id: ciqin
   name: Ghwee, Ciqin
   joinDate: 22/05/2023
@@ -397,8 +398,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: The informality of family life is a blessed condition that allows us all
-    to become our best while looking our worst.
+  quote: A happy family is but an earlier heaven.
 - id: alexis
   name: Goh, Weiying
   joinDate: 29/06/2020
@@ -407,8 +407,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: This is my family. I found it all on my own. It’s little, and broken, but
-    still good. Yeah. Still good.
+  quote: To us, family means putting your arms around each other and being there.
 - id: blake
   name: Gong, Blake
   joinDate: 1970-01-01
@@ -417,7 +416,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Family is family.
+  quote: The family is the test of freedom; because the family is the only thing
+    that the free man makes for himself and by himself.
 - id: timothee
   name: Groleau, Timothee
   joinDate: 1970-01-01
@@ -426,7 +426,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Families are like fudge – mostly sweet with a few nuts.
+  quote: My family is my life, and everything else comes second as far as what’s
+    important to me.
 - id: james
   name: Hibberd, James
   joinDate: 1970-01-01
@@ -435,8 +436,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: It’s all about the quality of life and finding a happy balance between
-    work and friends and family.
+  quote: Family is not defined by our genes, it is built and maintained through love.
 - id: shannen
   name: Ho Yun Fang, Shannen
   joinDate: 1970-01-01
@@ -445,7 +445,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: The family is one of nature’s masterpieces.
+  quote: Other things may change us, but we start and end with the family.
 - id: ivan
   name: Ho, Ivan
   joinDate: 06/04/2020
@@ -454,7 +454,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: When trouble comes, it’s your family that supports you.
+  quote: I didn’t give you the gift of life, but life gave me the gift of you.
 - id: zonghan
   name: Ho, Zong Han
   joinDate: 1970-01-01
@@ -463,7 +463,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: To us, family means putting your arms around each other and being there.
+  quote: Life is beautiful. It’s about giving. It’s about family.
 - id: malcolm
   name: Hong Malcolm, Ong Guan
   joinDate: 1970-01-01
@@ -472,7 +472,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: The most important thing in the world is family and love.
+  quote: The family is one of nature’s masterpieces.
 - id: zhongjun
   name: Hsu, Zhong Jun
   joinDate: 08/08/2022
@@ -481,7 +481,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Treat your family like friends and your friends like family.
+  quote: Family is the heart of a home.
 - id: kaiwen
   name: Huang, Kaiwen
   joinDate: 04/07/2016
@@ -490,8 +490,9 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: There is no doubt that it is around the family and the home that all the
-    greatest virtues… are created, strengthened and maintained.
+  quote: Family isn’t always blood. It’s the people in your life who want you in
+    theirs; the ones who accept you for who you are. The ones that would do
+    anything to see you smile and who love you no matter what.
 - id: zulhilmi
   name: Icksan, Mohammad Zulhilmi
   joinDate: 1970-01-01
@@ -500,9 +501,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Family isn’t always blood. It’s the people in your life who want you in
-    theirs; the ones who accept you for who you are. The ones that would do
-    anything to see you smile and who love you no matter what.
+  quote: Family and friendships are two of the greatest facilitators of happiness.
 - id: aditya
   name: Jain, Aditya
   joinDate: 1970-01-01
@@ -511,8 +510,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: The only rock I know that stays steady, the only institution I know that
-    works, is the family.
+  quote: Families are like fudge – mostly sweet with a few nuts.
 - id: raisa
   name: Kabir, Raisa
   joinDate: 1970-01-01
@@ -521,7 +519,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Family is not defined by our genes, it is built and maintained through love.
+  quote: It’s all about the quality of life and finding a happy balance between
+    work and friends and family.
 - id: louiz
   name: Kim-Chan, Louiz
   joinDate: 1970-01-01
@@ -530,7 +529,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Other things may change us, but we start and end with the family.
+  quote: Ohana means family and family means nobody gets left behind or forgotten.
 - id: aiko
   name: Klostermann, Aiko
   joinDate: 1970-01-01
@@ -539,7 +538,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: A happy family is but an earlier heaven.
+  quote: The family – that dear octopus from whose tentacles we never quite
+    escape, nor, in our inmost hearts, ever quite wish to.
 - id: kathleen
   name: Koh, Kathleen
   joinDate: 1970-01-01
@@ -548,8 +548,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Stick to the basics, hold on to your family and friends – they will never
-    go out of fashion.
+  quote: It didn’t matter how big our house was; it mattered that there was love
+    in it.
 - id: samuel
   name: Koh, Samuel
   joinDate: 1970-01-01
@@ -558,7 +558,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Family is not an important thing. It’s everything.
+  quote: Being a family means you are a part of something very wonderful. It means
+    you will love and be loved for the rest of your life.
 - id: weeloong
   name: Kuan, Wee Loong
   joinDate: 1970-01-01
@@ -567,7 +568,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Family is the heart of a home.
+  quote: Families are the compass that guides us. They are the inspiration to
+    reach great heights, and our comfort when we occasionally falter.
 - id: jiehao
   name: Kwa, Jie Hao
   joinDate: 09/09/2019
@@ -576,7 +578,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: To us, family means putting your arms around each other and being there.
+  quote: "Family: A social unit where the father is concerned with parking space,
+    the children with outer space, and the mother with closet space."
 - id: jingyi
   name: Lai, Jing Yi
   joinDate: 1970-01-01
@@ -585,8 +588,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Having somewhere to go is home. Having someone to love is family. And
-    having both is a blessing.
+  quote: Being part of a family means smiling for photos.
 - id: keewei
   name: Lam, Kee Wei
   joinDate: 01/06/2020
@@ -595,8 +597,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Families are the compass that guides us. They are the inspiration to
-    reach great heights, and our comfort when we occasionally falter.
+  quote: Our family is a circle of strength of love with every birth and every
+    union the circle grows.
 - id: karrui
   name: Lau, Kar Rui
   joinDate: 03/02/2020
@@ -605,8 +607,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: In family life, love is the oil that eases friction, the cement that
-    binds closer together, and the music that brings harmony.
+  quote: Nothing is better than going home to family and eating good food and relaxing
 - id: dat
   name: Le Thanh, Dat
   joinDate: 1970-01-01
@@ -615,7 +616,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Family and friends are hidden treasures, seek them and enjoy their riches.
+  quote: To us, family means putting your arms around each other and being there.
 - id: alexander
   name: Lee, Alexander
   joinDate: 15/06/2020
@@ -624,7 +625,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Nothing is better than going home to family and eating good food and relaxing
+  quote: Treat your family like friends and your friends like family.
 - id: charmaine
   name: Lee, Charmaine
   joinDate: 1970-01-01
@@ -633,7 +634,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Family gives you the roots to stand tall and strong.
+  quote: The bond that links your true family is not one of blood, but of respect
+    and joy in each other’s life.
 - id: cheryl
   name: Lee, Cheryl
   joinDate: 1970-01-01
@@ -642,8 +644,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: "Call it a clan, call it a network, call it a tribe, call it a family:
-    Whatever you call it, whoever you are, you need one."
+  quote: "Blended families: woven together by choice, strengthened together by
+    love, tested by everything, and each uniquely ours."
 - id: kahhow
   name: Lee, Kahhow
   joinDate: 1970-01-01
@@ -652,8 +654,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: The bond that links your true family is not one of blood, but of respect
-    and joy in each other’s life.
+  quote: In time of test, family is best.
 - id: ken
   name: Lee, Ken
   joinDate: 27/02/2023
@@ -662,7 +663,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: The memories we make with our family is everything.
+  quote: Family is family.
 - id: lynette
   name: Lee, Lynette
   joinDate: 01/08/2023
@@ -671,7 +672,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Ohana means family and family means nobody gets left behind or forgotten.
+  quote: Family and friends are hidden treasures, seek them and enjoy their riches.
 - id: brianlee
   name: Lee, Siu Hei
   joinDate: 20/03/2023
@@ -680,8 +681,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Our family is a circle of strength of love with every birth and every
-    union the circle grows.
+  quote: Happiness is having a large, loving, caring, close-knit family in another
+    city.
 - id: zhiying
   name: Lee, Zhi Ying
   joinDate: 08/05/2023
@@ -690,8 +691,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Happiness is having a large, loving, caring, close-knit family in another
-    city.
+  quote: Stick to the basics, hold on to your family and friends – they will never
+    go out of fashion.
 - id: latasha
   name: Lenus, Latasha
   joinDate: 1970-01-01
@@ -711,8 +712,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: It didn’t matter how big our house was; it mattered that there was love
-    in it.
+  quote: Some people are worth melting for.
 - id: huixuan
   name: Leow, Hui Xuan
   joinDate: 04/07/2022
@@ -721,7 +721,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: In time of test, family is best.
+  quote: Family ties mean that no matter how much you might want to run from your
+    family, you can’t.
 - id: boren
   name: Lew, Bo Ren
   joinDate: 1970-01-01
@@ -730,8 +731,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: The family – that dear octopus from whose tentacles we never quite
-    escape, nor, in our inmost hearts, ever quite wish to.
+  quote: This is my family. I found it all on my own. It’s little, and broken, but
+    still good. Yeah. Still good.
 - id: lhy
   name: Li, Hongyi
   joinDate: 1970-01-01
@@ -740,8 +741,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: The family is the test of freedom; because the family is the only thing
-    that the free man makes for himself and by himself.
+  quote: Family is not an important thing. It’s everything.
 - id: yuanruo
   name: Liang, Yuanruo
   joinDate: 01/07/2019
@@ -750,8 +750,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: "Family: A social unit where the father is concerned with parking space,
-    the children with outer space, and the mother with closet space."
+  quote: There is no doubt that it is around the family and the home that all the
+    greatest virtues… are created, strengthened and maintained.
 - id: yihan
   name: Liao, Yihan
   joinDate: 17/05/2021
@@ -760,7 +760,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Where there is family, there is love.
+  quote: We may have our differences, but nothing’s more important than family.
 - id: carina
   name: Lim, Carina
   joinDate: 26/07/2021
@@ -769,7 +769,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: I didn’t give you the gift of life, but life gave me the gift of you.
+  quote: Rejoice with your family in the beautiful land of life.
 - id: lennard
   name: Lim, Fa Ping Lennard
   joinDate: 1970-01-01
@@ -778,8 +778,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: My family is my life, and everything else comes second as far as what’s
-    important to me.
+  quote: Family gives you the roots to stand tall and strong.
 - id: jiayee
   name: Lim, Jia Yee
   joinDate: 1970-01-01
@@ -788,8 +787,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Being a family means you are a part of something very wonderful. It means
-    you will love and be loved for the rest of your life.
+  quote: The memories we make with our family is everything.
 - id: qimmy
   name: Lim, Qi Xuan
   joinDate: 1970-01-01
@@ -798,7 +796,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: We may have our differences, but nothing’s more important than family.
+  quote: When trouble comes, it’s your family that supports you.
 - id: sengpoh
   name: Lim, Seng Poh
   joinDate: 1970-01-01
@@ -807,7 +805,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Life is beautiful. It’s about giving. It’s about family.
+  quote: The most important thing in the world is family and love.
 - id: ziwei
   name: Lim, Zi Wei
   joinDate: 04/07/2022
@@ -816,7 +814,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Some people are worth melting for.
+  quote: Having somewhere to go is home. Having someone to love is family. And
+    having both is a blessing.
 - id: huiqing
   name: Lin, Huiqing
   joinDate: 06/09/2021
@@ -825,7 +824,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Being part of a family means smiling for photos.
+  quote: The only rock I know that stays steady, the only institution I know that
+    works, is the family.
 - id: jennifer
   name: Liu, Jennifer
   joinDate: 1970-01-01
@@ -834,7 +834,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Rejoice with your family in the beautiful land of life.
+  quote: In family life, love is the oil that eases friction, the cement that
+    binds closer together, and the music that brings harmony.
 - id: joanna
   name: Lo Wai Fun, Joanna
   joinDate: 27/03/2023
@@ -843,7 +844,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Family and friendships are two of the greatest facilitators of happiness.
+  quote: "Call it a clan, call it a network, call it a tribe, call it a family:
+    Whatever you call it, whoever you are, you need one."
 - id: nicole
   name: Loh Wan Hua, Nicole
   joinDate: 1970-01-01
@@ -852,8 +854,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Family ties mean that no matter how much you might want to run from your
-    family, you can’t.
+  quote: Where there is family, there is love.
 - id: benjaminloh
   name: Loh, Benjamin
   joinDate: 1970-01-01
@@ -862,8 +863,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: "Blended families: woven together by choice, strengthened together by
-    love, tested by everything, and each uniquely ours."
+  quote: The informality of family life is a blessed condition that allows us all
+    to become our best while looking our worst.
 - id: rayner
   name: Loh, Rayner
   joinDate: 03/04/2023
@@ -872,8 +873,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: The informality of family life is a blessed condition that allows us all
-    to become our best while looking our worst.
+  quote: A happy family is but an earlier heaven.
 - id: jessendra
   name: Loke Swen, Jessendra
   joinDate: 1970-01-01
@@ -882,8 +882,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: This is my family. I found it all on my own. It’s little, and broken, but
-    still good. Yeah. Still good.
+  quote: To us, family means putting your arms around each other and being there.
 - id: desmond
   name: Lui, Desmond
   joinDate: 1970-01-01
@@ -892,7 +891,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Family is family.
+  quote: The family is the test of freedom; because the family is the only thing
+    that the free man makes for himself and by himself.
 - id: antariksh
   name: Mahajan, Antariksh
   joinDate: 02/03/2020
@@ -901,7 +901,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Families are like fudge – mostly sweet with a few nuts.
+  quote: My family is my life, and everything else comes second as far as what’s
+    important to me.
 - id: gautam
   name: Manek, Gautam
   joinDate: 1970-01-01
@@ -910,8 +911,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: It’s all about the quality of life and finding a happy balance between
-    work and friends and family.
+  quote: Family is not defined by our genes, it is built and maintained through love.
 - id: nitya
   name: Menon, Nitya
   joinDate: 1970-01-01
@@ -920,7 +920,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: The family is one of nature’s masterpieces.
+  quote: Other things may change us, but we start and end with the family.
 - id: feliciana
   name: Natali, Feliciana
   joinDate: 1970-01-01
@@ -929,7 +929,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: When trouble comes, it’s your family that supports you.
+  quote: I didn’t give you the gift of life, but life gave me the gift of you.
 - id: didymus
   name: Ne, Didymus
   joinDate: 08/05/2023
@@ -938,7 +938,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: To us, family means putting your arms around each other and being there.
+  quote: Life is beautiful. It’s about giving. It’s about family.
 - id: geraldneo
   name: Neo, Gerald
   joinDate: 22/05/2023
@@ -947,7 +947,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: The most important thing in the world is family and love.
+  quote: The family is one of nature’s masterpieces.
 - id: christabel
   name: Neo, Xiuwen Christabel
   joinDate: 1970-01-01
@@ -956,19 +956,9 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Treat your family like friends and your friends like family.
+  quote: Family is the heart of a home.
 - id: darren
   name: Ng, Darren
-  joinDate: 1970-01-01
-  function: eng
-  title: Serious Title
-  curProducts: currentProducts
-  pastProducts: pastProducts
-  accomplishments: ""
-  quote: There is no doubt that it is around the family and the home that all the
-    greatest virtues… are created, strengthened and maintained.
-- id: nicholasng
-  name: Ng, Nicholas Zhi Hao
   joinDate: 1970-01-01
   function: eng
   title: Serious Title
@@ -978,6 +968,15 @@
   quote: Family isn’t always blood. It’s the people in your life who want you in
     theirs; the ones who accept you for who you are. The ones that would do
     anything to see you smile and who love you no matter what.
+- id: nicholasng
+  name: Ng, Nicholas Zhi Hao
+  joinDate: 1970-01-01
+  function: eng
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
+  accomplishments: ""
+  quote: Family and friendships are two of the greatest facilitators of happiness.
 - id: stanley
   name: Nguyen, Hung
   joinDate: 1970-01-01
@@ -986,8 +985,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: The only rock I know that stays steady, the only institution I know that
-    works, is the family.
+  quote: Families are like fudge – mostly sweet with a few nuts.
 - id: jenwei
   name: Niam, Jen Wei
   joinDate: 1970-01-01
@@ -996,7 +994,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Family is not defined by our genes, it is built and maintained through love.
+  quote: It’s all about the quality of life and finding a happy balance between
+    work and friends and family.
 - id: chinyang
   name: Oh, Chin Yang
   joinDate: 06/03/2023
@@ -1005,7 +1004,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Other things may change us, but we start and end with the family.
+  quote: Ohana means family and family means nobody gets left behind or forgotten.
 - id: justyn
   name: Oh, Wei Jin
   joinDate: 13/06/2022
@@ -1014,7 +1013,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: A happy family is but an earlier heaven.
+  quote: The family – that dear octopus from whose tentacles we never quite
+    escape, nor, in our inmost hearts, ever quite wish to.
 - id: cheri
   name: Ong, Cheri
   joinDate: 1970-01-01
@@ -1023,8 +1023,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Stick to the basics, hold on to your family and friends – they will never
-    go out of fashion.
+  quote: It didn’t matter how big our house was; it mattered that there was love
+    in it.
 - id: pearly
   name: Ong, Pearly
   joinDate: 21/10/2019
@@ -1033,7 +1033,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Family is not an important thing. It’s everything.
+  quote: Being a family means you are a part of something very wonderful. It means
+    you will love and be loved for the rest of your life.
 - id: simin
   name: Ong, Si Min
   joinDate: 1970-01-01
@@ -1042,7 +1043,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Family is the heart of a home.
+  quote: Families are the compass that guides us. They are the inspiration to
+    reach great heights, and our comfort when we occasionally falter.
 - id: sehyun
   name: Park, Se Hyun
   joinDate: 1970-01-01
@@ -1051,7 +1053,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: To us, family means putting your arms around each other and being there.
+  quote: "Family: A social unit where the father is concerned with parking space,
+    the children with outer space, and the mother with closet space."
 - id: pete
   name: Patanapanlert, Krit
   joinDate: 1970-01-01
@@ -1060,8 +1063,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Having somewhere to go is home. Having someone to love is family. And
-    having both is a blessing.
+  quote: Being part of a family means smiling for photos.
 - id: fiona
   name: Pay Si Ying, Fiona
   joinDate: 24/07/2023
@@ -1070,8 +1072,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Families are the compass that guides us. They are the inspiration to
-    reach great heights, and our comfort when we occasionally falter.
+  quote: Our family is a circle of strength of love with every birth and every
+    union the circle grows.
 - id: christabelpng
   name: Png, Christabel
   joinDate: 01/06/2020
@@ -1080,8 +1082,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: In family life, love is the oil that eases friction, the cement that
-    binds closer together, and the music that brings harmony.
+  quote: Nothing is better than going home to family and eating good food and relaxing
 - id: pranu
   name: Pranu, Sarna
   joinDate: 1970-01-01
@@ -1090,7 +1091,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Family and friends are hidden treasures, seek them and enjoy their riches.
+  quote: To us, family means putting your arms around each other and being there.
 - id: kishore
   name: R, Kishore
   joinDate: 1970-01-01
@@ -1099,7 +1100,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Nothing is better than going home to family and eating good food and relaxing
+  quote: Treat your family like friends and your friends like family.
 - id: rachel
   name: Rachel, Tan Si Ying
   joinDate: 1970-01-01
@@ -1108,7 +1109,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Family gives you the roots to stand tall and strong.
+  quote: The bond that links your true family is not one of blood, but of respect
+    and joy in each other’s life.
 - id: praveen
   name: Raj Kumar, Praveen
   joinDate: 1970-01-01
@@ -1117,8 +1119,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: "Call it a clan, call it a network, call it a tribe, call it a family:
-    Whatever you call it, whoever you are, you need one."
+  quote: "Blended families: woven together by choice, strengthened together by
+    love, tested by everything, and each uniquely ours."
 - id: veena
   name: Rao, Anavatti Veena
   joinDate: 1970-01-01
@@ -1127,8 +1129,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: The bond that links your true family is not one of blood, but of respect
-    and joy in each other’s life.
+  quote: In time of test, family is best.
 - id: suhaila
   name: Roslan, Suhaila
   joinDate: 05/04/2021
@@ -1137,7 +1138,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: The memories we make with our family is everything.
+  quote: Family is family.
 - id: khaleedah
   name: Sairi, Khaleedah
   joinDate: 12/07/2021
@@ -1146,8 +1147,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Happiness is having a large, loving, caring, close-knit family in another
-    city.
+  quote: Stick to the basics, hold on to your family and friends – they will never
+    go out of fashion.
 - id: sarahsalim
   name: Salim, Siti Sarah
   joinDate: 1970-01-01
@@ -1167,8 +1168,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: It didn’t matter how big our house was; it mattered that there was love
-    in it.
+  quote: Some people are worth melting for.
 - id: chinying
   name: Seah, Chin Ying
   joinDate: 19/11/2018
@@ -1177,7 +1177,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: In time of test, family is best.
+  quote: Family ties mean that no matter how much you might want to run from your
+    family, you can’t.
 - id: sean
   name: Sean, Lum Jian Yang
   joinDate: 1970-01-01
@@ -1186,8 +1187,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: The family – that dear octopus from whose tentacles we never quite
-    escape, nor, in our inmost hearts, ever quite wish to.
+  quote: This is my family. I found it all on my own. It’s little, and broken, but
+    still good. Yeah. Still good.
 - id: ziyang
   name: See, Zi Yang
   joinDate: 1970-01-01
@@ -1196,8 +1197,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: The family is the test of freedom; because the family is the only thing
-    that the free man makes for himself and by himself.
+  quote: Family is not an important thing. It’s everything.
 - id: hena
   name: Shah, Hena
   joinDate: 1970-01-01
@@ -1206,8 +1206,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: "Family: A social unit where the father is concerned with parking space,
-    the children with outer space, and the mother with closet space."
+  quote: There is no doubt that it is around the family and the home that all the
+    greatest virtues… are created, strengthened and maintained.
 - id: huiling
   name: Shi, Hui Ling
   joinDate: 1970-01-01
@@ -1216,7 +1216,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Where there is family, there is love.
+  quote: We may have our differences, but nothing’s more important than family.
 - id: ajayraj
   name: Singh, Ajayraj
   joinDate: 13/06/2022
@@ -1225,7 +1225,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: I didn’t give you the gift of life, but life gave me the gift of you.
+  quote: Rejoice with your family in the beautiful land of life.
 - id: stephanie
   name: Siow, Stephanie
   joinDate: 01/04/2022
@@ -1234,8 +1234,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: My family is my life, and everything else comes second as far as what’s
-    important to me.
+  quote: Family gives you the roots to stand tall and strong.
 - id: kenneth
   name: Sng, Kenneth
   joinDate: 1970-01-01
@@ -1244,8 +1243,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Being a family means you are a part of something very wonderful. It means
-    you will love and be loved for the rest of your life.
+  quote: The memories we make with our family is everything.
 - id: moses
   name: Soh, Moses
   joinDate: 05/12/2022
@@ -1254,7 +1252,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: We may have our differences, but nothing’s more important than family.
+  quote: When trouble comes, it’s your family that supports you.
 - id: zeke
   name: Soh, Yi Zhi Zeke
   joinDate: 1970-01-01
@@ -1263,7 +1261,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Life is beautiful. It’s about giving. It’s about family.
+  quote: The most important thing in the world is family and love.
 - id: nicolas
   name: Spano, Nicolas
   joinDate: 1970-01-01
@@ -1272,7 +1270,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Some people are worth melting for.
+  quote: Having somewhere to go is home. Having someone to love is family. And
+    having both is a blessing.
 - id: angel
   name: Suhardi, Maria
   joinDate: 1970-01-01
@@ -1281,7 +1280,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Being part of a family means smiling for photos.
+  quote: The only rock I know that stays steady, the only institution I know that
+    works, is the family.
 - id: airika
   name: Takeguchi, Airika
   joinDate: 1970-01-01
@@ -1290,7 +1290,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Rejoice with your family in the beautiful land of life.
+  quote: In family life, love is the oil that eases friction, the cement that
+    binds closer together, and the music that brings harmony.
 - id: stacey
   name: Tan Seok Sim, Stacey
   joinDate: 07/02/2022
@@ -1299,7 +1300,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Family and friendships are two of the greatest facilitators of happiness.
+  quote: "Call it a clan, call it a network, call it a tribe, call it a family:
+    Whatever you call it, whoever you are, you need one."
 - id: dexter
   name: Tan Ying Jie, Dexter
   joinDate: 09/05/2022
@@ -1308,8 +1310,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Family ties mean that no matter how much you might want to run from your
-    family, you can’t.
+  quote: Where there is family, there is love.
 - id: alwyn.tan
   name: Tan, Alwyn Solomon
   joinDate: 1970-01-01
@@ -1318,8 +1319,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: "Blended families: woven together by choice, strengthened together by
-    love, tested by everything, and each uniquely ours."
+  quote: The informality of family life is a blessed condition that allows us all
+    to become our best while looking our worst.
 - id: geraldine
   name: Tan, Geraldine
   joinDate: 1970-01-01
@@ -1328,8 +1329,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: The informality of family life is a blessed condition that allows us all
-    to become our best while looking our worst.
+  quote: A happy family is but an earlier heaven.
 - id: max
   name: Tan, Huiyi
   joinDate: 06/03/2023
@@ -1338,8 +1338,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: This is my family. I found it all on my own. It’s little, and broken, but
-    still good. Yeah. Still good.
+  quote: To us, family means putting your arms around each other and being there.
 - id: jieyin
   name: Tan, Jie Yin
   joinDate: 1970-01-01
@@ -1348,7 +1347,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Family is family.
+  quote: The family is the test of freedom; because the family is the only thing
+    that the free man makes for himself and by himself.
 - id: joshua
   name: Tan, Junming
   joinDate: 06/09/2021
@@ -1357,7 +1357,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Families are like fudge – mostly sweet with a few nuts.
+  quote: My family is my life, and everything else comes second as far as what’s
+    important to me.
 - id: kevan
   name: Tan, Kevan
   joinDate: 18/11/2019
@@ -1366,8 +1367,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: It’s all about the quality of life and finding a happy balance between
-    work and friends and family.
+  quote: Family is not defined by our genes, it is built and maintained through love.
 - id: leyang
   name: Tan, Le Yang
   joinDate: 1970-01-01
@@ -1376,7 +1376,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: The family is one of nature’s masterpieces.
+  quote: Other things may change us, but we start and end with the family.
 - id: natalie
   name: Tan, Natalie
   joinDate: 06/04/2020
@@ -1385,7 +1385,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: When trouble comes, it’s your family that supports you.
+  quote: I didn’t give you the gift of life, but life gave me the gift of you.
 - id: weilun
   name: Tan, Wei Lun
   joinDate: 1970-01-01
@@ -1394,7 +1394,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: To us, family means putting your arms around each other and being there.
+  quote: Life is beautiful. It’s about giving. It’s about family.
 - id: weiseng2
   name: Tan, Wei Seng
   joinDate: 22/02/2021
@@ -1403,7 +1403,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: The most important thing in the world is family and love.
+  quote: The family is one of nature’s masterpieces.
 - id: zixiang
   name: Tan, Zi Xiang
   joinDate: 10/01/2022
@@ -1412,7 +1412,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Treat your family like friends and your friends like family.
+  quote: Family is the heart of a home.
 - id: amelia
   name: Tay Li Jia, Amelia
   joinDate: 07/08/2023
@@ -1421,8 +1421,9 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: There is no doubt that it is around the family and the home that all the
-    greatest virtues… are created, strengthened and maintained.
+  quote: Family isn’t always blood. It’s the people in your life who want you in
+    theirs; the ones who accept you for who you are. The ones that would do
+    anything to see you smile and who love you no matter what.
 - id: paul
   name: Tay, Paul hong
   joinDate: 1970-01-01
@@ -1431,9 +1432,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Family isn’t always blood. It’s the people in your life who want you in
-    theirs; the ones who accept you for who you are. The ones that would do
-    anything to see you smile and who love you no matter what.
+  quote: Family and friendships are two of the greatest facilitators of happiness.
 - id: mayying
   name: Tee, May Ying
   joinDate: 1970-01-01
@@ -1442,8 +1441,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: The only rock I know that stays steady, the only institution I know that
-    works, is the family.
+  quote: Families are like fudge – mostly sweet with a few nuts.
 - id: shawn
   name: Ten, Shawn
   joinDate: 1970-01-01
@@ -1452,7 +1450,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Family is not defined by our genes, it is built and maintained through love.
+  quote: It’s all about the quality of life and finding a happy balance between
+    work and friends and family.
 - id: clifford
   name: Teo, Clifford
   joinDate: 1970-01-01
@@ -1461,7 +1460,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Other things may change us, but we start and end with the family.
+  quote: Ohana means family and family means nobody gets left behind or forgotten.
 - id: shuli
   name: Teo, Shu Li
   joinDate: 20/04/2020
@@ -1470,7 +1469,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: A happy family is but an earlier heaven.
+  quote: The family – that dear octopus from whose tentacles we never quite
+    escape, nor, in our inmost hearts, ever quite wish to.
 - id: simun
   name: Tham, Si Mun
   joinDate: 1970-01-01
@@ -1479,8 +1479,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Stick to the basics, hold on to your family and friends – they will never
-    go out of fashion.
+  quote: It didn’t matter how big our house was; it mattered that there was love
+    in it.
 - id: wanling
   name: Thoo, Wan Ling
   joinDate: 13/09/2021
@@ -1489,7 +1489,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Family is not an important thing. It’s everything.
+  quote: Being a family means you are a part of something very wonderful. It means
+    you will love and be loved for the rest of your life.
 - id: lisa
   name: Tjide, Lisa
   joinDate: 26/11/2018
@@ -1498,7 +1499,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Family is the heart of a home.
+  quote: Families are the compass that guides us. They are the inspiration to
+    reach great heights, and our comfort when we occasionally falter.
 - id: reshma
   name: Vasu, Reshma
   joinDate: 1970-01-01
@@ -1507,7 +1509,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: To us, family means putting your arms around each other and being there.
+  quote: "Family: A social unit where the father is concerned with parking space,
+    the children with outer space, and the mother with closet space."
 - id: harish
   name: Venkatesan, Harish
   joinDate: 1970-01-01
@@ -1516,8 +1519,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Having somewhere to go is home. Having someone to love is family. And
-    having both is a blessing.
+  quote: Being part of a family means smiling for photos.
 - id: adan
   name: Vielma, Adan
   joinDate: 1970-01-01
@@ -1526,8 +1528,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Families are the compass that guides us. They are the inspiration to
-    reach great heights, and our comfort when we occasionally falter.
+  quote: Our family is a circle of strength of love with every birth and every
+    union the circle grows.
 - id: sebastian
   name: Wong Zhi Qian, Sebastian
   joinDate: 1970-01-01
@@ -1536,8 +1538,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: In family life, love is the oil that eases friction, the cement that
-    binds closer together, and the music that brings harmony.
+  quote: Nothing is better than going home to family and eating good food and relaxing
 - id: kendra
   name: Wong, Kendra
   joinDate: 1970-01-01
@@ -1546,7 +1547,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Family and friends are hidden treasures, seek them and enjoy their riches.
+  quote: To us, family means putting your arms around each other and being there.
 - id: austin
   name: Woon Quan, Austin
   joinDate: 1970-01-01
@@ -1555,7 +1556,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Nothing is better than going home to family and eating good food and relaxing
+  quote: Treat your family like friends and your friends like family.
 - id: qilu
   name: Xie, Qilu
   joinDate: 06/02/2023
@@ -1564,7 +1565,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Family gives you the roots to stand tall and strong.
+  quote: The bond that links your true family is not one of blood, but of respect
+    and joy in each other’s life.
 - id: richardyak
   name: Yak, Kian Feng
   joinDate: 1970-01-01
@@ -1573,8 +1575,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: "Call it a clan, call it a network, call it a tribe, call it a family:
-    Whatever you call it, whoever you are, you need one."
+  quote: "Blended families: woven together by choice, strengthened together by
+    love, tested by everything, and each uniquely ours."
 - id: syan
   name: Yan, Sonjia
   joinDate: 04/09/2019
@@ -1583,8 +1585,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: The bond that links your true family is not one of blood, but of respect
-    and joy in each other’s life.
+  quote: In time of test, family is best.
 - id: xinghao
   name: Yang, XingHao
   joinDate: 1970-01-01
@@ -1593,7 +1594,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: The memories we make with our family is everything.
+  quote: Family is family.
 - id: jackson
   name: Yap, Jackson
   joinDate: 31/08/2020
@@ -1602,7 +1603,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Ohana means family and family means nobody gets left behind or forgotten.
+  quote: Family and friends are hidden treasures, seek them and enjoy their riches.
 - id: jiahui
   name: Yap, Jia Hui
   joinDate: 1970-01-01
@@ -1611,8 +1612,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Our family is a circle of strength of love with every birth and every
-    union the circle grows.
+  quote: Happiness is having a large, loving, caring, close-knit family in another
+    city.
 - id: peizhen
   name: Yap, Pei Zhen
   joinDate: 08/05/2023
@@ -1621,8 +1622,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Happiness is having a large, loving, caring, close-knit family in another
-    city.
+  quote: Stick to the basics, hold on to your family and friends – they will never
+    go out of fashion.
 - id: foong
   name: Yi Zhuan, Foong
   joinDate: 17/07/2023
@@ -1642,8 +1643,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: It didn’t matter how big our house was; it mattered that there was love
-    in it.
+  quote: Some people are worth melting for.
 - id: khant
   name: Zaw, Khant
   joinDate: 1970-01-01
@@ -1652,7 +1652,8 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: In time of test, family is best.
+  quote: Family ties mean that no matter how much you might want to run from your
+    family, you can’t.
 - id: arshad
   name: s/o Abdul Samad, Arshad Ali
   joinDate: 1970-01-01
@@ -1661,7 +1662,7 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Ohana means family and family means nobody gets left behind or forgotten.
+  quote: Family and friends are hidden treasures, seek them and enjoy their riches.
 - id: pallani
   name: s/o Selvan, Pallanikumaran
   joinDate: 11/05/2015
@@ -1670,5 +1671,5 @@
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
-  quote: Our family is a circle of strength of love with every birth and every
-    union the circle grows.
+  quote: Happiness is having a large, loving, caring, close-knit family in another
+    city.
