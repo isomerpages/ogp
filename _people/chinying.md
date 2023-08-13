@@ -1,22 +1,15 @@
 ---
 title: Seah, Chin Ying
 permalink: /people/chinying
-description: ""
+description: "Seah, Chin Ying - Serious Title"
 ---
 
 {%- assign staff = site.data.people | find: "id", "chinying" -%}
 {% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
-## About Me
+<p>I joined since 19/11/2018 and I am currently working on currentProducts.</p>
 
-**Joined on**: 19/11/2018
+<p>Products I worked on before include pastProducts</p>
 
-**Function**: eng
-
-## What I've worked on
-
-**Products/things I've worked on**:
-
-
-**Some of my accomplishments**:
+<p>Three things I've done recently which I'm proud of are...</p>
 

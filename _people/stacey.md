@@ -1,22 +1,15 @@
 ---
 title: Tan Seok Sim, Stacey
 permalink: /people/stacey
-description: ""
+description: "Tan Seok Sim, Stacey - Serious Title"
 ---
 
 {%- assign staff = site.data.people | find: "id", "stacey" -%}
 {% include staff_heading.html staff=staff color=site.colors.function-colors.design %}
 
-## About Me
+<p>I joined since 07/02/2022 and I am currently working on currentProducts.</p>
 
-**Joined on**: 07/02/2022
+<p>Products I worked on before include pastProducts</p>
 
-**Function**: design
-
-## What I've worked on
-
-**Products/things I've worked on**:
-
-
-**Some of my accomplishments**:
+<p>Three things I've done recently which I'm proud of are...</p>
 

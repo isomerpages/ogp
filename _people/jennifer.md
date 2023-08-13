@@ -1,22 +1,15 @@
 ---
 title: Liu, Jennifer
 permalink: /people/jennifer
-description: ""
+description: "Liu, Jennifer - Serious Title"
 ---
 
 {%- assign staff = site.data.people | find: "id", "jennifer" -%}
 {% include staff_heading.html staff=staff color=site.colors.function-colors.pm %}
 
-## About Me
+<p>I joined since 1970-01-01 and I am currently working on currentProducts.</p>
 
-**Joined on**: 
+<p>Products I worked on before include pastProducts</p>
 
-**Function**: pm
-
-## What I've worked on
-
-**Products/things I've worked on**:
-
-
-**Some of my accomplishments**:
+<p>Three things I've done recently which I'm proud of are...</p>
 

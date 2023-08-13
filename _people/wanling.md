@@ -1,22 +1,15 @@
 ---
 title: Thoo, Wan Ling
 permalink: /people/wanling
-description: ""
+description: "Thoo, Wan Ling - Serious Title"
 ---
 
 {%- assign staff = site.data.people | find: "id", "wanling" -%}
 {% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
-## About Me
+<p>I joined since 13/09/2021 and I am currently working on currentProducts.</p>
 
-**Joined on**: 13/09/2021
+<p>Products I worked on before include pastProducts</p>
 
-**Function**: eng
-
-## What I've worked on
-
-**Products/things I've worked on**:
-
-
-**Some of my accomplishments**:
+<p>Three things I've done recently which I'm proud of are...</p>
 

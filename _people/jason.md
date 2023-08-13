@@ -1,22 +1,15 @@
 ---
 title: Chong, Jason
 permalink: /people/jason
-description: ""
+description: "Chong, Jason - Serious Title"
 ---
 
 {%- assign staff = site.data.people | find: "id", "jason" -%}
 {% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
-## About Me
+<p>I joined since 11/05/2020 and I am currently working on currentProducts.</p>
 
-**Joined on**: 11/05/2020
+<p>Products I worked on before include pastProducts</p>
 
-**Function**: eng
-
-## What I've worked on
-
-**Products/things I've worked on**:
-
-
-**Some of my accomplishments**:
+<p>Three things I've done recently which I'm proud of are...</p>
 

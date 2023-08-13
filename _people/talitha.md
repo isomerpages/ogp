@@ -1,22 +1,15 @@
 ---
 title: Chin, Rui Ling Talitha
 permalink: /people/talitha
-description: ""
+description: "Chin, Rui Ling Talitha - Serious Title"
 ---
 
 {%- assign staff = site.data.people | find: "id", "talitha" -%}
 {% include staff_heading.html staff=staff color=site.colors.function-colors.pm %}
 
-## About Me
+<p>I joined since 15/10/2018 and I am currently working on currentProducts.</p>
 
-**Joined on**: 15/10/2018
+<p>Products I worked on before include pastProducts</p>
 
-**Function**: pm
-
-## What I've worked on
-
-**Products/things I've worked on**:
-
-
-**Some of my accomplishments**:
+<p>Three things I've done recently which I'm proud of are...</p>
 

@@ -1,22 +1,15 @@
 ---
 title: Soh, Moses
 permalink: /people/moses
-description: ""
+description: "Soh, Moses - Serious Title"
 ---
 
 {%- assign staff = site.data.people | find: "id", "moses" -%}
 {% include staff_heading.html staff=staff color=site.colors.function-colors.pm %}
 
-## About Me
+<p>I joined since 05/12/2022 and I am currently working on currentProducts.</p>
 
-**Joined on**: 05/12/2022
+<p>Products I worked on before include pastProducts</p>
 
-**Function**: pm
-
-## What I've worked on
-
-**Products/things I've worked on**:
-
-
-**Some of my accomplishments**:
+<p>Three things I've done recently which I'm proud of are...</p>
 

@@ -1,22 +1,15 @@
 ---
 title: Pay Si Ying, Fiona
 permalink: /people/fiona
-description: ""
+description: "Pay Si Ying, Fiona - Serious Title"
 ---
 
 {%- assign staff = site.data.people | find: "id", "fiona" -%}
 {% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
-## About Me
+<p>I joined since 24/07/2023 and I am currently working on currentProducts.</p>
 
-**Joined on**: 24/07/2023
+<p>Products I worked on before include pastProducts</p>
 
-**Function**: eng
-
-## What I've worked on
-
-**Products/things I've worked on**:
-
-
-**Some of my accomplishments**:
+<p>Three things I've done recently which I'm proud of are...</p>
 

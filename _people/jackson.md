@@ -1,22 +1,15 @@
 ---
 title: Yap, Jackson
 permalink: /people/jackson
-description: ""
+description: "Yap, Jackson - Serious Title"
 ---
 
 {%- assign staff = site.data.people | find: "id", "jackson" -%}
 {% include staff_heading.html staff=staff color=site.colors.function-colors.ops %}
 
-## About Me
+<p>I joined since 31/08/2020 and I am currently working on currentProducts.</p>
 
-**Joined on**: 31/08/2020
+<p>Products I worked on before include pastProducts</p>
 
-**Function**: ops
-
-## What I've worked on
-
-**Products/things I've worked on**:
-
-
-**Some of my accomplishments**:
+<p>Three things I've done recently which I'm proud of are...</p>
 

@@ -2,1407 +2,1674 @@
   name: Ang, Chien Ling
   joinDate: 10/08/2021
   function: workplace
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: In time of test, family is best.
 - id: jasmine
   name: Ang, Jasmine
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Family and friendships are two of the greatest facilitators of happiness.
 - id: yixin
   name: Ang, Yi Xin
   joinDate: 06/03/2023
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: To us, family means putting your arms around each other and being there.
 - id: kishen
   name: Ashok Kumar, Kishen
   joinDate: 06/06/2022
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: The family is the test of freedom; because the family is the only thing
+    that the free man makes for himself and by himself.
 - id: prakriti
   name: Bansal, Prakriti
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Where there is family, there is love.
 - id: shanty
   name: Basrur, Shantanu Dilip
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Happiness is having a large, loving, caring, close-knit family in another
+    city.
 - id: sheikh
   name: Bin Mohamed Aneess Alrragi, Sheikh Salim
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Family is the heart of a home.
 - id: sufyan
   name: Bin Selamet, Sufyan
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Family ties mean that no matter how much you might want to run from your
+    family, you can’t.
 - id: shazli
   name: Bin Shahril Shintaro, Muhammad Shazli
-  joinDate: ""
+  joinDate: 1970-01-01
   function: ops
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: The informality of family life is a blessed condition that allows us all
+    to become our best while looking our worst.
 - id: benjamin
   name: Bowes, Benjamin
-  joinDate: ""
+  joinDate: 1970-01-01
   function: design
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: The family – that dear octopus from whose tentacles we never quite
+    escape, nor, in our inmost hearts, ever quite wish to.
 - id: daryl
   name: Chan, Daryl
   joinDate: 03/01/2022
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Family is family.
 - id: oliver
   name: Chan, Oliver
   joinDate: 13/12/2021
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Life is beautiful. It’s about giving. It’s about family.
 - id: russell
   name: Chan, Russell
   joinDate: 02/09/2019
   function: workplace
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Families are the compass that guides us. They are the inspiration to
+    reach great heights, and our comfort when we occasionally falter.
 - id: tiffany
   name: Chan, Tiffany
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Family is not defined by our genes, it is built and maintained through love.
 - id: shreyas
   name: Chandrakanth Rao Inna, Shreyas
   joinDate: 22/05/2023
   function: ops
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: The memories we make with our family is everything.
 - id: kennethchang
   name: Chang, Kenneth
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Being a family means you are a part of something very wonderful. It means
+    you will love and be loved for the rest of your life.
 - id: ian
   name: Chen, Wei Ian
   joinDate: 03/09/2018
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Stick to the basics, hold on to your family and friends – they will never
+    go out of fashion.
 - id: keith
   name: Chew, Mun Kei
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Think of your family today and every day thereafter, don’t let the busy
+    world of today keep you from showing how much you love and appreciate your
+    family.
 - id: fabian
   name: Chia Hup Peng, Fabian
   joinDate: 04/07/2022
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Other things may change us, but we start and end with the family.
 - id: clement
   name: Chia, Clement
-  joinDate: ""
+  joinDate: 1970-01-01
   function: ops
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Our family is a circle of strength of love with every birth and every
+    union the circle grows.
 - id: caleb
   name: Chiam, Caleb
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: It’s all about the quality of life and finding a happy balance between
+    work and friends and family.
 - id: kokseng
   name: Chiew, Kok Seng
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: The bond that links your true family is not one of blood, but of respect
+    and joy in each other’s life.
 - id: talitha
   name: Chin, Rui Ling Talitha
   joinDate: 15/10/2018
   function: pm
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: "Family: A social unit where the father is concerned with parking space,
+    the children with outer space, and the mother with closet space."
 - id: bernadette
   name: Cho, Bernadette Marisa Chien Ling
-  joinDate: ""
+  joinDate: 1970-01-01
   function: workplace
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Rejoice with your family in the beautiful land of life.
 - id: jason
   name: Chong, Jason
   joinDate: 11/05/2020
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: The only rock I know that stays steady, the only institution I know that
+    works, is the family.
 - id: lorraine
   name: Choo, Lorraine
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: There is no doubt that it is around the family and the home that all the
+    greatest virtues… are created, strengthened and maintained.
 - id: christian
   name: Chow, Christian
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Family is not an important thing. It’s everything.
 - id: hanu
   name: Damodaran, Hanu
   joinDate: 27/02/2023
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Family and friends are hidden treasures, seek them and enjoy their riches.
 - id: danelynn
   name: Danelynn, Ding You Jia,
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Family isn’t always blood. It’s the people in your life who want you in
+    theirs; the ones who accept you for who you are. The ones that would do
+    anything to see you smile and who love you no matter what.
 - id: sihan
   name: Ding, Si Han
   joinDate: 13/06/2022
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: The family is one of nature’s masterpieces.
 - id: wenjia
   name: Dong, Wen Jia
   joinDate: 17/07/2023
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: The most important thing in the world is family and love.
 - id: jan
   name: Donyada, Jan
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Having somewhere to go is home. Having someone to love is family. And
+    having both is a blessing.
 - id: jiachin
   name: Er, Jia Chin
   joinDate: 04/01/2021
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: When trouble comes, it’s your family that supports you.
 - id: sarahespaldon
   name: Espaldon, Sarah
   joinDate: 04/11/2019
   function: workplace
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: This is my family. I found it all on my own. It’s little, and broken, but
+    still good. Yeah. Still good.
 - id: hygin
   name: Fernandez, Hygin
-  joinDate: ""
+  joinDate: 1970-01-01
   function: policy
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: To us, family means putting your arms around each other and being there.
 - id: amitha
   name: Fernando, Amitha
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Family gives you the roots to stand tall and strong.
 - id: chifa
   name: Foo, Chi Fa
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: In family life, love is the oil that eases friction, the cement that
+    binds closer together, and the music that brings harmony.
 - id: yongjie
   name: Foo, Yong Jie
   joinDate: 02/12/2019
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Being part of a family means smiling for photos.
 - id: chinyao
   name: Gan, Chin Yao
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: It didn’t matter how big our house was; it mattered that there was love
+    in it.
 - id: hongyao
   name: Gan, Hong Yao
   joinDate: 14/08/2023
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: "Blended families: woven together by choice, strengthened together by
+    love, tested by everything, and each uniquely ours."
 - id: prawira
   name: Genestonlia, Prawira
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: My family is my life, and everything else comes second as far as what’s
+    important to me.
 - id: ciqin
   name: Ghwee, Ciqin
   joinDate: 22/05/2023
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: A happy family is but an earlier heaven.
 - id: alexis
   name: Goh, Weiying
   joinDate: 29/06/2020
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: "Call it a clan, call it a network, call it a tribe, call it a family:
+    Whatever you call it, whoever you are, you need one."
 - id: blake
   name: Gong, Blake
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: I didn’t give you the gift of life, but life gave me the gift of you.
 - id: timothee
   name: Groleau, Timothee
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
   title: Lead Software Engineer
-  description: ""
-  products: ""
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Ohana means family and family means nobody gets left behind or forgotten.
 - id: james
   name: Hibberd, James
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Treat your family like friends and your friends like family.
 - id: shannen
   name: Ho Yun Fang, Shannen
-  joinDate: ""
+  joinDate: 1970-01-01
   function: workplace
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Nothing is better than going home to family and eating good food and relaxing
 - id: ivan
   name: Ho, Ivan
   joinDate: 06/04/2020
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Families are like fudge – mostly sweet with a few nuts.
 - id: zonghan
   name: Ho, Zong Han
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: We may have our differences, but nothing’s more important than family.
 - id: malcolm
   name: Hong Malcolm, Ong Guan
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Some people are worth melting for.
 - id: zhongjun
   name: Hsu, Zhong Jun
   joinDate: 08/08/2022
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: In time of test, family is best.
 - id: kaiwen
   name: Huang, Kaiwen
   joinDate: 04/07/2016
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Family and friendships are two of the greatest facilitators of happiness.
 - id: zulhilmi
   name: Icksan, Mohammad Zulhilmi
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: To us, family means putting your arms around each other and being there.
 - id: aditya
   name: Jain, Aditya
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: The family is the test of freedom; because the family is the only thing
+    that the free man makes for himself and by himself.
 - id: raisa
   name: Kabir, Raisa
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Where there is family, there is love.
 - id: louiz
   name: Kim-Chan, Louiz
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Happiness is having a large, loving, caring, close-knit family in another
+    city.
 - id: aiko
   name: Klostermann, Aiko
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Family is the heart of a home.
 - id: kathleen
   name: Koh, Kathleen
-  joinDate: ""
+  joinDate: 1970-01-01
   function: pm
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Family ties mean that no matter how much you might want to run from your
+    family, you can’t.
 - id: samuel
   name: Koh, Samuel
-  joinDate: ""
+  joinDate: 1970-01-01
   function: ops
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: The informality of family life is a blessed condition that allows us all
+    to become our best while looking our worst.
 - id: weeloong
   name: Kuan, Wee Loong
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: The family – that dear octopus from whose tentacles we never quite
+    escape, nor, in our inmost hearts, ever quite wish to.
 - id: jiehao
   name: Kwa, Jie Hao
   joinDate: 09/09/2019
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Family is family.
 - id: jingyi
   name: Lai, Jing Yi
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Life is beautiful. It’s about giving. It’s about family.
 - id: keewei
   name: Lam, Kee Wei
   joinDate: 01/06/2020
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Families are the compass that guides us. They are the inspiration to
+    reach great heights, and our comfort when we occasionally falter.
 - id: karrui
   name: Lau, Kar Rui
   joinDate: 03/02/2020
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Family is not defined by our genes, it is built and maintained through love.
 - id: dat
   name: Le Thanh, Dat
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: The memories we make with our family is everything.
 - id: alexander
   name: Lee, Alexander
   joinDate: 15/06/2020
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Being a family means you are a part of something very wonderful. It means
+    you will love and be loved for the rest of your life.
 - id: charmaine
   name: Lee, Charmaine
-  joinDate: ""
+  joinDate: 1970-01-01
   function: pm
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Stick to the basics, hold on to your family and friends – they will never
+    go out of fashion.
 - id: cheryl
   name: Lee, Cheryl
-  joinDate: ""
+  joinDate: 1970-01-01
   function: pm
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Think of your family today and every day thereafter, don’t let the busy
+    world of today keep you from showing how much you love and appreciate your
+    family.
 - id: kahhow
   name: Lee, Kahhow
-  joinDate: ""
+  joinDate: 1970-01-01
   function: ops
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Other things may change us, but we start and end with the family.
 - id: ken
   name: Lee, Ken
   joinDate: 27/02/2023
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Our family is a circle of strength of love with every birth and every
+    union the circle grows.
 - id: lynette
   name: Lee, Lynette
   joinDate: 01/08/2023
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: It’s all about the quality of life and finding a happy balance between
+    work and friends and family.
 - id: brianlee
   name: Lee, Siu Hei
   joinDate: 20/03/2023
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: The bond that links your true family is not one of blood, but of respect
+    and joy in each other’s life.
 - id: zhiying
   name: Lee, Zhi Ying
   joinDate: 08/05/2023
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: "Family: A social unit where the father is concerned with parking space,
+    the children with outer space, and the mother with closet space."
 - id: latasha
   name: Lenus, Latasha
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Rejoice with your family in the beautiful land of life.
 - id: enyi
   name: Leong, EnYi
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: The only rock I know that stays steady, the only institution I know that
+    works, is the family.
 - id: huixuan
   name: Leow, Hui Xuan
   joinDate: 04/07/2022
   function: policy
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: There is no doubt that it is around the family and the home that all the
+    greatest virtues… are created, strengthened and maintained.
 - id: boren
   name: Lew, Bo Ren
-  joinDate: ""
+  joinDate: 1970-01-01
   function: finance
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Family is not an important thing. It’s everything.
 - id: lhy
   name: Li, Hongyi
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Family and friends are hidden treasures, seek them and enjoy their riches.
 - id: yuanruo
   name: Liang, Yuanruo
   joinDate: 01/07/2019
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Family isn’t always blood. It’s the people in your life who want you in
+    theirs; the ones who accept you for who you are. The ones that would do
+    anything to see you smile and who love you no matter what.
 - id: yihan
   name: Liao, Yihan
   joinDate: 17/05/2021
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: The family is one of nature’s masterpieces.
 - id: carina
   name: Lim, Carina
   joinDate: 26/07/2021
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: The most important thing in the world is family and love.
 - id: lennard
   name: Lim, Fa Ping Lennard
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Having somewhere to go is home. Having someone to love is family. And
+    having both is a blessing.
 - id: jiayee
   name: Lim, Jia Yee
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: When trouble comes, it’s your family that supports you.
 - id: qimmy
   name: Lim, Qi Xuan
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: This is my family. I found it all on my own. It’s little, and broken, but
+    still good. Yeah. Still good.
 - id: sengpoh
   name: Lim, Seng Poh
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: To us, family means putting your arms around each other and being there.
 - id: ziwei
   name: Lim, Zi Wei
   joinDate: 04/07/2022
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Family gives you the roots to stand tall and strong.
 - id: huiqing
   name: Lin, Huiqing
   joinDate: 06/09/2021
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: In family life, love is the oil that eases friction, the cement that
+    binds closer together, and the music that brings harmony.
 - id: jennifer
   name: Liu, Jennifer
-  joinDate: ""
+  joinDate: 1970-01-01
   function: pm
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Being part of a family means smiling for photos.
 - id: joanna
   name: Lo Wai Fun, Joanna
   joinDate: 27/03/2023
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: It didn’t matter how big our house was; it mattered that there was love
+    in it.
 - id: nicole
   name: Loh Wan Hua, Nicole
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: "Blended families: woven together by choice, strengthened together by
+    love, tested by everything, and each uniquely ours."
 - id: benjaminloh
   name: Loh, Benjamin
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: My family is my life, and everything else comes second as far as what’s
+    important to me.
 - id: rayner
   name: Loh, Rayner
   joinDate: 03/04/2023
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: A happy family is but an earlier heaven.
 - id: jessendra
   name: Loke Swen, Jessendra
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: "Call it a clan, call it a network, call it a tribe, call it a family:
+    Whatever you call it, whoever you are, you need one."
 - id: desmond
   name: Lui, Desmond
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: I didn’t give you the gift of life, but life gave me the gift of you.
 - id: antariksh
   name: Mahajan, Antariksh
   joinDate: 02/03/2020
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Ohana means family and family means nobody gets left behind or forgotten.
 - id: gautam
   name: Manek, Gautam
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Treat your family like friends and your friends like family.
 - id: nitya
   name: Menon, Nitya
-  joinDate: ""
+  joinDate: 1970-01-01
   function: partnerships
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Nothing is better than going home to family and eating good food and relaxing
 - id: feliciana
   name: Natali, Feliciana
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Families are like fudge – mostly sweet with a few nuts.
 - id: didymus
   name: Ne, Didymus
   joinDate: 08/05/2023
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: We may have our differences, but nothing’s more important than family.
 - id: geraldneo
   name: Neo, Gerald
   joinDate: 22/05/2023
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Some people are worth melting for.
 - id: christabel
   name: Neo, Xiuwen Christabel
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: In time of test, family is best.
 - id: darren
   name: Ng, Darren
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Family and friendships are two of the greatest facilitators of happiness.
 - id: nicholasng
   name: Ng, Nicholas Zhi Hao
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: To us, family means putting your arms around each other and being there.
 - id: stanley
   name: Nguyen, Hung
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: The family is the test of freedom; because the family is the only thing
+    that the free man makes for himself and by himself.
 - id: jenwei
   name: Niam, Jen Wei
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Where there is family, there is love.
 - id: chinyang
   name: Oh, Chin Yang
   joinDate: 06/03/2023
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Happiness is having a large, loving, caring, close-knit family in another
+    city.
 - id: justyn
   name: Oh, Wei Jin
   joinDate: 13/06/2022
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Family is the heart of a home.
 - id: cheri
   name: Ong, Cheri
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Family ties mean that no matter how much you might want to run from your
+    family, you can’t.
 - id: pearly
   name: Ong, Pearly
   joinDate: 21/10/2019
   function: design
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: The informality of family life is a blessed condition that allows us all
+    to become our best while looking our worst.
 - id: simin
   name: Ong, Si Min
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: The family – that dear octopus from whose tentacles we never quite
+    escape, nor, in our inmost hearts, ever quite wish to.
 - id: sehyun
   name: Park, Se Hyun
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Family is family.
 - id: pete
   name: Patanapanlert, Krit
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Life is beautiful. It’s about giving. It’s about family.
 - id: fiona
   name: Pay Si Ying, Fiona
   joinDate: 24/07/2023
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Families are the compass that guides us. They are the inspiration to
+    reach great heights, and our comfort when we occasionally falter.
 - id: christabelpng
   name: Png, Christabel
   joinDate: 01/06/2020
   function: design
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Family is not defined by our genes, it is built and maintained through love.
 - id: pranu
   name: Pranu, Sarna
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: The memories we make with our family is everything.
 - id: kishore
   name: R, Kishore
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Being a family means you are a part of something very wonderful. It means
+    you will love and be loved for the rest of your life.
 - id: rachel
   name: Rachel, Tan Si Ying
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Stick to the basics, hold on to your family and friends – they will never
+    go out of fashion.
 - id: praveen
   name: Raj Kumar, Praveen
-  joinDate: ""
+  joinDate: 1970-01-01
   function: policy
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Think of your family today and every day thereafter, don’t let the busy
+    world of today keep you from showing how much you love and appreciate your
+    family.
 - id: veena
   name: Rao, Anavatti Veena
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Other things may change us, but we start and end with the family.
 - id: suhaila
   name: Roslan, Suhaila
   joinDate: 05/04/2021
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Our family is a circle of strength of love with every birth and every
+    union the circle grows.
 - id: khaleedah
   name: Sairi, Khaleedah
   joinDate: 12/07/2021
   function: design
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: "Family: A social unit where the father is concerned with parking space,
+    the children with outer space, and the mother with closet space."
 - id: sarahsalim
   name: Salim, Siti Sarah
-  joinDate: ""
+  joinDate: 1970-01-01
   function: design
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Rejoice with your family in the beautiful land of life.
 - id: amit
   name: Samdarshi, Amit
-  joinDate: ""
+  joinDate: 1970-01-01
   function: pm
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: The only rock I know that stays steady, the only institution I know that
+    works, is the family.
 - id: chinying
   name: Seah, Chin Ying
   joinDate: 19/11/2018
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: There is no doubt that it is around the family and the home that all the
+    greatest virtues… are created, strengthened and maintained.
 - id: sean
   name: Sean, Lum Jian Yang
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Family is not an important thing. It’s everything.
 - id: ziyang
   name: See, Zi Yang
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Family and friends are hidden treasures, seek them and enjoy their riches.
 - id: hena
   name: Shah, Hena
-  joinDate: ""
+  joinDate: 1970-01-01
   function: pm
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Family isn’t always blood. It’s the people in your life who want you in
+    theirs; the ones who accept you for who you are. The ones that would do
+    anything to see you smile and who love you no matter what.
 - id: huiling
   name: Shi, Hui Ling
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: The family is one of nature’s masterpieces.
 - id: ajayraj
   name: Singh, Ajayraj
   joinDate: 13/06/2022
   function: ops
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: The most important thing in the world is family and love.
 - id: stephanie
   name: Siow, Stephanie
   joinDate: 01/04/2022
   function: partnerships
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Having somewhere to go is home. Having someone to love is family. And
+    having both is a blessing.
 - id: kenneth
   name: Sng, Kenneth
-  joinDate: ""
+  joinDate: 1970-01-01
   function: pm
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: When trouble comes, it’s your family that supports you.
 - id: moses
   name: Soh, Moses
   joinDate: 05/12/2022
   function: pm
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: This is my family. I found it all on my own. It’s little, and broken, but
+    still good. Yeah. Still good.
 - id: zeke
   name: Soh, Yi Zhi Zeke
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: To us, family means putting your arms around each other and being there.
 - id: nicolas
   name: Spano, Nicolas
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Family gives you the roots to stand tall and strong.
 - id: angel
   name: Suhardi, Maria
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: In family life, love is the oil that eases friction, the cement that
+    binds closer together, and the music that brings harmony.
 - id: airika
   name: Takeguchi, Airika
-  joinDate: ""
+  joinDate: 1970-01-01
   function: workplace
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Being part of a family means smiling for photos.
 - id: stacey
   name: Tan Seok Sim, Stacey
   joinDate: 07/02/2022
   function: design
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: It didn’t matter how big our house was; it mattered that there was love
+    in it.
 - id: dexter
   name: Tan Ying Jie, Dexter
   joinDate: 09/05/2022
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: "Blended families: woven together by choice, strengthened together by
+    love, tested by everything, and each uniquely ours."
 - id: alwyn.tan
   name: Tan, Alwyn Solomon
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: My family is my life, and everything else comes second as far as what’s
+    important to me.
 - id: geraldine
   name: Tan, Geraldine
-  joinDate: ""
+  joinDate: 1970-01-01
   function: ops
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: A happy family is but an earlier heaven.
 - id: max
   name: Tan, Huiyi
   joinDate: 06/03/2023
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: "Call it a clan, call it a network, call it a tribe, call it a family:
+    Whatever you call it, whoever you are, you need one."
 - id: jieyin
   name: Tan, Jie Yin
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: I didn’t give you the gift of life, but life gave me the gift of you.
 - id: joshua
   name: Tan, Junming
   joinDate: 06/09/2021
   function: finance
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Ohana means family and family means nobody gets left behind or forgotten.
 - id: kevan
   name: Tan, Kevan
   joinDate: 18/11/2019
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Treat your family like friends and your friends like family.
 - id: leyang
   name: Tan, Le Yang
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Nothing is better than going home to family and eating good food and relaxing
 - id: natalie
   name: Tan, Natalie
   joinDate: 06/04/2020
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Families are like fudge – mostly sweet with a few nuts.
 - id: weilun
   name: Tan, Wei Lun
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: We may have our differences, but nothing’s more important than family.
 - id: weiseng2
   name: Tan, Wei Seng
   joinDate: 22/02/2021
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Some people are worth melting for.
 - id: zixiang
   name: Tan, Zi Xiang
   joinDate: 10/01/2022
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: In time of test, family is best.
 - id: amelia
   name: Tay Li Jia, Amelia
   joinDate: 07/08/2023
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Family and friendships are two of the greatest facilitators of happiness.
 - id: paul
   name: Tay, Paul hong
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: To us, family means putting your arms around each other and being there.
 - id: mayying
   name: Tee, May Ying
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: The family is the test of freedom; because the family is the only thing
+    that the free man makes for himself and by himself.
 - id: shawn
   name: Ten, Shawn
-  joinDate: ""
+  joinDate: 1970-01-01
   function: policy
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Where there is family, there is love.
 - id: clifford
   name: Teo, Clifford
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Happiness is having a large, loving, caring, close-knit family in another
+    city.
 - id: shuli
   name: Teo, Shu Li
   joinDate: 20/04/2020
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Family is the heart of a home.
 - id: simun
   name: Tham, Si Mun
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Family ties mean that no matter how much you might want to run from your
+    family, you can’t.
 - id: wanling
   name: Thoo, Wan Ling
   joinDate: 13/09/2021
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: The informality of family life is a blessed condition that allows us all
+    to become our best while looking our worst.
 - id: lisa
   name: Tjide, Lisa
   joinDate: 26/11/2018
   function: pm
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: The family – that dear octopus from whose tentacles we never quite
+    escape, nor, in our inmost hearts, ever quite wish to.
 - id: reshma
   name: Vasu, Reshma
-  joinDate: ""
+  joinDate: 1970-01-01
   function: ops
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Family is family.
 - id: harish
   name: Venkatesan, Harish
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Life is beautiful. It’s about giving. It’s about family.
 - id: adan
   name: Vielma, Adan
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Families are the compass that guides us. They are the inspiration to
+    reach great heights, and our comfort when we occasionally falter.
 - id: sebastian
   name: Wong Zhi Qian, Sebastian
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Family is not defined by our genes, it is built and maintained through love.
 - id: kendra
   name: Wong, Kendra
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: The memories we make with our family is everything.
 - id: austin
   name: Woon Quan, Austin
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Being a family means you are a part of something very wonderful. It means
+    you will love and be loved for the rest of your life.
 - id: qilu
   name: Xie, Qilu
   joinDate: 06/02/2023
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Stick to the basics, hold on to your family and friends – they will never
+    go out of fashion.
 - id: richardyak
   name: Yak, Kian Feng
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Think of your family today and every day thereafter, don’t let the busy
+    world of today keep you from showing how much you love and appreciate your
+    family.
 - id: syan
   name: Yan, Sonjia
   joinDate: 04/09/2019
   function: pm
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Other things may change us, but we start and end with the family.
 - id: xinghao
   name: Yang, XingHao
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Our family is a circle of strength of love with every birth and every
+    union the circle grows.
 - id: jackson
   name: Yap, Jackson
   joinDate: 31/08/2020
   function: ops
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: It’s all about the quality of life and finding a happy balance between
+    work and friends and family.
 - id: jiahui
   name: Yap, Jia Hui
-  joinDate: ""
+  joinDate: 1970-01-01
   function: workplace
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: The bond that links your true family is not one of blood, but of respect
+    and joy in each other’s life.
 - id: peizhen
   name: Yap, Pei Zhen
   joinDate: 08/05/2023
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: "Family: A social unit where the father is concerned with parking space,
+    the children with outer space, and the mother with closet space."
 - id: foong
   name: Yi Zhuan, Foong
   joinDate: 17/07/2023
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: Rejoice with your family in the beautiful land of life.
 - id: yuling
   name: Yu Ling, Tan
   joinDate: 25/09/2023
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: The only rock I know that stays steady, the only institution I know that
+    works, is the family.
 - id: khant
   name: Zaw, Khant
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: There is no doubt that it is around the family and the home that all the
+    greatest virtues… are created, strengthened and maintained.
 - id: arshad
   name: s/o Abdul Samad, Arshad Ali
-  joinDate: ""
+  joinDate: 1970-01-01
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: It’s all about the quality of life and finding a happy balance between
+    work and friends and family.
 - id: pallani
   name: s/o Selvan, Pallanikumaran
   joinDate: 11/05/2015
   function: eng
-  title: Senior Title
-  description: ""
-  products: ""
+  title: Serious Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
   accomplishments: ""
+  quote: The bond that links your true family is not one of blood, but of respect
+    and joy in each other’s life.

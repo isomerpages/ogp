@@ -1,22 +1,15 @@
 ---
 title: Espaldon, Sarah
 permalink: /people/sarahespaldon
-description: ""
+description: "Espaldon, Sarah - Serious Title"
 ---
 
 {%- assign staff = site.data.people | find: "id", "sarahespaldon" -%}
 {% include staff_heading.html staff=staff color=site.colors.function-colors.workplace %}
 
-## About Me
+<p>I joined since 04/11/2019 and I am currently working on currentProducts.</p>
 
-**Joined on**: 04/11/2019
+<p>Products I worked on before include pastProducts</p>
 
-**Function**: workplace
-
-## What I've worked on
-
-**Products/things I've worked on**:
-
-
-**Some of my accomplishments**:
+<p>Three things I've done recently which I'm proud of are...</p>
 

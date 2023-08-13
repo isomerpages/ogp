@@ -1,22 +1,15 @@
 ---
 title: Tan, Junming
 permalink: /people/joshua
-description: ""
+description: "Tan, Junming - Serious Title"
 ---
 
 {%- assign staff = site.data.people | find: "id", "joshua" -%}
 {% include staff_heading.html staff=staff color=site.colors.function-colors.finance %}
 
-## About Me
+<p>I joined since 06/09/2021 and I am currently working on currentProducts.</p>
 
-**Joined on**: 06/09/2021
+<p>Products I worked on before include pastProducts</p>
 
-**Function**: finance
-
-## What I've worked on
-
-**Products/things I've worked on**:
-
-
-**Some of my accomplishments**:
+<p>Three things I've done recently which I'm proud of are...</p>
 

@@ -1,22 +1,15 @@
 ---
 title: Takeguchi, Airika
 permalink: /people/airika
-description: ""
+description: "Takeguchi, Airika - Serious Title"
 ---
 
 {%- assign staff = site.data.people | find: "id", "airika" -%}
 {% include staff_heading.html staff=staff color=site.colors.function-colors.workplace %}
 
-## About Me
+<p>I joined since 1970-01-01 and I am currently working on currentProducts.</p>
 
-**Joined on**: 
+<p>Products I worked on before include pastProducts</p>
 
-**Function**: workplace
-
-## What I've worked on
-
-**Products/things I've worked on**:
-
-
-**Some of my accomplishments**:
+<p>Three things I've done recently which I'm proud of are...</p>
 

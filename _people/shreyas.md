@@ -1,22 +1,15 @@
 ---
 title: Chandrakanth Rao Inna, Shreyas
 permalink: /people/shreyas
-description: ""
+description: "Chandrakanth Rao Inna, Shreyas - Serious Title"
 ---
 
 {%- assign staff = site.data.people | find: "id", "shreyas" -%}
 {% include staff_heading.html staff=staff color=site.colors.function-colors.ops %}
 
-## About Me
+<p>I joined since 22/05/2023 and I am currently working on currentProducts.</p>
 
-**Joined on**: 22/05/2023
+<p>Products I worked on before include pastProducts</p>
 
-**Function**: ops
-
-## What I've worked on
-
-**Products/things I've worked on**:
-
-
-**Some of my accomplishments**:
+<p>Three things I've done recently which I'm proud of are...</p>
 

@@ -1,22 +1,15 @@
 ---
 title: {{name}}
 permalink: /people/{{id}}
-description: "{{description}}"
+description: "{{name}} - {{title}}"
 ---
 
 {%- assign staff = site.data.people | find: "id", "{{id}}" -%}
 {% include staff_heading.html staff=staff color=site.colors.function-colors.{{function}} %}
 
-## About Me
+<p>I joined since {{joinDate}} and I am currently working on {{curProducts}}.</p>
 
-**Joined on**: {{joinDate}}
+<p>Products I worked on before include {{pastProducts}}</p>
 
-**Function**: {{function}}
-
-## What I've worked on
-
-**Products/things I've worked on**:
-{{products}}
-
-**Some of my accomplishments**:
+<p>Three things I've done recently which I'm proud of are...</p>
 {{accomplishments}}
