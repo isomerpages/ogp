@@ -5,7 +5,7 @@ description: "Lim, Fa Ping Lennard - Serious Title"
 ---
 
 {%- assign staff = site.data.people | find: "id", "lennard" -%}
-{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.pm %}
 
 <p>I joined since 1970-01-01 and I am currently working on currentProducts.</p>
 
