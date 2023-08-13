@@ -21,7 +21,7 @@ const namedRecords = records.map(([name, joinDate, email, func, title]) => ({
     id: email.split('@')[0],
     name,
     joinDate,
-    function: func,
+    function: func || 'eng', // stupid default, but to make sure things don't break 🤷
     title,
     description: '',
     products: '',
