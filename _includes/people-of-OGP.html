@@ -50,7 +50,7 @@
     {% assign sorted = include.people | sort: 'name' %}
     {% for person in sorted %}
     <div class="person">
-        <div class="person-pic" style="background-image:url({{ person.image }})"></div>
+        <div class="person-pic" style="background-image:url(/images/headshots/{{ person.id }}.jpg)"></div>
         <div class="person-info" style="background-color:{{include.color}}">
             <div class="person-name">{{ person.name }}</div>
             <div class="person-position">{{ person.position }}</div>
