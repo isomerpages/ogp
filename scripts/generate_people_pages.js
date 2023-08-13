@@ -22,7 +22,7 @@ const namedRecords = records.map(([name, joinDate, email, func, title]) => ({
     name,
     joinDate,
     function: func || 'eng', // stupid default, but to make sure things don't break 🤷
-    title,
+    title: title || 'Senior Title',
     description: '',
     products: '',
     accomplishments: '',
