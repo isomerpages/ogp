@@ -5,13 +5,13 @@ description: ""
 ---
 
 {%- assign staff = site.data.people | find: "id", "ajayraj" -%}
-{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.ops %}
 
 ## About Me
 
 **Joined on**: 13/06/2022
 
-**Function**: eng
+**Function**: ops
 
 ## What I've worked on
 

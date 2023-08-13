@@ -177,7 +177,7 @@
 - id: talitha
   name: Chin, Rui Ling Talitha
   joinDate: 15/10/2018
-  function: eng
+  function: pm
   title: ""
   description: ""
   products: ""
@@ -990,7 +990,7 @@
   description: ""
   products: ""
   accomplishments: ""
-- id: ""
+- id: sean
   name: Sean, Lum Jian Yang
   joinDate: ""
   function: eng
@@ -1025,7 +1025,7 @@
 - id: ajayraj
   name: Singh, Ajayraj
   joinDate: 13/06/2022
-  function: eng
+  function: ops
   title: ""
   description: ""
   products: ""
@@ -1137,7 +1137,7 @@
 - id: joshua
   name: Tan, Junming
   joinDate: 06/09/2021
-  function: eng
+  function: finance
   title: ""
   description: ""
   products: ""
