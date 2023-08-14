@@ -15,7 +15,7 @@ linkedinId: aditya
 
 ---
 
-{%- assign staff = site.data.people | find: "id", "{{page.id}}" -%}
+{%- assign staff = site.data.people | find: "id", "aditya" -%}
 {% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 <p>I joined since {{page.joinDate}} and I am currently working on {{page.curProducts}}.</p>
