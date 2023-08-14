@@ -1,12 +1,12 @@
 ---
 title: Nguyen, Hung
 permalink: /people/stanley
-description: "Nguyen, Hung - Serious Title"
+description: "Nguyen, Hung - Job Title"
 id: stanley
 name: Nguyen, Hung
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

@@ -1,12 +1,12 @@
 ---
 title: Chong, Jason
 permalink: /people/jason
-description: "Chong, Jason - Serious Title"
+description: "Chong, Jason - Job Title"
 id: jason
 name: Chong, Jason
 joinDate: 2020-11-05
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

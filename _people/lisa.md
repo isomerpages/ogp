@@ -1,12 +1,12 @@
 ---
 title: Tjide, Lisa
 permalink: /people/lisa
-description: "Tjide, Lisa - Serious Title"
+description: "Tjide, Lisa - Job Title"
 id: lisa
 name: Tjide, Lisa
 joinDate: 26/11/2018
 function: pm
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

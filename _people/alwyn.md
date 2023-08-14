@@ -1,12 +1,12 @@
 ---
 title: Tan, Alwyn Solomon
 permalink: /people/alwyn
-description: "Tan, Alwyn Solomon - Serious Title"
+description: "Tan, Alwyn Solomon - Job Title"
 id: alwyn
 name: Tan, Alwyn Solomon
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

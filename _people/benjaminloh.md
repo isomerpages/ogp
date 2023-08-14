@@ -1,12 +1,12 @@
 ---
 title: Loh, Benjamin
 permalink: /people/benjaminloh
-description: "Loh, Benjamin - Serious Title"
+description: "Loh, Benjamin - Job Title"
 id: benjaminloh
 name: Loh, Benjamin
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

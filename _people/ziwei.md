@@ -1,12 +1,12 @@
 ---
 title: Lim, Zi Wei
 permalink: /people/ziwei
-description: "Lim, Zi Wei - Serious Title"
+description: "Lim, Zi Wei - Job Title"
 id: ziwei
 name: Lim, Zi Wei
 joinDate: 2022-04-07
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

@@ -1,12 +1,12 @@
 ---
 title: Yan, Sonjia
 permalink: /people/syan
-description: "Yan, Sonjia - Serious Title"
+description: "Yan, Sonjia - Job Title"
 id: syan
 name: Yan, Sonjia
 joinDate: 2019-04-09
 function: pm
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

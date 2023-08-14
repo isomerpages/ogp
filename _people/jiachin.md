@@ -1,12 +1,12 @@
 ---
 title: Er, Jia Chin
 permalink: /people/jiachin
-description: "Er, Jia Chin - Serious Title"
+description: "Er, Jia Chin - Job Title"
 id: jiachin
 name: Er, Jia Chin
 joinDate: 2021-04-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

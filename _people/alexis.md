@@ -1,12 +1,12 @@
 ---
 title: Goh, Weiying
 permalink: /people/alexis
-description: "Goh, Weiying - Serious Title"
+description: "Goh, Weiying - Job Title"
 id: alexis
 name: Goh, Weiying
 joinDate: 29/06/2020
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

@@ -1,12 +1,12 @@
 ---
 title: Espaldon, Sarah
 permalink: /people/sarahespaldon
-description: "Espaldon, Sarah - Serious Title"
+description: "Espaldon, Sarah - Job Title"
 id: sarahespaldon
 name: Espaldon, Sarah
 joinDate: 2019-04-11
 function: marketing
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

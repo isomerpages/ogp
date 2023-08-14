@@ -1,12 +1,12 @@
 ---
 title: Foo, Yong Jie
 permalink: /people/yongjie
-description: "Foo, Yong Jie - Serious Title"
+description: "Foo, Yong Jie - Job Title"
 id: yongjie
 name: Foo, Yong Jie
 joinDate: 2019-02-12
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

@@ -1,12 +1,12 @@
 ---
 title: Tan, Wei Seng
 permalink: /people/weiseng2
-description: "Tan, Wei Seng - Serious Title"
+description: "Tan, Wei Seng - Job Title"
 id: weiseng2
 name: Tan, Wei Seng
 joinDate: 22/02/2021
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

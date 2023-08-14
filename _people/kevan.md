@@ -1,12 +1,12 @@
 ---
 title: Tan, Kevan
 permalink: /people/kevan
-description: "Tan, Kevan - Serious Title"
+description: "Tan, Kevan - Job Title"
 id: kevan
 name: Tan, Kevan
 joinDate: 18/11/2019
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

@@ -1,12 +1,12 @@
 ---
 title: Lam, Kee Wei
 permalink: /people/keewei
-description: "Lam, Kee Wei - Serious Title"
+description: "Lam, Kee Wei - Job Title"
 id: keewei
 name: Lam, Kee Wei
 joinDate: 2020-01-06
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

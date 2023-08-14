@@ -1,12 +1,12 @@
 ---
 title: Yap, Pei Zhen
 permalink: /people/peizhen
-description: "Yap, Pei Zhen - Serious Title"
+description: "Yap, Pei Zhen - Job Title"
 id: peizhen
 name: Yap, Pei Zhen
 joinDate: 2023-08-05
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

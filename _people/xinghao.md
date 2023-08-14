@@ -1,12 +1,12 @@
 ---
 title: Yang, XingHao
 permalink: /people/xinghao
-description: "Yang, XingHao - Serious Title"
+description: "Yang, XingHao - Job Title"
 id: xinghao
 name: Yang, XingHao
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

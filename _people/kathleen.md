@@ -1,12 +1,12 @@
 ---
 title: Koh, Kathleen
 permalink: /people/kathleen
-description: "Koh, Kathleen - Serious Title"
+description: "Koh, Kathleen - Job Title"
 id: kathleen
 name: Koh, Kathleen
 joinDate: 1970-01-01
 function: pm
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

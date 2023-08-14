@@ -1,12 +1,12 @@
 ---
 title: Leow, Hui Xuan
 permalink: /people/huixuan
-description: "Leow, Hui Xuan - Serious Title"
+description: "Leow, Hui Xuan - Job Title"
 id: huixuan
 name: Leow, Hui Xuan
 joinDate: 2022-04-07
 function: policy
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

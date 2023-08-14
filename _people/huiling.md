@@ -1,12 +1,12 @@
 ---
 title: Shi, Hui Ling
 permalink: /people/huiling
-description: "Shi, Hui Ling - Serious Title"
+description: "Shi, Hui Ling - Job Title"
 id: huiling
 name: Shi, Hui Ling
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

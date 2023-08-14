@@ -1,12 +1,12 @@
 ---
 title: Teo, Clifford
 permalink: /people/clifford
-description: "Teo, Clifford - Serious Title"
+description: "Teo, Clifford - Job Title"
 id: clifford
 name: Teo, Clifford
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

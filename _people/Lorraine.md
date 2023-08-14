@@ -1,12 +1,12 @@
 ---
 title: Choo, Lorraine
 permalink: /people/lorraine
-description: "Choo, Lorraine - Serious Title"
+description: "Choo, Lorraine - Job Title"
 id: lorraine
 name: Choo, Lorraine
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

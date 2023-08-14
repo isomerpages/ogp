@@ -1,12 +1,12 @@
 ---
 title: Ho Yun Fang, Shannen
 permalink: /people/shannen
-description: "Ho Yun Fang, Shannen - Serious Title"
+description: "Ho Yun Fang, Shannen - Job Title"
 id: shannen
 name: Ho Yun Fang, Shannen
 joinDate: 1970-01-01
 function: marketing
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

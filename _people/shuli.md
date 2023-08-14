@@ -1,12 +1,12 @@
 ---
 title: Teo, Shu Li
 permalink: /people/shuli
-description: "Teo, Shu Li - Serious Title"
+description: "Teo, Shu Li - Job Title"
 id: shuli
 name: Teo, Shu Li
 joinDate: 20/04/2020
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

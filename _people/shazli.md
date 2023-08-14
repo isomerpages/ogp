@@ -1,12 +1,12 @@
 ---
 title: Bin Shahril Shintaro, Muhammad Shazli
 permalink: /people/shazli
-description: "Bin Shahril Shintaro, Muhammad Shazli - Serious Title"
+description: "Bin Shahril Shintaro, Muhammad Shazli - Job Title"
 id: shazli
 name: Bin Shahril Shintaro, Muhammad Shazli
 joinDate: 1970-01-01
 function: ops
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

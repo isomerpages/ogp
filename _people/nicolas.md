@@ -1,12 +1,12 @@
 ---
 title: Spano, Nicolas
 permalink: /people/nicolas
-description: "Spano, Nicolas - Serious Title"
+description: "Spano, Nicolas - Job Title"
 id: nicolas
 name: Spano, Nicolas
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

@@ -1,12 +1,12 @@
 ---
 title: Roslan, Suhaila
 permalink: /people/suhaila
-description: "Roslan, Suhaila - Serious Title"
+description: "Roslan, Suhaila - Job Title"
 id: suhaila
 name: Roslan, Suhaila
 joinDate: 2021-05-04
 function: ops
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

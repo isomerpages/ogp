@@ -1,12 +1,12 @@
 ---
 title: Chen, Wei Ian
 permalink: /people/ian
-description: "Chen, Wei Ian - Serious Title"
+description: "Chen, Wei Ian - Job Title"
 id: ian
 name: Chen, Wei Ian
 joinDate: 2018-03-09
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

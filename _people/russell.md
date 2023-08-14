@@ -1,12 +1,12 @@
 ---
 title: Chan, Russell
 permalink: /people/russell
-description: "Chan, Russell - Serious Title"
+description: "Chan, Russell - Job Title"
 id: russell
 name: Chan, Russell
 joinDate: 2019-09-02
 function: people
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: Head of People Team
 pastProducts: pastProducts
 accomplishments: >-

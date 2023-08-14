@@ -1,12 +1,12 @@
 ---
 title: Chia, Clement
 permalink: /people/clement
-description: "Chia, Clement - Serious Title"
+description: "Chia, Clement - Job Title"
 id: clement
 name: Chia, Clement
 joinDate: 1970-01-01
 function: ops
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

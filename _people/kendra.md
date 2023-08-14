@@ -1,12 +1,12 @@
 ---
 title: Wong, Kendra
 permalink: /people/kendra
-description: "Wong, Kendra - Serious Title"
+description: "Wong, Kendra - Job Title"
 id: kendra
 name: Wong, Kendra
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

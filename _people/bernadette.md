@@ -1,12 +1,12 @@
 ---
 title: Cho, Bernadette Marisa Chien Ling
 permalink: /people/bernadette
-description: "Cho, Bernadette Marisa Chien Ling - Serious Title"
+description: "Cho, Bernadette Marisa Chien Ling - Job Title"
 id: bernadette
 name: Cho, Bernadette Marisa Chien Ling
 joinDate: 1970-01-01
 function: people
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

@@ -1,12 +1,12 @@
 ---
 title: Ang, Jasmine
 permalink: /people/jasmine
-description: "Ang, Jasmine - Serious Title"
+description: "Ang, Jasmine - Job Title"
 id: jasmine
 name: Ang, Jasmine
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

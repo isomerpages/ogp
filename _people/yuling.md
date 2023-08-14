@@ -1,12 +1,12 @@
 ---
 title: Yu Ling, Tan
 permalink: /people/yuling
-description: "Yu Ling, Tan - Serious Title"
+description: "Yu Ling, Tan - Job Title"
 id: yuling
 name: Yu Ling, Tan
 joinDate: 25/09/2023
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

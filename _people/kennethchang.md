@@ -1,12 +1,12 @@
 ---
 title: Chang, Kenneth
 permalink: /people/kennethchang
-description: "Chang, Kenneth - Serious Title"
+description: "Chang, Kenneth - Job Title"
 id: kennethchang
 name: Chang, Kenneth
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

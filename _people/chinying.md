@@ -1,12 +1,12 @@
 ---
 title: Seah, Chin Ying
 permalink: /people/chinying
-description: "Seah, Chin Ying - Serious Title"
+description: "Seah, Chin Ying - Job Title"
 id: chinying
 name: Seah, Chin Ying
 joinDate: 19/11/2018
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

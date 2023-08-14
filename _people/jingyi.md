@@ -1,12 +1,12 @@
 ---
 title: Lai, Jing Yi
 permalink: /people/jingyi
-description: "Lai, Jing Yi - Serious Title"
+description: "Lai, Jing Yi - Job Title"
 id: jingyi
 name: Lai, Jing Yi
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

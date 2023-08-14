@@ -1,12 +1,12 @@
 ---
 title: Genestonlia, Prawira
 permalink: /people/prawira
-description: "Genestonlia, Prawira - Serious Title"
+description: "Genestonlia, Prawira - Job Title"
 id: prawira
 name: Genestonlia, Prawira
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

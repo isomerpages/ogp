@@ -1,12 +1,12 @@
 ---
 title: Ng, Darren
 permalink: /people/darren
-description: "Ng, Darren - Serious Title"
+description: "Ng, Darren - Job Title"
 id: darren
 name: Ng, Darren
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

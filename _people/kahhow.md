@@ -1,12 +1,12 @@
 ---
 title: Lee, Kahhow
 permalink: /people/kahhow
-description: "Lee, Kahhow - Serious Title"
+description: "Lee, Kahhow - Job Title"
 id: kahhow
 name: Lee, Kahhow
 joinDate: 1970-01-01
 function: ops
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

@@ -1,12 +1,12 @@
 ---
 title: Bowes, Benjamin
 permalink: /people/benjamin
-description: "Bowes, Benjamin - Serious Title"
+description: "Bowes, Benjamin - Job Title"
 id: benjamin
 name: Bowes, Benjamin
 joinDate: 1970-01-01
 function: design
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

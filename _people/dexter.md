@@ -1,12 +1,12 @@
 ---
 title: Tan Ying Jie, Dexter
 permalink: /people/dexter
-description: "Tan Ying Jie, Dexter - Serious Title"
+description: "Tan Ying Jie, Dexter - Job Title"
 id: dexter
 name: Tan Ying Jie, Dexter
 joinDate: 2022-09-05
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

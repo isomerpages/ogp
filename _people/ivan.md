@@ -1,12 +1,12 @@
 ---
 title: Ho, Ivan
 permalink: /people/ivan
-description: "Ho, Ivan - Serious Title"
+description: "Ho, Ivan - Job Title"
 id: ivan
 name: Ho, Ivan
 joinDate: 2020-06-04
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

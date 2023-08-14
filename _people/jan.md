@@ -1,12 +1,12 @@
 ---
 title: Donyada, Jan
 permalink: /people/jan
-description: "Donyada, Jan - Serious Title"
+description: "Donyada, Jan - Job Title"
 id: jan
 name: Donyada, Jan
 joinDate: 1970-01-01
 function: pm
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

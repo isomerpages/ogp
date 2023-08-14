@@ -1,12 +1,12 @@
 ---
 title: Thoo, Wan Ling
 permalink: /people/wanling
-description: "Thoo, Wan Ling - Serious Title"
+description: "Thoo, Wan Ling - Job Title"
 id: wanling
 name: Thoo, Wan Ling
 joinDate: 13/09/2021
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

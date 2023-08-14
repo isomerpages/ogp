@@ -1,12 +1,12 @@
 ---
 title: Kwa, Jie Hao
 permalink: /people/jiehao
-description: "Kwa, Jie Hao - Serious Title"
+description: "Kwa, Jie Hao - Job Title"
 id: jiehao
 name: Kwa, Jie Hao
 joinDate: 2019-09-09
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

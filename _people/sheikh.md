@@ -1,12 +1,12 @@
 ---
 title: Bin Mohamed Aneess Alrragi, Sheikh Salim
 permalink: /people/sheikh
-description: "Bin Mohamed Aneess Alrragi, Sheikh Salim - Serious Title"
+description: "Bin Mohamed Aneess Alrragi, Sheikh Salim - Job Title"
 id: sheikh
 name: Bin Mohamed Aneess Alrragi, Sheikh Salim
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

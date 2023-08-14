@@ -1,12 +1,12 @@
 ---
 title: Lee, Zhi Ying
 permalink: /people/zhiying
-description: "Lee, Zhi Ying - Serious Title"
+description: "Lee, Zhi Ying - Job Title"
 id: zhiying
 name: Lee, Zhi Ying
 joinDate: 2023-08-05
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

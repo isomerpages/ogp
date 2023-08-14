@@ -1,12 +1,12 @@
 ---
 title: Liao, Yihan
 permalink: /people/yihan
-description: "Liao, Yihan - Serious Title"
+description: "Liao, Yihan - Job Title"
 id: yihan
 name: Liao, Yihan
 joinDate: 17/05/2021
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

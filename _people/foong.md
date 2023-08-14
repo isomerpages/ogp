@@ -1,12 +1,12 @@
 ---
 title: Yi Zhuan, Foong
 permalink: /people/foong
-description: "Yi Zhuan, Foong - Serious Title"
+description: "Yi Zhuan, Foong - Job Title"
 id: foong
 name: Yi Zhuan, Foong
 joinDate: 17/07/2023
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

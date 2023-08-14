@@ -1,12 +1,12 @@
 ---
 title: Pranu, Sarna
 permalink: /people/pranu
-description: "Pranu, Sarna - Serious Title"
+description: "Pranu, Sarna - Job Title"
 id: pranu
 name: Pranu, Sarna
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

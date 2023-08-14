@@ -1,12 +1,12 @@
 ---
 title: Oh, Wei Jin
 permalink: /people/justyn
-description: "Oh, Wei Jin - Serious Title"
+description: "Oh, Wei Jin - Job Title"
 id: justyn
 name: Oh, Wei Jin
 joinDate: 13/06/2022
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

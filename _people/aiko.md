@@ -1,12 +1,12 @@
 ---
 title: Klostermann, Aiko
 permalink: /people/aiko
-description: "Klostermann, Aiko - Serious Title"
+description: "Klostermann, Aiko - Job Title"
 id: aiko
 name: Klostermann, Aiko
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

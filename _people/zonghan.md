@@ -1,12 +1,12 @@
 ---
 title: Ho, Zong Han
 permalink: /people/zonghan
-description: "Ho, Zong Han - Serious Title"
+description: "Ho, Zong Han - Job Title"
 id: zonghan
 name: Ho, Zong Han
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

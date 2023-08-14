@@ -1,12 +1,12 @@
 ---
 title: Koh, Samuel
 permalink: /people/samuel
-description: "Koh, Samuel - Serious Title"
+description: "Koh, Samuel - Job Title"
 id: samuel
 name: Koh, Samuel
 joinDate: 1970-01-01
 function: ops
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

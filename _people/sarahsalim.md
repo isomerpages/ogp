@@ -1,12 +1,12 @@
 ---
 title: Salim, Siti Sarah
 permalink: /people/sarahsalim
-description: "Salim, Siti Sarah - Serious Title"
+description: "Salim, Siti Sarah - Job Title"
 id: sarahsalim
 name: Salim, Siti Sarah
 joinDate: 1970-01-01
 function: design
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

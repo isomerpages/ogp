@@ -1,12 +1,12 @@
 ---
 title: Tham, Si Mun
 permalink: /people/simun
-description: "Tham, Si Mun - Serious Title"
+description: "Tham, Si Mun - Job Title"
 id: simun
 name: Tham, Si Mun
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

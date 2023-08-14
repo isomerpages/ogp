@@ -81,7 +81,7 @@ const namedRecords = records.map(([name, joinDate, email, func, jobTitle, curPro
         name,
         joinDate: joinDate || '1970-01-01',
         function: func || 'eng', // stupid default, but to make sure things don't break 🤷
-        jobTitle: jobTitle || 'Serious Title',
+        jobTitle: jobTitle || 'Job Title',
         curProducts: curProducts || 'currentProducts',
         pastProducts: pastProducts || 'pastProducts',
         accomplishments: accomplishments || '',

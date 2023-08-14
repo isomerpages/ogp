@@ -1,12 +1,12 @@
 ---
 title: Chan, Daryl
 permalink: /people/daryl
-description: "Chan, Daryl - Serious Title"
+description: "Chan, Daryl - Job Title"
 id: daryl
 name: Chan, Daryl
 joinDate: 2022-03-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

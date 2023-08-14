@@ -1,12 +1,12 @@
 ---
 title: Tay Li Jia, Amelia
 permalink: /people/amelia
-description: "Tay Li Jia, Amelia - Serious Title"
+description: "Tay Li Jia, Amelia - Job Title"
 id: amelia
 name: Tay Li Jia, Amelia
 joinDate: 2023-07-08
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

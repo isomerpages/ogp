@@ -1,12 +1,12 @@
 ---
 title: Hong Malcolm, Ong Guan
 permalink: /people/malcolm
-description: "Hong Malcolm, Ong Guan - Serious Title"
+description: "Hong Malcolm, Ong Guan - Job Title"
 id: malcolm
 name: Hong Malcolm, Ong Guan
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

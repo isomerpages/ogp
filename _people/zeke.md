@@ -1,12 +1,12 @@
 ---
 title: Soh, Yi Zhi Zeke
 permalink: /people/zeke
-description: "Soh, Yi Zhi Zeke - Serious Title"
+description: "Soh, Yi Zhi Zeke - Job Title"
 id: zeke
 name: Soh, Yi Zhi Zeke
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

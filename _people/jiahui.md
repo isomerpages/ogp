@@ -1,12 +1,12 @@
 ---
 title: Yap, Jia Hui
 permalink: /people/jiahui
-description: "Yap, Jia Hui - Serious Title"
+description: "Yap, Jia Hui - Job Title"
 id: jiahui
 name: Yap, Jia Hui
 joinDate: 1970-01-01
 function: corporate
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

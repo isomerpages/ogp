@@ -1,12 +1,12 @@
 ---
 title: Park, Se Hyun
 permalink: /people/sehyun
-description: "Park, Se Hyun - Serious Title"
+description: "Park, Se Hyun - Job Title"
 id: sehyun
 name: Park, Se Hyun
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

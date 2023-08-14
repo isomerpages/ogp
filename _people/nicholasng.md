@@ -1,12 +1,12 @@
 ---
 title: Ng, Nicholas Zhi Hao
 permalink: /people/nicholasng
-description: "Ng, Nicholas Zhi Hao - Serious Title"
+description: "Ng, Nicholas Zhi Hao - Job Title"
 id: nicholasng
 name: Ng, Nicholas Zhi Hao
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

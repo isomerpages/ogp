@@ -1,12 +1,12 @@
 ---
 title: Lee, Ken
 permalink: /people/ken
-description: "Lee, Ken - Serious Title"
+description: "Lee, Ken - Job Title"
 id: ken
 name: Lee, Ken
 joinDate: 27/02/2023
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

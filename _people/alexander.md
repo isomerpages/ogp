@@ -1,12 +1,12 @@
 ---
 title: Lee, Alexander
 permalink: /people/alexander
-description: "Lee, Alexander - Serious Title"
+description: "Lee, Alexander - Job Title"
 id: alexander
 name: Lee, Alexander
 joinDate: 15/06/2020
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

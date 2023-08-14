@@ -1,12 +1,12 @@
 ---
 title: Lo Wai Fun, Joanna
 permalink: /people/joanna
-description: "Lo Wai Fun, Joanna - Serious Title"
+description: "Lo Wai Fun, Joanna - Job Title"
 id: joanna
 name: Lo Wai Fun, Joanna
 joinDate: 27/03/2023
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

@@ -1,12 +1,12 @@
 ---
 title: Chin, Rui Ling Talitha
 permalink: /people/talitha
-description: "Chin, Rui Ling Talitha - Serious Title"
+description: "Chin, Rui Ling Talitha - Job Title"
 id: talitha
 name: Chin, Rui Ling Talitha
 joinDate: 15/10/2018
 function: pm
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

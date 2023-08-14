@@ -1,12 +1,12 @@
 ---
 title: Chandrakanth Rao Inna, Shreyas
 permalink: /people/shreyas
-description: "Chandrakanth Rao Inna, Shreyas - Serious Title"
+description: "Chandrakanth Rao Inna, Shreyas - Job Title"
 id: shreyas
 name: Chandrakanth Rao Inna, Shreyas
 joinDate: 22/05/2023
 function: ops
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

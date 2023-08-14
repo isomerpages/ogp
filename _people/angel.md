@@ -1,12 +1,12 @@
 ---
 title: Suhardi, Maria
 permalink: /people/angel
-description: "Suhardi, Maria - Serious Title"
+description: "Suhardi, Maria - Job Title"
 id: angel
 name: Suhardi, Maria
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

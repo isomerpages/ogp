@@ -1,12 +1,12 @@
 ---
 title: Lin, Huiqing
 permalink: /people/huiqing
-description: "Lin, Huiqing - Serious Title"
+description: "Lin, Huiqing - Job Title"
 id: huiqing
 name: Lin, Huiqing
 joinDate: 2021-06-09
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

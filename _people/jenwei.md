@@ -1,12 +1,12 @@
 ---
 title: Niam, Jen Wei
 permalink: /people/jenwei
-description: "Niam, Jen Wei - Serious Title"
+description: "Niam, Jen Wei - Job Title"
 id: jenwei
 name: Niam, Jen Wei
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

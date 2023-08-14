@@ -1,12 +1,12 @@
 ---
 title: Singh, Ajayraj
 permalink: /people/ajayraj
-description: "Singh, Ajayraj - Serious Title"
+description: "Singh, Ajayraj - Job Title"
 id: ajayraj
 name: Singh, Ajayraj
 joinDate: 13/06/2022
 function: ops
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

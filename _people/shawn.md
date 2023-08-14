@@ -1,12 +1,12 @@
 ---
 title: Ten, Shawn
 permalink: /people/shawn
-description: "Ten, Shawn - Serious Title"
+description: "Ten, Shawn - Job Title"
 id: shawn
 name: Ten, Shawn
 joinDate: 1970-01-01
 function: policy
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

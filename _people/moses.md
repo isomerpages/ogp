@@ -1,12 +1,12 @@
 ---
 title: Soh, Moses
 permalink: /people/moses
-description: "Soh, Moses - Serious Title"
+description: "Soh, Moses - Job Title"
 id: moses
 name: Soh, Moses
 joinDate: 2022-05-12
 function: pm
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

@@ -1,12 +1,12 @@
 ---
 title: Vasu, Reshma
 permalink: /people/reshma
-description: "Vasu, Reshma - Serious Title"
+description: "Vasu, Reshma - Job Title"
 id: reshma
 name: Vasu, Reshma
 joinDate: 1970-01-01
 function: ops
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

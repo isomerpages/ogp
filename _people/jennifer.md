@@ -1,12 +1,12 @@
 ---
 title: Liu, Jennifer
 permalink: /people/jennifer
-description: "Liu, Jennifer - Serious Title"
+description: "Liu, Jennifer - Job Title"
 id: jennifer
 name: Liu, Jennifer
 joinDate: 1970-01-01
 function: pm
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

@@ -1,12 +1,12 @@
 ---
 title: Danelynn, Ding You Jia,
 permalink: /people/danelynn
-description: "Danelynn, Ding You Jia, - Serious Title"
+description: "Danelynn, Ding You Jia, - Job Title"
 id: danelynn
 name: Danelynn, Ding You Jia,
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

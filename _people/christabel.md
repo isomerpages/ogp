@@ -1,12 +1,12 @@
 ---
 title: Neo, Xiuwen Christabel
 permalink: /people/christabel
-description: "Neo, Xiuwen Christabel - Serious Title"
+description: "Neo, Xiuwen Christabel - Job Title"
 id: christabel
 name: Neo, Xiuwen Christabel
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

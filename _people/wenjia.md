@@ -1,12 +1,12 @@
 ---
 title: Dong, Wen Jia
 permalink: /people/wenjia
-description: "Dong, Wen Jia - Serious Title"
+description: "Dong, Wen Jia - Job Title"
 id: wenjia
 name: Dong, Wen Jia
 joinDate: 17/07/2023
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

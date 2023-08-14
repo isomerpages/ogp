@@ -1,12 +1,12 @@
 ---
 title: Icksan, Mohammad Zulhilmi
 permalink: /people/zulhilmi
-description: "Icksan, Mohammad Zulhilmi - Serious Title"
+description: "Icksan, Mohammad Zulhilmi - Job Title"
 id: zulhilmi
 name: Icksan, Mohammad Zulhilmi
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

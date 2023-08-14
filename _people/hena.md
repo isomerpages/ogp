@@ -1,12 +1,12 @@
 ---
 title: Shah, Hena
 permalink: /people/hena
-description: "Shah, Hena - Serious Title"
+description: "Shah, Hena - Job Title"
 id: hena
 name: Shah, Hena
 joinDate: 1970-01-01
 function: pm
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

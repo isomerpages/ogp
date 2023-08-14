@@ -1,12 +1,12 @@
 ---
 title: Tan, Zi Xiang
 permalink: /people/zixiang
-description: "Tan, Zi Xiang - Serious Title"
+description: "Tan, Zi Xiang - Job Title"
 id: zixiang
 name: Tan, Zi Xiang
 joinDate: 2022-10-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

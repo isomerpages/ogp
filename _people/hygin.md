@@ -1,12 +1,12 @@
 ---
 title: Fernandez, Hygin
 permalink: /people/hygin
-description: "Fernandez, Hygin - Serious Title"
+description: "Fernandez, Hygin - Job Title"
 id: hygin
 name: Fernandez, Hygin
 joinDate: 1970-01-01
 function: policy
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

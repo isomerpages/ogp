@@ -1,12 +1,12 @@
 ---
 title: Wong Zhi Qian, Sebastian
 permalink: /people/sebastian
-description: "Wong Zhi Qian, Sebastian - Serious Title"
+description: "Wong Zhi Qian, Sebastian - Job Title"
 id: sebastian
 name: Wong Zhi Qian, Sebastian
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

@@ -1,12 +1,12 @@
 ---
 title: Lui, Desmond
 permalink: /people/desmond
-description: "Lui, Desmond - Serious Title"
+description: "Lui, Desmond - Job Title"
 id: desmond
 name: Lui, Desmond
 joinDate: 1970-01-01
 function: design
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

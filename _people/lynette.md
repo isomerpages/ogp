@@ -1,12 +1,12 @@
 ---
 title: Lee, Lynette
 permalink: /people/lynette
-description: "Lee, Lynette - Serious Title"
+description: "Lee, Lynette - Job Title"
 id: lynette
 name: Lee, Lynette
 joinDate: 2023-01-08
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

@@ -1,12 +1,12 @@
 ---
 title: Jain, Aditya
 permalink: /people/aditya
-description: "Jain, Aditya - Serious Title"
+description: "Jain, Aditya - Job Title"
 id: aditya
 name: Jain, Aditya
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

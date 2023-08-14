@@ -1,12 +1,12 @@
 ---
 title: Rachel, Tan Si Ying
 permalink: /people/rachel
-description: "Rachel, Tan Si Ying - Serious Title"
+description: "Rachel, Tan Si Ying - Job Title"
 id: rachel
 name: Rachel, Tan Si Ying
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

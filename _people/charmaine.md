@@ -1,12 +1,12 @@
 ---
 title: Lee, Charmaine
 permalink: /people/charmaine
-description: "Lee, Charmaine - Serious Title"
+description: "Lee, Charmaine - Job Title"
 id: charmaine
 name: Lee, Charmaine
 joinDate: 1970-01-01
 function: pm
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

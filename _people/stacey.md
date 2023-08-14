@@ -1,12 +1,12 @@
 ---
 title: Tan Seok Sim, Stacey
 permalink: /people/stacey
-description: "Tan Seok Sim, Stacey - Serious Title"
+description: "Tan Seok Sim, Stacey - Job Title"
 id: stacey
 name: Tan Seok Sim, Stacey
 joinDate: 2022-07-02
 function: design
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

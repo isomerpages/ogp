@@ -1,12 +1,12 @@
 ---
 title: Damodaran, Hanu
 permalink: /people/hanu
-description: "Damodaran, Hanu - Serious Title"
+description: "Damodaran, Hanu - Job Title"
 id: hanu
 name: Damodaran, Hanu
 joinDate: 27/02/2023
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

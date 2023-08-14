@@ -1,12 +1,12 @@
 ---
 title: Kim-Chan, Louiz
 permalink: /people/louiz
-description: "Kim-Chan, Louiz - Serious Title"
+description: "Kim-Chan, Louiz - Job Title"
 id: louiz
 name: Kim-Chan, Louiz
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

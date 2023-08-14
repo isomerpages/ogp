@@ -1,12 +1,12 @@
 ---
 title: Le Thanh, Dat
 permalink: /people/dat
-description: "Le Thanh, Dat - Serious Title"
+description: "Le Thanh, Dat - Job Title"
 id: dat
 name: Le Thanh, Dat
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

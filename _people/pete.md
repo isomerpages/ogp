@@ -1,12 +1,12 @@
 ---
 title: Patanapanlert, Pete
 permalink: /people/pete
-description: "Patanapanlert, Pete - Serious Title"
+description: "Patanapanlert, Pete - Job Title"
 id: pete
 name: Patanapanlert, Pete
 joinDate: 27/03/2023
 function: pm
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

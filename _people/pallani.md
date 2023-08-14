@@ -1,12 +1,12 @@
 ---
 title: s/o Selvan, Pallanikumaran
 permalink: /people/pallani
-description: "s/o Selvan, Pallanikumaran - Serious Title"
+description: "s/o Selvan, Pallanikumaran - Job Title"
 id: pallani
 name: s/o Selvan, Pallanikumaran
 joinDate: 2015-11-05
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

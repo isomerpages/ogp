@@ -1,12 +1,12 @@
 ---
 title: Foo, Chi Fa
 permalink: /people/chifa
-description: "Foo, Chi Fa - Serious Title"
+description: "Foo, Chi Fa - Job Title"
 id: chifa
 name: Foo, Chi Fa
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

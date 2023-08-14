@@ -1,12 +1,12 @@
 ---
 title: Sean, Lum Jian Yang
 permalink: /people/sean
-description: "Sean, Lum Jian Yang - Serious Title"
+description: "Sean, Lum Jian Yang - Job Title"
 id: sean
 name: Sean, Lum Jian Yang
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

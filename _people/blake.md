@@ -1,12 +1,12 @@
 ---
 title: Gong, Blake
 permalink: /people/blake
-description: "Gong, Blake - Serious Title"
+description: "Gong, Blake - Job Title"
 id: blake
 name: Gong, Blake
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

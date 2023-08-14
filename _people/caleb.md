@@ -1,12 +1,12 @@
 ---
 title: Chiam, Caleb
 permalink: /people/caleb
-description: "Chiam, Caleb - Serious Title"
+description: "Chiam, Caleb - Job Title"
 id: caleb
 name: Chiam, Caleb
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

@@ -1,12 +1,12 @@
 ---
 title: Lim, Jia Yee
 permalink: /people/jiayee
-description: "Lim, Jia Yee - Serious Title"
+description: "Lim, Jia Yee - Job Title"
 id: jiayee
 name: Lim, Jia Yee
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

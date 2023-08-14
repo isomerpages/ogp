@@ -1,12 +1,12 @@
 ---
 title: Liang, Yuanruo
 permalink: /people/yuanruo
-description: "Liang, Yuanruo - Serious Title"
+description: "Liang, Yuanruo - Job Title"
 id: yuanruo
 name: Liang, Yuanruo
 joinDate: 2019-01-07
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

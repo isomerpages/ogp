@@ -1,12 +1,12 @@
 ---
 title: Loke Swen, Jessendra
 permalink: /people/jessendra
-description: "Loke Swen, Jessendra - Serious Title"
+description: "Loke Swen, Jessendra - Job Title"
 id: jessendra
 name: Loke Swen, Jessendra
 joinDate: 1970-01-01
 function: pm
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

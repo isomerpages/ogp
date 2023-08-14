@@ -1,12 +1,12 @@
 ---
 title: Takeguchi, Airika
 permalink: /people/airika
-description: "Takeguchi, Airika - Serious Title"
+description: "Takeguchi, Airika - Job Title"
 id: airika
 name: Takeguchi, Airika
 joinDate: 1970-01-01
 function: people
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

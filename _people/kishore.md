@@ -1,12 +1,12 @@
 ---
 title: R, Kishore
 permalink: /people/kishore
-description: "R, Kishore - Serious Title"
+description: "R, Kishore - Job Title"
 id: kishore
 name: R, Kishore
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

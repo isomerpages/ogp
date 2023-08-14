@@ -1,12 +1,12 @@
 ---
 title: Oh, Chin Yang
 permalink: /people/chinyang
-description: "Oh, Chin Yang - Serious Title"
+description: "Oh, Chin Yang - Job Title"
 id: chinyang
 name: Oh, Chin Yang
 joinDate: 2023-06-03
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

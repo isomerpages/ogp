@@ -1,12 +1,12 @@
 ---
 title: Yap, Jackson
 permalink: /people/jackson
-description: "Yap, Jackson - Serious Title"
+description: "Yap, Jackson - Job Title"
 id: jackson
 name: Yap, Jackson
 joinDate: 31/08/2020
 function: ops
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

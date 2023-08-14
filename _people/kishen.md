@@ -1,12 +1,12 @@
 ---
 title: Ashok Kumar, Kishen
 permalink: /people/kishen
-description: "Ashok Kumar, Kishen - Serious Title"
+description: "Ashok Kumar, Kishen - Job Title"
 id: kishen
 name: Ashok Kumar, Kishen
 joinDate: 2022-06-06
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

@@ -1,12 +1,12 @@
 ---
 title: Raj Kumar, Praveen
 permalink: /people/praveen
-description: "Raj Kumar, Praveen - Serious Title"
+description: "Raj Kumar, Praveen - Job Title"
 id: praveen
 name: Raj Kumar, Praveen
 joinDate: 1970-01-01
 function: policy
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

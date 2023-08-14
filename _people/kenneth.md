@@ -1,12 +1,12 @@
 ---
 title: Sng, Kenneth
 permalink: /people/kenneth
-description: "Sng, Kenneth - Serious Title"
+description: "Sng, Kenneth - Job Title"
 id: kenneth
 name: Sng, Kenneth
 joinDate: 1970-01-01
 function: pm
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

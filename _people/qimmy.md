@@ -1,12 +1,12 @@
 ---
 title: Lim, Qi Xuan
 permalink: /people/qimmy
-description: "Lim, Qi Xuan - Serious Title"
+description: "Lim, Qi Xuan - Job Title"
 id: qimmy
 name: Lim, Qi Xuan
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

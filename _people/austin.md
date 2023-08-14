@@ -1,12 +1,12 @@
 ---
 title: Woon Quan, Austin
 permalink: /people/austin
-description: "Woon Quan, Austin - Serious Title"
+description: "Woon Quan, Austin - Job Title"
 id: austin
 name: Woon Quan, Austin
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

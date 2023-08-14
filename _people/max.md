@@ -1,12 +1,12 @@
 ---
 title: Tan, Huiyi
 permalink: /people/max
-description: "Tan, Huiyi - Serious Title"
+description: "Tan, Huiyi - Job Title"
 id: max
 name: Tan, Huiyi
 joinDate: 2023-06-03
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

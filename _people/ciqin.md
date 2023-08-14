@@ -1,12 +1,12 @@
 ---
 title: Ghwee, Ciqin
 permalink: /people/ciqin
-description: "Ghwee, Ciqin - Serious Title"
+description: "Ghwee, Ciqin - Job Title"
 id: ciqin
 name: Ghwee, Ciqin
 joinDate: 22/05/2023
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

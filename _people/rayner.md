@@ -1,12 +1,12 @@
 ---
 title: Loh, Rayner
 permalink: /people/rayner
-description: "Loh, Rayner - Serious Title"
+description: "Loh, Rayner - Job Title"
 id: rayner
 name: Loh, Rayner
 joinDate: 2023-03-04
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

@@ -1,12 +1,12 @@
 ---
 title: Neo, Gerald
 permalink: /people/geraldneo
-description: "Neo, Gerald - Serious Title"
+description: "Neo, Gerald - Job Title"
 id: geraldneo
 name: Neo, Gerald
 joinDate: 22/05/2023
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

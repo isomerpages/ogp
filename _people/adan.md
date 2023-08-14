@@ -1,12 +1,12 @@
 ---
 title: Vielma, Adan
 permalink: /people/adan
-description: "Vielma, Adan - Serious Title"
+description: "Vielma, Adan - Job Title"
 id: adan
 name: Vielma, Adan
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

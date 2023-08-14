@@ -1,12 +1,12 @@
 ---
 title: Lau, Kar Rui
 permalink: /people/karrui
-description: "Lau, Kar Rui - Serious Title"
+description: "Lau, Kar Rui - Job Title"
 id: karrui
 name: Lau, Kar Rui
 joinDate: 2020-03-02
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

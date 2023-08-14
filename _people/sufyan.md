@@ -1,12 +1,12 @@
 ---
 title: Bin Selamet, Sufyan
 permalink: /people/sufyan
-description: "Bin Selamet, Sufyan - Serious Title"
+description: "Bin Selamet, Sufyan - Job Title"
 id: sufyan
 name: Bin Selamet, Sufyan
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

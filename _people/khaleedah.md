@@ -1,12 +1,12 @@
 ---
 title: Sairi, Khaleedah
 permalink: /people/khaleedah
-description: "Sairi, Khaleedah - Serious Title"
+description: "Sairi, Khaleedah - Job Title"
 id: khaleedah
 name: Sairi, Khaleedah
 joinDate: 2021-12-07
 function: design
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

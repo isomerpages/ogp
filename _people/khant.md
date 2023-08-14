@@ -1,12 +1,12 @@
 ---
 title: Zaw, Khant
 permalink: /people/khant
-description: "Zaw, Khant - Serious Title"
+description: "Zaw, Khant - Job Title"
 id: khant
 name: Zaw, Khant
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

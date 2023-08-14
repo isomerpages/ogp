@@ -1,12 +1,12 @@
 ---
 title: Tan, Geraldine
 permalink: /people/geraldine
-description: "Tan, Geraldine - Serious Title"
+description: "Tan, Geraldine - Job Title"
 id: geraldine
 name: Tan, Geraldine
 joinDate: 1970-01-01
 function: ops
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

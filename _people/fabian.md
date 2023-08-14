@@ -1,12 +1,12 @@
 ---
 title: Chia Hup Peng, Fabian
 permalink: /people/fabian
-description: "Chia Hup Peng, Fabian - Serious Title"
+description: "Chia Hup Peng, Fabian - Job Title"
 id: fabian
 name: Chia Hup Peng, Fabian
 joinDate: 2022-04-07
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

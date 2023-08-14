@@ -1,12 +1,12 @@
 ---
 title: See, Zi Yang
 permalink: /people/ziyang
-description: "See, Zi Yang - Serious Title"
+description: "See, Zi Yang - Job Title"
 id: ziyang
 name: See, Zi Yang
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

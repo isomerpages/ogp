@@ -1,12 +1,12 @@
 ---
 title: Fernando, Amitha
 permalink: /people/amitha
-description: "Fernando, Amitha - Serious Title"
+description: "Fernando, Amitha - Job Title"
 id: amitha
 name: Fernando, Amitha
 joinDate: 1970-01-01
 function: corporate
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

@@ -1,12 +1,12 @@
 ---
 title: Li, Hongyi
 permalink: /people/lhy
-description: "Li, Hongyi - Serious Title"
+description: "Li, Hongyi - Job Title"
 id: lhy
 name: Li, Hongyi
 joinDate: 1970-01-01
 function: corporate
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

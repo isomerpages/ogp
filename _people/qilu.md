@@ -1,12 +1,12 @@
 ---
 title: Xie, Qilu
 permalink: /people/qilu
-description: "Xie, Qilu - Serious Title"
+description: "Xie, Qilu - Job Title"
 id: qilu
 name: Xie, Qilu
 joinDate: 2023-06-02
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

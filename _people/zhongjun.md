@@ -1,12 +1,12 @@
 ---
 title: Hsu, Zhong Jun
 permalink: /people/zhongjun
-description: "Hsu, Zhong Jun - Serious Title"
+description: "Hsu, Zhong Jun - Job Title"
 id: zhongjun
 name: Hsu, Zhong Jun
 joinDate: 2022-08-08
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

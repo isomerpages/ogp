@@ -1,12 +1,12 @@
 ---
 title: Lee, Siu Hei
 permalink: /people/brianlee
-description: "Lee, Siu Hei - Serious Title"
+description: "Lee, Siu Hei - Job Title"
 id: brianlee
 name: Lee, Siu Hei
 joinDate: 20/03/2023
 function: pm
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

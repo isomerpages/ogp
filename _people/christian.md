@@ -1,12 +1,12 @@
 ---
 title: Chow, Christian
 permalink: /people/christian
-description: "Chow, Christian - Serious Title"
+description: "Chow, Christian - Job Title"
 id: christian
 name: Chow, Christian
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

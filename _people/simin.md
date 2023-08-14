@@ -1,12 +1,12 @@
 ---
 title: Ong, Si Min
 permalink: /people/simin
-description: "Ong, Si Min - Serious Title"
+description: "Ong, Si Min - Job Title"
 id: simin
 name: Ong, Si Min
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

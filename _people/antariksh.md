@@ -1,12 +1,12 @@
 ---
 title: Mahajan, Antariksh
 permalink: /people/antariksh
-description: "Mahajan, Antariksh - Serious Title"
+description: "Mahajan, Antariksh - Job Title"
 id: antariksh
 name: Mahajan, Antariksh
 joinDate: 2020-02-03
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

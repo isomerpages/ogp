@@ -1,12 +1,12 @@
 ---
 title: Ong, Cheri
 permalink: /people/cheri
-description: "Ong, Cheri - Serious Title"
+description: "Ong, Cheri - Job Title"
 id: cheri
 name: Ong, Cheri
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

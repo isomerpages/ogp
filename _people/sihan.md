@@ -1,12 +1,12 @@
 ---
 title: Ding, Si Han
 permalink: /people/sihan
-description: "Ding, Si Han - Serious Title"
+description: "Ding, Si Han - Job Title"
 id: sihan
 name: Ding, Si Han
 joinDate: 13/06/2022
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

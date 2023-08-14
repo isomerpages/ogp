@@ -1,12 +1,12 @@
 ---
 title: Lim, Carina
 permalink: /people/carina
-description: "Lim, Carina - Serious Title"
+description: "Lim, Carina - Job Title"
 id: carina
 name: Lim, Carina
 joinDate: 26/07/2021
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

@@ -1,12 +1,12 @@
 ---
 title: Siow, Stephanie
 permalink: /people/stephanie
-description: "Siow, Stephanie - Serious Title"
+description: "Siow, Stephanie - Job Title"
 id: stephanie
 name: Siow, Stephanie
 joinDate: 2022-01-04
 function: partnerships
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

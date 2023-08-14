@@ -1,12 +1,12 @@
 ---
 title: Chan, Oliver
 permalink: /people/oliver
-description: "Chan, Oliver - Serious Title"
+description: "Chan, Oliver - Job Title"
 id: oliver
 name: Chan, Oliver
 joinDate: 2021-12-13
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

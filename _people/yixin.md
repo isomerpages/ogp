@@ -1,12 +1,12 @@
 ---
 title: Ang, Yi Xin
 permalink: /people/yixin
-description: "Ang, Yi Xin - Serious Title"
+description: "Ang, Yi Xin - Job Title"
 id: yixin
 name: Ang, Yi Xin
 joinDate: 2023-06-03
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

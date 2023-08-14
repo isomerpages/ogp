@@ -1,12 +1,12 @@
 ---
 title: Gan, Hong Yao
 permalink: /people/hongyao
-description: "Gan, Hong Yao - Serious Title"
+description: "Gan, Hong Yao - Job Title"
 id: hongyao
 name: Gan, Hong Yao
 joinDate: 14/08/2023
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

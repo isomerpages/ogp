@@ -1,12 +1,12 @@
 ---
 title: Loh Wan Hua, Nicole
 permalink: /people/nicole
-description: "Loh Wan Hua, Nicole - Serious Title"
+description: "Loh Wan Hua, Nicole - Job Title"
 id: nicole
 name: Loh Wan Hua, Nicole
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

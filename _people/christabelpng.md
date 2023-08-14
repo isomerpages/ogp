@@ -1,12 +1,12 @@
 ---
 title: Png, Christabel
 permalink: /people/christabelpng
-description: "Png, Christabel - Serious Title"
+description: "Png, Christabel - Job Title"
 id: christabelpng
 name: Png, Christabel
 joinDate: 2020-01-06
 function: design
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

@@ -1,12 +1,12 @@
 ---
 title: Lee, Cheryl
 permalink: /people/cheryl
-description: "Lee, Cheryl - Serious Title"
+description: "Lee, Cheryl - Job Title"
 id: cheryl
 name: Lee, Cheryl
 joinDate: 1970-01-01
 function: pm
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

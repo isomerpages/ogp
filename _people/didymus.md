@@ -1,12 +1,12 @@
 ---
 title: Ne, Didymus
 permalink: /people/didymus
-description: "Ne, Didymus - Serious Title"
+description: "Ne, Didymus - Job Title"
 id: didymus
 name: Ne, Didymus
 joinDate: 2023-08-05
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

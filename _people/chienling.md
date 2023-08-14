@@ -1,12 +1,12 @@
 ---
 title: Ang, Chien Ling
 permalink: /people/chienling
-description: "Ang, Chien Ling - Serious Title"
+description: "Ang, Chien Ling - Job Title"
 id: chienling
 name: Ang, Chien Ling
 joinDate: 2021-10-08
 function: people
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

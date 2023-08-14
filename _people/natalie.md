@@ -1,12 +1,12 @@
 ---
 title: Tan, Natalie
 permalink: /people/natalie
-description: "Tan, Natalie - Serious Title"
+description: "Tan, Natalie - Job Title"
 id: natalie
 name: Tan, Natalie
 joinDate: 2020-06-04
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

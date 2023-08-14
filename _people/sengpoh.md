@@ -1,12 +1,12 @@
 ---
 title: Lim, Seng Poh
 permalink: /people/sengpoh
-description: "Lim, Seng Poh - Serious Title"
+description: "Lim, Seng Poh - Job Title"
 id: sengpoh
 name: Lim, Seng Poh
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

@@ -1,12 +1,12 @@
 ---
 title: Tan, Wei Lun
 permalink: /people/weilun
-description: "Tan, Wei Lun - Serious Title"
+description: "Tan, Wei Lun - Job Title"
 id: weilun
 name: Tan, Wei Lun
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

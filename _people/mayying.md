@@ -1,12 +1,12 @@
 ---
 title: Tee, May Ying
 permalink: /people/mayying
-description: "Tee, May Ying - Serious Title"
+description: "Tee, May Ying - Job Title"
 id: mayying
 name: Tee, May Ying
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

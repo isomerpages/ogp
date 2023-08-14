@@ -1,12 +1,12 @@
 ---
 title: Ong, Pearly
 permalink: /people/pearly
-description: "Ong, Pearly - Serious Title"
+description: "Ong, Pearly - Job Title"
 id: pearly
 name: Ong, Pearly
 joinDate: 21/10/2019
 function: design
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

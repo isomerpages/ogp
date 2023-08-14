@@ -1,12 +1,12 @@
 ---
 title: Bansal, Prakriti
 permalink: /people/prakriti
-description: "Bansal, Prakriti - Serious Title"
+description: "Bansal, Prakriti - Job Title"
 id: prakriti
 name: Bansal, Prakriti
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

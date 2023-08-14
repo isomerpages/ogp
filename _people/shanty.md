@@ -1,12 +1,12 @@
 ---
 title: Basrur, Shantanu Dilip
 permalink: /people/shanty
-description: "Basrur, Shantanu Dilip - Serious Title"
+description: "Basrur, Shantanu Dilip - Job Title"
 id: shanty
 name: Basrur, Shantanu Dilip
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

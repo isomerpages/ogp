@@ -1,12 +1,12 @@
 ---
 title: Menon, Nitya
 permalink: /people/nitya
-description: "Menon, Nitya - Serious Title"
+description: "Menon, Nitya - Job Title"
 id: nitya
 name: Menon, Nitya
 joinDate: 1970-01-01
 function: partnerships
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

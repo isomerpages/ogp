@@ -1,12 +1,12 @@
 ---
 title: Lenus, Latasha
 permalink: /people/latasha
-description: "Lenus, Latasha - Serious Title"
+description: "Lenus, Latasha - Job Title"
 id: latasha
 name: Lenus, Latasha
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

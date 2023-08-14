@@ -1,12 +1,12 @@
 ---
 title: Chiew, Kok Seng
 permalink: /people/kokseng
-description: "Chiew, Kok Seng - Serious Title"
+description: "Chiew, Kok Seng - Job Title"
 id: kokseng
 name: Chiew, Kok Seng
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

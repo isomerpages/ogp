@@ -1,12 +1,12 @@
 ---
 title: Tan, Junming
 permalink: /people/joshua
-description: "Tan, Junming - Serious Title"
+description: "Tan, Junming - Job Title"
 id: joshua
 name: Tan, Junming
 joinDate: 2021-06-09
 function: corporate
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

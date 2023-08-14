@@ -1,12 +1,12 @@
 ---
 title: Yak, Kian Feng
 permalink: /people/richardyak
-description: "Yak, Kian Feng - Serious Title"
+description: "Yak, Kian Feng - Job Title"
 id: richardyak
 name: Yak, Kian Feng
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

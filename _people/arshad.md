@@ -1,12 +1,12 @@
 ---
 title: s/o Abdul Samad, Arshad Ali
 permalink: /people/arshad
-description: "s/o Abdul Samad, Arshad Ali - Serious Title"
+description: "s/o Abdul Samad, Arshad Ali - Job Title"
 id: arshad
 name: s/o Abdul Samad, Arshad Ali
 joinDate: 1970-01-01
 function: eng
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

@@ -1,12 +1,12 @@
 ---
 title: Tay, Paul hong
 permalink: /people/paul
-description: "Tay, Paul hong - Serious Title"
+description: "Tay, Paul hong - Job Title"
 id: paul
 name: Tay, Paul hong
 joinDate: 1970-01-01
 function: pm
-jobTitle: Serious Title
+jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
