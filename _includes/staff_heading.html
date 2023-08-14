@@ -30,6 +30,10 @@
         background-size: cover;
     }
 
+    .staff-linkedin {
+        margin-top: 20px;
+    }
+
     q {
         display: block;
         padding-left: 20px;
@@ -45,6 +49,13 @@
         <div class="info" style="background-color:{{include.color}}">
             <div class="staff-name">{{ include.staff.name }}</div>
             <div class="staff-title">{{ include.staff.title }}</div>
+            <div class="staff-linkedin">
+                <a href="https://www.linkedin.com/in/{{ include.staff.linkedinId }}/" target="_blank" rel="noreferrer"">
+                    <button class="bp-button">
+                    <i class="sgds-icon sgds-icon-linkedin-alt is-size-4"></i>
+                    </button>
+                </a>
+            </div>
         </div>
         <div class="staff-pic" style="background-image:url(/images/headshots/{{ staff.id }}.jpg)"></div>
     </div>

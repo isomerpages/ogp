@@ -74,17 +74,22 @@ const records = (await parseAsync(csvContent, {bom: true})).slice(1) // drop hea
 let quoteIndex = 0
 
 // 1 generate the data file
-const namedRecords = records.map(([name, joinDate, email, func, title, curProducts, pastProducts, accomplishments, quote]) => ({
-    id: email.split('@')[0].toLowerCase(),
-    name,
-    joinDate: joinDate || '1970-01-01',
-    function: func || 'eng', // stupid default, but to make sure things don't break 🤷
-    title: title || 'Serious Title',
-    curProducts: curProducts || 'currentProducts',
-    pastProducts: pastProducts || 'pastProducts',
-    accomplishments: accomplishments || '',
-    quote: quote || familyQuotes[quoteIndex++%familyQuotes.length]
-}))
+const namedRecords = records.map(([name, joinDate, email, func, title, curProducts, pastProducts, accomplishments, quote, linkedinId]) => {
+    const id = email.split('@')[0].toLowerCase();
+
+    return {
+        id,
+        name,
+        joinDate: joinDate || '1970-01-01',
+        function: func || 'eng', // stupid default, but to make sure things don't break 🤷
+        title: title || 'Serious Title',
+        curProducts: curProducts || 'currentProducts',
+        pastProducts: pastProducts || 'pastProducts',
+        accomplishments: accomplishments || '',
+        quote: quote || familyQuotes[quoteIndex++%familyQuotes.length],
+        linkedinId: linkedinId || id, // warning: using id is NOT correct, this is just to have something there for now
+    }
+})
 
 // order the record by name
 namedRecords.sort((r1, r2) => r1.name < r2.name ? -1 : 1)
