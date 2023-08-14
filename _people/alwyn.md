@@ -1,10 +1,10 @@
 ---
 title: Tan, Alwyn Solomon
-permalink: /people/alwyn.tan
+permalink: /people/alwyn
 description: "Tan, Alwyn Solomon - Serious Title"
 ---
 
-{%- assign staff = site.data.people | find: "id", "alwyn.tan" -%}
+{%- assign staff = site.data.people | find: "id", "alwyn" -%}
 {% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
 <p>I joined since 1970-01-01 and I am currently working on currentProducts.</p>

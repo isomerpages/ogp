@@ -106,6 +106,9 @@ for (const record of namedRecords) {
         return record[itemId]
     });
 
-    await unlink(`${TARGET_PEOPLE_COLLECTION_DIR}${record.id}.md`)
+    try {
+        await unlink(`${TARGET_PEOPLE_COLLECTION_DIR}${record.id}.md`)
+    }
+    catch(err) {}
     await writeFile(`${TARGET_PEOPLE_COLLECTION_DIR}${record.id}.md`, processed)
 }
