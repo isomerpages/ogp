@@ -31,8 +31,10 @@
     }
 
     .staff-linkedin {
+        display: flex;
+        gap: 1em;
+        align-items: center;
         margin-top: 20px;
-
     }
 
     .staff-linkedin a, .staff-linkedin a:hover {
@@ -41,9 +43,9 @@
 
     .staff-linkedin-logo {
         display: inline-block;
-        padding: 4px;
+        padding: 3px;
         background-color: white;
-        border-radius: 5px;
+        border-radius: 3px;
     }
 
     q {
@@ -64,8 +66,8 @@
             <div class="staff-linkedin">
                 <a href="https://www.linkedin.com/in/{{ include.staff.linkedinId }}/" target="_blank" rel="noreferrer">
                     <svg
-                        width="16"
-                        height="16"
+                        width="24"
+                        height="24"
                         viewBox="0 0 32 32"
                         fill="none"
                         class="staff-linkedin-logo"
