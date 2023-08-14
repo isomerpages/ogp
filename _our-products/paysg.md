@@ -9,44 +9,40 @@ breadcrumb: PaySG
 ### Digitise payments for government agencies  
 
 #### Background 
-As the economy began to open up after the initial travel restrictions of the COVID-19 pandemic, Singapore needed to charge inbound travellers for their swab tests and hotel stays when quarantined in Singapore. However, there were three key problems surrounding e-payments in the government: 
-* It was costly to set up new payment services
-* There was a need for manual financial reconciliation
-* It typically took 6 weeks to 9 months to set up a new payment service
+Payment functionality is a core aspect of government operations. There are three key problems surrounding e-payments in the government:
+*   Setting up new payment services is costly.
+*   It typically takes between 6 weeks and 9 months to set up a new payment service.
+*   There is a need for manual financial reconciliation.
 
 
 
 
 #### Solution
-PaySG was developed to enable digital payments for COVID-19 swab tests and Stay-Home Notices for incoming travellers to Singapore. 
-* Users receive a personalised payment link sent to their email, where they are directed to a personalised payment page. Upon checkout, they receive an official invoice/receipt
-* There are various channels through which links can be generated - users filling forms on FormSG directly, government officers filling in a FormSG form, or a script that generates links to be sent in bulk
-* PaySG uses FormSG’s webhook feature, Stripe for payment processing, and Postmark for transactional email templates and sending
+PaySG is a self-service, comprehensive, and free-of-charge service designed for government agencies that want to accept online payments. With PaySG, there are no monthly fees, setup charges, or cumbersome procurement processes to navigate. It empowers teams to swiftly replace existing payment methods with a secure, accessible, and fully compliant user experience hosted on the PaySG platform.
+
+*   **Instant Payment Service Setup:** Quickly establish a payment service on the PaySG platform hosted on PaySG.
+*   **Payment Methods:** Accept debit cards, credit cards, and digital wallet payments.
+*   **User Communication:** Automate email notifications to users, including payment confirmations.
+*   **Reporting:** Download comprehensive transaction reports for all payments made via PaySG.
+*   **Ideal for Paper-Based and Email Payment Collection:** If your current payment collection process involves paper-based or email methods, PaySG is the ideal solution.
+*   **API Integration for Online Services:** If you operate an online service, integrating with our API may be the preferred option.
 
 
 
 
 #### Impact
 
-*  Facilitated > 234 payment transactions since Jun 2020
-*  Enabled 8 agencies to collect > S$250 million in Stay-Home-Notice and Swab-related payments
+*   Enabled agencies to collect over S$300 million
+*   Saved agencies over S$1 million in development costs and more than 1,000 man-hours of finance officers' time.
 
 
 
 #### Team
+Pete Patanapanlert | Feliciana Natali | Jason Chong | Zeke Soh | Talitha Chin | Pallani Kumaran
 
-Ang Yi Xin <a href="https://github.com/artylope" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
-    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a> | Kevan Tan <a href="https://github.com/tankevan" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
-    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a> | Pallani Kumaran <a href="https://github.com/pallani" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
-    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a> | Huang Kaiwen <a href="https://github.com/huangkaiw3n" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
-    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a> | Talitha Chin <a href="https://github.com/talithachin" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
-    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a>
 
+#### Past Contributors
+Ang Yi Xin&nbsp;&nbsp;| Kevan Tan&nbsp;| Huang Kaiwen
 
 
 <a href="https://pay.gov.sg/" target="_blank">
