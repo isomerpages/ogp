@@ -31,14 +31,15 @@
     }
 
     .staff-linkedin {
-        display: flex;
-        gap: 1em;
-        align-items: center;
         margin-top: 20px;
     }
 
     .staff-linkedin a, .staff-linkedin a:hover {
+        display: flex;
+        gap: 1em;
+        align-items: center;
         color: white;
+        margin: 0;
     }
 
     .staff-linkedin-logo {
@@ -83,7 +84,7 @@
                         fill="{{include.color}}"
                         />
                     </svg>
-                    {{ include.staff.name }}
+                    <span>{{ include.staff.name }}</span>
                 </a>
             </div>
         </div>
