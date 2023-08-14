@@ -28,9 +28,9 @@ colors:
     - title: media-color-five
       color: "#00838f"
   function-colors:
-    finance: "#1361F0"
-    workplace: "#1361F0"
     corporate: "#1361F0"
+    people: "#1361F0"
+    marketing: "#1361F0"
     design: "#2D978C"
     eng: "#E74F4F"
     ops: "#5D6785"

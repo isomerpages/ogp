@@ -13,7 +13,7 @@ const TARGET_PEOPLE_DATA_FILE_YML = '../_data/people.yml'
 const TARGET_PEOPLE_COLLECTION_DIR = '../_people/'
 
 // https://www.shutterfly.com/ideas/family-quotes/
-const familyQuotes = _.shuffle([
+const familyQuotes = [
     'The most important thing in the world is family and love.',
     'Nothing is better than going home to family and eating good food and relaxing',
     'To us, family means putting your arms around each other and being there.',
@@ -64,8 +64,7 @@ const familyQuotes = _.shuffle([
     'Families are the compass that guides us. They are the inspiration to reach great heights, and our comfort when we occasionally falter.',
     'The only rock I know that stays steady, the only institution I know that works, is the family.',
     'When trouble comes, it’s your family that supports you.',
-])
-
+];
 
 const csvContent = await readFile(`${SOURCE_PEOPLE_CSV}`);
 
@@ -74,7 +73,7 @@ const records = (await parseAsync(csvContent, {bom: true})).slice(1) // drop hea
 let quoteIndex = 0
 
 // 1 generate the data file
-const namedRecords = records.map(([name, joinDate, email, func, title, curProducts, pastProducts, accomplishments, quote, linkedinId]) => {
+const namedRecords = records.map(([name, joinDate, email, func, jobTitle, curProducts, pastProducts, accomplishments, quote, linkedinId]) => {
     const id = email.split('@')[0].toLowerCase();
 
     return {
@@ -82,7 +81,7 @@ const namedRecords = records.map(([name, joinDate, email, func, title, curProduc
         name,
         joinDate: joinDate || '1970-01-01',
         function: func || 'eng', // stupid default, but to make sure things don't break 🤷
-        title: title || 'Serious Title',
+        jobTitle: jobTitle || 'Serious Title',
         curProducts: curProducts || 'currentProducts',
         pastProducts: pastProducts || 'pastProducts',
         accomplishments: accomplishments || '',
@@ -103,6 +102,9 @@ const templateContent = (await readFile(STAFF_TEMPLATE_MD)).toString() // assume
 for (const record of namedRecords) {
     console.log(`Writing file for ${record.id} (${record.name})`
     )
+
+    record.yamlData = YAML.stringify(record)
+
     const processed = templateContent.replace(/\{\{([a-z]+)\}\}/gi, (_match, itemId) => {
         if (!(itemId in record)) {
             console.warn(`${record.id}: placeholder item [${itemId}] not found in record - wiping`)

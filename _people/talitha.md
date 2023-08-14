@@ -2,14 +2,26 @@
 title: Chin, Rui Ling Talitha
 permalink: /people/talitha
 description: "Chin, Rui Ling Talitha - Serious Title"
+id: talitha
+name: Chin, Rui Ling Talitha
+joinDate: 15/10/2018
+function: pm
+jobTitle: Serious Title
+curProducts: currentProducts
+pastProducts: pastProducts
+accomplishments: ""
+quote: Stick to the basics, hold on to your family and friends – they will never
+  go out of fashion.
+linkedinId: talitha
+
 ---
 
-{%- assign staff = site.data.people | find: "id", "talitha" -%}
+{%- assign staff = site.data.people | find: "id", "{{page.id}}" -%}
 {% include staff_heading.html staff=staff color=site.colors.function-colors.pm %}
 
-<p>I joined since 15/10/2018 and I am currently working on currentProducts.</p>
+<p>I joined since {{page.joinDate}} and I am currently working on {{page.curProducts}}.</p>
 
-<p>Products I worked on before include pastProducts</p>
+<p>Products I worked on before include {{page.pastProducts}}</p>
 
 <p>Three things I've done recently which I'm proud of are...</p>
-
+{{page.accomplishments}}

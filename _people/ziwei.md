@@ -2,14 +2,25 @@
 title: Lim, Zi Wei
 permalink: /people/ziwei
 description: "Lim, Zi Wei - Serious Title"
+id: ziwei
+name: Lim, Zi Wei
+joinDate: 2022-04-07
+function: eng
+jobTitle: Serious Title
+curProducts: currentProducts
+pastProducts: pastProducts
+accomplishments: ""
+quote: Some people are worth melting for.
+linkedinId: ziwei
+
 ---
 
-{%- assign staff = site.data.people | find: "id", "ziwei" -%}
+{%- assign staff = site.data.people | find: "id", "{{page.id}}" -%}
 {% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
-<p>I joined since 04/07/2022 and I am currently working on currentProducts.</p>
+<p>I joined since {{page.joinDate}} and I am currently working on {{page.curProducts}}.</p>
 
-<p>Products I worked on before include pastProducts</p>
+<p>Products I worked on before include {{page.pastProducts}}</p>
 
 <p>Three things I've done recently which I'm proud of are...</p>
-
+{{page.accomplishments}}

@@ -2,14 +2,26 @@
 title: Gong, Blake
 permalink: /people/blake
 description: "Gong, Blake - Serious Title"
+id: blake
+name: Gong, Blake
+joinDate: 1970-01-01
+function: eng
+jobTitle: Serious Title
+curProducts: currentProducts
+pastProducts: pastProducts
+accomplishments: ""
+quote: The family – that dear octopus from whose tentacles we never quite
+  escape, nor, in our inmost hearts, ever quite wish to.
+linkedinId: blake
+
 ---
 
-{%- assign staff = site.data.people | find: "id", "blake" -%}
+{%- assign staff = site.data.people | find: "id", "{{page.id}}" -%}
 {% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
 
-<p>I joined since 1970-01-01 and I am currently working on currentProducts.</p>
+<p>I joined since {{page.joinDate}} and I am currently working on {{page.curProducts}}.</p>
 
-<p>Products I worked on before include pastProducts</p>
+<p>Products I worked on before include {{page.pastProducts}}</p>
 
 <p>Three things I've done recently which I'm proud of are...</p>
-
+{{page.accomplishments}}
