@@ -1,19 +1,20 @@
 ---
-title: Hibberd, James
+title: James
 permalink: /aboutus/eng/james
-description: "Hibberd, James - Job Title"
+description: "James - Job Title"
 third_nav_title: Software Engineering
 staffId: james
-name: Hibberd, James
-joinDate: 1970-01-01
+name: James
+joinDate: February 6, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
   - currentProducts
 pastProducts:
-  - pastProducts
+  - Head of Software Engineering
 accomplishments: ""
-quote: To us, family means putting your arms around each other and being there.
+quote: I love technology because of its ability to solve problems, and at OGP I
+  get to work on problems that really matter.
 linkedinId: james
 
 ---

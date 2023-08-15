@@ -1,19 +1,24 @@
 ---
-title: Tay, Paul hong
+title: Paul
 permalink: /aboutus/pm/paul
-description: "Tay, Paul hong - Job Title"
+description: "Paul - Job Title"
 third_nav_title: Product Management
 staffId: paul
-name: Tay, Paul hong
-joinDate: 1970-01-01
+name: Paul
+joinDate: April 18, 2022
 functionId: pm
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1-1XNzpvCx3f71gbsravw26p9UWqOEijfleM4hjex5Xs/edit#heading=h.q9g0durbss53
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: Nothing is better than going home to family and eating good food and relaxing
+  - SGC
+accomplishments: |-
+  MAS - Orchid
+  Parking.sg
+  Payments
+  PaySG
+  Redeem
+quote: To us, family means putting your arms around each other and being there.
 linkedinId: paul
 
 ---

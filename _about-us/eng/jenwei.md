@@ -1,20 +1,21 @@
 ---
-title: Niam, Jen Wei
+title: Jen Wei
 permalink: /aboutus/eng/jenwei
-description: "Niam, Jen Wei - Job Title"
+description: "Jen Wei - Job Title"
 third_nav_title: Software Engineering
 staffId: jenwei
-name: Niam, Jen Wei
-joinDate: 1970-01-01
+name: Jen Wei
+joinDate: April 4, 2022
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1t_ZeM7PcKcQqZy1m64Q2cS0zI11hH3ssMKZ7e652DTM/edit
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: In family life, love is the oil that eases friction, the cement that
-  binds closer together, and the music that brings harmony.
+  - Care360
+accomplishments: |-
+  * CorpTech
+  * HealthTech
+quote: Family is family.
 linkedinId: jenwei
 
 ---

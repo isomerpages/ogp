@@ -1,19 +1,20 @@
 ---
-title: Soh, Moses
+title: Moses
 permalink: /aboutus/pm/moses
-description: "Soh, Moses - Job Title"
+description: "Moses - Job Title"
 third_nav_title: Product Management
 staffId: moses
-name: Soh, Moses
-joinDate: 2022-05-12
+name: Moses
+joinDate: December 5, 2022
 functionId: pm
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/11JlBifr_TaZk5b5vZSzzbaucOhiimgV0vO3s3rgkub8/editt
 pastProducts:
-  - pastProducts
+  - Pair
+  - sgID
 accomplishments: ""
-quote: Ohana means family and family means nobody gets left behind or forgotten.
+quote: Life is beautiful. It’s about giving. It’s about family.
 linkedinId: moses
 
 ---

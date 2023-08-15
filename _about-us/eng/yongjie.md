@@ -1,18 +1,26 @@
 ---
-title: Foo, Yong Jie
+title: Yong Jie
 permalink: /aboutus/eng/yongjie
-description: "Foo, Yong Jie - Job Title"
+description: "Yong Jie - Job Title"
 third_nav_title: Software Engineering
 staffId: yongjie
-name: Foo, Yong Jie
-joinDate: 2019-02-12
+name: Yong Jie
+joinDate: December 2, 2019
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1gfqxBPjAUB6qBBL6fMvyfrvc6CkDYSijU-051ms3CuI/edit
 pastProducts:
-  - pastProducts
-accomplishments: ""
+  - Vault
+accomplishments: |-
+  * Temperature
+  * Food Facts
+  * Go.gov.sg
+  * Transparency
+  * FormSG
+  * Endemic Ops
+  * Data.gov
+  * Send
 quote: Life is beautiful. It’s about giving. It’s about family.
 linkedinId: yongjie
 

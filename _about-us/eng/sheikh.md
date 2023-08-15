@@ -1,20 +1,23 @@
 ---
-title: Bin Mohamed Aneess Alrragi, Sheikh Salim
+title: Sheikh
 permalink: /aboutus/eng/sheikh
-description: "Bin Mohamed Aneess Alrragi, Sheikh Salim - Job Title"
+description: "Sheikh - Job Title"
 third_nav_title: Software Engineering
 staffId: sheikh
-name: Bin Mohamed Aneess Alrragi, Sheikh Salim
-joinDate: 1970-01-01
+name: Sheikh
+joinDate: September 13, 2021
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1Kszhv8TzWCmLrq49PYxUovA2IrERB3gUwfvpHZ8KwTo/edit#heading=h.edq0jro3ey47
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: Being a family means you are a part of something very wonderful. It means
-  you will love and be loved for the rest of your life.
+  - Pair
+accomplishments: |-
+  Parking.sg
+  Payments
+  PaySG
+  Redeem
+quote: When trouble comes, it’s your family that supports you.
 linkedinId: sheikh
 
 ---

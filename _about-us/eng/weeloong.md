@@ -1,20 +1,19 @@
 ---
-title: Kuan, Wee Loong
+title: Wee Loong
 permalink: /aboutus/eng/weeloong
-description: "Kuan, Wee Loong - Job Title"
+description: "Wee Loong - Job Title"
 third_nav_title: Software Engineering
 staffId: weeloong
-name: Kuan, Wee Loong
-joinDate: 1970-01-01
+name: Wee Loong
+joinDate: June 5, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
   - currentProducts
 pastProducts:
   - pastProducts
-accomplishments: ""
-quote: The informality of family life is a blessed condition that allows us all
-  to become our best while looking our worst.
+accomplishments: "* Plumber"
+quote: When trouble comes, it’s your family that supports you.
 linkedinId: weeloong
 
 ---

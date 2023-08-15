@@ -1,19 +1,26 @@
 ---
-title: Png, Christabel
+title: Christabel Png
 permalink: /aboutus/design/christabelpng
-description: "Png, Christabel - Job Title"
+description: "Christabel Png - Job Title"
 third_nav_title: Product Design
 staffId: christabelpng
-name: Png, Christabel
-joinDate: 2020-01-06
+name: Christabel Png
+joinDate: June 1, 2020
 functionId: design
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1HT4nU19f3DGvdJJG-z0YIH8crT3XN7mbKOO2zVofJA4/edit
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: Family is not an important thing. It’s everything.
+  - Vault
+accomplishments: |-
+  * Scamshield
+  * Covid Ops
+  * AskGov
+  * Data.gov
+  * Send
+  * Go.gov.sg
+  * Folk
+quote: Where there is family, there is love.
 linkedinId: christabelpng
 
 ---

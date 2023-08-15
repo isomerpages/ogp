@@ -1,20 +1,34 @@
 ---
-title: Lam, Kee Wei
+title: Kee Wei
 permalink: /aboutus/eng/keewei
-description: "Lam, Kee Wei - Job Title"
+description: "Kee Wei - Job Title"
 third_nav_title: Software Engineering
 staffId: keewei
-name: Lam, Kee Wei
-joinDate: 2020-01-06
+name: Kee Wei
+joinDate: June 1, 2020
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1ncQyhHusLJphkvx8-1-rxoJDmZfStaJa7Vy0eZzv7nk/edit
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: Family ties mean that no matter how much you might want to run from your
-  family, you can’t.
+  - Senior Engineering Manager
+  - Armoury
+  - ActiveSG
+  - FormSG
+  - IRMS
+  - Pixie
+  - Care360
+  - Tooling Team
+  - Isomer
+accomplishments: |-
+  * Postman
+  * Covid Ops
+  * CheckFirst
+  * Sync
+  * Zendemic
+  * HAS / Primary Care
+quote: Stick to the basics, hold on to your family and friends – they will never
+  go out of fashion.
 linkedinId: keewei
 
 ---

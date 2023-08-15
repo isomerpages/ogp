@@ -1,19 +1,23 @@
 ---
-title: Kim-Chan, Louiz
+title: Louiz
 permalink: /aboutus/eng/louiz
-description: "Kim-Chan, Louiz - Job Title"
+description: "Louiz - Job Title"
 third_nav_title: Software Engineering
 staffId: louiz
-name: Kim-Chan, Louiz
-joinDate: 1970-01-01
+name: Louiz
+joinDate: July 5, 2021
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/143mKrTuVS3QzCvIq6oV5Dj_JLDUtIwKBSwH7tuZLGk0/edit#heading=h.6brzblxn4oep
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: Other things may change us, but we start and end with the family.
+  - Care360
+accomplishments: |-
+  * Covid Ops
+  * Healthcare
+  * Healthtech
+quote: The only rock I know that stays steady, the only institution I know that
+  works, is the family.
 linkedinId: louiz
 
 ---

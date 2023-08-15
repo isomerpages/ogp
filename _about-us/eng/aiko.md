@@ -1,20 +1,19 @@
 ---
-title: Klostermann, Aiko
+title: Aiko
 permalink: /aboutus/eng/aiko
-description: "Klostermann, Aiko - Job Title"
+description: "Aiko - Job Title"
 third_nav_title: Software Engineering
 staffId: aiko
-name: Klostermann, Aiko
-joinDate: 1970-01-01
+name: Aiko
+joinDate: April 24, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - "-"
 pastProducts:
   - pastProducts
-accomplishments: ""
-quote: Having somewhere to go is home. Having someone to love is family. And
-  having both is a blessing.
+accomplishments: "* NLB Seed Team"
+quote: To us, family means putting your arms around each other and being there.
 linkedinId: aiko
 
 ---

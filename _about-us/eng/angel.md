@@ -1,19 +1,19 @@
 ---
-title: Suhardi, Maria
+title: Angel
 permalink: /aboutus/eng/angel
-description: "Suhardi, Maria - Job Title"
+description: "Angel - Job Title"
 third_nav_title: Software Engineering
 staffId: angel
-name: Suhardi, Maria
-joinDate: 1970-01-01
+name: Angel
+joinDate: January 3, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1OXUAmjwg_c7j89fbrTOrMzJP_L3jDDz-rrtghfKApe4/edit
 pastProducts:
   - pastProducts
-accomplishments: ""
-quote: We may have our differences, but nothing’s more important than family.
+accomplishments: HAS
+quote: Family is not an important thing. It’s everything.
 linkedinId: angel
 
 ---

@@ -1,20 +1,20 @@
 ---
-title: Tan, Le Yang
+title: Le Yang
 permalink: /aboutus/eng/leyang
-description: "Tan, Le Yang - Job Title"
+description: "Le Yang - Job Title"
 third_nav_title: Software Engineering
 staffId: leyang
-name: Tan, Le Yang
-joinDate: 1970-01-01
+name: Le Yang
+joinDate: July 17, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
   - currentProducts
 pastProducts:
   - pastProducts
-accomplishments: ""
-quote: The bond that links your true family is not one of blood, but of respect
-  and joy in each other’s life.
+accomplishments: "* Scamtech"
+quote: Having somewhere to go is home. Having someone to love is family. And
+  having both is a blessing.
 linkedinId: leyang
 
 ---

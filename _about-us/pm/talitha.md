@@ -1,20 +1,27 @@
 ---
-title: Chin, Rui Ling Talitha
+title: Talitha
 permalink: /aboutus/pm/talitha
-description: "Chin, Rui Ling Talitha - Job Title"
+description: "Talitha - Job Title"
 third_nav_title: Product Management
 staffId: talitha
-name: Chin, Rui Ling Talitha
-joinDate: 15/10/2018
+name: Talitha
+joinDate: October 15, 2018
 functionId: pm
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1dHuh_tGCKAziky6Pin_lFsoAZG5R6LeijCjPO-pTABE/edit
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: Stick to the basics, hold on to your family and friends – they will never
-  go out of fashion.
+  - Scamtech
+  - Redeem
+  - PaySG
+accomplishments: |-
+  * Parking
+  * DistributeSG
+  * Redeem
+  * PaySG
+  * MAS - Orchid
+quote: The family is the test of freedom; because the family is the only thing
+  that the free man makes for himself and by himself.
 linkedinId: talitha
 
 ---

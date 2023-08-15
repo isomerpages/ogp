@@ -1,19 +1,23 @@
 ---
-title: Kwa, Jie Hao
+title: Jie Hao
 permalink: /aboutus/eng/jiehao
-description: "Kwa, Jie Hao - Job Title"
+description: "Jie Hao - Job Title"
 third_nav_title: Software Engineering
 staffId: jiehao
-name: Kwa, Jie Hao
-joinDate: 2019-09-09
+name: Jie Hao
+joinDate: September 9, 2019
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1ydqObkYY0Az-7cPD9mpNsJJm1QcFPV9cbtl6K5wWhto/edit
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: Families are like fudge – mostly sweet with a few nuts.
+  - SGID
+accomplishments: |-
+  * Homer
+  * Lookback
+  * OGP-Singhealth
+  * Endemic Ops
+quote: We may have our differences, but nothing’s more important than family.
 linkedinId: jiehao
 
 ---

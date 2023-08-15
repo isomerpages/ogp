@@ -1,19 +1,32 @@
 ---
-title: s/o Selvan, Pallanikumaran
+title: Pallani
 permalink: /aboutus/eng/pallani
-description: "s/o Selvan, Pallanikumaran - Job Title"
+description: "Pallani - Job Title"
 third_nav_title: Software Engineering
 staffId: pallani
-name: s/o Selvan, Pallanikumaran
-joinDate: 2015-11-05
+name: Pallani
+joinDate: May 11, 2015
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1ZKqxiPuLLtLDj9DjXdatNPKODVPHnRihdeBH7IdFIqA/edit
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: Family and friends are hidden treasures, seek them and enjoy their riches.
+  - Senior Engineering Manager
+  - Scamtech
+  - Redeem
+  - PaySG
+accomplishments: |-
+  * Vault
+  * DistributeSG
+  * Redeem
+  * Covid Ops
+  * PaySG
+  * Parking.sg
+  * CorpTech
+  * Payments
+  * Project Orchid
+quote: "Blended families: woven together by choice, strengthened together by
+  love, tested by everything, and each uniquely ours."
 linkedinId: pallani
 
 ---

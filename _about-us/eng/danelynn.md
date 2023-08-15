@@ -1,20 +1,20 @@
 ---
-title: Danelynn, Ding You Jia,
+title: Danelynn
 permalink: /aboutus/eng/danelynn
-description: "Danelynn, Ding You Jia, - Job Title"
+description: "Danelynn - Job Title"
 third_nav_title: Software Engineering
 staffId: danelynn
-name: Danelynn, Ding You Jia,
-joinDate: 1970-01-01
+name: Danelynn
+joinDate: July 17, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - i'm new, watch this space!
 pastProducts:
-  - pastProducts
+  - NLB
 accomplishments: ""
-quote: There is no doubt that it is around the family and the home that all the
-  greatest virtues… are created, strengthened and maintained.
+quote: Family ties mean that no matter how much you might want to run from your
+  family, you can’t.
 linkedinId: danelynn
 
 ---

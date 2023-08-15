@@ -1,19 +1,23 @@
 ---
-title: Tan, Kevan
+title: Kevan
 permalink: /aboutus/eng/kevan
-description: "Tan, Kevan - Job Title"
+description: "Kevan - Job Title"
 third_nav_title: Software Engineering
 staffId: kevan
-name: Tan, Kevan
-joinDate: 18/11/2019
+name: Kevan
+joinDate: March 20, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1ZjEgleaD1VulkLv0xP9qkcgaSY-hveXIgX8jLeFhtmg/edit#heading=h.nw26zgu3gwhg
 pastProducts:
   - pastProducts
-accomplishments: ""
-quote: To us, family means putting your arms around each other and being there.
+accomplishments: |-
+  * DistributeSG
+  * Redeem
+  * PaySG
+  * Parking.SG
+quote: Some people are worth melting for.
 linkedinId: kevan
 
 ---

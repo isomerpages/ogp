@@ -1,2214 +1,2381 @@
+- staffId: adan
+  name: Adan
+  joinDate: May 2, 2023
+  functionId: pm
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - pastProducts
+  accomplishments: ""
+  quote: In time of test, family is best.
+  linkedinId: adan
+- staffId: aiko
+  name: Aiko
+  joinDate: April 24, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - "-"
+  pastProducts:
+    - pastProducts
+  accomplishments: "* NLB Seed Team"
+  quote: To us, family means putting your arms around each other and being there.
+  linkedinId: aiko
+- staffId: airika
+  name: Airika
+  joinDate: June 12, 2023
+  functionId: transformation
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - pastProducts
+  accomplishments: "* Policy & Partnerships"
+  quote: The most important thing in the world is family and love.
+  linkedinId: airika
+- staffId: ajayraj
+  name: Ajay
+  joinDate: June 13, 2022
+  functionId: ops
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1KfXqg5ErH994ajuhRKJlLEKaMp3aYJak7ub3ZPhDCr8/edit
+  pastProducts:
+    - Armoury
+  accomplishments: |-
+    AskGov
+    Healthtech
+    Sync
+  quote: Having somewhere to go is home. Having someone to love is family. And
+    having both is a blessing.
+  linkedinId: ajayraj
+- staffId: alexander
+  name: Alex
+  joinDate: June 15, 2020
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1qRdTgyD6Lae_Tv9NOBlqCOIX5vgqZwyC-hcZ31erxhI/edit#heading=h.xkfgcwsoy2dv
+  pastProducts:
+    - Isomer
+  accomplishments: |-
+    AskGov
+    CheckFirst
+    Go.gov.sg
+    Homer
+  quote: Families are the compass that guides us. They are the inspiration to
+    reach great heights, and our comfort when we occasionally falter.
+  linkedinId: alexander
+- staffId: alexis
+  name: Alexis
+  joinDate: June 29, 2020
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://www.notion.so/opengov/Alexis-Working-Document-46583fa1216243e681596872e39e94c6
+  pastProducts:
+    - go.gov.sg
+  accomplishments: |-
+    * Homer
+    * Isomer
+    * CheckFirst
+    * OGP-Singhealth
+    * Healthcare
+    * CheckWho
+    * Pouch
+  quote: There is no doubt that it is around the family and the home that all the
+    greatest virtues… are created, strengthened and maintained.
+  linkedinId: alexis
+- staffId: alwyn
+  name: Alwyn
+  joinDate: February 6, 2017
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1FjICsIQq9gnmcvXzfQTkvcQOZCN19n_-C0pRmTfC9No/edit
+  pastProducts:
+    - Developer Relations
+    - Armoury
+  accomplishments: |-
+    * HealthHub
+    * CCRM
+    * Isomer
+    * Go.gov.sg
+    * CheckFirst
+    * SGID
+    * Care 360
+    * AskGov
+    * Postman
+    * Touchpoint
+    * DigiMC
+    * ScamTech
+    * HAS
+  quote: A happy family is but an earlier heaven.
+  linkedinId: alwyn
+- staffId: amit
+  name: Amit
+  joinDate: June 6, 2022
+  functionId: pm
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1gGh0FzwZnVmBfZt1HOsTOGmMzhc1tc0mEcBj5bvtZ0U/edit?usp=drive_web&ouid=117260676200678954389
+  pastProducts:
+    - FormSG
+  accomplishments: "* Sync"
+  quote: Other things may change us, but we start and end with the family.
+  linkedinId: amit
+- staffId: amitha
+  name: Amitha
+  joinDate: July 17, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - i'm new, watch this space!
+  pastProducts:
+    - pastProducts
+  accomplishments: "* CorpOps"
+  quote: Where there is family, there is love.
+  linkedinId: amitha
+- staffId: angel
+  name: Angel
+  joinDate: January 3, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1OXUAmjwg_c7j89fbrTOrMzJP_L3jDDz-rrtghfKApe4/edit
+  pastProducts:
+    - pastProducts
+  accomplishments: HAS
+  quote: Family is not an important thing. It’s everything.
+  linkedinId: angel
+- staffId: antariksh
+  name: Antariksh
+  joinDate: March 2, 2020
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1Iq-mvRK9Nv_GwwHLgKiHlQq1XtKEPyEvhRAlXmwqAzc/edit
+  pastProducts:
+    - CalSG
+  accomplishments: |-
+    * FormSG
+    * AskGov
+    * Endemic Ops
+    * CheckFirst
+    * Temperature
+    * SGID
+  quote: Our family is a circle of strength of love with every birth and every
+    union the circle grows.
+  linkedinId: antariksh
+- staffId: arshad
+  name: Arshad
+  joinDate: December 13, 2018
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1YJjhQ6GJtesAlRHSDuIAT-aw20zRzJ_wISXcD7YVFEQ/edit?usp=drive_link
+  pastProducts:
+    - AskGov
+  accomplishments: |-
+    * Data.gov
+    * eDOT
+    * Endemic Ops
+    * FormSG
+    * Okay/Not Okay
+    * Product
+    * ResolveSG
+    * Send
+    * Vault
+  quote: The bond that links your true family is not one of blood, but of respect
+    and joy in each other’s life.
+  linkedinId: arshad
+- staffId: austin
+  name: Austin
+  joinDate: January 3, 2022
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1J4Fbs9kXXGbIYzcABn1pGV6C6Tr9hNW9jQXVz-NgkGw/edit#heading=h.hld65166mry
+  pastProducts:
+    - Care360
+  accomplishments: |-
+    * Healthtech
+    * IRMS
+  quote: Being a family means you are a part of something very wonderful. It means
+    you will love and be loved for the rest of your life.
+  linkedinId: austin
+- staffId: benjamin
+  name: Ben
+  joinDate: January 4, 2022
+  functionId: design
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1k8949dNUC-AfITJ4U4gexavxJBj1W_X9J_L53mygw7E/editt
+  pastProducts:
+    - Head of Product Design
+  accomplishments: ""
+  quote: Nothing is better than going home to family and eating good food and relaxing
+  linkedinId: benjamin
+- staffId: benjaminloh
+  name: Benjamin Loh
+  joinDate: November 28, 2022
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - Primary Care
+  accomplishments: ""
+  quote: In family life, love is the oil that eases friction, the cement that
+    binds closer together, and the music that brings harmony.
+  linkedinId: benjaminloh
+- staffId: bernadette
+  name: Bernadette
+  joinDate: March 20, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - Chief Operating Officer
+  accomplishments: "* Oversees Corporate Operations, People Team, Marketing"
+  quote: Happiness is having a large, loving, caring, close-knit family in another
+    city.
+  linkedinId: bernadette
+- staffId: blake
+  name: Blake
+  joinDate: June 13, 2022
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - Tooling Team
+  accomplishments: ""
+  quote: Think of your family today and every day thereafter, don’t let the busy
+    world of today keep you from showing how much you love and appreciate your
+    family.
+  linkedinId: blake
+- staffId: brianlee
+  name: Brian
+  joinDate: March 20, 2023
+  functionId: pm
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1b9hrFWRtxFPjQRfT7JF3kJOYNqr5WXwo-gBkLSL8G8U/edit
+  pastProducts:
+    - NLB
+  accomplishments: ""
+  quote: Having somewhere to go is home. Having someone to love is family. And
+    having both is a blessing.
+  linkedinId: brianlee
+- staffId: caleb
+  name: Caleb
+  joinDate: October 25, 2022
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1rULm0scq3eFL5oBiV2_d7qsf5KKg1lYVnXcAShHaxv4/edit
+  pastProducts:
+    - Care360
+  accomplishments: ""
+  quote: Families are like fudge – mostly sweet with a few nuts.
+  linkedinId: caleb
+- staffId: carina
+  name: Carina
+  joinDate: July 26, 2021
+  functionId: design
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/16FWXvxh7ICJqKhPciBseR48meRib5Y83tExnLTJLunM/edit
+  pastProducts:
+    - Redeem
+  accomplishments: |-
+    * Parking.sg
+    * PaySG
+    * Pair
+  quote: To us, family means putting your arms around each other and being there.
+  linkedinId: carina
+- staffId: charmaine
+  name: Charmaine
+  joinDate: September 13, 2021
+  functionId: pm
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1CbFXdAjb6YVbEw169Ov5lLvprEcpgXP5KYsigVQBk7k/edit
+  pastProducts:
+    - Redeem
+  accomplishments: |-
+    * Parking.sg
+    * PaySG
+  quote: The most important thing in the world is family and love.
+  linkedinId: charmaine
+- staffId: cheri
+  name: Cheri
+  joinDate: January 9, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1az8s7-K8tGuNvYvU4MAgVx8fjvAJmk2dlnn93vblt3U/edit#heading=h.3im1wk44qk3a
+  pastProducts:
+    - pastProducts
+  accomplishments: "* Queue"
+  quote: "Family: A social unit where the father is concerned with parking space,
+    the children with outer space, and the mother with closet space."
+  linkedinId: cheri
+- staffId: cheryl
+  name: Cheryl
+  joinDate: February 14, 2022
+  functionId: pm
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1jV5ZqyLZ6WeIr6QUk4kH0tJErBD0Dyc0cGeWyclarco/edit
+  pastProducts:
+    - Medipay
+  accomplishments: |-
+    * Marketing
+    * Crackdown
+  quote: Family ties mean that no matter how much you might want to run from your
+    family, you can’t.
+  linkedinId: cheryl
+- staffId: chifa
+  name: Chi Fa
+  joinDate: November 28, 2022
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1lbiTt1wetQIXMfGDAYqGy9k6x_SW1ty3ZXG5ODfXUYo/edit
+  pastProducts:
+    - FormSG
+  accomplishments: ""
+  quote: Being part of a family means smiling for photos.
+  linkedinId: chifa
 - staffId: chienling
-  name: Ang, Chien Ling
-  joinDate: 2021-10-08
+  name: Chien Ling
+  joinDate: August 10, 2021
   functionId: corporate
   jobTitle: Job Title
   curProducts:
     - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: The most important thing in the world is family and love.
+    - People Team
+  accomplishments: |-
+    * Covid-19 vaccination operations
+    * OGP hiring
+    * Internship programmes
+    * HR operations and governance
+    * Team communications
+  quote: Families are the compass that guides us. They are the inspiration to
+    reach great heights, and our comfort when we occasionally falter.
   linkedinId: chienling
-- staffId: jasmine
-  name: Ang, Jasmine
-  joinDate: 1970-01-01
+- staffId: chinyang
+  name: Chin Yang
+  joinDate: March 6, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1yqkQWss1fzmKUA4CfQnqZXdTJ5iyNUH1O9IDJqN5kzg/edit#heading=h.q9g0durbss53
+  pastProducts:
+    - pastProducts
+  accomplishments: Pair
+  quote: Family is family.
+  linkedinId: chinyang
+- staffId: chinying
+  name: Chin Ying
+  joinDate: November 19, 2018
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1bOPHy3IzlL0hzBfxS4Gs-nsi4FNJIBx-thhoUg2djpQ/editt
+  pastProducts:
+    - Scamtech
+  accomplishments: |-
+    * Postman
+    * Covid Ops
+    * Scamshield
+    * Healthcare
+    * Scamtech
+  quote: I didn’t give you the gift of life, but life gave me the gift of you.
+  linkedinId: chinying
+- staffId: chinyao
+  name: Chinyao
+  joinDate: June 19, 2023
   functionId: eng
   jobTitle: Job Title
   curProducts:
     - currentProducts
   pastProducts:
     - pastProducts
-  accomplishments: ""
+  accomplishments: "* Phonebook"
   quote: Nothing is better than going home to family and eating good food and relaxing
-  linkedinId: jasmine
-- staffId: yixin
-  name: Ang, Yi Xin
-  joinDate: 2023-06-03
+  linkedinId: chinyao
+- staffId: christabel
+  name: Christabel N.
+  joinDate: September 17, 2018
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - currentProducts
+    - https://docs.google.com/document/d/1UawiVv9bt7_CHSNbaMOrpHkhjsV3VCRCXcfxY2iTwws/edit
   pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: To us, family means putting your arms around each other and being there.
-  linkedinId: yixin
-- staffId: kishen
-  name: Ashok Kumar, Kishen
-  joinDate: 2022-06-06
+    - Armoury
+  accomplishments: |-
+    * Homer
+    * Vault
+    * Covid Operations
+    * Scamshield
+    * Healthcare
+  quote: Family is not defined by our genes, it is built and maintained through love.
+  linkedinId: christabel
+- staffId: christabelpng
+  name: Christabel Png
+  joinDate: June 1, 2020
+  functionId: design
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1HT4nU19f3DGvdJJG-z0YIH8crT3XN7mbKOO2zVofJA4/edit
+  pastProducts:
+    - Vault
+  accomplishments: |-
+    * Scamshield
+    * Covid Ops
+    * AskGov
+    * Data.gov
+    * Send
+    * Go.gov.sg
+    * Folk
+  quote: Where there is family, there is love.
+  linkedinId: christabelpng
+- staffId: christian
+  name: Christian
+  joinDate: November 28, 2022
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - currentProducts
+    - https://docs.google.com/document/d/1ehqbFDEMyzqTMBRsI9-yOKFhR-1NGdktnnrtvC_luA8/edit#heading=h.q9g0durbss53
   pastProducts:
-    - pastProducts
+    - Scamshield
   accomplishments: ""
-  quote: In family life, love is the oil that eases friction, the cement that
-    binds closer together, and the music that brings harmony.
-  linkedinId: kishen
-- staffId: prakriti
-  name: Bansal, Prakriti
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Other things may change us, but we start and end with the family.
-  linkedinId: prakriti
-- staffId: shanty
-  name: Basrur, Shantanu Dilip
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Having somewhere to go is home. Having someone to love is family. And
-    having both is a blessing.
-  linkedinId: shanty
-- staffId: sheikh
-  name: Bin Mohamed Aneess Alrragi, Sheikh Salim
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Being a family means you are a part of something very wonderful. It means
-    you will love and be loved for the rest of your life.
-  linkedinId: sheikh
-- staffId: sufyan
-  name: Bin Selamet, Sufyan
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Happiness is having a large, loving, caring, close-knit family in another
-    city.
-  linkedinId: sufyan
-- staffId: shazli
-  name: Bin Shahril Shintaro, Muhammad Shazli
-  joinDate: 1970-01-01
+  quote: Family ties mean that no matter how much you might want to run from your
+    family, you can’t.
+  linkedinId: christian
+- staffId: clement
+  name: Clement
+  joinDate: July 4, 2022
   functionId: ops
   jobTitle: Job Title
   curProducts:
     - currentProducts
   pastProducts:
+    - go.gov.sg
+  accomplishments: |-
+    * WizGov
+    * Highway
+    * HealthTech Sprint
+    * Isomer Project Pancake
+    * MindCraft
+  quote: The family is one of nature’s masterpieces.
+  linkedinId: clement
+- staffId: clifford
+  name: Clifford
+  joinDate: May 29, 2023
+  functionId: corporate
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
     - pastProducts
+  accomplishments: |
+    * techhiring.open.gov.sg 
+    * OGP hiring
+    * Team health dashboards and interventions
+  quote: Families are the compass that guides us. They are the inspiration to
+    reach great heights, and our comfort when we occasionally falter.
+  linkedinId: clifford
+- staffId: danelynn
+  name: Danelynn
+  joinDate: July 17, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - i'm new, watch this space!
+  pastProducts:
+    - NLB
+  accomplishments: ""
+  quote: Family ties mean that no matter how much you might want to run from your
+    family, you can’t.
+  linkedinId: danelynn
+- staffId: darren
+  name: Darren
+  joinDate: July 24, 2023
+  functionId: design
+  jobTitle: Job Title
+  curProducts:
+    - i'm new, watch this space!
+  pastProducts:
+    - pastProducts
+  accomplishments: "* UX Research"
+  quote: A happy family is but an earlier heaven.
+  linkedinId: darren
+- staffId: daryl
+  name: Daryl
+  joinDate: January 3, 2022
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1-vjDwIyZiXGNlhFe64rMvCWyjAE0ATvML9Iao6d2eCo/edit
+  pastProducts:
+    - Pixie
+  accomplishments: |-
+    Care360
+    CorpTech
+    Healthtech
+  quote: The most important thing in the world is family and love.
+  linkedinId: daryl
+- staffId: dat
+  name: Dat
+  joinDate: June 20, 2022
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1e3m66uF9LhBc0PeiLpSUjfQRolrP8B8gkInWJv645GQ/edit
+  pastProducts:
+    - go.gov.sg
+  accomplishments: "* Pouch"
+  quote: There is no doubt that it is around the family and the home that all the
+    greatest virtues… are created, strengthened and maintained.
+  linkedinId: dat
+- staffId: dexter
+  name: Dexter
+  joinDate: July 17, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1jUbwgd-c3fF_7bUFYh5AfMwZa8hDthcE0IvteWE_T68/edit
+  pastProducts:
+    - pastProducts
+  accomplishments: "*HAS"
+  quote: The family – that dear octopus from whose tentacles we never quite
+    escape, nor, in our inmost hearts, ever quite wish to.
+  linkedinId: dexter
+- staffId: enyi
+  name: Enyi
+  joinDate: January 3, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - Primary Care
+  accomplishments: ""
+  quote: Treat your family like friends and your friends like family.
+  linkedinId: enyi
+- staffId: fabian
+  name: Fabian
+  joinDate: July 4, 2022
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1DBaVJJWWi64T1FTSEFWlxcrZzTMbUWnLX0JBcyFfqK8/edit
+  pastProducts:
+    - Redeem
+  accomplishments: |-
+    * ParkingSG
+    * PaySG
+  quote: Family is not defined by our genes, it is built and maintained through love.
+  linkedinId: fabian
+- staffId: feliciana
+  name: Feli
+  joinDate: July 4, 2022
+  functionId: design
+  jobTitle: Job Title
+  curProducts:
+    - Can't find working doc
+  pastProducts:
+    - PaySG
+  accomplishments: |-
+    * Healthtech 
+    * Redeem
+    * Parking.sg 
+    * PaySG
+    * Queue
+    * Vault
+  quote: Think of your family today and every day thereafter, don’t let the busy
+    world of today keep you from showing how much you love and appreciate your
+    family.
+  linkedinId: feliciana
+- staffId: fiona
+  name: Fiona
+  joinDate: July 24, 2023
+  functionId: design
+  jobTitle: Job Title
+  curProducts:
+    - i'm new, watch this space!
+  pastProducts:
+    - UX Research
+  accomplishments: ""
+  quote: The memories we make with our family is everything.
+  linkedinId: fiona
+- staffId: foong
+  name: Foong Yi Zhuan
+  joinDate: July 17, 2023
+  functionId: pm
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - pastProducts
+  accomplishments: "* Vault"
+  quote: In family life, love is the oil that eases friction, the cement that
+    binds closer together, and the music that brings harmony.
+  linkedinId: foong
+- staffId: gautam
+  name: Gautam
+  joinDate: June 5, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - Armoury
+  accomplishments: ""
+  quote: Families are like fudge – mostly sweet with a few nuts.
+  linkedinId: gautam
+- staffId: geraldine
+  name: Geraldine
+  joinDate: August 22, 2022
+  functionId: ops
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1R0UwAoC3p73jmTSz_tZoypsPMy8O5mfDZC5pfZp8rvk/edit
+  pastProducts:
+    - Vault
+  accomplishments: ""
+  quote: Our family is a circle of strength of love with every birth and every
+    union the circle grows.
+  linkedinId: geraldine
+- staffId: hanu
+  name: Hanu
+  joinDate: February 27, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1bHzhW76RIe0Z_W467lH19ADjYFp8JOasfG7Lg17yomg/edit
+  pastProducts:
+    - Phonebook
+  accomplishments: ""
+  quote: Ohana means family and family means nobody gets left behind or forgotten.
+  linkedinId: hanu
+- staffId: harish
+  name: Harish
+  joinDate: February 6, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1ggybYFe32Cth1HftR-VYQ3OOQixLI-Y417rHSmVLOrA/edit
+  pastProducts:
+    - pastProducts
+  accomplishments: Isomer
+  quote: The memories we make with our family is everything.
+  linkedinId: harish
+- staffId: hena
+  name: Hena
+  joinDate: April 18, 2022
+  functionId: pm
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - go.gov.sg
+  accomplishments: ""
+  quote: Treat your family like friends and your friends like family.
+  linkedinId: hena
+- staffId: lhy
+  name: Hongyi
+  joinDate: March 31, 2017
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - Director of OGP
+  accomplishments: ""
+  quote: It’s the most effective way for me to do the most good in the world
+  linkedinId: lhy
+- staffId: huiling
+  name: Hui Ling
+  joinDate: April 24, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - pastProducts
+  accomplishments: "* Care360"
+  quote: The bond that links your true family is not one of blood, but of respect
+    and joy in each other’s life.
+  linkedinId: huiling
+- staffId: huiqing
+  name: Hui Qing
+  joinDate: January 3, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - FormSG
+  accomplishments: ""
+  quote: Rejoice with your family in the beautiful land of life.
+  linkedinId: huiqing
+- staffId: huixuan
+  name: Hui Xuan
+  joinDate: July 4, 2022
+  functionId: transformation
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - Policy & Transformation
+  accomplishments: "* IM8-CFA"
+  quote: Family is the heart of a home.
+  linkedinId: huixuan
+- staffId: hygin
+  name: Hygin
+  joinDate: August 1, 2022
+  functionId: transformation
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1Sb2c5DaSMJXfZbo7JQW5IPd-s7T_VakIp0eeXVi1Ms8/edit
+  pastProducts:
+    - Policy & Transformation
+  accomplishments: |-
+    * Scamshield
+    * Scamtech
+  quote: This is my family. I found it all on my own. It’s little, and broken, but
+    still good. Yeah. Still good.
+  linkedinId: hygin
+- staffId: ian
+  name: Ian
+  joinDate: September 3, 2018
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1MjM71Q01yc_DI26DldhkJqz6pYd1N1JQUcIuH7XcenQ/edit
+  pastProducts:
+    - Tooling team
+    - Plumber
+  accomplishments: |-
+    * Postman
+    * SGID
+    * Covid Ops
+    * Healthcare
+    * Sync
+    * OpenDoc
+    * Healthtech
+    * HAS
+    * CorpTech
+  quote: Think of your family today and every day thereafter, don’t let the busy
+    world of today keep you from showing how much you love and appreciate your
+    family.
+  linkedinId: ian
+- staffId: ivan
+  name: Ivan
+  joinDate: January 3, 2022
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1UhL1YbVJR6ge_v0qL4p3N1DamqAmNtOlgxGZchGWQSs/edit
+  pastProducts:
+    - Parking.sg
+  accomplishments: |-
+    * Redeem
+    * PaySG
+  quote: Having somewhere to go is home. Having someone to love is family. And
+    having both is a blessing.
+  linkedinId: ivan
+- staffId: jackson
+  name: Jackson
+  joinDate: August 31, 2020
+  functionId: ops
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/150jLoAwQ483583ILejVrW-40adMVIIw0q9QiQHUETlY/edit
+  pastProducts:
+    - FormSG
+    - Isomer
+    - Plumber
+  accomplishments: |-
+    * Redeem
+    * Postman
+    * CheckFirst
+    * Temperature
+    * Go.gov.sg
+    * CheckWho
+  quote: Family gives you the roots to stand tall and strong.
+  linkedinId: jackson
+- staffId: james
+  name: James
+  joinDate: February 6, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - Head of Software Engineering
+  accomplishments: ""
+  quote: I love technology because of its ability to solve problems, and at OGP I
+    get to work on problems that really matter.
+  linkedinId: james
+- staffId: jan
+  name: Jan
+  joinDate: June 13, 2022
+  functionId: pm
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - Isomer
+  accomplishments: ""
+  quote: Our family is a circle of strength of love with every birth and every
+    union the circle grows.
+  linkedinId: jan
+- staffId: jasmine
+  name: Jasmine
+  joinDate: October 25, 2022
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1xiFd7tPmDphK92XPMz8Acy09pLM50e2jXEfg8nV3OR0/edit#heading=h.q9g0durbss53
+  pastProducts:
+    - Care360
+  accomplishments: ""
+  quote: There is no doubt that it is around the family and the home that all the
+    greatest virtues… are created, strengthened and maintained.
+  linkedinId: jasmine
+- staffId: jason
+  name: Jason
+  joinDate: July 5, 2021
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1yQNUv51JKHntG6h1Gm6jKLVU6ON1m8n9ioGLSCa7vpE/edit
+  pastProducts:
+    - PaySG
+  accomplishments: |-
+    * RedeemSG
+    * HAS
+  quote: To us, family means putting your arms around each other and being there.
+  linkedinId: jason
+- staffId: jenwei
+  name: Jen Wei
+  joinDate: April 4, 2022
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1t_ZeM7PcKcQqZy1m64Q2cS0zI11hH3ssMKZ7e652DTM/edit
+  pastProducts:
+    - Care360
+  accomplishments: |-
+    * CorpTech
+    * HealthTech
+  quote: Family is family.
+  linkedinId: jenwei
+- staffId: jennifer
+  name: Jennifer
+  joinDate: June 20, 2022
+  functionId: pm
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - Scamshield
+  accomplishments: ""
+  quote: I didn’t give you the gift of life, but life gave me the gift of you.
+  linkedinId: jennifer
+- staffId: jessendra
+  name: Jess
+  joinDate: June 13, 2022
+  functionId: pm
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - AskGov
+  accomplishments: ""
+  quote: "Blended families: woven together by choice, strengthened together by
+    love, tested by everything, and each uniquely ours."
+  linkedinId: jessendra
+- staffId: jiachin
+  name: Jia Chin
+  joinDate: January 10, 2022
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1kG_4049xc6lU4HS0m4Fm5iXru4DNVBoExfzaAssR4rg/edit
+  pastProducts:
+    - Isomer
+  accomplishments: "* Go.gov.sg"
+  quote: Families are like fudge – mostly sweet with a few nuts.
+  linkedinId: jiachin
+- staffId: jiahui
+  name: Jia Hui
+  joinDate: September 6, 2021
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - Corporate Operations
+  accomplishments: |-
+    * Onboarding experience
+    * Workplace
+  quote: The only rock I know that stays steady, the only institution I know that
+    works, is the family.
+  linkedinId: jiahui
+- staffId: jiayee
+  name: Jiayee
+  joinDate: June 5, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1OTdc0h_AZlhDBAsRcbzLw03m6yJBVD8DzK_dFSK6DT0/edit#heading=h.q9g0durbss53
+  pastProducts:
+    - pastProducts
+  accomplishments: ""
+  quote: Family and friendships are two of the greatest facilitators of happiness.
+  linkedinId: jiayee
+- staffId: jiehao
+  name: Jie Hao
+  joinDate: September 9, 2019
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1ydqObkYY0Az-7cPD9mpNsJJm1QcFPV9cbtl6K5wWhto/edit
+  pastProducts:
+    - SGID
+  accomplishments: |-
+    * Homer
+    * Lookback
+    * OGP-Singhealth
+    * Endemic Ops
+  quote: We may have our differences, but nothing’s more important than family.
+  linkedinId: jiehao
+- staffId: jieyin
+  name: Jie Yin
+  joinDate: June 26, 2023
+  functionId: ops
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1O6iSW8eNQF2pUarnitFeOGUWs1k_QwkqFTpSUXUDkkA/edit#heading=h.q9g0durbss53
+  pastProducts:
+    - pastProducts
+  accomplishments: "* Pair"
+  quote: "Family: A social unit where the father is concerned with parking space,
+    the children with outer space, and the mother with closet space."
+  linkedinId: jieyin
+- staffId: jingyi
+  name: Jing Yi
+  joinDate: November 1, 2021
+  functionId: design
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1ovFRlaIrxlomC_o4tlBIvVwmn1oPJp5VwWUE3B8vFIQ/edit
+  pastProducts:
+    - Pixie
+  accomplishments: |-
+    * Vault
+    * Data.gov
+    * Send
+    * Healthtech
+    * Sync
+    * HAS
+    * CheckWho
+    * Care360
+    * Highway
+  quote: In family life, love is the oil that eases friction, the cement that
+    binds closer together, and the music that brings harmony.
+  linkedinId: jingyi
+- staffId: joannalo
+  name: Joanna
+  joinDate: March 27, 2023
+  functionId: corporate
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - pastProducts
+  accomplishments: |-
+    * techhiring.open.gov.sg
+    * Onboarding/Offboarding experience
+  quote: It didn’t matter how big our house was; it mattered that there was love
+    in it.
+  linkedinId: joannalo
+- staffId: joshua
+  name: Joshua
+  joinDate: September 6, 2021
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - Corporate Operations
+  accomplishments: |-
+    
+    * Workplace
+    * Procurement and Finance
+  quote: When trouble comes, it’s your family that supports you.
+  linkedinId: joshua
+- staffId: justyn
+  name: Justyn
+  joinDate: June 13, 2022
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1LORGgDSPbq0sd1UvtmcqFZ6j7nP7FB7L6ihiHjihE4M/editt
+  pastProducts:
+    - FormSG
+  accomplishments: |-
+    * CertSG
+    * Checkpoint
+  quote: My family is my life, and everything else comes second as far as what’s
+    important to me.
+  linkedinId: justyn
+- staffId: kahhow
+  name: Kahhow
+  joinDate: January 3, 2023
+  functionId: ops
+  jobTitle: Job Title
+  curProducts:
+    - https://www.notion.so/opengov/Kahhow-s-Working-Document-ea82dd14d2564c00abaef71657e2c5ba
+  pastProducts:
+    - Care360
+  accomplishments: |-
+    *AskGov
+    *Care360
+  quote: Family is not defined by our genes, it is built and maintained through love.
+  linkedinId: kahhow
+- staffId: kaiwen
+  name: Kaiwen
+  joinDate: July 4, 2016
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1nFexQO--AKJZTnarJrOY_2UIlxMZPyZGf1EYHmsNAzo/edit
+  pastProducts:
+    - PaySG
+  accomplishments: |-
+    * Parking.sg
+    * Scamshield
+    * FormSG
+    * Redeem
+  quote: Family isn’t always blood. It’s the people in your life who want you in
+    theirs; the ones who accept you for who you are. The ones that would do
+    anything to see you smile and who love you no matter what.
+  linkedinId: kaiwen
+- staffId: karrui
+  name: Kar Rui
+  joinDate: February 3, 2020
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://www.notion.so/Kar-Rui-d2ea1d62c3214e6f8688e53cca35c366
+  pastProducts:
+    - ActiveSG
+  accomplishments: |-
+    * Care360
+    * CheckFirst
+    * CorpTech
+    * FormSG
+    * Parking.sg
+    * Temperature
+    * Tooling
+  quote: "Call it a clan, call it a network, call it a tribe, call it a family:
+    Whatever you call it, whoever you are, you need one."
+  linkedinId: karrui
+- staffId: keewei
+  name: Kee Wei
+  joinDate: June 1, 2020
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1ncQyhHusLJphkvx8-1-rxoJDmZfStaJa7Vy0eZzv7nk/edit
+  pastProducts:
+    - Senior Engineering Manager
+    - Armoury
+    - ActiveSG
+    - FormSG
+    - IRMS
+    - Pixie
+    - Care360
+    - Tooling Team
+    - Isomer
+  accomplishments: |-
+    * Postman
+    * Covid Ops
+    * CheckFirst
+    * Sync
+    * Zendemic
+    * HAS / Primary Care
+  quote: Stick to the basics, hold on to your family and friends – they will never
+    go out of fashion.
+  linkedinId: keewei
+- staffId: keith
+  name: Keith
+  joinDate: November 28, 2022
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1TwKSkf49YP3vAUucqSi3ika_PSxBtwsYjPQx12kv2QU/edit
+  pastProducts:
+    - Go.gov.sg
+  accomplishments: ""
+  quote: Family isn’t always blood. It’s the people in your life who want you in
+    theirs; the ones who accept you for who you are. The ones that would do
+    anything to see you smile and who love you no matter what.
+  linkedinId: keith
+- staffId: ken
+  name: Ken
+  joinDate: February 27, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1L2YRmmvv4D1w8PnNOXJTSfSRAmYBYycFD8jh9bsTm-Q/edit
+  pastProducts:
+    - pastProducts
+  accomplishments: "* FormSG"
+  quote: Family gives you the roots to stand tall and strong.
+  linkedinId: ken
+- staffId: kendra
+  name: Kendra
+  joinDate: June 20, 2022
+  functionId: ops
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/14Asq44EBRaA4BAgXBOSJdUVlfh9SF0L8QDIxMIyYxnM/edit
+  pastProducts:
+    - SGC
+  accomplishments: |-
+    * Postman
+    * CertSG
+  quote: Family isn’t always blood. It’s the people in your life who want you in
+    theirs; the ones who accept you for who you are. The ones that would do
+    anything to see you smile and who love you no matter what.
+  linkedinId: kendra
+- staffId: kennethchang
+  name: Kenneth Chang
+  joinDate: April 18, 2022
+  functionId: ops
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1vuibIb7dIixAO3I5DA2uDni4lrb7Hp10/edit?rtpof=true
+  pastProducts:
+    - FormSG
+  accomplishments: ""
+  quote: In time of test, family is best.
+  linkedinId: kennethchang
+- staffId: kenneth
+  name: Kenneth Sng
+  joinDate: August 2, 2021
+  functionId: pm
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1IKUneJq8Lfgw8NgLeIi9yGNSkB5W_wCPooVvU3F_pwI/edit
+  pastProducts:
+    - Primary Care
+  accomplishments: |-
+    * Policy
+    * Covid Operations
+    * Healthtech
+    * FormSG
+    * HAS
+    * Crackdown
+  quote: "Call it a clan, call it a network, call it a tribe, call it a family:
+    Whatever you call it, whoever you are, you need one."
+  linkedinId: kenneth
+- staffId: kevan
+  name: Kevan
+  joinDate: March 20, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1ZjEgleaD1VulkLv0xP9qkcgaSY-hveXIgX8jLeFhtmg/edit#heading=h.nw26zgu3gwhg
+  pastProducts:
+    - pastProducts
+  accomplishments: |-
+    * DistributeSG
+    * Redeem
+    * PaySG
+    * Parking.SG
+  quote: Some people are worth melting for.
+  linkedinId: kevan
+- staffId: khaleedah
+  name: Khaleedah
+  joinDate: July 12, 2021
+  functionId: design
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1LaBY_m4fg7BMAahQE0tRfIg5mN3uLNkvaZZ5ogg_-2k/edit
+  pastProducts:
+    - Scamshield
+  accomplishments: |-
+    * Zendemic comms
+    * AskGov
+    * Petitions
+    * Postman
+  quote: It didn’t matter how big our house was; it mattered that there was love
+    in it.
+  linkedinId: khaleedah
+- staffId: khant
+  name: Khant
+  joinDate: May 9, 2022
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1DXhSZnsF9vtU1XfWxdCtI5aY45XUSalROZjOueut2Uo/edit
+  pastProducts:
+    - Vault
+  accomplishments: ""
+  quote: Family and friendships are two of the greatest facilitators of happiness.
+  linkedinId: khant
+- staffId: kishen
+  name: Kishen
+  joinDate: July 17, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - i'm new, watch this space!
+  pastProducts:
+    - SGC
+  accomplishments: "* Scamshield"
+  quote: Being part of a family means smiling for photos.
+  linkedinId: kishen
+- staffId: kishore
+  name: Kishore
+  joinDate: July 4, 2022
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://www.notion.so/opengov/Kishore-s-Working-Document-8035f5f1dddb47328720dbde50ce5cbc
+  pastProducts:
+    - Isomer
+  accomplishments: ""
+  quote: Being a family means you are a part of something very wonderful. It means
+    you will love and be loved for the rest of your life.
+  linkedinId: kishore
+- staffId: kokseng
+  name: Kok Seng
+  joinDate: March 20, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/114d2QB6N3_60EjIwUduTDll-hk9mKmtyk_KcIleSKrA/edit
+  pastProducts:
+    - pastProducts
+  accomplishments: |-
+    * sgID
+    * CalSG
+  quote: The family – that dear octopus from whose tentacles we never quite
+    escape, nor, in our inmost hearts, ever quite wish to.
+  linkedinId: kokseng
+- staffId: latasha
+  name: Latasha
+  joinDate: August 22, 2022
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://www.notion.so/opengov/Latasha-s-Working-Doc-686e0d2de6c3463fadb0e3b874fc453c
+  pastProducts:
+    - AskGov
+  accomplishments: ""
+  quote: Happiness is having a large, loving, caring, close-knit family in another
+    city.
+  linkedinId: latasha
+- staffId: leyang
+  name: Le Yang
+  joinDate: July 17, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - pastProducts
+  accomplishments: "* Scamtech"
+  quote: Having somewhere to go is home. Having someone to love is family. And
+    having both is a blessing.
+  linkedinId: leyang
+- staffId: lennard
+  name: Lennard
+  joinDate: May 26, 2022
+  functionId: pm
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - Primary Care
+  accomplishments: ""
+  quote: In family life, love is the oil that eases friction, the cement that
+    binds closer together, and the music that brings harmony.
+  linkedinId: lennard
+- staffId: lisa
+  name: Lisa
+  joinDate: November 26, 2018
+  functionId: pm
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1R6dWDxY3g-0dc36ud1sTmjf7FZh_qXp-VodkFVGbOQc/edit
+  pastProducts:
+    - Phonebook
+  accomplishments: |-
+    * Postman
+    * Isomer
+    * AskGov
+    * Go.gov.sg
+    * CheckFirst
+    * OGP-Singhealth
+    * SGID
+    * Touchpoint
+    * DigiMC
+  quote: Ohana means family and family means nobody gets left behind or forgotten.
+  linkedinId: lisa
+- staffId: lorraine
+  name: Lorraine
+  joinDate: June 5, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - pastProducts
+  accomplishments: "* Workplace"
+  quote: The only rock I know that stays steady, the only institution I know that
+    works, is the family.
+  linkedinId: lorraine
+- staffId: louiz
+  name: Louiz
+  joinDate: July 5, 2021
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/143mKrTuVS3QzCvIq6oV5Dj_JLDUtIwKBSwH7tuZLGk0/edit#heading=h.6brzblxn4oep
+  pastProducts:
+    - Care360
+  accomplishments: |-
+    * Covid Ops
+    * Healthcare
+    * Healthtech
+  quote: The only rock I know that stays steady, the only institution I know that
+    works, is the family.
+  linkedinId: louiz
+- staffId: malcolm
+  name: Malcolm
+  joinDate: July 17, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - i'm new, watch this space!
+  pastProducts:
+    - pastProducts
+  accomplishments: Plumber
+  quote: Stick to the basics, hold on to your family and friends – they will never
+    go out of fashion.
+  linkedinId: malcolm
+- staffId: sengpoh
+  name: Marcus
+  joinDate: May 2, 2023
+  functionId: corporate
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - pastProducts
+  accomplishments: "* Social media marketing"
+  quote: "Call it a clan, call it a network, call it a tribe, call it a family:
+    Whatever you call it, whoever you are, you need one."
+  linkedinId: sengpoh
+- staffId: mayying
+  name: May Ying
+  joinDate: May 29, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1BvoUahzGsux6wDXg0XV_JBqblURBJF7ZktdBqyxtXVU/edit
+  pastProducts:
+    - pastProducts
+  accomplishments: Forms
+  quote: It’s all about the quality of life and finding a happy balance between
+    work and friends and family.
+  linkedinId: mayying
+- staffId: mike
+  name: Mike
+  joinDate: August 21, 2023
+  functionId: design
+  jobTitle: Job Title
+  curProducts:
+    - i'm new, watch this space!
+  pastProducts:
+    - Product Design Manager
+  accomplishments: ""
+  quote: Family is family.
+  linkedinId: mike
+- staffId: moses
+  name: Moses
+  joinDate: December 5, 2022
+  functionId: pm
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/11JlBifr_TaZk5b5vZSzzbaucOhiimgV0vO3s3rgkub8/editt
+  pastProducts:
+    - Pair
+    - sgID
+  accomplishments: ""
+  quote: Life is beautiful. It’s about giving. It’s about family.
+  linkedinId: moses
+- staffId: natalie
+  name: Natalie
+  joinDate: April 6, 2020
+  functionId: design
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1NCm4-ulze9U_rrPwk4G5UUMsag_m5yz_Ub5C98YTgrw/edit
+  pastProducts:
+    - NLB Seed Team
+  accomplishments: |-
+    * Go.gov.sg
+    * Isomer
+    * Postman
+    * Phisherman
+    * CheckFirst
+    * Covid Endemic Comms
+    * CheckWho
+  quote: Rejoice with your family in the beautiful land of life.
+  linkedinId: natalie
+- staffId: nicholasng
+  name: Nicholas
+  joinDate: September 12, 2022
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1IC0wqYwJygzE7LbNOkRp6ChLuqrFxOOKRkStFXlD6dw/edit#heading=h.q9g0durbss53
+  pastProducts:
+    - Senior Engineering Manager
+    - Primary Care
+    - Care360
   accomplishments: ""
   quote: The informality of family life is a blessed condition that allows us all
     to become our best while looking our worst.
-  linkedinId: shazli
-- staffId: benjamin
-  name: Bowes, Benjamin
-  joinDate: 1970-01-01
+  linkedinId: nicholasng
+- staffId: nicolas
+  name: Nicolas Spano
+  joinDate: June 26, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - i'm new, watch this space!
+  pastProducts:
+    - Primary Care
+    - Care360
+  accomplishments: ""
+  quote: My family is my life, and everything else comes second as far as what’s
+    important to me.
+  linkedinId: nicolas
+- staffId: nicole
+  name: Nicole
+  joinDate: August 1, 2023
+  functionId: corporate
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - pastProducts
+  accomplishments: "* Marketing"
+  quote: Being a family means you are a part of something very wonderful. It means
+    you will love and be loved for the rest of your life.
+  linkedinId: nicole
+- staffId: nitya
+  name: Nitya
+  joinDate: February 28, 2022
+  functionId: transformation
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - Policy & Transformation
+  accomplishments: |-
+    * OGP-DIS collaboration
+    * OGP Board of Advisors
+  quote: Family is not an important thing. It’s everything.
+  linkedinId: nitya
+- staffId: oliver
+  name: Oliver
+  joinDate: December 13, 2021
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1J5TQ6ZoHbZqJvg2vZ-ggUOXAHtTPFRjgW3hGOpBVJ_c/edit
+  pastProducts:
+    - Primary Care
+  accomplishments: |-
+    * HealthTech
+    * CheckWho
+    * CalSG
+    * Queue
+  quote: Other things may change us, but we start and end with the family.
+  linkedinId: oliver
+- staffId: pallani
+  name: Pallani
+  joinDate: May 11, 2015
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1ZKqxiPuLLtLDj9DjXdatNPKODVPHnRihdeBH7IdFIqA/edit
+  pastProducts:
+    - Senior Engineering Manager
+    - Scamtech
+    - Redeem
+    - PaySG
+  accomplishments: |-
+    * Vault
+    * DistributeSG
+    * Redeem
+    * Covid Ops
+    * PaySG
+    * Parking.sg
+    * CorpTech
+    * Payments
+    * Project Orchid
+  quote: "Blended families: woven together by choice, strengthened together by
+    love, tested by everything, and each uniquely ours."
+  linkedinId: pallani
+- staffId: paul
+  name: Paul
+  joinDate: April 18, 2022
+  functionId: pm
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1-1XNzpvCx3f71gbsravw26p9UWqOEijfleM4hjex5Xs/edit#heading=h.q9g0durbss53
+  pastProducts:
+    - SGC
+  accomplishments: |-
+    MAS - Orchid
+    Parking.sg
+    Payments
+    PaySG
+    Redeem
+  quote: To us, family means putting your arms around each other and being there.
+  linkedinId: paul
+- staffId: pearly
+  name: Pearly
+  joinDate: October 21, 2019
+  functionId: design
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1Ak1uw8O5JuL3HxC1Py2ShsysmU_NbI8ZaG5YKCImEVo/edit
+  pastProducts:
+    - IRMS
+  accomplishments: |-
+    * Trashy
+    * ParkingSG
+    * Forms
+    * sgID
+    * Okay/ Not
+    * Medicard
+    * CCRM
+    * Go
+    * HealthHub
+    * Homer
+    * Lookback
+    * Queue
+    * Sanbaiqian
+    * Handsy
+    * Redeem
+    * Scamshield
+    * CalSG
+    * IRMS
+    * Build Your Own Singaporean
+    * OGP Design System
+  quote: The most important thing in the world is family and love.
+  linkedinId: pearly
+- staffId: pete
+  name: Pete
+  joinDate: March 27, 2023
+  functionId: pm
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - PaySG
+  accomplishments: ""
+  quote: Being a family means you are a part of something very wonderful. It means
+    you will love and be loved for the rest of your life.
+  linkedinId: pete
+- staffId: prakriti
+  name: Prakriti
+  joinDate: June 19, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - pastProducts
+  accomplishments: "* Go"
+  quote: To us, family means putting your arms around each other and being there.
+  linkedinId: prakriti
+- staffId: pranu
+  name: Pranu
+  joinDate: November 21, 2022
+  functionId: design
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1W9Fz6Oxr9tGqNf0j17plnTitpGPQ7q3jzrtIQ1HRYus/edit
+  pastProducts:
+    - Go.gov.sg
+  accomplishments: ""
+  quote: "Blended families: woven together by choice, strengthened together by
+    love, tested by everything, and each uniquely ours."
+  linkedinId: pranu
+- staffId: prasanth
+  name: Pras
+  joinDate: August 21, 2023
+  functionId: design
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1kithu12Nb6_ErJcaHDqNRpOYDWkfUmbog3fqaEAtZMQ/edit
+  pastProducts:
+    - pastProducts
+  accomplishments: |-
+    * FormSG
+    * AskGov
+  quote: To us, family means putting your arms around each other and being there.
+  linkedinId: prasanth
+- staffId: praveen
+  name: Praveen
+  joinDate: July 18, 2022
+  functionId: transformation
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - Head of Policy & Transformation
+  accomplishments: "* Healthtech"
+  quote: knowing that every day we change government one happy interaction, one
+    line of code, one $ saved at a time
+  linkedinId: praveen
+- staffId: prawira
+  name: Prawira
+  joinDate: April 3, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://www.notion.so/Wira-s-Working-Document-1a3bfcc8b8a34e7d845a075d216416aa
+  pastProducts:
+    - pastProducts
+  accomplishments: "* SGID"
+  quote: We may have our differences, but nothing’s more important than family.
+  linkedinId: prawira
+- staffId: qilu
+  name: Qilu
+  joinDate: February 6, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://www.notion.so/opengov/Qilu-s-Working-Document-87e007f992634275b07b59a6347e5759
+  pastProducts:
+    - Isomer
+  accomplishments: "* Isomer"
+  quote: I didn’t give you the gift of life, but life gave me the gift of you.
+  linkedinId: qilu
+- staffId: qimmy
+  name: Qimmy
+  joinDate: April 3, 2023
+  functionId: design
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1x8O3ASR-3-CZM_hog6ny3ZBPZOYwXCz6L3ngVIIM9-U/edit
+  pastProducts:
+    - pastProducts
+  accomplishments: SkillsFuture
+  quote: The family is one of nature’s masterpieces.
+  linkedinId: qimmy
+- staffId: rachel
+  name: Rachel
+  joinDate: October 10, 2022
   functionId: design
   jobTitle: Job Title
   curProducts:
     - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Families are like fudge – mostly sweet with a few nuts.
-  linkedinId: benjamin
-- staffId: daryl
-  name: Chan, Daryl
-  joinDate: 2022-03-01
+    - AskGov
+  accomplishments: "* Build Your Own Singaporean"
+  quote: Nothing is better than going home to family and eating good food and relaxing
+  linkedinId: rachel
+- staffId: raisa
+  name: Raisa
+  joinDate: November 21, 2022
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1sYO_tcZ_hXRrS5EwKZTMWj9_jQsDmbGMIzUAW-pZJOM/edit
+  pastProducts:
+    - Vault
+  accomplishments: "* PinPoint"
+  quote: We may have our differences, but nothing’s more important than family.
+  linkedinId: raisa
+- staffId: reshma
+  name: Reshma
+  joinDate: October 4, 2021
+  functionId: pm
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/10P_Oyg5pRjPRpYI8jWV2uGq896hcQAj0odDa_mRFa2I/edit#heading=h.q9g0durbss53
+  pastProducts:
+    - DistributeSG
+  accomplishments: "* RedeemSG"
+  quote: The family is one of nature’s masterpieces.
+  linkedinId: reshma
+- staffId: richardyak
+  name: Richard
+  joinDate: October 3, 2022
   functionId: eng
   jobTitle: Job Title
   curProducts:
     - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Being part of a family means smiling for photos.
-  linkedinId: daryl
-- staffId: oliver
-  name: Chan, Oliver
-  joinDate: 2021-12-13
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Family ties mean that no matter how much you might want to run from your
-    family, you can’t.
-  linkedinId: oliver
+    - Phonebook
+  accomplishments: "* Postman"
+  quote: Family and friendships are two of the greatest facilitators of happiness.
+  linkedinId: richardyak
 - staffId: russell
-  name: Chan, Russell
-  joinDate: 2019-09-02
+  name: Russell
+  joinDate: September 2, 2019
   functionId: corporate
-  jobTitle: Head of People Team
+  jobTitle: Job Title
   curProducts:
     - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: >-
-    * Grew the People team from an individual contributor practice to a team of
-    4 today
-
-    * Helped to scale OGP from 25 (2019) to >170 (2023)
-
-    * Worked on organisation design shifts and levers (e.g. compensation schemes, performance management, management practices, resource allocation) to adapt to OGP's shifting organisation size and context
+    - Head of People Team
+  accomplishments: ""
   quote: I joined OGP in 2019, and have stayed since then because I think it is
     the government’s best shot today at breaking the mould on trying new ways
     for government organisations to work better, so that we can be a better
     public service.
   linkedinId: russell
-- staffId: tiffany
-  name: Chan, Tiffany
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Family is not an important thing. It’s everything.
-  linkedinId: tiffany
-- staffId: shreyas
-  name: Chandrakanth Rao Inna, Shreyas
-  joinDate: 22/05/2023
+- staffId: samuel
+  name: Samuel
+  joinDate: October 4, 2021
   functionId: ops
   jobTitle: Job Title
   curProducts:
-    - currentProducts
+    - https://docs.google.com/document/d/19EmT0ljXaGUgcSw0i5_jn0nodYB57VRL8FcJJuQUTc0/edit
   pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: The memories we make with our family is everything.
-  linkedinId: shreyas
-- staffId: kennethchang
-  name: Chang, Kenneth
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Family is family.
-  linkedinId: kennethchang
-- staffId: ian
-  name: Chen, Wei Ian
-  joinDate: 2018-03-09
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: The family is one of nature’s masterpieces.
-  linkedinId: ian
-- staffId: keith
-  name: Chew, Mun Kei
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: In time of test, family is best.
-  linkedinId: keith
-- staffId: fabian
-  name: Chia Hup Peng, Fabian
-  joinDate: 2022-04-07
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
+    - Head of Product Operations
+  accomplishments: |-
+    
+    * Endemic Ops
+    * Postman
+    * Healthtech
+    * Isomer
+    * Go.gov.sg
+    * Scamtech
+    * Sync
+    * CorpTech
+    * sgID
+    * Scamshield
   quote: It’s all about the quality of life and finding a happy balance between
     work and friends and family.
-  linkedinId: fabian
-- staffId: clement
-  name: Chia, Clement
-  joinDate: 1970-01-01
+  linkedinId: samuel
+- staffId: sarahespaldon
+  name: Sarah Espaldon
+  joinDate: November 4, 2019
+  functionId: corporate
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - Head of Marketing
+  accomplishments: "* Corporate Operations"
+  quote: Being surrounded by some of the best minds in Singapore who are
+    passionate about making a difference and who I continue to learn from
+    everyday motivates me to do my best at OGP to make Singapore and the rest of
+    the world a better place.
+  linkedinId: sarahespaldon
+- staffId: iamsarahsalim
+  name: Sarah Salim
+  joinDate: May 4, 2022
+  functionId: design
+  jobTitle: Job Title
+  curProducts:
+    - "-"
+  pastProducts:
+    - Tooling Team
+  accomplishments: ""
+  quote: Family and friends are hidden treasures, seek them and enjoy their riches.
+  linkedinId: iamsarahsalim
+- staffId: sehyun
+  name: Se Hyun
+  joinDate: July 17, 2023
+  functionId: design
+  jobTitle: Job Title
+  curProducts:
+    - i'm new, watch this space!
+  pastProducts:
+    - pastProducts
+  accomplishments: "-"
+  quote: Family and friends are hidden treasures, seek them and enjoy their riches.
+  linkedinId: sehyun
+- staffId: sean
+  name: Sean
+  joinDate: February 6, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - Redeem
+  accomplishments: ""
+  quote: Family and friends are hidden treasures, seek them and enjoy their riches.
+  linkedinId: sean
+- staffId: sebastian
+  name: Sebastian
+  joinDate: June 12, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1PxJtt-pvsDcRN_EDlbfRDy1xwmhKvy415_-T5_sf1y0/edit
+  pastProducts:
+    - pastProducts
+  accomplishments: "* FormSG"
+  quote: Rejoice with your family in the beautiful land of life.
+  linkedinId: sebastian
+- staffId: shannen
+  name: Shannen
+  joinDate: October 25, 2021
+  functionId: corporate
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - Marketing
+  accomplishments: "* Build for Good 2023"
+  quote: To us, family means putting your arms around each other and being there.
+  linkedinId: shannen
+- staffId: shanty
+  name: Shanty
+  joinDate: January 4, 2022
+  functionId: design
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1NnTa2Pnv5lWpV9XSW6Uzc0fMopdEOE6WOY_sw18LKLk/edit
+  pastProducts:
+    - UX Writer
+  accomplishments: |-
+    * ScamShield
+    * FormSG
+    * Isomer
+    * Redeem
+    * AskGov
+    * CheckWho
+    * Healthtech
+  quote: The informality of family life is a blessed condition that allows us all
+    to become our best while looking our worst.
+  linkedinId: shanty
+- staffId: shawn
+  name: Shawn
+  joinDate: July 29, 2021
+  functionId: transformation
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1pwzwol3H-yW8LzZEaj628MRGA-3ibqQ-04CMjdDeHBQ/edit
+  pastProducts:
+    - Policy & Transformation
+  accomplishments: |-
+    * Care360
+    * Healthtech
+    * Policy
+    * Partnerships
+  quote: The bond that links your true family is not one of blood, but of respect
+    and joy in each other’s life.
+  linkedinId: shawn
+- staffId: shazli
+  name: Shazli
+  joinDate: May 30, 2022
   functionId: ops
   jobTitle: Job Title
   curProducts:
     - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Family and friendships are two of the greatest facilitators of happiness.
-  linkedinId: clement
-- staffId: caleb
-  name: Chiam, Caleb
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Treat your family like friends and your friends like family.
-  linkedinId: caleb
-- staffId: kokseng
-  name: Chiew, Kok Seng
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Family and friends are hidden treasures, seek them and enjoy their riches.
-  linkedinId: kokseng
-- staffId: talitha
-  name: Chin, Rui Ling Talitha
-  joinDate: 15/10/2018
-  functionId: pm
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Stick to the basics, hold on to your family and friends – they will never
-    go out of fashion.
-  linkedinId: talitha
-- staffId: bernadette
-  name: Cho, Bernadette Marisa Chien Ling
-  joinDate: 1970-01-01
-  functionId: corporate
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: My family is my life, and everything else comes second as far as what’s
-    important to me.
-  linkedinId: bernadette
-- staffId: jason
-  name: Chong, Jason
-  joinDate: 2020-11-05
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
+    - Marketing
+    - Isomer
   accomplishments: ""
   quote: A happy family is but an earlier heaven.
-  linkedinId: jason
-- staffId: lorraine
-  name: Choo, Lorraine
-  joinDate: 1970-01-01
+  linkedinId: shazli
+- staffId: sheikh
+  name: Sheikh
+  joinDate: September 13, 2021
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1Kszhv8TzWCmLrq49PYxUovA2IrERB3gUwfvpHZ8KwTo/edit#heading=h.edq0jro3ey47
+  pastProducts:
+    - Pair
+  accomplishments: |-
+    Parking.sg
+    Payments
+    PaySG
+    Redeem
+  quote: When trouble comes, it’s your family that supports you.
+  linkedinId: sheikh
+- staffId: shuli
+  name: Shu Li
+  joinDate: April 20, 2020
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/11H-_C3FpGGSGZkdNCEz7se82jfPwXo1rgHcjjyJXjMQ/edit
+  pastProducts:
+    - FormSG
+  accomplishments: |-
+    * FormSG
+    * CheckFirst
+    * Temperature
+    * Signify
+  quote: "Family: A social unit where the father is concerned with parking space,
+    the children with outer space, and the mother with closet space."
+  linkedinId: shuli
+- staffId: sihan
+  name: Si Han
+  joinDate: February 27, 2023
   functionId: eng
   jobTitle: Job Title
   curProducts:
     - currentProducts
   pastProducts:
-    - pastProducts
+    - Data Gov
+  accomplishments: "* Vault"
+  quote: Other things may change us, but we start and end with the family.
+  linkedinId: sihan
+- staffId: simin
+  name: Si Min
+  joinDate: July 17, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - i'm new, watch this space!
+  pastProducts:
+    - ActiveSG
   accomplishments: ""
+  quote: Family is not an important thing. It’s everything.
+  linkedinId: simin
+- staffId: simun
+  name: Si Mun
+  joinDate: June 12, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1pS5sWUjLV6JNWBZmG-elfs4sSF0A2TW98jgHaYUdSmU/edit#heading=h.q9g0durbss53
+  pastProducts:
+    - pastProducts
+  accomplishments: Go
+  quote: Treat your family like friends and your friends like family.
+  linkedinId: simun
+- staffId: siddarth
+  name: Siddarth
+  joinDate: December 4, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - i'm new, watch this space!
+  pastProducts:
+    - pastProducts
+  accomplishments: "-"
   quote: The family is the test of freedom; because the family is the only thing
     that the free man makes for himself and by himself.
-  linkedinId: lorraine
-- staffId: christian
-  name: Chow, Christian
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Think of your family today and every day thereafter, don’t let the busy
-    world of today keep you from showing how much you love and appreciate your
-    family.
-  linkedinId: christian
-- staffId: hanu
-  name: Damodaran, Hanu
-  joinDate: 27/02/2023
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Our family is a circle of strength of love with every birth and every
-    union the circle grows.
-  linkedinId: hanu
-- staffId: danelynn
-  name: Danelynn, Ding You Jia,
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: There is no doubt that it is around the family and the home that all the
-    greatest virtues… are created, strengthened and maintained.
-  linkedinId: danelynn
-- staffId: sihan
-  name: Ding, Si Han
-  joinDate: 13/06/2022
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: "Blended families: woven together by choice, strengthened together by
-    love, tested by everything, and each uniquely ours."
-  linkedinId: sihan
-- staffId: wenjia
-  name: Dong, Wen Jia
-  joinDate: 17/07/2023
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Family isn’t always blood. It’s the people in your life who want you in
-    theirs; the ones who accept you for who you are. The ones that would do
-    anything to see you smile and who love you no matter what.
-  linkedinId: wenjia
-- staffId: jan
-  name: Donyada, Jan
-  joinDate: 1970-01-01
+  linkedinId: siddarth
+- staffId: syan
+  name: Sonjia
+  joinDate: September 4, 2019
   functionId: pm
   jobTitle: Job Title
   curProducts:
-    - currentProducts
+    - https://docs.google.com/document/d/1UW3RVfGlaaO0Y4Qr-SjPA9xfjmy7woHRI2LMPOELA-0/edit
   pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Family is not defined by our genes, it is built and maintained through love.
-  linkedinId: jan
-- staffId: jiachin
-  name: Er, Jia Chin
-  joinDate: 2021-04-01
+    - AskGov
+    - FormSG
+    - Go.gov.sg
+    - Vault
+  accomplishments: |-
+    * CCRM
+    * Food Facts
+    * OGP Finance
+    * Postman
+    * Covid Endemic Ops
+    * CheckFirst
+    * TemperatureSG
+    * Healthtech
+    * SGID
+  quote: Some people are worth melting for.
+  linkedinId: syan
+- staffId: stacey
+  name: Stacey
+  joinDate: September 12, 2022
+  functionId: design
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1jx4LgBR1gstlcWEJpSF5twRYwKtufBy3usLohOhnYS0/edit
+  pastProducts:
+    - FormSG
+  accomplishments: |-
+    * ScamShield
+    * Plumber
+  quote: Some people are worth melting for.
+  linkedinId: stacey
+- staffId: stanley
+  name: Stanley
+  joinDate: January 24, 2022
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - currentProducts
+    - https://docs.google.com/document/d/1Z2MFrMLz5EgcfxI7S0xo6g2Fop434kgL-HHtShodjyQ/edit
   pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: I didn’t give you the gift of life, but life gave me the gift of you.
-  linkedinId: jiachin
-- staffId: sarahespaldon
-  name: Espaldon, Sarah
-  joinDate: 2019-04-11
-  functionId: corporate
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Ohana means family and family means nobody gets left behind or forgotten.
-  linkedinId: sarahespaldon
-- staffId: hygin
-  name: Fernandez, Hygin
-  joinDate: 1970-01-01
+    - Postman
+  accomplishments: |-
+    DigiMC
+    HAS
+    Sync
+    Touchpoint
+  quote: Nothing is better than going home to family and eating good food and relaxing
+  linkedinId: stanley
+- staffId: stephanie
+  name: Steph
+  joinDate: April 4, 2022
   functionId: transformation
   jobTitle: Job Title
   curProducts:
     - currentProducts
   pastProducts:
+    - Policy & Transformation
+  accomplishments: "* HealthTech Sprint"
+  quote: The memories we make with our family is everything.
+  linkedinId: stephanie
+- staffId: sufyan
+  name: Sufyan
+  joinDate: August 7, 2023
+  functionId: design
+  jobTitle: Job Title
+  curProducts:
+    - i'm new, watch this space!
+  pastProducts:
     - pastProducts
   accomplishments: ""
-  quote: This is my family. I found it all on my own. It’s little, and broken, but
-    still good. Yeah. Still good.
-  linkedinId: hygin
-- staffId: amitha
-  name: Fernando, Amitha
-  joinDate: 1970-01-01
+  quote: It didn’t matter how big our house was; it mattered that there was love
+    in it.
+  linkedinId: sufyan
+- staffId: suhaila
+  name: Suhaila
+  joinDate: April 5, 2021
+  functionId: ops
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1ZO3Ixlom49gIdBEWEVFAhUCGWfdPJhZmNt3gVdx3X_8/edit
+  pastProducts:
+    - Primary Care
+  accomplishments: |-
+    * Healthcare
+    * Parking.sg
+    * Covid Ops
+    * Healthtech
+    * PaySG
+    * Queue
+  quote: Family is the heart of a home.
+  linkedinId: suhaila
+- staffId: talitha
+  name: Talitha
+  joinDate: October 15, 2018
+  functionId: pm
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1dHuh_tGCKAziky6Pin_lFsoAZG5R6LeijCjPO-pTABE/edit
+  pastProducts:
+    - Scamtech
+    - Redeem
+    - PaySG
+  accomplishments: |-
+    * Parking
+    * DistributeSG
+    * Redeem
+    * PaySG
+    * MAS - Orchid
+  quote: The family is the test of freedom; because the family is the only thing
+    that the free man makes for himself and by himself.
+  linkedinId: talitha
+- staffId: tiffany
+  name: Tiffany
+  joinDate: May 15, 2023
+  functionId: design
+  jobTitle: Job Title
+  curProducts:
+    - No working doc
+  pastProducts:
+    - pastProducts
+  accomplishments: i'm new, watch this space!
+  quote: Life is beautiful. It’s about giving. It’s about family.
+  linkedinId: tiffany
+- staffId: timothee
+  name: Tim
+  joinDate: July 5, 2021
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1Ore8xd8uASLhixI0PAsSHYf6OTwvtMjnD8tyvsdJ714/edit
+  pastProducts:
+    - FormSG
+    - Tooling Team
+  accomplishments: |-
+    * Endemic Ops
+    * CheckFirst
+    * Temperature
+    * QuizSG
+    * Armoury
+    * Signify
+  quote: The family – that dear octopus from whose tentacles we never quite
+    escape, nor, in our inmost hearts, ever quite wish to.
+  linkedinId: timothee
+- staffId: veena
+  name: Veena
+  joinDate: June 6, 2022
+  functionId: pm
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/11-91oqltcmFQ479cx99BzhmlBPv_NgaDuyH3gHJO7n8/edit
+  pastProducts:
+    - NLB Seed Team
+    - SGID
+  accomplishments: "* CorpTech"
+  quote: Stick to the basics, hold on to your family and friends – they will never
+    go out of fashion.
+  linkedinId: veena
+- staffId: wanling
+  name: Wan Ling
+  joinDate: June 6, 2022
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - FormSG
+  accomplishments: ""
+  quote: The family is the test of freedom; because the family is the only thing
+    that the free man makes for himself and by himself.
+  linkedinId: wanling
+- staffId: weeloong
+  name: Wee Loong
+  joinDate: June 5, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - pastProducts
+  accomplishments: "* Plumber"
+  quote: When trouble comes, it’s your family that supports you.
+  linkedinId: weeloong
+- staffId: weilun
+  name: Wei Lun
+  joinDate: June 5, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - currentProducts
+  pastProducts:
+    - ParkingSG
+  accomplishments: ""
+  quote: The informality of family life is a blessed condition that allows us all
+    to become our best while looking our worst.
+  linkedinId: weilun
+- staffId: wenjia
+  name: Wen Jia
+  joinDate: July 17, 2023
+  functionId: design
+  jobTitle: Job Title
+  curProducts:
+    - i'm new, watch this space!
+  pastProducts:
+    - pastProducts
+  accomplishments: ""
+  quote: Family gives you the roots to stand tall and strong.
+  linkedinId: wenjia
+- staffId: xinghao
+  name: Xing Hao
+  joinDate: July 17, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - i'm new, watch this space!
+  pastProducts:
+    - pastProducts
+  accomplishments: ""
+  quote: My family is my life, and everything else comes second as far as what’s
+    important to me.
+  linkedinId: xinghao
+- staffId: yihan
+  name: Yi Han
+  joinDate: July 18, 2022
   functionId: corporate
   jobTitle: Job Title
   curProducts:
     - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Some people are worth melting for.
-  linkedinId: amitha
-- staffId: chifa
-  name: Foo, Chi Fa
-  joinDate: 1970-01-01
-  functionId: eng
+    - Marketing
+  accomplishments: "* Social media marketing"
+  quote: Ohana means family and family means nobody gets left behind or forgotten.
+  linkedinId: yihan
+- staffId: yixin
+  name: Yi Xin
+  joinDate: March 6, 2023
+  functionId: design
   jobTitle: Job Title
   curProducts:
-    - currentProducts
+    - https://docs.google.com/document/d/1BvruoOLY5jpMvF-YEZI_VVkx1WWZ3XN1KJTuwijH26U/edit#heading=h.q9g0durbss53
   pastProducts:
     - pastProducts
-  accomplishments: ""
-  quote: We may have our differences, but nothing’s more important than family.
-  linkedinId: chifa
+  accomplishments: |-
+    * Vault 
+    * Isomer
+    * DistributeSG
+    * Redeem
+    * PaySG
+    * DistributeSG
+  quote: This is my family. I found it all on my own. It’s little, and broken, but
+    still good. Yeah. Still good.
+  linkedinId: yixin
 - staffId: yongjie
-  name: Foo, Yong Jie
-  joinDate: 2019-02-12
+  name: Yong Jie
+  joinDate: December 2, 2019
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - currentProducts
+    - https://docs.google.com/document/d/1gfqxBPjAUB6qBBL6fMvyfrvc6CkDYSijU-051ms3CuI/edit
   pastProducts:
-    - pastProducts
-  accomplishments: ""
+    - Vault
+  accomplishments: |-
+    * Temperature
+    * Food Facts
+    * Go.gov.sg
+    * Transparency
+    * FormSG
+    * Endemic Ops
+    * Data.gov
+    * Send
   quote: Life is beautiful. It’s about giving. It’s about family.
   linkedinId: yongjie
-- staffId: chinyao
-  name: Gan, Chin Yao
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Rejoice with your family in the beautiful land of life.
-  linkedinId: chinyao
-- staffId: hongyao
-  name: Gan, Hong Yao
-  joinDate: 14/08/2023
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: "Family: A social unit where the father is concerned with parking space,
-    the children with outer space, and the mother with closet space."
-  linkedinId: hongyao
-- staffId: prawira
-  name: Genestonlia, Prawira
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Where there is family, there is love.
-  linkedinId: prawira
-- staffId: ciqin
-  name: Ghwee, Ciqin
-  joinDate: 22/05/2023
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Family gives you the roots to stand tall and strong.
-  linkedinId: ciqin
-- staffId: alexis
-  name: Goh, Weiying
-  joinDate: 29/06/2020
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Family is the heart of a home.
-  linkedinId: alexis
-- staffId: blake
-  name: Gong, Blake
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: The family – that dear octopus from whose tentacles we never quite
-    escape, nor, in our inmost hearts, ever quite wish to.
-  linkedinId: blake
-- staffId: timothee
-  name: Groleau, Timothee
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Lead Software Engineer
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: It didn’t matter how big our house was; it mattered that there was love
-    in it.
-  linkedinId: timothee
-- staffId: james
-  name: Hibberd, James
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: To us, family means putting your arms around each other and being there.
-  linkedinId: james
-- staffId: shannen
-  name: Ho Yun Fang, Shannen
-  joinDate: 1970-01-01
-  functionId: corporate
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: The bond that links your true family is not one of blood, but of respect
-    and joy in each other’s life.
-  linkedinId: shannen
-- staffId: ivan
-  name: Ho, Ivan
-  joinDate: 2020-06-04
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: "Call it a clan, call it a network, call it a tribe, call it a family:
-    Whatever you call it, whoever you are, you need one."
-  linkedinId: ivan
-- staffId: zonghan
-  name: Ho, Zong Han
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Families are the compass that guides us. They are the inspiration to
-    reach great heights, and our comfort when we occasionally falter.
-  linkedinId: zonghan
-- staffId: malcolm
-  name: Hong Malcolm, Ong Guan
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: The only rock I know that stays steady, the only institution I know that
-    works, is the family.
-  linkedinId: malcolm
-- staffId: zhongjun
-  name: Hsu, Zhong Jun
-  joinDate: 2022-08-08
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: When trouble comes, it’s your family that supports you.
-  linkedinId: zhongjun
-- staffId: kaiwen
-  name: Huang, Kaiwen
-  joinDate: 2016-04-07
-  functionId: eng
-  jobTitle: Senior Software Engineer
-  curProducts:
-    - PaySG
-  pastProducts:
-    - Parking.sg
-    - Scamshield
-    - FormSG
-    - Redeem
-  accomplishments: >-
-    * Tech lead for Redeem, ParkingSG, and PawsTogether
-
-    * Served as the subject matter expert on mobile app development across OGP, consulting on multiple products and driving discussions with Apple on OGP organisation accounts
-
-    * Worked with the other FinTech team members to drive a strong team culture of user-centricity, iterativeness, and cross-functional collaboration
-  quote: The most important thing in the world is family and love.
-  linkedinId: kaiwen
-- staffId: zulhilmi
-  name: Icksan, Mohammad Zulhilmi
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Nothing is better than going home to family and eating good food and relaxing
-  linkedinId: zulhilmi
-- staffId: aditya
-  name: Jain, Aditya
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: To us, family means putting your arms around each other and being there.
-  linkedinId: aditya
-- staffId: raisa
-  name: Kabir, Raisa
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: In family life, love is the oil that eases friction, the cement that
-    binds closer together, and the music that brings harmony.
-  linkedinId: raisa
-- staffId: louiz
-  name: Kim-Chan, Louiz
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Other things may change us, but we start and end with the family.
-  linkedinId: louiz
-- staffId: aiko
-  name: Klostermann, Aiko
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Having somewhere to go is home. Having someone to love is family. And
-    having both is a blessing.
-  linkedinId: aiko
-- staffId: kathleen
-  name: Koh, Kathleen
-  joinDate: 1970-01-01
-  functionId: pm
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Being a family means you are a part of something very wonderful. It means
-    you will love and be loved for the rest of your life.
-  linkedinId: kathleen
-- staffId: samuel
-  name: Koh, Samuel
-  joinDate: 1970-01-01
-  functionId: ops
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Happiness is having a large, loving, caring, close-knit family in another
-    city.
-  linkedinId: samuel
-- staffId: weeloong
-  name: Kuan, Wee Loong
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: The informality of family life is a blessed condition that allows us all
-    to become our best while looking our worst.
-  linkedinId: weeloong
-- staffId: jiehao
-  name: Kwa, Jie Hao
-  joinDate: 2019-09-09
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Families are like fudge – mostly sweet with a few nuts.
-  linkedinId: jiehao
-- staffId: jingyi
-  name: Lai, Jing Yi
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Being part of a family means smiling for photos.
-  linkedinId: jingyi
-- staffId: keewei
-  name: Lam, Kee Wei
-  joinDate: 2020-01-06
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Family ties mean that no matter how much you might want to run from your
-    family, you can’t.
-  linkedinId: keewei
-- staffId: karrui
-  name: Lau, Kar Rui
-  joinDate: 2020-03-02
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Family is not an important thing. It’s everything.
-  linkedinId: karrui
-- staffId: dat
-  name: Le Thanh, Dat
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: The memories we make with our family is everything.
-  linkedinId: dat
-- staffId: alexander
-  name: Lee, Alexander
-  joinDate: 15/06/2020
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Family is family.
-  linkedinId: alexander
-- staffId: charmaine
-  name: Lee, Charmaine
-  joinDate: 1970-01-01
-  functionId: pm
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: The family is one of nature’s masterpieces.
-  linkedinId: charmaine
-- staffId: cheryl
-  name: Lee, Cheryl
-  joinDate: 1970-01-01
-  functionId: pm
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: In time of test, family is best.
-  linkedinId: cheryl
-- staffId: kahhow
-  name: Lee, Kahhow
-  joinDate: 1970-01-01
-  functionId: ops
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: It’s all about the quality of life and finding a happy balance between
-    work and friends and family.
-  linkedinId: kahhow
-- staffId: ken
-  name: Lee, Ken
-  joinDate: 27/02/2023
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Family and friendships are two of the greatest facilitators of happiness.
-  linkedinId: ken
-- staffId: lynette
-  name: Lee, Lynette
-  joinDate: 2023-01-08
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Treat your family like friends and your friends like family.
-  linkedinId: lynette
-- staffId: brianlee
-  name: Lee, Siu Hei
-  joinDate: 20/03/2023
-  functionId: pm
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Family and friends are hidden treasures, seek them and enjoy their riches.
-  linkedinId: brianlee
-- staffId: zhiying
-  name: Lee, Zhi Ying
-  joinDate: 2023-08-05
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Stick to the basics, hold on to your family and friends – they will never
-    go out of fashion.
-  linkedinId: zhiying
-- staffId: latasha
-  name: Lenus, Latasha
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: My family is my life, and everything else comes second as far as what’s
-    important to me.
-  linkedinId: latasha
-- staffId: enyi
-  name: Leong, EnYi
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: A happy family is but an earlier heaven.
-  linkedinId: enyi
-- staffId: huixuan
-  name: Leow, Hui Xuan
-  joinDate: 2022-04-07
-  functionId: transformation
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: The family is the test of freedom; because the family is the only thing
-    that the free man makes for himself and by himself.
-  linkedinId: huixuan
-- staffId: boren
-  name: Lew, Bo Ren
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Think of your family today and every day thereafter, don’t let the busy
-    world of today keep you from showing how much you love and appreciate your
-    family.
-  linkedinId: boren
-- staffId: lhy
-  name: Li, Hongyi
-  joinDate: 1970-01-01
-  functionId: corporate
-  jobTitle: Director OGP
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Our family is a circle of strength of love with every birth and every
-    union the circle grows.
-  linkedinId: lhy
 - staffId: yuanruo
-  name: Liang, Yuanruo
-  joinDate: 2019-01-07
+  name: Yuanruo
+  joinDate: July 1, 2019
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - currentProducts
+    - https://docs.google.com/document/d/136pdU-Yh0SPzzKQzBSOyCpfVr1Immw67IsfXNUoFC4w/edit#heading=h.67r1vonx6odq
   pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: There is no doubt that it is around the family and the home that all the
-    greatest virtues… are created, strengthened and maintained.
+    - SGID
+    - Plumber
+  accomplishments: |-
+    * Temperature
+    * Go.gov.sg
+    * FormSG
+    * CorpTech
+    * Scamtech
+  quote: This is my family. I found it all on my own. It’s little, and broken, but
+    still good. Yeah. Still good.
   linkedinId: yuanruo
-- staffId: yihan
-  name: Liao, Yihan
-  joinDate: 17/05/2021
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: "Blended families: woven together by choice, strengthened together by
-    love, tested by everything, and each uniquely ours."
-  linkedinId: yihan
-- staffId: carina
-  name: Lim, Carina
-  joinDate: 26/07/2021
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Family isn’t always blood. It’s the people in your life who want you in
-    theirs; the ones who accept you for who you are. The ones that would do
-    anything to see you smile and who love you no matter what.
-  linkedinId: carina
-- staffId: lennard
-  name: Lim, Fa Ping Lennard
-  joinDate: 1970-01-01
-  functionId: pm
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Family is not defined by our genes, it is built and maintained through love.
-  linkedinId: lennard
-- staffId: jiayee
-  name: Lim, Jia Yee
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: I didn’t give you the gift of life, but life gave me the gift of you.
-  linkedinId: jiayee
-- staffId: qimmy
-  name: Lim, Qi Xuan
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Ohana means family and family means nobody gets left behind or forgotten.
-  linkedinId: qimmy
-- staffId: sengpoh
-  name: Lim, Seng Poh
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: This is my family. I found it all on my own. It’s little, and broken, but
-    still good. Yeah. Still good.
-  linkedinId: sengpoh
-- staffId: ziwei
-  name: Lim, Zi Wei
-  joinDate: 2022-04-07
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Some people are worth melting for.
-  linkedinId: ziwei
-- staffId: huiqing
-  name: Lin, Huiqing
-  joinDate: 2021-06-09
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: We may have our differences, but nothing’s more important than family.
-  linkedinId: huiqing
-- staffId: jennifer
-  name: Liu, Jennifer
-  joinDate: 1970-01-01
-  functionId: pm
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Life is beautiful. It’s about giving. It’s about family.
-  linkedinId: jennifer
-- staffId: joanna
-  name: Lo Wai Fun, Joanna
-  joinDate: 27/03/2023
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Rejoice with your family in the beautiful land of life.
-  linkedinId: joanna
-- staffId: nicole
-  name: Loh Wan Hua, Nicole
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: "Family: A social unit where the father is concerned with parking space,
-    the children with outer space, and the mother with closet space."
-  linkedinId: nicole
-- staffId: benjaminloh
-  name: Loh, Benjamin
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Where there is family, there is love.
-  linkedinId: benjaminloh
-- staffId: rayner
-  name: Loh, Rayner
-  joinDate: 2023-03-04
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Family gives you the roots to stand tall and strong.
-  linkedinId: rayner
-- staffId: jessendra
-  name: Loke Swen, Jessendra
-  joinDate: 1970-01-01
-  functionId: pm
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Family is the heart of a home.
-  linkedinId: jessendra
-- staffId: desmond
-  name: Lui, Desmond
-  joinDate: 1970-01-01
-  functionId: design
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: The family – that dear octopus from whose tentacles we never quite
-    escape, nor, in our inmost hearts, ever quite wish to.
-  linkedinId: desmond
-- staffId: antariksh
-  name: Mahajan, Antariksh
-  joinDate: 2020-02-03
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: It didn’t matter how big our house was; it mattered that there was love
-    in it.
-  linkedinId: antariksh
-- staffId: gautam
-  name: Manek, Gautam
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: To us, family means putting your arms around each other and being there.
-  linkedinId: gautam
-- staffId: nitya
-  name: Menon, Nitya
-  joinDate: 1970-01-01
-  functionId: transformation
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: The bond that links your true family is not one of blood, but of respect
-    and joy in each other’s life.
-  linkedinId: nitya
-- staffId: feliciana
-  name: Natali, Feliciana
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: "Call it a clan, call it a network, call it a tribe, call it a family:
-    Whatever you call it, whoever you are, you need one."
-  linkedinId: feliciana
-- staffId: didymus
-  name: Ne, Didymus
-  joinDate: 2023-08-05
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Families are the compass that guides us. They are the inspiration to
-    reach great heights, and our comfort when we occasionally falter.
-  linkedinId: didymus
-- staffId: geraldneo
-  name: Neo, Gerald
-  joinDate: 22/05/2023
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: The only rock I know that stays steady, the only institution I know that
-    works, is the family.
-  linkedinId: geraldneo
-- staffId: christabel
-  name: Neo, Xiuwen Christabel
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: When trouble comes, it’s your family that supports you.
-  linkedinId: christabel
-- staffId: darren
-  name: Ng, Darren
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: The most important thing in the world is family and love.
-  linkedinId: darren
-- staffId: nicholasng
-  name: Ng, Nicholas Zhi Hao
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Nothing is better than going home to family and eating good food and relaxing
-  linkedinId: nicholasng
-- staffId: stanley
-  name: Nguyen, Hung
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: To us, family means putting your arms around each other and being there.
-  linkedinId: stanley
-- staffId: jenwei
-  name: Niam, Jen Wei
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: In family life, love is the oil that eases friction, the cement that
-    binds closer together, and the music that brings harmony.
-  linkedinId: jenwei
-- staffId: chinyang
-  name: Oh, Chin Yang
-  joinDate: 2023-06-03
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Other things may change us, but we start and end with the family.
-  linkedinId: chinyang
-- staffId: justyn
-  name: Oh, Wei Jin
-  joinDate: 13/06/2022
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Having somewhere to go is home. Having someone to love is family. And
-    having both is a blessing.
-  linkedinId: justyn
-- staffId: cheri
-  name: Ong, Cheri
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Being a family means you are a part of something very wonderful. It means
-    you will love and be loved for the rest of your life.
-  linkedinId: cheri
-- staffId: pearly
-  name: Ong, Pearly
-  joinDate: 21/10/2019
-  functionId: design
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Happiness is having a large, loving, caring, close-knit family in another
-    city.
-  linkedinId: pearly
-- staffId: simin
-  name: Ong, Si Min
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: The informality of family life is a blessed condition that allows us all
-    to become our best while looking our worst.
-  linkedinId: simin
-- staffId: sehyun
-  name: Park, Se Hyun
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Families are like fudge – mostly sweet with a few nuts.
-  linkedinId: sehyun
-- staffId: pete
-  name: Patanapanlert, Pete
-  joinDate: 27/03/2023
-  functionId: pm
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Being part of a family means smiling for photos.
-  linkedinId: pete
-- staffId: fiona
-  name: Pay Si Ying, Fiona
-  joinDate: 24/07/2023
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Family ties mean that no matter how much you might want to run from your
-    family, you can’t.
-  linkedinId: fiona
-- staffId: christabelpng
-  name: Png, Christabel
-  joinDate: 2020-01-06
-  functionId: design
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Family is not an important thing. It’s everything.
-  linkedinId: christabelpng
-- staffId: pranu
-  name: Pranu, Sarna
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: The memories we make with our family is everything.
-  linkedinId: pranu
-- staffId: kishore
-  name: R, Kishore
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Family is family.
-  linkedinId: kishore
-- staffId: rachel
-  name: Rachel, Tan Si Ying
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: The family is one of nature’s masterpieces.
-  linkedinId: rachel
-- staffId: praveen
-  name: Raj Kumar, Praveen
-  joinDate: 1970-01-01
-  functionId: transformation
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: In time of test, family is best.
-  linkedinId: praveen
-- staffId: veena
-  name: Rao, Anavatti Veena
-  joinDate: 1970-01-01
-  functionId: pm
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: It’s all about the quality of life and finding a happy balance between
-    work and friends and family.
-  linkedinId: veena
-- staffId: suhaila
-  name: Roslan, Suhaila
-  joinDate: 2021-05-04
-  functionId: ops
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Family and friendships are two of the greatest facilitators of happiness.
-  linkedinId: suhaila
-- staffId: arshad
-  name: s/o Abdul Samad, Arshad Ali
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Treat your family like friends and your friends like family.
-  linkedinId: arshad
-- staffId: pallani
-  name: s/o Selvan, Pallanikumaran
-  joinDate: 2015-11-05
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Family and friends are hidden treasures, seek them and enjoy their riches.
-  linkedinId: pallani
-- staffId: khaleedah
-  name: Sairi, Khaleedah
-  joinDate: 2021-12-07
-  functionId: design
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Stick to the basics, hold on to your family and friends – they will never
-    go out of fashion.
-  linkedinId: khaleedah
-- staffId: sarahsalim
-  name: Salim, Siti Sarah
-  joinDate: 1970-01-01
-  functionId: design
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: My family is my life, and everything else comes second as far as what’s
-    important to me.
-  linkedinId: sarahsalim
-- staffId: amit
-  name: Samdarshi, Amit
-  joinDate: 1970-01-01
-  functionId: pm
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: A happy family is but an earlier heaven.
-  linkedinId: amit
-- staffId: chinying
-  name: Seah, Chin Ying
-  joinDate: 19/11/2018
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: The family is the test of freedom; because the family is the only thing
-    that the free man makes for himself and by himself.
-  linkedinId: chinying
-- staffId: sean
-  name: Sean, Lum Jian Yang
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Think of your family today and every day thereafter, don’t let the busy
-    world of today keep you from showing how much you love and appreciate your
-    family.
-  linkedinId: sean
-- staffId: ziyang
-  name: See, Zi Yang
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Our family is a circle of strength of love with every birth and every
-    union the circle grows.
-  linkedinId: ziyang
-- staffId: hena
-  name: Shah, Hena
-  joinDate: 1970-01-01
-  functionId: pm
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: There is no doubt that it is around the family and the home that all the
-    greatest virtues… are created, strengthened and maintained.
-  linkedinId: hena
-- staffId: huiling
-  name: Shi, Hui Ling
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: "Blended families: woven together by choice, strengthened together by
-    love, tested by everything, and each uniquely ours."
-  linkedinId: huiling
-- staffId: ajayraj
-  name: Singh, Ajayraj
-  joinDate: 13/06/2022
-  functionId: ops
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Family isn’t always blood. It’s the people in your life who want you in
-    theirs; the ones who accept you for who you are. The ones that would do
-    anything to see you smile and who love you no matter what.
-  linkedinId: ajayraj
-- staffId: stephanie
-  name: Siow, Stephanie
-  joinDate: 2022-01-04
-  functionId: transformation
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Family is not defined by our genes, it is built and maintained through love.
-  linkedinId: stephanie
-- staffId: kenneth
-  name: Sng, Kenneth
-  joinDate: 1970-01-01
-  functionId: pm
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: I didn’t give you the gift of life, but life gave me the gift of you.
-  linkedinId: kenneth
-- staffId: moses
-  name: Soh, Moses
-  joinDate: 2022-05-12
-  functionId: pm
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Ohana means family and family means nobody gets left behind or forgotten.
-  linkedinId: moses
 - staffId: zeke
-  name: Soh, Yi Zhi Zeke
-  joinDate: 1970-01-01
+  name: Zeke
+  joinDate: May 8, 2023
   functionId: eng
   jobTitle: Job Title
   curProducts:
     - currentProducts
   pastProducts:
-    - pastProducts
+    - PaySG
   accomplishments: ""
-  quote: This is my family. I found it all on my own. It’s little, and broken, but
-    still good. Yeah. Still good.
+  quote: Happiness is having a large, loving, caring, close-knit family in another
+    city.
   linkedinId: zeke
-- staffId: nicolas
-  name: Spano, Nicolas
-  joinDate: 1970-01-01
+- staffId: zhongjun
+  name: Zhong Jun
+  joinDate: July 17, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1WFrcc8e8EV5i1SraUPcwLzeKQxepSlkYEPNNB1vFXoY/edit#heading=h.q9g0durbss53
+  pastProducts:
+    - pastProducts
+  accomplishments: "* Isomer"
+  quote: Family is the heart of a home.
+  linkedinId: zhongjun
+- staffId: ziwei
+  name: Zi Wei
+  joinDate: July 4, 2022
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1p-ZEgil71-p9ovlDsLd2Metv1d2VheRWw2QAml4Afrc/edit
+  pastProducts:
+    - go.gov.sg
+  accomplishments: |-
+    * Pouch
+    * MediPay
+    * Highway
+    * Letters
+    * Engage
+  quote: In time of test, family is best.
+  linkedinId: ziwei
+- staffId: zixiang
+  name: Zi Xiang
+  joinDate: January 10, 2022
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1cEZ3IMWOanFqYeNN0c0EuQcPt8Ma2uu60N0ImMtSpAY/edit
+  pastProducts:
+    - CheckWho
+  accomplishments: |-
+    * AskGov
+    * Postman
+  quote: Being part of a family means smiling for photos.
+  linkedinId: zixiang
+- staffId: ziyang
+  name: Zi Yang
+  joinDate: January 16, 2023
+  functionId: eng
+  jobTitle: Job Title
+  curProducts:
+    - https://docs.google.com/document/d/1qvm-aRjeNIjLg-RMy93W1FmGvY_oHaLSx-0X1tp-6NE/edit
+  pastProducts:
+    - pastProducts
+  accomplishments: "*AskGov"
+  quote: Where there is family, there is love.
+  linkedinId: ziyang
+- staffId: zonghan
+  name: Zong Han
+  joinDate: July 17, 2023
   functionId: eng
   jobTitle: Job Title
   curProducts:
     - currentProducts
   pastProducts:
     - pastProducts
-  accomplishments: ""
-  quote: Some people are worth melting for.
-  linkedinId: nicolas
-- staffId: angel
-  name: Suhardi, Maria
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: We may have our differences, but nothing’s more important than family.
-  linkedinId: angel
-- staffId: airika
-  name: Takeguchi, Airika
-  joinDate: 1970-01-01
-  functionId: corporate
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Life is beautiful. It’s about giving. It’s about family.
-  linkedinId: airika
-- staffId: stacey
-  name: Tan Seok Sim, Stacey
-  joinDate: 2022-07-02
+  accomplishments: "* CalSG"
+  quote: Other things may change us, but we start and end with the family.
+  linkedinId: zonghan
+- staffId: zulhilmi
+  name: Zul
+  joinDate: August 1, 2022
   functionId: design
   jobTitle: Job Title
   curProducts:
     - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Rejoice with your family in the beautiful land of life.
-  linkedinId: stacey
-- staffId: dexter
-  name: Tan Ying Jie, Dexter
-  joinDate: 2022-09-05
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: "Family: A social unit where the father is concerned with parking space,
-    the children with outer space, and the mother with closet space."
-  linkedinId: dexter
-- staffId: alwyn
-  name: Tan, Alwyn Solomon
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Where there is family, there is love.
-  linkedinId: alwyn
-- staffId: geraldine
-  name: Tan, Geraldine
-  joinDate: 1970-01-01
-  functionId: ops
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Family gives you the roots to stand tall and strong.
-  linkedinId: geraldine
-- staffId: max
-  name: Tan, Huiyi
-  joinDate: 2023-06-03
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Family is the heart of a home.
-  linkedinId: max
-- staffId: jieyin
-  name: Tan, Jie Yin
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: The family – that dear octopus from whose tentacles we never quite
-    escape, nor, in our inmost hearts, ever quite wish to.
-  linkedinId: jieyin
-- staffId: joshua
-  name: Tan, Junming
-  joinDate: 2021-06-09
-  functionId: corporate
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: It didn’t matter how big our house was; it mattered that there was love
-    in it.
-  linkedinId: joshua
-- staffId: kevan
-  name: Tan, Kevan
-  joinDate: 18/11/2019
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: To us, family means putting your arms around each other and being there.
-  linkedinId: kevan
-- staffId: leyang
-  name: Tan, Le Yang
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: The bond that links your true family is not one of blood, but of respect
-    and joy in each other’s life.
-  linkedinId: leyang
-- staffId: natalie
-  name: Tan, Natalie
-  joinDate: 2020-06-04
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: "Call it a clan, call it a network, call it a tribe, call it a family:
-    Whatever you call it, whoever you are, you need one."
-  linkedinId: natalie
-- staffId: weilun
-  name: Tan, Wei Lun
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Families are the compass that guides us. They are the inspiration to
-    reach great heights, and our comfort when we occasionally falter.
-  linkedinId: weilun
-- staffId: weiseng2
-  name: Tan, Wei Seng
-  joinDate: 22/02/2021
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: The only rock I know that stays steady, the only institution I know that
-    works, is the family.
-  linkedinId: weiseng2
-- staffId: zixiang
-  name: Tan, Zi Xiang
-  joinDate: 2022-10-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: When trouble comes, it’s your family that supports you.
-  linkedinId: zixiang
-- staffId: amelia
-  name: Tay Li Jia, Amelia
-  joinDate: 2023-07-08
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: The most important thing in the world is family and love.
-  linkedinId: amelia
-- staffId: paul
-  name: Tay, Paul hong
-  joinDate: 1970-01-01
-  functionId: pm
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Nothing is better than going home to family and eating good food and relaxing
-  linkedinId: paul
-- staffId: mayying
-  name: Tee, May Ying
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: To us, family means putting your arms around each other and being there.
-  linkedinId: mayying
-- staffId: shawn
-  name: Ten, Shawn
-  joinDate: 1970-01-01
-  functionId: transformation
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: In family life, love is the oil that eases friction, the cement that
-    binds closer together, and the music that brings harmony.
-  linkedinId: shawn
-- staffId: clifford
-  name: Teo, Clifford
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Other things may change us, but we start and end with the family.
-  linkedinId: clifford
-- staffId: shuli
-  name: Teo, Shu Li
-  joinDate: 20/04/2020
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Having somewhere to go is home. Having someone to love is family. And
-    having both is a blessing.
-  linkedinId: shuli
-- staffId: simun
-  name: Tham, Si Mun
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Being a family means you are a part of something very wonderful. It means
-    you will love and be loved for the rest of your life.
-  linkedinId: simun
-- staffId: wanling
-  name: Thoo, Wan Ling
-  joinDate: 13/09/2021
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Happiness is having a large, loving, caring, close-knit family in another
-    city.
-  linkedinId: wanling
-- staffId: lisa
-  name: Tjide, Lisa
-  joinDate: 26/11/2018
-  functionId: pm
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: The informality of family life is a blessed condition that allows us all
-    to become our best while looking our worst.
-  linkedinId: lisa
-- staffId: reshma
-  name: Vasu, Reshma
-  joinDate: 1970-01-01
-  functionId: ops
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Families are like fudge – mostly sweet with a few nuts.
-  linkedinId: reshma
-- staffId: harish
-  name: Venkatesan, Harish
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Being part of a family means smiling for photos.
-  linkedinId: harish
-- staffId: adan
-  name: Vielma, Adan
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Family ties mean that no matter how much you might want to run from your
-    family, you can’t.
-  linkedinId: adan
-- staffId: sebastian
-  name: Wong Zhi Qian, Sebastian
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Family is not an important thing. It’s everything.
-  linkedinId: sebastian
-- staffId: kendra
-  name: Wong, Kendra
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: The memories we make with our family is everything.
-  linkedinId: kendra
-- staffId: austin
-  name: Woon Quan, Austin
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Family is family.
-  linkedinId: austin
-- staffId: qilu
-  name: Xie, Qilu
-  joinDate: 2023-06-02
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: The family is one of nature’s masterpieces.
-  linkedinId: qilu
-- staffId: richardyak
-  name: Yak, Kian Feng
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: In time of test, family is best.
-  linkedinId: richardyak
-- staffId: syan
-  name: Yan, Sonjia
-  joinDate: 2019-04-09
-  functionId: pm
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
+    - ActiveSG
+  accomplishments: "* Primary Care"
   quote: It’s all about the quality of life and finding a happy balance between
     work and friends and family.
-  linkedinId: syan
-- staffId: xinghao
-  name: Yang, XingHao
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Family and friendships are two of the greatest facilitators of happiness.
-  linkedinId: xinghao
-- staffId: jackson
-  name: Yap, Jackson
-  joinDate: 31/08/2020
-  functionId: ops
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Treat your family like friends and your friends like family.
-  linkedinId: jackson
-- staffId: jiahui
-  name: Yap, Jia Hui
-  joinDate: 1970-01-01
-  functionId: corporate
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Family and friends are hidden treasures, seek them and enjoy their riches.
-  linkedinId: jiahui
-- staffId: peizhen
-  name: Yap, Pei Zhen
-  joinDate: 2023-08-05
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: Stick to the basics, hold on to your family and friends – they will never
-    go out of fashion.
-  linkedinId: peizhen
-- staffId: foong
-  name: Yi Zhuan, Foong
-  joinDate: 17/07/2023
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: My family is my life, and everything else comes second as far as what’s
-    important to me.
-  linkedinId: foong
-- staffId: yuling
-  name: Yu Ling, Tan
-  joinDate: 25/09/2023
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: A happy family is but an earlier heaven.
-  linkedinId: yuling
-- staffId: khant
-  name: Zaw, Khant
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - pastProducts
-  accomplishments: ""
-  quote: The family is the test of freedom; because the family is the only thing
-    that the free man makes for himself and by himself.
-  linkedinId: khant
+  linkedinId: zulhilmi

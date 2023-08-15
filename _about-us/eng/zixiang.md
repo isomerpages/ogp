@@ -1,19 +1,21 @@
 ---
-title: Tan, Zi Xiang
+title: Zi Xiang
 permalink: /aboutus/eng/zixiang
-description: "Tan, Zi Xiang - Job Title"
+description: "Zi Xiang - Job Title"
 third_nav_title: Software Engineering
 staffId: zixiang
-name: Tan, Zi Xiang
-joinDate: 2022-10-01
+name: Zi Xiang
+joinDate: January 10, 2022
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1cEZ3IMWOanFqYeNN0c0EuQcPt8Ma2uu60N0ImMtSpAY/edit
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: When trouble comes, it’s your family that supports you.
+  - CheckWho
+accomplishments: |-
+  * AskGov
+  * Postman
+quote: Being part of a family means smiling for photos.
 linkedinId: zixiang
 
 ---

@@ -1,19 +1,19 @@
 ---
-title: Lin, Huiqing
+title: Hui Qing
 permalink: /aboutus/eng/huiqing
-description: "Lin, Huiqing - Job Title"
+description: "Hui Qing - Job Title"
 third_nav_title: Software Engineering
 staffId: huiqing
-name: Lin, Huiqing
-joinDate: 2021-06-09
+name: Hui Qing
+joinDate: January 3, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
   - currentProducts
 pastProducts:
-  - pastProducts
+  - FormSG
 accomplishments: ""
-quote: We may have our differences, but nothing’s more important than family.
+quote: Rejoice with your family in the beautiful land of life.
 linkedinId: huiqing
 
 ---

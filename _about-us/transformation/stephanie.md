@@ -1,19 +1,19 @@
 ---
-title: Siow, Stephanie
+title: Steph
 permalink: /aboutus/transformation/stephanie
-description: "Siow, Stephanie - Job Title"
+description: "Steph - Job Title"
 third_nav_title: Partnerships & Transformation
 staffId: stephanie
-name: Siow, Stephanie
-joinDate: 2022-01-04
+name: Steph
+joinDate: April 4, 2022
 functionId: transformation
 jobTitle: Job Title
 curProducts:
   - currentProducts
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: Family is not defined by our genes, it is built and maintained through love.
+  - Policy & Transformation
+accomplishments: "* HealthTech Sprint"
+quote: The memories we make with our family is everything.
 linkedinId: stephanie
 
 ---

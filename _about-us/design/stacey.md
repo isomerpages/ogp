@@ -1,19 +1,21 @@
 ---
-title: Tan Seok Sim, Stacey
+title: Stacey
 permalink: /aboutus/design/stacey
-description: "Tan Seok Sim, Stacey - Job Title"
+description: "Stacey - Job Title"
 third_nav_title: Product Design
 staffId: stacey
-name: Tan Seok Sim, Stacey
-joinDate: 2022-07-02
+name: Stacey
+joinDate: September 12, 2022
 functionId: design
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1jx4LgBR1gstlcWEJpSF5twRYwKtufBy3usLohOhnYS0/edit
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: Rejoice with your family in the beautiful land of life.
+  - FormSG
+accomplishments: |-
+  * ScamShield
+  * Plumber
+quote: Some people are worth melting for.
 linkedinId: stacey
 
 ---

@@ -1,19 +1,19 @@
 ---
-title: Genestonlia, Prawira
+title: Prawira
 permalink: /aboutus/eng/prawira
-description: "Genestonlia, Prawira - Job Title"
+description: "Prawira - Job Title"
 third_nav_title: Software Engineering
 staffId: prawira
-name: Genestonlia, Prawira
-joinDate: 1970-01-01
+name: Prawira
+joinDate: April 3, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://www.notion.so/Wira-s-Working-Document-1a3bfcc8b8a34e7d845a075d216416aa
 pastProducts:
   - pastProducts
-accomplishments: ""
-quote: Where there is family, there is love.
+accomplishments: "* SGID"
+quote: We may have our differences, but nothing’s more important than family.
 linkedinId: prawira
 
 ---

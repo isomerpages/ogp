@@ -1,18 +1,20 @@
 ---
-title: Fernandez, Hygin
+title: Hygin
 permalink: /aboutus/transformation/hygin
-description: "Fernandez, Hygin - Job Title"
+description: "Hygin - Job Title"
 third_nav_title: Partnerships & Transformation
 staffId: hygin
-name: Fernandez, Hygin
-joinDate: 1970-01-01
+name: Hygin
+joinDate: August 1, 2022
 functionId: transformation
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1Sb2c5DaSMJXfZbo7JQW5IPd-s7T_VakIp0eeXVi1Ms8/edit
 pastProducts:
-  - pastProducts
-accomplishments: ""
+  - Policy & Transformation
+accomplishments: |-
+  * Scamshield
+  * Scamtech
 quote: This is my family. I found it all on my own. It’s little, and broken, but
   still good. Yeah. Still good.
 linkedinId: hygin

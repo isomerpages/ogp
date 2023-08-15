@@ -1,27 +1,25 @@
 ---
-title: Huang, Kaiwen
+title: Kaiwen
 permalink: /aboutus/eng/kaiwen
-description: "Huang, Kaiwen - Senior Software Engineer"
+description: "Kaiwen - Job Title"
 third_nav_title: Software Engineering
 staffId: kaiwen
-name: Huang, Kaiwen
-joinDate: 2016-04-07
+name: Kaiwen
+joinDate: July 4, 2016
 functionId: eng
-jobTitle: Senior Software Engineer
+jobTitle: Job Title
 curProducts:
-  - PaySG
+  - https://docs.google.com/document/d/1nFexQO--AKJZTnarJrOY_2UIlxMZPyZGf1EYHmsNAzo/edit
 pastProducts:
-  - Parking.sg
-  - Scamshield
-  - FormSG
-  - Redeem
-accomplishments: >-
-  * Tech lead for Redeem, ParkingSG, and PawsTogether
-
-  * Served as the subject matter expert on mobile app development across OGP, consulting on multiple products and driving discussions with Apple on OGP organisation accounts
-
-  * Worked with the other FinTech team members to drive a strong team culture of user-centricity, iterativeness, and cross-functional collaboration
-quote: The most important thing in the world is family and love.
+  - PaySG
+accomplishments: |-
+  * Parking.sg
+  * Scamshield
+  * FormSG
+  * Redeem
+quote: Family isn’t always blood. It’s the people in your life who want you in
+  theirs; the ones who accept you for who you are. The ones that would do
+  anything to see you smile and who love you no matter what.
 linkedinId: kaiwen
 
 ---

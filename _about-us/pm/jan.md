@@ -1,19 +1,20 @@
 ---
-title: Donyada, Jan
+title: Jan
 permalink: /aboutus/pm/jan
-description: "Donyada, Jan - Job Title"
+description: "Jan - Job Title"
 third_nav_title: Product Management
 staffId: jan
-name: Donyada, Jan
-joinDate: 1970-01-01
+name: Jan
+joinDate: June 13, 2022
 functionId: pm
 jobTitle: Job Title
 curProducts:
   - currentProducts
 pastProducts:
-  - pastProducts
+  - Isomer
 accomplishments: ""
-quote: Family is not defined by our genes, it is built and maintained through love.
+quote: Our family is a circle of strength of love with every birth and every
+  union the circle grows.
 linkedinId: jan
 
 ---

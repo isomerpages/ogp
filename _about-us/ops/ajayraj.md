@@ -1,21 +1,23 @@
 ---
-title: Singh, Ajayraj
+title: Ajay
 permalink: /aboutus/ops/ajayraj
-description: "Singh, Ajayraj - Job Title"
+description: "Ajay - Job Title"
 third_nav_title: Product Operations
 staffId: ajayraj
-name: Singh, Ajayraj
-joinDate: 13/06/2022
+name: Ajay
+joinDate: June 13, 2022
 functionId: ops
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1KfXqg5ErH994ajuhRKJlLEKaMp3aYJak7ub3ZPhDCr8/edit
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: Family isn’t always blood. It’s the people in your life who want you in
-  theirs; the ones who accept you for who you are. The ones that would do
-  anything to see you smile and who love you no matter what.
+  - Armoury
+accomplishments: |-
+  AskGov
+  Healthtech
+  Sync
+quote: Having somewhere to go is home. Having someone to love is family. And
+  having both is a blessing.
 linkedinId: ajayraj
 
 ---

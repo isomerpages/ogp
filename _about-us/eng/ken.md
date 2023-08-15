@@ -1,19 +1,19 @@
 ---
-title: Lee, Ken
+title: Ken
 permalink: /aboutus/eng/ken
-description: "Lee, Ken - Job Title"
+description: "Ken - Job Title"
 third_nav_title: Software Engineering
 staffId: ken
-name: Lee, Ken
-joinDate: 27/02/2023
+name: Ken
+joinDate: February 27, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1L2YRmmvv4D1w8PnNOXJTSfSRAmYBYycFD8jh9bsTm-Q/edit
 pastProducts:
   - pastProducts
-accomplishments: ""
-quote: Family and friendships are two of the greatest facilitators of happiness.
+accomplishments: "* FormSG"
+quote: Family gives you the roots to stand tall and strong.
 linkedinId: ken
 
 ---

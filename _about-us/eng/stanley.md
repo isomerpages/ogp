@@ -1,19 +1,23 @@
 ---
-title: Nguyen, Hung
+title: Stanley
 permalink: /aboutus/eng/stanley
-description: "Nguyen, Hung - Job Title"
+description: "Stanley - Job Title"
 third_nav_title: Software Engineering
 staffId: stanley
-name: Nguyen, Hung
-joinDate: 1970-01-01
+name: Stanley
+joinDate: January 24, 2022
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1Z2MFrMLz5EgcfxI7S0xo6g2Fop434kgL-HHtShodjyQ/edit
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: To us, family means putting your arms around each other and being there.
+  - Postman
+accomplishments: |-
+  DigiMC
+  HAS
+  Sync
+  Touchpoint
+quote: Nothing is better than going home to family and eating good food and relaxing
 linkedinId: stanley
 
 ---

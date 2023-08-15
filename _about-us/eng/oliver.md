@@ -1,20 +1,23 @@
 ---
-title: Chan, Oliver
+title: Oliver
 permalink: /aboutus/eng/oliver
-description: "Chan, Oliver - Job Title"
+description: "Oliver - Job Title"
 third_nav_title: Software Engineering
 staffId: oliver
-name: Chan, Oliver
-joinDate: 2021-12-13
+name: Oliver
+joinDate: December 13, 2021
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1J5TQ6ZoHbZqJvg2vZ-ggUOXAHtTPFRjgW3hGOpBVJ_c/edit
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: Family ties mean that no matter how much you might want to run from your
-  family, you can’t.
+  - Primary Care
+accomplishments: |-
+  * HealthTech
+  * CheckWho
+  * CalSG
+  * Queue
+quote: Other things may change us, but we start and end with the family.
 linkedinId: oliver
 
 ---

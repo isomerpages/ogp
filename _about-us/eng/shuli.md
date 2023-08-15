@@ -1,20 +1,24 @@
 ---
-title: Teo, Shu Li
+title: Shu Li
 permalink: /aboutus/eng/shuli
-description: "Teo, Shu Li - Job Title"
+description: "Shu Li - Job Title"
 third_nav_title: Software Engineering
 staffId: shuli
-name: Teo, Shu Li
-joinDate: 20/04/2020
+name: Shu Li
+joinDate: April 20, 2020
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/11H-_C3FpGGSGZkdNCEz7se82jfPwXo1rgHcjjyJXjMQ/edit
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: Having somewhere to go is home. Having someone to love is family. And
-  having both is a blessing.
+  - FormSG
+accomplishments: |-
+  * FormSG
+  * CheckFirst
+  * Temperature
+  * Signify
+quote: "Family: A social unit where the father is concerned with parking space,
+  the children with outer space, and the mother with closet space."
 linkedinId: shuli
 
 ---

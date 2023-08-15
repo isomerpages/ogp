@@ -1,19 +1,19 @@
 ---
-title: Manek, Gautam
+title: Gautam
 permalink: /aboutus/eng/gautam
-description: "Manek, Gautam - Job Title"
+description: "Gautam - Job Title"
 third_nav_title: Software Engineering
 staffId: gautam
-name: Manek, Gautam
-joinDate: 1970-01-01
+name: Gautam
+joinDate: June 5, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
   - currentProducts
 pastProducts:
-  - pastProducts
+  - Armoury
 accomplishments: ""
-quote: To us, family means putting your arms around each other and being there.
+quote: Families are like fudge – mostly sweet with a few nuts.
 linkedinId: gautam
 
 ---

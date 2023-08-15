@@ -1,21 +1,20 @@
 ---
-title: Chow, Christian
+title: Christian
 permalink: /aboutus/eng/christian
-description: "Chow, Christian - Job Title"
+description: "Christian - Job Title"
 third_nav_title: Software Engineering
 staffId: christian
-name: Chow, Christian
-joinDate: 1970-01-01
+name: Christian
+joinDate: November 28, 2022
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1ehqbFDEMyzqTMBRsI9-yOKFhR-1NGdktnnrtvC_luA8/edit#heading=h.q9g0durbss53
 pastProducts:
-  - pastProducts
+  - Scamshield
 accomplishments: ""
-quote: Think of your family today and every day thereafter, don’t let the busy
-  world of today keep you from showing how much you love and appreciate your
-  family.
+quote: Family ties mean that no matter how much you might want to run from your
+  family, you can’t.
 linkedinId: christian
 
 ---

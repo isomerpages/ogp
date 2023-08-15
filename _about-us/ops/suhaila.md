@@ -1,19 +1,25 @@
 ---
-title: Roslan, Suhaila
+title: Suhaila
 permalink: /aboutus/ops/suhaila
-description: "Roslan, Suhaila - Job Title"
+description: "Suhaila - Job Title"
 third_nav_title: Product Operations
 staffId: suhaila
-name: Roslan, Suhaila
-joinDate: 2021-05-04
+name: Suhaila
+joinDate: April 5, 2021
 functionId: ops
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1ZO3Ixlom49gIdBEWEVFAhUCGWfdPJhZmNt3gVdx3X_8/edit
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: Family and friendships are two of the greatest facilitators of happiness.
+  - Primary Care
+accomplishments: |-
+  * Healthcare
+  * Parking.sg
+  * Covid Ops
+  * Healthtech
+  * PaySG
+  * Queue
+quote: Family is the heart of a home.
 linkedinId: suhaila
 
 ---

@@ -1,19 +1,27 @@
 ---
-title: Yap, Jackson
+title: Jackson
 permalink: /aboutus/ops/jackson
-description: "Yap, Jackson - Job Title"
+description: "Jackson - Job Title"
 third_nav_title: Product Operations
 staffId: jackson
-name: Yap, Jackson
-joinDate: 31/08/2020
+name: Jackson
+joinDate: August 31, 2020
 functionId: ops
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/150jLoAwQ483583ILejVrW-40adMVIIw0q9QiQHUETlY/edit
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: Treat your family like friends and your friends like family.
+  - FormSG
+  - Isomer
+  - Plumber
+accomplishments: |-
+  * Redeem
+  * Postman
+  * CheckFirst
+  * Temperature
+  * Go.gov.sg
+  * CheckWho
+quote: Family gives you the roots to stand tall and strong.
 linkedinId: jackson
 
 ---

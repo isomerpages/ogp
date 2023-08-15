@@ -1,20 +1,19 @@
 ---
-title: Soh, Yi Zhi Zeke
+title: Zeke
 permalink: /aboutus/eng/zeke
-description: "Soh, Yi Zhi Zeke - Job Title"
+description: "Zeke - Job Title"
 third_nav_title: Software Engineering
 staffId: zeke
-name: Soh, Yi Zhi Zeke
-joinDate: 1970-01-01
+name: Zeke
+joinDate: May 8, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
   - currentProducts
 pastProducts:
-  - pastProducts
+  - PaySG
 accomplishments: ""
-quote: This is my family. I found it all on my own. It’s little, and broken, but
-  still good. Yeah. Still good.
+quote: Happiness is having a large, loving, caring, close-knit family in another city.
 linkedinId: zeke
 
 ---

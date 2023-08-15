@@ -1,19 +1,19 @@
 ---
-title: Gan, Chin Yao
+title: Chinyao
 permalink: /aboutus/eng/chinyao
-description: "Gan, Chin Yao - Job Title"
+description: "Chinyao - Job Title"
 third_nav_title: Software Engineering
 staffId: chinyao
-name: Gan, Chin Yao
-joinDate: 1970-01-01
+name: Chinyao
+joinDate: June 19, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
   - currentProducts
 pastProducts:
   - pastProducts
-accomplishments: ""
-quote: Rejoice with your family in the beautiful land of life.
+accomplishments: "* Phonebook"
+quote: Nothing is better than going home to family and eating good food and relaxing
 linkedinId: chinyao
 
 ---

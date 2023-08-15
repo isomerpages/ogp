@@ -1,19 +1,21 @@
 ---
-title: Spano, Nicolas
+title: Nicolas Spano
 permalink: /aboutus/eng/nicolas
-description: "Spano, Nicolas - Job Title"
+description: "Nicolas Spano - Job Title"
 third_nav_title: Software Engineering
 staffId: nicolas
-name: Spano, Nicolas
-joinDate: 1970-01-01
+name: Nicolas Spano
+joinDate: June 26, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - i'm new, watch this space!
 pastProducts:
-  - pastProducts
+  - Primary Care
+  - Care360
 accomplishments: ""
-quote: Some people are worth melting for.
+quote: My family is my life, and everything else comes second as far as what’s
+  important to me.
 linkedinId: nicolas
 
 ---

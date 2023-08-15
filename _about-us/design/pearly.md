@@ -1,19 +1,39 @@
 ---
-title: Ong, Pearly
+title: Pearly
 permalink: /aboutus/design/pearly
-description: "Ong, Pearly - Job Title"
+description: "Pearly - Job Title"
 third_nav_title: Product Design
 staffId: pearly
-name: Ong, Pearly
-joinDate: 21/10/2019
+name: Pearly
+joinDate: October 21, 2019
 functionId: design
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1Ak1uw8O5JuL3HxC1Py2ShsysmU_NbI8ZaG5YKCImEVo/edit
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: Happiness is having a large, loving, caring, close-knit family in another city.
+  - IRMS
+accomplishments: |-
+  * Trashy
+  * ParkingSG
+  * Forms
+  * sgID
+  * Okay/ Not
+  * Medicard
+  * CCRM
+  * Go
+  * HealthHub
+  * Homer
+  * Lookback
+  * Queue
+  * Sanbaiqian
+  * Handsy
+  * Redeem
+  * Scamshield
+  * CalSG
+  * IRMS
+  * Build Your Own Singaporean
+  * OGP Design System
+quote: The most important thing in the world is family and love.
 linkedinId: pearly
 
 ---

@@ -1,19 +1,20 @@
 ---
-title: Patanapanlert, Pete
+title: Pete
 permalink: /aboutus/pm/pete
-description: "Patanapanlert, Pete - Job Title"
+description: "Pete - Job Title"
 third_nav_title: Product Management
 staffId: pete
-name: Patanapanlert, Pete
-joinDate: 27/03/2023
+name: Pete
+joinDate: March 27, 2023
 functionId: pm
 jobTitle: Job Title
 curProducts:
   - currentProducts
 pastProducts:
-  - pastProducts
+  - PaySG
 accomplishments: ""
-quote: Being part of a family means smiling for photos.
+quote: Being a family means you are a part of something very wonderful. It means
+  you will love and be loved for the rest of your life.
 linkedinId: pete
 
 ---

@@ -1,19 +1,20 @@
 ---
-title: Tan, Geraldine
+title: Geraldine
 permalink: /aboutus/ops/geraldine
-description: "Tan, Geraldine - Job Title"
+description: "Geraldine - Job Title"
 third_nav_title: Product Operations
 staffId: geraldine
-name: Tan, Geraldine
-joinDate: 1970-01-01
+name: Geraldine
+joinDate: August 22, 2022
 functionId: ops
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1R0UwAoC3p73jmTSz_tZoypsPMy8O5mfDZC5pfZp8rvk/edit
 pastProducts:
-  - pastProducts
+  - Vault
 accomplishments: ""
-quote: Family gives you the roots to stand tall and strong.
+quote: Our family is a circle of strength of love with every birth and every
+  union the circle grows.
 linkedinId: geraldine
 
 ---

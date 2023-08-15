@@ -1,19 +1,26 @@
 ---
-title: Mahajan, Antariksh
+title: Antariksh
 permalink: /aboutus/eng/antariksh
-description: "Mahajan, Antariksh - Job Title"
+description: "Antariksh - Job Title"
 third_nav_title: Software Engineering
 staffId: antariksh
-name: Mahajan, Antariksh
-joinDate: 2020-02-03
+name: Antariksh
+joinDate: March 2, 2020
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1Iq-mvRK9Nv_GwwHLgKiHlQq1XtKEPyEvhRAlXmwqAzc/edit
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: It didn’t matter how big our house was; it mattered that there was love in it.
+  - CalSG
+accomplishments: |-
+  * FormSG
+  * AskGov
+  * Endemic Ops
+  * CheckFirst
+  * Temperature
+  * SGID
+quote: Our family is a circle of strength of love with every birth and every
+  union the circle grows.
 linkedinId: antariksh
 
 ---

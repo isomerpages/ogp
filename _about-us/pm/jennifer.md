@@ -1,19 +1,19 @@
 ---
-title: Liu, Jennifer
+title: Jennifer
 permalink: /aboutus/pm/jennifer
-description: "Liu, Jennifer - Job Title"
+description: "Jennifer - Job Title"
 third_nav_title: Product Management
 staffId: jennifer
-name: Liu, Jennifer
-joinDate: 1970-01-01
+name: Jennifer
+joinDate: June 20, 2022
 functionId: pm
 jobTitle: Job Title
 curProducts:
   - currentProducts
 pastProducts:
-  - pastProducts
+  - Scamshield
 accomplishments: ""
-quote: Life is beautiful. It’s about giving. It’s about family.
+quote: I didn’t give you the gift of life, but life gave me the gift of you.
 linkedinId: jennifer
 
 ---

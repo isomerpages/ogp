@@ -1,19 +1,31 @@
 ---
-title: Chen, Wei Ian
+title: Ian
 permalink: /aboutus/eng/ian
-description: "Chen, Wei Ian - Job Title"
+description: "Ian - Job Title"
 third_nav_title: Software Engineering
 staffId: ian
-name: Chen, Wei Ian
-joinDate: 2018-03-09
+name: Ian
+joinDate: September 3, 2018
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1MjM71Q01yc_DI26DldhkJqz6pYd1N1JQUcIuH7XcenQ/edit
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: The family is one of nature’s masterpieces.
+  - Tooling team
+  - Plumber
+accomplishments: |-
+  * Postman
+  * SGID
+  * Covid Ops
+  * Healthcare
+  * Sync
+  * OpenDoc
+  * Healthtech
+  * HAS
+  * CorpTech
+quote: Think of your family today and every day thereafter, don’t let the busy
+  world of today keep you from showing how much you love and appreciate your
+  family.
 linkedinId: ian
 
 ---

@@ -1,20 +1,19 @@
 ---
-title: Ding, Si Han
+title: Si Han
 permalink: /aboutus/eng/sihan
-description: "Ding, Si Han - Job Title"
+description: "Si Han - Job Title"
 third_nav_title: Software Engineering
 staffId: sihan
-name: Ding, Si Han
-joinDate: 13/06/2022
+name: Si Han
+joinDate: February 27, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
   - currentProducts
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: "Blended families: woven together by choice, strengthened together by
-  love, tested by everything, and each uniquely ours."
+  - Data Gov
+accomplishments: "* Vault"
+quote: Other things may change us, but we start and end with the family.
 linkedinId: sihan
 
 ---

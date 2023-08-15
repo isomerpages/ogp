@@ -1,19 +1,22 @@
 ---
-title: Lee, Cheryl
+title: Cheryl
 permalink: /aboutus/pm/cheryl
-description: "Lee, Cheryl - Job Title"
+description: "Cheryl - Job Title"
 third_nav_title: Product Management
 staffId: cheryl
-name: Lee, Cheryl
-joinDate: 1970-01-01
+name: Cheryl
+joinDate: February 14, 2022
 functionId: pm
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1jV5ZqyLZ6WeIr6QUk4kH0tJErBD0Dyc0cGeWyclarco/edit
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: In time of test, family is best.
+  - Medipay
+accomplishments: |-
+  * Marketing
+  * Crackdown
+quote: Family ties mean that no matter how much you might want to run from your
+  family, you can’t.
 linkedinId: cheryl
 
 ---

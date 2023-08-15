@@ -5,184 +5,170 @@ collections:
       - About us.md
       - corporate/all.md
       - corporate/chienling.md
+      - corporate/clifford.md
+      - corporate/joannalo.md
+      - corporate/sengpoh.md
+      - corporate/nicole.md
       - corporate/russell.md
-      - corporate/bernadette.md
       - corporate/sarahespaldon.md
-      - corporate/amitha.md
       - corporate/shannen.md
-      - corporate/lhy.md
-      - corporate/airika.md
-      - corporate/joshua.md
-      - corporate/jiahui.md
+      - corporate/yihan.md
       - design/all.md
       - design/benjamin.md
-      - design/desmond.md
-      - design/pearly.md
+      - design/carina.md
       - design/christabelpng.md
+      - design/darren.md
+      - design/feliciana.md
+      - design/fiona.md
+      - design/jingyi.md
       - design/khaleedah.md
-      - design/sarahsalim.md
+      - design/mike.md
+      - design/natalie.md
+      - design/pearly.md
+      - design/pranu.md
+      - design/prasanth.md
+      - design/qimmy.md
+      - design/rachel.md
+      - design/iamsarahsalim.md
+      - design/sehyun.md
+      - design/shanty.md
       - design/stacey.md
+      - design/sufyan.md
+      - design/tiffany.md
+      - design/wenjia.md
+      - design/yixin.md
+      - design/zulhilmi.md
       - eng/all.md
-      - eng/jasmine.md
-      - eng/yixin.md
-      - eng/kishen.md
-      - eng/prakriti.md
-      - eng/shanty.md
-      - eng/sheikh.md
-      - eng/sufyan.md
-      - eng/daryl.md
-      - eng/oliver.md
-      - eng/tiffany.md
-      - eng/kennethchang.md
-      - eng/ian.md
-      - eng/keith.md
-      - eng/fabian.md
-      - eng/caleb.md
-      - eng/kokseng.md
-      - eng/jason.md
-      - eng/lorraine.md
-      - eng/christian.md
-      - eng/hanu.md
-      - eng/danelynn.md
-      - eng/sihan.md
-      - eng/wenjia.md
-      - eng/jiachin.md
-      - eng/chifa.md
-      - eng/yongjie.md
-      - eng/chinyao.md
-      - eng/hongyao.md
-      - eng/prawira.md
-      - eng/ciqin.md
-      - eng/alexis.md
-      - eng/blake.md
-      - eng/timothee.md
-      - eng/james.md
-      - eng/ivan.md
-      - eng/zonghan.md
-      - eng/malcolm.md
-      - eng/zhongjun.md
-      - eng/kaiwen.md
-      - eng/zulhilmi.md
-      - eng/aditya.md
-      - eng/raisa.md
-      - eng/louiz.md
       - eng/aiko.md
-      - eng/weeloong.md
-      - eng/jiehao.md
-      - eng/jingyi.md
-      - eng/keewei.md
-      - eng/karrui.md
-      - eng/dat.md
       - eng/alexander.md
-      - eng/ken.md
-      - eng/lynette.md
-      - eng/zhiying.md
-      - eng/latasha.md
-      - eng/enyi.md
-      - eng/boren.md
-      - eng/yuanruo.md
-      - eng/yihan.md
-      - eng/carina.md
-      - eng/jiayee.md
-      - eng/qimmy.md
-      - eng/sengpoh.md
-      - eng/ziwei.md
-      - eng/huiqing.md
-      - eng/joanna.md
-      - eng/nicole.md
-      - eng/benjaminloh.md
-      - eng/rayner.md
-      - eng/antariksh.md
-      - eng/gautam.md
-      - eng/feliciana.md
-      - eng/didymus.md
-      - eng/geraldneo.md
-      - eng/christabel.md
-      - eng/darren.md
-      - eng/nicholasng.md
-      - eng/stanley.md
-      - eng/jenwei.md
-      - eng/chinyang.md
-      - eng/justyn.md
-      - eng/cheri.md
-      - eng/simin.md
-      - eng/sehyun.md
-      - eng/fiona.md
-      - eng/pranu.md
-      - eng/kishore.md
-      - eng/rachel.md
-      - eng/arshad.md
-      - eng/pallani.md
-      - eng/chinying.md
-      - eng/sean.md
-      - eng/ziyang.md
-      - eng/huiling.md
-      - eng/zeke.md
-      - eng/nicolas.md
-      - eng/angel.md
-      - eng/dexter.md
+      - eng/alexis.md
       - eng/alwyn.md
-      - eng/max.md
-      - eng/jieyin.md
-      - eng/kevan.md
-      - eng/leyang.md
-      - eng/natalie.md
-      - eng/weilun.md
-      - eng/weiseng2.md
-      - eng/zixiang.md
-      - eng/amelia.md
-      - eng/mayying.md
-      - eng/clifford.md
-      - eng/shuli.md
-      - eng/simun.md
-      - eng/wanling.md
-      - eng/harish.md
-      - eng/adan.md
-      - eng/sebastian.md
-      - eng/kendra.md
+      - eng/amitha.md
+      - eng/angel.md
+      - eng/antariksh.md
+      - eng/arshad.md
       - eng/austin.md
-      - eng/qilu.md
-      - eng/richardyak.md
-      - eng/xinghao.md
-      - eng/peizhen.md
-      - eng/foong.md
-      - eng/yuling.md
+      - eng/benjaminloh.md
+      - eng/bernadette.md
+      - eng/blake.md
+      - eng/caleb.md
+      - eng/cheri.md
+      - eng/chifa.md
+      - eng/chinyang.md
+      - eng/chinying.md
+      - eng/chinyao.md
+      - eng/christabel.md
+      - eng/christian.md
+      - eng/danelynn.md
+      - eng/daryl.md
+      - eng/dat.md
+      - eng/dexter.md
+      - eng/enyi.md
+      - eng/fabian.md
+      - eng/gautam.md
+      - eng/hanu.md
+      - eng/harish.md
+      - eng/lhy.md
+      - eng/huiling.md
+      - eng/huiqing.md
+      - eng/ian.md
+      - eng/ivan.md
+      - eng/james.md
+      - eng/jasmine.md
+      - eng/jason.md
+      - eng/jenwei.md
+      - eng/jiachin.md
+      - eng/jiahui.md
+      - eng/jiayee.md
+      - eng/jiehao.md
+      - eng/joshua.md
+      - eng/justyn.md
+      - eng/kaiwen.md
+      - eng/karrui.md
+      - eng/keewei.md
+      - eng/keith.md
+      - eng/ken.md
+      - eng/kevan.md
       - eng/khant.md
+      - eng/kishen.md
+      - eng/kishore.md
+      - eng/kokseng.md
+      - eng/latasha.md
+      - eng/leyang.md
+      - eng/lorraine.md
+      - eng/louiz.md
+      - eng/malcolm.md
+      - eng/mayying.md
+      - eng/nicholasng.md
+      - eng/nicolas.md
+      - eng/oliver.md
+      - eng/pallani.md
+      - eng/prakriti.md
+      - eng/prawira.md
+      - eng/qilu.md
+      - eng/raisa.md
+      - eng/richardyak.md
+      - eng/sean.md
+      - eng/sebastian.md
+      - eng/sheikh.md
+      - eng/shuli.md
+      - eng/sihan.md
+      - eng/simin.md
+      - eng/simun.md
+      - eng/siddarth.md
+      - eng/stanley.md
+      - eng/timothee.md
+      - eng/wanling.md
+      - eng/weeloong.md
+      - eng/weilun.md
+      - eng/xinghao.md
+      - eng/yongjie.md
+      - eng/yuanruo.md
+      - eng/zeke.md
+      - eng/zhongjun.md
+      - eng/ziwei.md
+      - eng/zixiang.md
+      - eng/ziyang.md
+      - eng/zonghan.md
       - ops/all.md
-      - ops/shazli.md
-      - ops/shreyas.md
-      - ops/clement.md
-      - ops/samuel.md
-      - ops/kahhow.md
-      - ops/suhaila.md
       - ops/ajayraj.md
+      - ops/clement.md
       - ops/geraldine.md
-      - ops/reshma.md
       - ops/jackson.md
+      - ops/jieyin.md
+      - ops/kahhow.md
+      - ops/kendra.md
+      - ops/kennethchang.md
+      - ops/samuel.md
+      - ops/shazli.md
+      - ops/suhaila.md
       - pm/all.md
-      - pm/talitha.md
-      - pm/jan.md
-      - pm/kathleen.md
+      - pm/adan.md
+      - pm/amit.md
+      - pm/brianlee.md
       - pm/charmaine.md
       - pm/cheryl.md
-      - pm/brianlee.md
-      - pm/lennard.md
+      - pm/foong.md
+      - pm/hena.md
+      - pm/jan.md
       - pm/jennifer.md
       - pm/jessendra.md
-      - pm/pete.md
-      - pm/veena.md
-      - pm/amit.md
-      - pm/hena.md
       - pm/kenneth.md
+      - pm/lennard.md
+      - pm/lisa.md
       - pm/moses.md
       - pm/paul.md
-      - pm/lisa.md
+      - pm/pete.md
+      - pm/reshma.md
       - pm/syan.md
+      - pm/talitha.md
+      - pm/veena.md
       - transformation/all.md
-      - transformation/hygin.md
+      - transformation/airika.md
       - transformation/huixuan.md
+      - transformation/hygin.md
       - transformation/nitya.md
       - transformation/praveen.md
-      - transformation/stephanie.md
       - transformation/shawn.md
+      - transformation/stephanie.md
       - Board of Advisors.md

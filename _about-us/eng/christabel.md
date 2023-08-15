@@ -1,19 +1,24 @@
 ---
-title: Neo, Xiuwen Christabel
+title: Christabel N.
 permalink: /aboutus/eng/christabel
-description: "Neo, Xiuwen Christabel - Job Title"
+description: "Christabel N. - Job Title"
 third_nav_title: Software Engineering
 staffId: christabel
-name: Neo, Xiuwen Christabel
-joinDate: 1970-01-01
+name: Christabel N.
+joinDate: September 17, 2018
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1UawiVv9bt7_CHSNbaMOrpHkhjsV3VCRCXcfxY2iTwws/edit
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: When trouble comes, it’s your family that supports you.
+  - Armoury
+accomplishments: |-
+  * Homer
+  * Vault
+  * Covid Operations
+  * Scamshield
+  * Healthcare
+quote: Family is not defined by our genes, it is built and maintained through love.
 linkedinId: christabel
 
 ---

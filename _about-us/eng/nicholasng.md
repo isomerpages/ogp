@@ -1,19 +1,22 @@
 ---
-title: Ng, Nicholas Zhi Hao
+title: Nicholas
 permalink: /aboutus/eng/nicholasng
-description: "Ng, Nicholas Zhi Hao - Job Title"
+description: "Nicholas - Job Title"
 third_nav_title: Software Engineering
 staffId: nicholasng
-name: Ng, Nicholas Zhi Hao
-joinDate: 1970-01-01
+name: Nicholas
+joinDate: September 12, 2022
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1IC0wqYwJygzE7LbNOkRp6ChLuqrFxOOKRkStFXlD6dw/edit#heading=h.q9g0durbss53
 pastProducts:
-  - pastProducts
+  - Senior Engineering Manager
+  - Primary Care
+  - Care360
 accomplishments: ""
-quote: Nothing is better than going home to family and eating good food and relaxing
+quote: The informality of family life is a blessed condition that allows us all
+  to become our best while looking our worst.
 linkedinId: nicholasng
 
 ---

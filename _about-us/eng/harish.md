@@ -1,19 +1,19 @@
 ---
-title: Venkatesan, Harish
+title: Harish
 permalink: /aboutus/eng/harish
-description: "Venkatesan, Harish - Job Title"
+description: "Harish - Job Title"
 third_nav_title: Software Engineering
 staffId: harish
-name: Venkatesan, Harish
-joinDate: 1970-01-01
+name: Harish
+joinDate: February 6, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1ggybYFe32Cth1HftR-VYQ3OOQixLI-Y417rHSmVLOrA/edit
 pastProducts:
   - pastProducts
-accomplishments: ""
-quote: Being part of a family means smiling for photos.
+accomplishments: Isomer
+quote: The memories we make with our family is everything.
 linkedinId: harish
 
 ---

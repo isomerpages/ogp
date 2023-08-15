@@ -1,19 +1,19 @@
 ---
-title: Bowes, Benjamin
+title: Ben
 permalink: /aboutus/design/benjamin
-description: "Bowes, Benjamin - Job Title"
+description: "Ben - Job Title"
 third_nav_title: Product Design
 staffId: benjamin
-name: Bowes, Benjamin
-joinDate: 1970-01-01
+name: Ben
+joinDate: January 4, 2022
 functionId: design
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1k8949dNUC-AfITJ4U4gexavxJBj1W_X9J_L53mygw7E/editt
 pastProducts:
-  - pastProducts
+  - Head of Product Design
 accomplishments: ""
-quote: Families are like fudge – mostly sweet with a few nuts.
+quote: Nothing is better than going home to family and eating good food and relaxing
 linkedinId: benjamin
 
 ---

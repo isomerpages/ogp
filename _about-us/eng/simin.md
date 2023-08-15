@@ -1,20 +1,19 @@
 ---
-title: Ong, Si Min
+title: Si Min
 permalink: /aboutus/eng/simin
-description: "Ong, Si Min - Job Title"
+description: "Si Min - Job Title"
 third_nav_title: Software Engineering
 staffId: simin
-name: Ong, Si Min
-joinDate: 1970-01-01
+name: Si Min
+joinDate: July 17, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - i'm new, watch this space!
 pastProducts:
-  - pastProducts
+  - ActiveSG
 accomplishments: ""
-quote: The informality of family life is a blessed condition that allows us all
-  to become our best while looking our worst.
+quote: Family is not an important thing. It’s everything.
 linkedinId: simin
 
 ---

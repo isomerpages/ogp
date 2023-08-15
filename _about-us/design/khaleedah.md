@@ -1,20 +1,23 @@
 ---
-title: Sairi, Khaleedah
+title: Khaleedah
 permalink: /aboutus/design/khaleedah
-description: "Sairi, Khaleedah - Job Title"
+description: "Khaleedah - Job Title"
 third_nav_title: Product Design
 staffId: khaleedah
-name: Sairi, Khaleedah
-joinDate: 2021-12-07
+name: Khaleedah
+joinDate: July 12, 2021
 functionId: design
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1LaBY_m4fg7BMAahQE0tRfIg5mN3uLNkvaZZ5ogg_-2k/edit
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: Stick to the basics, hold on to your family and friends – they will never
-  go out of fashion.
+  - Scamshield
+accomplishments: |-
+  * Zendemic comms
+  * AskGov
+  * Petitions
+  * Postman
+quote: It didn’t matter how big our house was; it mattered that there was love in it.
 linkedinId: khaleedah
 
 ---

@@ -1,19 +1,29 @@
 ---
-title: s/o Abdul Samad, Arshad Ali
+title: Arshad
 permalink: /aboutus/eng/arshad
-description: "s/o Abdul Samad, Arshad Ali - Job Title"
+description: "Arshad - Job Title"
 third_nav_title: Software Engineering
 staffId: arshad
-name: s/o Abdul Samad, Arshad Ali
-joinDate: 1970-01-01
+name: Arshad
+joinDate: December 13, 2018
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1YJjhQ6GJtesAlRHSDuIAT-aw20zRzJ_wISXcD7YVFEQ/edit?usp=drive_link
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: Treat your family like friends and your friends like family.
+  - AskGov
+accomplishments: |-
+  * Data.gov
+  * eDOT
+  * Endemic Ops
+  * FormSG
+  * Okay/Not Okay
+  * Product
+  * ResolveSG
+  * Send
+  * Vault
+quote: The bond that links your true family is not one of blood, but of respect
+  and joy in each other’s life.
 linkedinId: arshad
 
 ---

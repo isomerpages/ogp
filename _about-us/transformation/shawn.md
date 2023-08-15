@@ -1,20 +1,24 @@
 ---
-title: Ten, Shawn
+title: Shawn
 permalink: /aboutus/transformation/shawn
-description: "Ten, Shawn - Job Title"
+description: "Shawn - Job Title"
 third_nav_title: Partnerships & Transformation
 staffId: shawn
-name: Ten, Shawn
-joinDate: 1970-01-01
+name: Shawn
+joinDate: July 29, 2021
 functionId: transformation
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1pwzwol3H-yW8LzZEaj628MRGA-3ibqQ-04CMjdDeHBQ/edit
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: In family life, love is the oil that eases friction, the cement that
-  binds closer together, and the music that brings harmony.
+  - Policy & Transformation
+accomplishments: |-
+  * Care360
+  * Healthtech
+  * Policy
+  * Partnerships
+quote: The bond that links your true family is not one of blood, but of respect
+  and joy in each other’s life.
 linkedinId: shawn
 
 ---

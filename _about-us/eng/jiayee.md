@@ -1,19 +1,19 @@
 ---
-title: Lim, Jia Yee
+title: Jiayee
 permalink: /aboutus/eng/jiayee
-description: "Lim, Jia Yee - Job Title"
+description: "Jiayee - Job Title"
 third_nav_title: Software Engineering
 staffId: jiayee
-name: Lim, Jia Yee
-joinDate: 1970-01-01
+name: Jiayee
+joinDate: June 5, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1OTdc0h_AZlhDBAsRcbzLw03m6yJBVD8DzK_dFSK6DT0/edit#heading=h.q9g0durbss53
 pastProducts:
   - pastProducts
 accomplishments: ""
-quote: I didn’t give you the gift of life, but life gave me the gift of you.
+quote: Family and friendships are two of the greatest facilitators of happiness.
 linkedinId: jiayee
 
 ---

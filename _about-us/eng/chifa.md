@@ -1,19 +1,19 @@
 ---
-title: Foo, Chi Fa
+title: Chi Fa
 permalink: /aboutus/eng/chifa
-description: "Foo, Chi Fa - Job Title"
+description: "Chi Fa - Job Title"
 third_nav_title: Software Engineering
 staffId: chifa
-name: Foo, Chi Fa
-joinDate: 1970-01-01
+name: Chi Fa
+joinDate: November 28, 2022
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1lbiTt1wetQIXMfGDAYqGy9k6x_SW1ty3ZXG5ODfXUYo/edit
 pastProducts:
-  - pastProducts
+  - FormSG
 accomplishments: ""
-quote: We may have our differences, but nothing’s more important than family.
+quote: Being part of a family means smiling for photos.
 linkedinId: chifa
 
 ---

@@ -1,19 +1,19 @@
 ---
-title: Oh, Chin Yang
+title: Chin Yang
 permalink: /aboutus/eng/chinyang
-description: "Oh, Chin Yang - Job Title"
+description: "Chin Yang - Job Title"
 third_nav_title: Software Engineering
 staffId: chinyang
-name: Oh, Chin Yang
-joinDate: 2023-06-03
+name: Chin Yang
+joinDate: March 6, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1yqkQWss1fzmKUA4CfQnqZXdTJ5iyNUH1O9IDJqN5kzg/edit#heading=h.q9g0durbss53
 pastProducts:
   - pastProducts
-accomplishments: ""
-quote: Other things may change us, but we start and end with the family.
+accomplishments: Pair
+quote: Family is family.
 linkedinId: chinyang
 
 ---

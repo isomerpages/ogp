@@ -1,19 +1,20 @@
 ---
-title: Le Thanh, Dat
+title: Dat
 permalink: /aboutus/eng/dat
-description: "Le Thanh, Dat - Job Title"
+description: "Dat - Job Title"
 third_nav_title: Software Engineering
 staffId: dat
-name: Le Thanh, Dat
-joinDate: 1970-01-01
+name: Dat
+joinDate: June 20, 2022
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1e3m66uF9LhBc0PeiLpSUjfQRolrP8B8gkInWJv645GQ/edit
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: The memories we make with our family is everything.
+  - go.gov.sg
+accomplishments: "* Pouch"
+quote: There is no doubt that it is around the family and the home that all the
+  greatest virtues… are created, strengthened and maintained.
 linkedinId: dat
 
 ---

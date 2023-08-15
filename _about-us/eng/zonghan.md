@@ -1,20 +1,19 @@
 ---
-title: Ho, Zong Han
+title: Zong Han
 permalink: /aboutus/eng/zonghan
-description: "Ho, Zong Han - Job Title"
+description: "Zong Han - Job Title"
 third_nav_title: Software Engineering
 staffId: zonghan
-name: Ho, Zong Han
-joinDate: 1970-01-01
+name: Zong Han
+joinDate: July 17, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
   - currentProducts
 pastProducts:
   - pastProducts
-accomplishments: ""
-quote: Families are the compass that guides us. They are the inspiration to
-  reach great heights, and our comfort when we occasionally falter.
+accomplishments: "* CalSG"
+quote: Other things may change us, but we start and end with the family.
 linkedinId: zonghan
 
 ---

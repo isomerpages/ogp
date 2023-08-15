@@ -1,19 +1,19 @@
 ---
-title: Hsu, Zhong Jun
+title: Zhong Jun
 permalink: /aboutus/eng/zhongjun
-description: "Hsu, Zhong Jun - Job Title"
+description: "Zhong Jun - Job Title"
 third_nav_title: Software Engineering
 staffId: zhongjun
-name: Hsu, Zhong Jun
-joinDate: 2022-08-08
+name: Zhong Jun
+joinDate: July 17, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1WFrcc8e8EV5i1SraUPcwLzeKQxepSlkYEPNNB1vFXoY/edit#heading=h.q9g0durbss53
 pastProducts:
   - pastProducts
-accomplishments: ""
-quote: When trouble comes, it’s your family that supports you.
+accomplishments: "* Isomer"
+quote: Family is the heart of a home.
 linkedinId: zhongjun
 
 ---

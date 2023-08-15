@@ -1,20 +1,21 @@
 ---
-title: Chia Hup Peng, Fabian
+title: Fabian
 permalink: /aboutus/eng/fabian
-description: "Chia Hup Peng, Fabian - Job Title"
+description: "Fabian - Job Title"
 third_nav_title: Software Engineering
 staffId: fabian
-name: Chia Hup Peng, Fabian
-joinDate: 2022-04-07
+name: Fabian
+joinDate: July 4, 2022
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1DBaVJJWWi64T1FTSEFWlxcrZzTMbUWnLX0JBcyFfqK8/edit
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: It’s all about the quality of life and finding a happy balance between
-  work and friends and family.
+  - Redeem
+accomplishments: |-
+  * ParkingSG
+  * PaySG
+quote: Family is not defined by our genes, it is built and maintained through love.
 linkedinId: fabian
 
 ---

@@ -1,19 +1,24 @@
 ---
-title: Chia, Clement
+title: Clement
 permalink: /aboutus/ops/clement
-description: "Chia, Clement - Job Title"
+description: "Clement - Job Title"
 third_nav_title: Product Operations
 staffId: clement
-name: Chia, Clement
-joinDate: 1970-01-01
+name: Clement
+joinDate: July 4, 2022
 functionId: ops
 jobTitle: Job Title
 curProducts:
   - currentProducts
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: Family and friendships are two of the greatest facilitators of happiness.
+  - go.gov.sg
+accomplishments: |-
+  * WizGov
+  * Highway
+  * HealthTech Sprint
+  * Isomer Project Pancake
+  * MindCraft
+quote: The family is one of nature’s masterpieces.
 linkedinId: clement
 
 ---

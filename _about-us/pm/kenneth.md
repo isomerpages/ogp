@@ -1,19 +1,26 @@
 ---
-title: Sng, Kenneth
+title: Kenneth Sng
 permalink: /aboutus/pm/kenneth
-description: "Sng, Kenneth - Job Title"
+description: "Kenneth Sng - Job Title"
 third_nav_title: Product Management
 staffId: kenneth
-name: Sng, Kenneth
-joinDate: 1970-01-01
+name: Kenneth Sng
+joinDate: August 2, 2021
 functionId: pm
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1IKUneJq8Lfgw8NgLeIi9yGNSkB5W_wCPooVvU3F_pwI/edit
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: I didn’t give you the gift of life, but life gave me the gift of you.
+  - Primary Care
+accomplishments: |-
+  * Policy
+  * Covid Operations
+  * Healthtech
+  * FormSG
+  * HAS
+  * Crackdown
+quote: "Call it a clan, call it a network, call it a tribe, call it a family:
+  Whatever you call it, whoever you are, you need one."
 linkedinId: kenneth
 
 ---

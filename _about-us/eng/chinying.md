@@ -1,20 +1,24 @@
 ---
-title: Seah, Chin Ying
+title: Chin Ying
 permalink: /aboutus/eng/chinying
-description: "Seah, Chin Ying - Job Title"
+description: "Chin Ying - Job Title"
 third_nav_title: Software Engineering
 staffId: chinying
-name: Seah, Chin Ying
-joinDate: 19/11/2018
+name: Chin Ying
+joinDate: November 19, 2018
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1bOPHy3IzlL0hzBfxS4Gs-nsi4FNJIBx-thhoUg2djpQ/editt
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: The family is the test of freedom; because the family is the only thing
-  that the free man makes for himself and by himself.
+  - Scamtech
+accomplishments: |-
+  * Postman
+  * Covid Ops
+  * Scamshield
+  * Healthcare
+  * Scamtech
+quote: I didn’t give you the gift of life, but life gave me the gift of you.
 linkedinId: chinying
 
 ---

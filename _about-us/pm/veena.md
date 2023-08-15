@@ -1,20 +1,21 @@
 ---
-title: Rao, Anavatti Veena
+title: Veena
 permalink: /aboutus/pm/veena
-description: "Rao, Anavatti Veena - Job Title"
+description: "Veena - Job Title"
 third_nav_title: Product Management
 staffId: veena
-name: Rao, Anavatti Veena
-joinDate: 1970-01-01
+name: Veena
+joinDate: June 6, 2022
 functionId: pm
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/11-91oqltcmFQ479cx99BzhmlBPv_NgaDuyH3gHJO7n8/edit
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: It’s all about the quality of life and finding a happy balance between
-  work and friends and family.
+  - NLB Seed Team
+  - SGID
+accomplishments: "* CorpTech"
+quote: Stick to the basics, hold on to your family and friends – they will never
+  go out of fashion.
 linkedinId: veena
 
 ---

@@ -1,20 +1,20 @@
 ---
-title: Shi, Hui Ling
+title: Hui Ling
 permalink: /aboutus/eng/huiling
-description: "Shi, Hui Ling - Job Title"
+description: "Hui Ling - Job Title"
 third_nav_title: Software Engineering
 staffId: huiling
-name: Shi, Hui Ling
-joinDate: 1970-01-01
+name: Hui Ling
+joinDate: April 24, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
   - currentProducts
 pastProducts:
   - pastProducts
-accomplishments: ""
-quote: "Blended families: woven together by choice, strengthened together by
-  love, tested by everything, and each uniquely ours."
+accomplishments: "* Care360"
+quote: The bond that links your true family is not one of blood, but of respect
+  and joy in each other’s life.
 linkedinId: huiling
 
 ---

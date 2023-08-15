@@ -1,19 +1,20 @@
 ---
-title: Loh, Benjamin
+title: Benjamin Loh
 permalink: /aboutus/eng/benjaminloh
-description: "Loh, Benjamin - Job Title"
+description: "Benjamin Loh - Job Title"
 third_nav_title: Software Engineering
 staffId: benjaminloh
-name: Loh, Benjamin
-joinDate: 1970-01-01
+name: Benjamin Loh
+joinDate: November 28, 2022
 functionId: eng
 jobTitle: Job Title
 curProducts:
   - currentProducts
 pastProducts:
-  - pastProducts
+  - Primary Care
 accomplishments: ""
-quote: Where there is family, there is love.
+quote: In family life, love is the oil that eases friction, the cement that
+  binds closer together, and the music that brings harmony.
 linkedinId: benjaminloh
 
 ---

@@ -1,19 +1,31 @@
 ---
-title: Koh, Samuel
+title: Samuel
 permalink: /aboutus/ops/samuel
-description: "Koh, Samuel - Job Title"
+description: "Samuel - Job Title"
 third_nav_title: Product Operations
 staffId: samuel
-name: Koh, Samuel
-joinDate: 1970-01-01
+name: Samuel
+joinDate: October 4, 2021
 functionId: ops
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/19EmT0ljXaGUgcSw0i5_jn0nodYB57VRL8FcJJuQUTc0/edit
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: Happiness is having a large, loving, caring, close-knit family in another city.
+  - Head of Product Operations
+accomplishments: |-
+  
+  * Endemic Ops
+  * Postman
+  * Healthtech
+  * Isomer
+  * Go.gov.sg
+  * Scamtech
+  * Sync
+  * CorpTech
+  * sgID
+  * Scamshield
+quote: It’s all about the quality of life and finding a happy balance between
+  work and friends and family.
 linkedinId: samuel
 
 ---

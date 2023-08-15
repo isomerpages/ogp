@@ -1,20 +1,19 @@
 ---
-title: Damodaran, Hanu
+title: Hanu
 permalink: /aboutus/eng/hanu
-description: "Damodaran, Hanu - Job Title"
+description: "Hanu - Job Title"
 third_nav_title: Software Engineering
 staffId: hanu
-name: Damodaran, Hanu
-joinDate: 27/02/2023
+name: Hanu
+joinDate: February 27, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1bHzhW76RIe0Z_W467lH19ADjYFp8JOasfG7Lg17yomg/edit
 pastProducts:
-  - pastProducts
+  - Phonebook
 accomplishments: ""
-quote: Our family is a circle of strength of love with every birth and every
-  union the circle grows.
+quote: Ohana means family and family means nobody gets left behind or forgotten.
 linkedinId: hanu
 
 ---

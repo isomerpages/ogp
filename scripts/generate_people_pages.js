@@ -4,6 +4,8 @@ import { parse } from 'csv-parse';
 import { promisify } from 'util';
 import _ from 'lodash';
 import YAML from 'yaml';
+import { glob } from 'glob'
+
 
 const parseAsync = promisify(parse)
 
@@ -95,8 +97,15 @@ const records = (await parseAsync(csvContent, {bom: true})).slice(1) // drop hea
 
 let quoteIndex = 0
 
+// 0 remove all user files to stick to the list exclusively
+// all js files, but don't look in node_modules
+const staffFiles = await glob(`${TARGET_ABOUT_US_COLLECTION_DIR}/*/*.md`)
+
+await Promise.all(staffFiles.filter(file => !/all.md$/.test(file)).map(file => unlink(file)))
+
+
 // 1 generate the data file
-const namedRecords = records.map(([name, joinDate, email, func, jobTitle, curProducts, pastProducts, accomplishments, quote, linkedinId]) => {
+const namedRecords = records.map(([_sn, _done, _batch, _by, name, email, func, jobTitle, joinDate, quote, linkedinId, curProducts, pastProducts, accomplishments]) => {
     const id = email.split('@')[0].toLowerCase();
 
     const record = {

@@ -1,19 +1,20 @@
 ---
-title: Lee, Siu Hei
+title: Brian
 permalink: /aboutus/pm/brianlee
-description: "Lee, Siu Hei - Job Title"
+description: "Brian - Job Title"
 third_nav_title: Product Management
 staffId: brianlee
-name: Lee, Siu Hei
-joinDate: 20/03/2023
+name: Brian
+joinDate: March 20, 2023
 functionId: pm
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1b9hrFWRtxFPjQRfT7JF3kJOYNqr5WXwo-gBkLSL8G8U/edit
 pastProducts:
-  - pastProducts
+  - NLB
 accomplishments: ""
-quote: Family and friends are hidden treasures, seek them and enjoy their riches.
+quote: Having somewhere to go is home. Having someone to love is family. And
+  having both is a blessing.
 linkedinId: brianlee
 
 ---

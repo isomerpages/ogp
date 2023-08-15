@@ -1,19 +1,19 @@
 ---
-title: Xie, Qilu
+title: Qilu
 permalink: /aboutus/eng/qilu
-description: "Xie, Qilu - Job Title"
+description: "Qilu - Job Title"
 third_nav_title: Software Engineering
 staffId: qilu
-name: Xie, Qilu
-joinDate: 2023-06-02
+name: Qilu
+joinDate: February 6, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://www.notion.so/opengov/Qilu-s-Working-Document-87e007f992634275b07b59a6347e5759
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: The family is one of nature’s masterpieces.
+  - Isomer
+accomplishments: "* Isomer"
+quote: I didn’t give you the gift of life, but life gave me the gift of you.
 linkedinId: qilu
 
 ---

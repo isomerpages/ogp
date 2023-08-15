@@ -1,20 +1,20 @@
 ---
-title: Bin Shahril Shintaro, Muhammad Shazli
+title: Shazli
 permalink: /aboutus/ops/shazli
-description: "Bin Shahril Shintaro, Muhammad Shazli - Job Title"
+description: "Shazli - Job Title"
 third_nav_title: Product Operations
 staffId: shazli
-name: Bin Shahril Shintaro, Muhammad Shazli
-joinDate: 1970-01-01
+name: Shazli
+joinDate: May 30, 2022
 functionId: ops
 jobTitle: Job Title
 curProducts:
   - currentProducts
 pastProducts:
-  - pastProducts
+  - Marketing
+  - Isomer
 accomplishments: ""
-quote: The informality of family life is a blessed condition that allows us all
-  to become our best while looking our worst.
+quote: A happy family is but an earlier heaven.
 linkedinId: shazli
 
 ---

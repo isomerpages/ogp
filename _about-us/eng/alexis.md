@@ -1,19 +1,27 @@
 ---
-title: Goh, Weiying
+title: Alexis
 permalink: /aboutus/eng/alexis
-description: "Goh, Weiying - Job Title"
+description: "Alexis - Job Title"
 third_nav_title: Software Engineering
 staffId: alexis
-name: Goh, Weiying
-joinDate: 29/06/2020
+name: Alexis
+joinDate: June 29, 2020
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://www.notion.so/opengov/Alexis-Working-Document-46583fa1216243e681596872e39e94c6
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: Family is the heart of a home.
+  - go.gov.sg
+accomplishments: |-
+  * Homer
+  * Isomer
+  * CheckFirst
+  * OGP-Singhealth
+  * Healthcare
+  * CheckWho
+  * Pouch
+quote: There is no doubt that it is around the family and the home that all the
+  greatest virtues… are created, strengthened and maintained.
 linkedinId: alexis
 
 ---

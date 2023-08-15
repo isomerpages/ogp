@@ -1,19 +1,19 @@
 ---
-title: Yak, Kian Feng
+title: Richard
 permalink: /aboutus/eng/richardyak
-description: "Yak, Kian Feng - Job Title"
+description: "Richard - Job Title"
 third_nav_title: Software Engineering
 staffId: richardyak
-name: Yak, Kian Feng
-joinDate: 1970-01-01
+name: Richard
+joinDate: October 3, 2022
 functionId: eng
 jobTitle: Job Title
 curProducts:
   - currentProducts
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: In time of test, family is best.
+  - Phonebook
+accomplishments: "* Postman"
+quote: Family and friendships are two of the greatest facilitators of happiness.
 linkedinId: richardyak
 
 ---

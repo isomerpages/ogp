@@ -1,19 +1,19 @@
 ---
-title: Leong, EnYi
+title: Enyi
 permalink: /aboutus/eng/enyi
-description: "Leong, EnYi - Job Title"
+description: "Enyi - Job Title"
 third_nav_title: Software Engineering
 staffId: enyi
-name: Leong, EnYi
-joinDate: 1970-01-01
+name: Enyi
+joinDate: January 3, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
   - currentProducts
 pastProducts:
-  - pastProducts
+  - Primary Care
 accomplishments: ""
-quote: A happy family is but an earlier heaven.
+quote: Treat your family like friends and your friends like family.
 linkedinId: enyi
 
 ---

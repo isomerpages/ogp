@@ -1,19 +1,20 @@
 ---
-title: Tee, May Ying
+title: May Ying
 permalink: /aboutus/eng/mayying
-description: "Tee, May Ying - Job Title"
+description: "May Ying - Job Title"
 third_nav_title: Software Engineering
 staffId: mayying
-name: Tee, May Ying
-joinDate: 1970-01-01
+name: May Ying
+joinDate: May 29, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1BvoUahzGsux6wDXg0XV_JBqblURBJF7ZktdBqyxtXVU/edit
 pastProducts:
   - pastProducts
-accomplishments: ""
-quote: To us, family means putting your arms around each other and being there.
+accomplishments: Forms
+quote: It’s all about the quality of life and finding a happy balance between
+  work and friends and family.
 linkedinId: mayying
 
 ---

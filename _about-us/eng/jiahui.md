@@ -1,0 +1,24 @@
+---
+title: Jia Hui
+permalink: /aboutus/eng/jiahui
+description: "Jia Hui - Job Title"
+third_nav_title: Software Engineering
+staffId: jiahui
+name: Jia Hui
+joinDate: September 6, 2021
+functionId: eng
+jobTitle: Job Title
+curProducts:
+  - currentProducts
+pastProducts:
+  - Corporate Operations
+accomplishments: |-
+  * Onboarding experience
+  * Workplace
+quote: The only rock I know that stays steady, the only institution I know that
+  works, is the family.
+linkedinId: jiahui
+
+---
+
+{% include staff.html staff=page color=site.colors.function-colors.eng %}

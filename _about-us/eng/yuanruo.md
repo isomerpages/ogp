@@ -1,20 +1,26 @@
 ---
-title: Liang, Yuanruo
+title: Yuanruo
 permalink: /aboutus/eng/yuanruo
-description: "Liang, Yuanruo - Job Title"
+description: "Yuanruo - Job Title"
 third_nav_title: Software Engineering
 staffId: yuanruo
-name: Liang, Yuanruo
-joinDate: 2019-01-07
+name: Yuanruo
+joinDate: July 1, 2019
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/136pdU-Yh0SPzzKQzBSOyCpfVr1Immw67IsfXNUoFC4w/edit#heading=h.67r1vonx6odq
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: There is no doubt that it is around the family and the home that all the
-  greatest virtues… are created, strengthened and maintained.
+  - SGID
+  - Plumber
+accomplishments: |-
+  * Temperature
+  * Go.gov.sg
+  * FormSG
+  * CorpTech
+  * Scamtech
+quote: This is my family. I found it all on my own. It’s little, and broken, but
+  still good. Yeah. Still good.
 linkedinId: yuanruo
 
 ---

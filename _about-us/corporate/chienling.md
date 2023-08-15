@@ -1,19 +1,25 @@
 ---
-title: Ang, Chien Ling
+title: Chien Ling
 permalink: /aboutus/corporate/chienling
-description: "Ang, Chien Ling - Job Title"
+description: "Chien Ling - Job Title"
 third_nav_title: Corporate Team
 staffId: chienling
-name: Ang, Chien Ling
-joinDate: 2021-10-08
+name: Chien Ling
+joinDate: August 10, 2021
 functionId: corporate
 jobTitle: Job Title
 curProducts:
   - currentProducts
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: The most important thing in the world is family and love.
+  - People Team
+accomplishments: |-
+  * Covid-19 vaccination operations
+  * OGP hiring
+  * Internship programmes
+  * HR operations and governance
+  * Team communications
+quote: Families are the compass that guides us. They are the inspiration to
+  reach great heights, and our comfort when we occasionally falter.
 linkedinId: chienling
 
 ---

@@ -1,20 +1,20 @@
 ---
-title: Ong, Cheri
+title: Cheri
 permalink: /aboutus/eng/cheri
-description: "Ong, Cheri - Job Title"
+description: "Cheri - Job Title"
 third_nav_title: Software Engineering
 staffId: cheri
-name: Ong, Cheri
-joinDate: 1970-01-01
+name: Cheri
+joinDate: January 9, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1az8s7-K8tGuNvYvU4MAgVx8fjvAJmk2dlnn93vblt3U/edit#heading=h.3im1wk44qk3a
 pastProducts:
   - pastProducts
-accomplishments: ""
-quote: Being a family means you are a part of something very wonderful. It means
-  you will love and be loved for the rest of your life.
+accomplishments: "* Queue"
+quote: "Family: A social unit where the father is concerned with parking space,
+  the children with outer space, and the mother with closet space."
 linkedinId: cheri
 
 ---

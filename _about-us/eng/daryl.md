@@ -1,19 +1,22 @@
 ---
-title: Chan, Daryl
+title: Daryl
 permalink: /aboutus/eng/daryl
-description: "Chan, Daryl - Job Title"
+description: "Daryl - Job Title"
 third_nav_title: Software Engineering
 staffId: daryl
-name: Chan, Daryl
-joinDate: 2022-03-01
+name: Daryl
+joinDate: January 3, 2022
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1-vjDwIyZiXGNlhFe64rMvCWyjAE0ATvML9Iao6d2eCo/edit
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: Being part of a family means smiling for photos.
+  - Pixie
+accomplishments: |-
+  Care360
+  CorpTech
+  Healthtech
+quote: The most important thing in the world is family and love.
 linkedinId: daryl
 
 ---

@@ -1,20 +1,20 @@
 ---
-title: Hong Malcolm, Ong Guan
+title: Malcolm
 permalink: /aboutus/eng/malcolm
-description: "Hong Malcolm, Ong Guan - Job Title"
+description: "Malcolm - Job Title"
 third_nav_title: Software Engineering
 staffId: malcolm
-name: Hong Malcolm, Ong Guan
-joinDate: 1970-01-01
+name: Malcolm
+joinDate: July 17, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - i'm new, watch this space!
 pastProducts:
   - pastProducts
-accomplishments: ""
-quote: The only rock I know that stays steady, the only institution I know that
-  works, is the family.
+accomplishments: Plumber
+quote: Stick to the basics, hold on to your family and friends – they will never
+  go out of fashion.
 linkedinId: malcolm
 
 ---

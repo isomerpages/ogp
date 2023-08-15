@@ -1,20 +1,19 @@
 ---
-title: Ho Yun Fang, Shannen
+title: Shannen
 permalink: /aboutus/corporate/shannen
-description: "Ho Yun Fang, Shannen - Job Title"
+description: "Shannen - Job Title"
 third_nav_title: Corporate Team
 staffId: shannen
-name: Ho Yun Fang, Shannen
-joinDate: 1970-01-01
+name: Shannen
+joinDate: October 25, 2021
 functionId: corporate
 jobTitle: Job Title
 curProducts:
   - currentProducts
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: The bond that links your true family is not one of blood, but of respect
-  and joy in each other’s life.
+  - Marketing
+accomplishments: "* Build for Good 2023"
+quote: To us, family means putting your arms around each other and being there.
 linkedinId: shannen
 
 ---

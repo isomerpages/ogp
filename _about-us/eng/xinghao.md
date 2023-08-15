@@ -1,19 +1,20 @@
 ---
-title: Yang, XingHao
+title: Xing Hao
 permalink: /aboutus/eng/xinghao
-description: "Yang, XingHao - Job Title"
+description: "Xing Hao - Job Title"
 third_nav_title: Software Engineering
 staffId: xinghao
-name: Yang, XingHao
-joinDate: 1970-01-01
+name: Xing Hao
+joinDate: July 17, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - i'm new, watch this space!
 pastProducts:
   - pastProducts
 accomplishments: ""
-quote: Family and friendships are two of the greatest facilitators of happiness.
+quote: My family is my life, and everything else comes second as far as what’s
+  important to me.
 linkedinId: xinghao
 
 ---

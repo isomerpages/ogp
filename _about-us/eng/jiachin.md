@@ -1,19 +1,19 @@
 ---
-title: Er, Jia Chin
+title: Jia Chin
 permalink: /aboutus/eng/jiachin
-description: "Er, Jia Chin - Job Title"
+description: "Jia Chin - Job Title"
 third_nav_title: Software Engineering
 staffId: jiachin
-name: Er, Jia Chin
-joinDate: 2021-04-01
+name: Jia Chin
+joinDate: January 10, 2022
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1kG_4049xc6lU4HS0m4Fm5iXru4DNVBoExfzaAssR4rg/edit
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: I didn’t give you the gift of life, but life gave me the gift of you.
+  - Isomer
+accomplishments: "* Go.gov.sg"
+quote: Families are like fudge – mostly sweet with a few nuts.
 linkedinId: jiachin
 
 ---

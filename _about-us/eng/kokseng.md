@@ -1,19 +1,22 @@
 ---
-title: Chiew, Kok Seng
+title: Kok Seng
 permalink: /aboutus/eng/kokseng
-description: "Chiew, Kok Seng - Job Title"
+description: "Kok Seng - Job Title"
 third_nav_title: Software Engineering
 staffId: kokseng
-name: Chiew, Kok Seng
-joinDate: 1970-01-01
+name: Kok Seng
+joinDate: March 20, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/114d2QB6N3_60EjIwUduTDll-hk9mKmtyk_KcIleSKrA/edit
 pastProducts:
   - pastProducts
-accomplishments: ""
-quote: Family and friends are hidden treasures, seek them and enjoy their riches.
+accomplishments: |-
+  * sgID
+  * CalSG
+quote: The family – that dear octopus from whose tentacles we never quite
+  escape, nor, in our inmost hearts, ever quite wish to.
 linkedinId: kokseng
 
 ---

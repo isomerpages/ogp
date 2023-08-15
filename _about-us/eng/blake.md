@@ -1,20 +1,21 @@
 ---
-title: Gong, Blake
+title: Blake
 permalink: /aboutus/eng/blake
-description: "Gong, Blake - Job Title"
+description: "Blake - Job Title"
 third_nav_title: Software Engineering
 staffId: blake
-name: Gong, Blake
-joinDate: 1970-01-01
+name: Blake
+joinDate: June 13, 2022
 functionId: eng
 jobTitle: Job Title
 curProducts:
   - currentProducts
 pastProducts:
-  - pastProducts
+  - Tooling Team
 accomplishments: ""
-quote: The family – that dear octopus from whose tentacles we never quite
-  escape, nor, in our inmost hearts, ever quite wish to.
+quote: Think of your family today and every day thereafter, don’t let the busy
+  world of today keep you from showing how much you love and appreciate your
+  family.
 linkedinId: blake
 
 ---

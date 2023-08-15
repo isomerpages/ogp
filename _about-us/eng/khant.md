@@ -1,20 +1,19 @@
 ---
-title: Zaw, Khant
+title: Khant
 permalink: /aboutus/eng/khant
-description: "Zaw, Khant - Job Title"
+description: "Khant - Job Title"
 third_nav_title: Software Engineering
 staffId: khant
-name: Zaw, Khant
-joinDate: 1970-01-01
+name: Khant
+joinDate: May 9, 2022
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1DXhSZnsF9vtU1XfWxdCtI5aY45XUSalROZjOueut2Uo/edit
 pastProducts:
-  - pastProducts
+  - Vault
 accomplishments: ""
-quote: The family is the test of freedom; because the family is the only thing
-  that the free man makes for himself and by himself.
+quote: Family and friendships are two of the greatest facilitators of happiness.
 linkedinId: khant
 
 ---

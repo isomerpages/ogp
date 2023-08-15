@@ -1,20 +1,19 @@
 ---
-title: Leow, Hui Xuan
+title: Hui Xuan
 permalink: /aboutus/transformation/huixuan
-description: "Leow, Hui Xuan - Job Title"
+description: "Hui Xuan - Job Title"
 third_nav_title: Partnerships & Transformation
 staffId: huixuan
-name: Leow, Hui Xuan
-joinDate: 2022-04-07
+name: Hui Xuan
+joinDate: July 4, 2022
 functionId: transformation
 jobTitle: Job Title
 curProducts:
   - currentProducts
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: The family is the test of freedom; because the family is the only thing
-  that the free man makes for himself and by himself.
+  - Policy & Transformation
+accomplishments: "* IM8-CFA"
+quote: Family is the heart of a home.
 linkedinId: huixuan
 
 ---

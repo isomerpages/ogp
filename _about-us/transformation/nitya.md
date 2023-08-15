@@ -1,20 +1,21 @@
 ---
-title: Menon, Nitya
+title: Nitya
 permalink: /aboutus/transformation/nitya
-description: "Menon, Nitya - Job Title"
+description: "Nitya - Job Title"
 third_nav_title: Partnerships & Transformation
 staffId: nitya
-name: Menon, Nitya
-joinDate: 1970-01-01
+name: Nitya
+joinDate: February 28, 2022
 functionId: transformation
 jobTitle: Job Title
 curProducts:
   - currentProducts
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: The bond that links your true family is not one of blood, but of respect
-  and joy in each other’s life.
+  - Policy & Transformation
+accomplishments: |-
+  * OGP-DIS collaboration
+  * OGP Board of Advisors
+quote: Family is not an important thing. It’s everything.
 linkedinId: nitya
 
 ---

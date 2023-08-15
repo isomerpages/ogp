@@ -1,19 +1,21 @@
 ---
-title: Chong, Jason
+title: Jason
 permalink: /aboutus/eng/jason
-description: "Chong, Jason - Job Title"
+description: "Jason - Job Title"
 third_nav_title: Software Engineering
 staffId: jason
-name: Chong, Jason
-joinDate: 2020-11-05
+name: Jason
+joinDate: July 5, 2021
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
+  - https://docs.google.com/document/d/1yQNUv51JKHntG6h1Gm6jKLVU6ON1m8n9ioGLSCa7vpE/edit
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: A happy family is but an earlier heaven.
+  - PaySG
+accomplishments: |-
+  * RedeemSG
+  * HAS
+quote: To us, family means putting your arms around each other and being there.
 linkedinId: jason
 
 ---
