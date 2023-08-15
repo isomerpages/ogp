@@ -1,5 +1,5 @@
 ---
-title: Product Operations
+title: All
 permalink: /about-us/ops
 third_nav_title: Product Operations
 ---

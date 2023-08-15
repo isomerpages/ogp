@@ -1,5 +1,5 @@
 ---
-title: Partnerships & Transformation
+title: All
 permalink: /about-us/transformation
 third_nav_title: Partnerships & Transformation
 ---

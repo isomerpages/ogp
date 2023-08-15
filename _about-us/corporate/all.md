@@ -1,7 +1,7 @@
 ---
-title: Corporate team
+title: All
 permalink: /about-us/corporate
-third_nav_title: Corporate team
+third_nav_title: Corporate Team
 ---
 
 ## **Corporate Team**
