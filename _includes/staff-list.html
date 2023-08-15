@@ -23,10 +23,6 @@
             text-decoration: none;
         }
 
-        .staff-name {
-            font-weight: 600;
-        }
-
         .staff-pic {
             width: 190px;
             height: 162px;
@@ -40,10 +36,19 @@
             border-radius: 0 0 6px 6px;
             padding: 20px;
             text-align: left;
-            color: white;
+            color: black;
             line-height: 1.5;
+            background-color:#E9EAEE;
+            font-weight: 400;
         }
 
+        .staff-info:hover {
+            background-color:{{include.color}};
+        }
+
+        .staff-name {
+            font-weight: 600;
+        }
 
         @media only screen and (max-width: 600px) {
             .people {
@@ -57,7 +62,7 @@
     {% for staff in sorted %}
     <a class="staff" href="/aboutus/{{ staff.functionId }}/{{ staff.staffId }}">
         <div class="staff-pic" style="background-image:url(/images/headshots/{{ staff.staffId }}.jpg)"></div>
-        <div class="staff-info" style="background-color:{{include.color}}">
+        <div class="staff-info">
             <div class="staff-name">{{ staff.name }}</div>
             <div class="staff-title">{{ staff.jobTitle }}</div>
         </div>
