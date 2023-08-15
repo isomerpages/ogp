@@ -2,7 +2,6 @@ collections:
   our-products:
     output: true
     order:
-      - LetterSG.md
       - AskGov.md
       - CalSG.md
       - checkfirst.md
@@ -13,6 +12,7 @@ collections:
       - Health Appointment System.md
       - Highway.md
       - isomer.md
+      - LetterSG.md
       - Pair.md
       - parking-sg.md
       - paysg.md
