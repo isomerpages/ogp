@@ -21,7 +21,7 @@ accomplishments: >-
   * Helped the team with multiple ad hoc design requests for Go, a link shortener for the govt.
 quote: "Blended families: woven together by choice, strengthened together by
   love, tested by everything, and each uniquely ours."
-linkedinId: pranu
+linkedinId: ""
 
 ---
 

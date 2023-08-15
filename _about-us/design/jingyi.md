@@ -30,7 +30,7 @@ accomplishments: >-
   * Built flows and screens for Highway, and worked with engineering to rapidly develop a prototype, leading to interest from 6 government agencies
 quote: In family life, love is the oil that eases friction, the cement that
   binds closer together, and the music that brings harmony.
-linkedinId: jingyi
+linkedinId: ""
 
 ---
 

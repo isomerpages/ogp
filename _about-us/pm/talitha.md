@@ -26,7 +26,7 @@ accomplishments: >-
   * Inaugural product team for ParkingSG; Developed ParkingSG Product roadmap
 quote: The family is the test of freedom; because the family is the only thing
   that the free man makes for himself and by himself.
-linkedinId: talitha
+linkedinId: ""
 
 ---
 

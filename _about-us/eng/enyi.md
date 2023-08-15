@@ -14,7 +14,7 @@ pastProducts:
   - pastProducts
 accomplishments: ""
 quote: Treat your family like friends and your friends like family.
-linkedinId: enyi
+linkedinId: ""
 
 ---
 

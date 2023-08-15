@@ -14,7 +14,7 @@ pastProducts:
   - HAS
 accomplishments: i'm new, watch this space!
 quote: Family is not an important thing. It’s everything.
-linkedinId: angel
+linkedinId: ""
 
 ---
 

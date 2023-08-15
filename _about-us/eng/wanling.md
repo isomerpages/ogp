@@ -15,7 +15,7 @@ pastProducts:
 accomplishments: ""
 quote: The family is the test of freedom; because the family is the only thing
   that the free man makes for himself and by himself.
-linkedinId: wanling
+linkedinId: ""
 
 ---
 

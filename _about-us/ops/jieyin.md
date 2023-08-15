@@ -15,7 +15,7 @@ pastProducts:
 accomplishments: i'm new, watch this space!
 quote: "Family: A social unit where the father is concerned with parking space,
   the children with outer space, and the mother with closet space."
-linkedinId: jieyin
+linkedinId: ""
 
 ---
 

@@ -14,7 +14,7 @@ pastProducts:
   - Pair
 accomplishments: i'm new, watch this space!
 quote: Family is family.
-linkedinId: chinyang
+linkedinId: ""
 
 ---
 

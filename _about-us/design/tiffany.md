@@ -14,7 +14,7 @@ pastProducts:
   - i'm new, watch this space!
 accomplishments: i'm new, watch this space!
 quote: Life is beautiful. It’s about giving. It’s about family.
-linkedinId: tiffany
+linkedinId: ""
 
 ---
 

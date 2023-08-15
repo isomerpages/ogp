@@ -28,7 +28,7 @@ accomplishments: >-
   * Invested in my learning and growth of becoming a better writer
 quote: The informality of family life is a blessed condition that allows us all
   to become our best while looking our worst.
-linkedinId: shanty
+linkedinId: ""
 
 ---
 

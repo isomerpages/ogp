@@ -14,7 +14,7 @@ pastProducts:
   - Isomer
 accomplishments: i'm new, watch this space!
 quote: The memories we make with our family is everything.
-linkedinId: harish
+linkedinId: ""
 
 ---
 

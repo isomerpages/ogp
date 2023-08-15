@@ -22,7 +22,7 @@ accomplishments: >
 
   * Production incidents on-call for Covid-ops.
 quote: The most important thing in the world is family and love.
-linkedinId: daryl
+linkedinId: ""
 
 ---
 

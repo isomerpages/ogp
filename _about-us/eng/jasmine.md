@@ -21,7 +21,7 @@ accomplishments: >-
   * Part of team that built the critical Overlapping Financial Applications feature 
 quote: There is no doubt that it is around the family and the home that all the
   greatest virtues… are created, strengthened and maintained.
-linkedinId: jasmine
+linkedinId: ""
 
 ---
 

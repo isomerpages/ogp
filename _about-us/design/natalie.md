@@ -26,7 +26,7 @@ accomplishments: >-
 
   * Conducted user research on Covid-19 endemic comms measures and presented findings to senior government leadership to accelerate change in the government communication approach
 quote: Rejoice with your family in the beautiful land of life.
-linkedinId: natalie
+linkedinId: ""
 
 ---
 

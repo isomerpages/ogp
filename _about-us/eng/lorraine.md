@@ -15,7 +15,7 @@ pastProducts:
 accomplishments: i'm new, watch this space!
 quote: The only rock I know that stays steady, the only institution I know that
   works, is the family.
-linkedinId: lorraine
+linkedinId: ""
 
 ---
 

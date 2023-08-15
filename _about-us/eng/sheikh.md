@@ -24,7 +24,7 @@ accomplishments: >-
 
   * Migrated Pair into a more production ready setup.
 quote: When trouble comes, it’s your family that supports you.
-linkedinId: sheikh
+linkedinId: ""
 
 ---
 

@@ -14,7 +14,7 @@ pastProducts:
   - Go
 accomplishments: i'm new, watch this space!
 quote: To us, family means putting your arms around each other and being there.
-linkedinId: prakriti
+linkedinId: ""
 
 ---
 

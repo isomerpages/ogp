@@ -19,7 +19,7 @@ accomplishments: improved the accessibility of Forms for the visually impaired,
   be able to make SmartGov understand and answer specific queries relating to
   AIC
 quote: Being part of a family means smiling for photos.
-linkedinId: chifa
+linkedinId: ""
 
 ---
 

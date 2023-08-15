@@ -15,7 +15,7 @@ pastProducts:
 accomplishments: ""
 quote: Family ties mean that no matter how much you might want to run from your
   family, you can’t.
-linkedinId: christian
+linkedinId: ""
 
 ---
 

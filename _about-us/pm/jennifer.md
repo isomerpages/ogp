@@ -14,7 +14,7 @@ pastProducts:
   - pastProducts
 accomplishments: ""
 quote: I didn’t give you the gift of life, but life gave me the gift of you.
-linkedinId: jennifer
+linkedinId: ""
 
 ---
 

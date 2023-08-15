@@ -22,7 +22,7 @@ accomplishments: >-
 
   *   Finance sprint to consolidate and visualise finance data to track OGP expenditure by team
 quote: When trouble comes, it’s your family that supports you.
-linkedinId: joshua
+linkedinId: ""
 
 ---
 

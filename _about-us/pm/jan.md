@@ -15,7 +15,7 @@ pastProducts:
 accomplishments: ""
 quote: Our family is a circle of strength of love with every birth and every
   union the circle grows.
-linkedinId: jan
+linkedinId: ""
 
 ---
 

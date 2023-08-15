@@ -20,7 +20,7 @@ accomplishments: >-
 
   * Ensured compliance with CSA's requirement and working with OnePA
 quote: I didn’t give you the gift of life, but life gave me the gift of you.
-linkedinId: qilu
+linkedinId: ""
 
 ---
 

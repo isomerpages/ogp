@@ -17,7 +17,7 @@ pastProducts:
 accomplishments: ""
 quote: The informality of family life is a blessed condition that allows us all
   to become our best while looking our worst.
-linkedinId: nicholasng
+linkedinId: ""
 
 ---
 

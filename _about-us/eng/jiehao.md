@@ -23,7 +23,7 @@ accomplishments: >-
 
   * Created and ran a monthly OGP engineering sharing platform for technical learning and development across the organisation
 quote: We may have our differences, but nothing’s more important than family.
-linkedinId: jiehao
+linkedinId: ""
 
 ---
 

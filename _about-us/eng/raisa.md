@@ -20,7 +20,7 @@ accomplishments: >-
 
   * Developed initial backend architecture for hackathon project PinPoint 
 quote: We may have our differences, but nothing’s more important than family.
-linkedinId: raisa
+linkedinId: ""
 
 ---
 

@@ -33,7 +33,7 @@ accomplishments: >-
   * Built up the HealthTech vertical by hiring engineers and managers into the team.
 quote: Stick to the basics, hold on to your family and friends – they will never
   go out of fashion.
-linkedinId: keewei
+linkedinId: ""
 
 ---
 

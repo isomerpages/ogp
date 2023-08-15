@@ -21,7 +21,7 @@ accomplishments: >-
   * Helped simplify government senderID registration processes using Postman.gov.sg
 quote: This is my family. I found it all on my own. It’s little, and broken, but
   still good. Yeah. Still good.
-linkedinId: hygin
+linkedinId: ""
 
 ---
 

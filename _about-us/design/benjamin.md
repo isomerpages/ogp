@@ -20,7 +20,7 @@ accomplishments: >-
 
   * Provided product leadership and direction to co-lead Armoury during HFPG'23
 quote: Nothing is better than going home to family and eating good food and relaxing
-linkedinId: benjamin
+linkedinId: ""
 
 ---
 

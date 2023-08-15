@@ -14,7 +14,7 @@ pastProducts:
   - pastProducts
 accomplishments: i'm new, watch this space!
 quote: Family gives you the roots to stand tall and strong.
-linkedinId: wenjia
+linkedinId: ""
 
 ---
 

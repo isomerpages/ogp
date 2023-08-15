@@ -14,7 +14,7 @@ pastProducts:
   - Isomer
 accomplishments: i'm new, watch this space!
 quote: Family is the heart of a home.
-linkedinId: zhongjun
+linkedinId: ""
 
 ---
 

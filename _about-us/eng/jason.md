@@ -20,7 +20,7 @@ accomplishments: >-
 
   * Established front-end coding standards for RedeemSG
 quote: To us, family means putting your arms around each other and being there.
-linkedinId: jason
+linkedinId: ""
 
 ---
 

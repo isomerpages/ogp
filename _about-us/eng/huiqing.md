@@ -14,7 +14,7 @@ pastProducts:
   - pastProducts
 accomplishments: i'm new, watch this space!
 quote: Rejoice with your family in the beautiful land of life.
-linkedinId: huiqing
+linkedinId: ""
 
 ---
 

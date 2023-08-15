@@ -22,7 +22,7 @@ accomplishments: >-
 
   * Integrated merchants into RedeemSG
 quote: Some people are worth melting for.
-linkedinId: kevan
+linkedinId: ""
 
 ---
 

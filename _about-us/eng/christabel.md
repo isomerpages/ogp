@@ -23,7 +23,7 @@ accomplishments: >-
 
   * Managed nominal roll processing and SMS campaigns for Covid-19 vaccination appointment operations 
 quote: Family is not defined by our genes, it is built and maintained through love.
-linkedinId: christabel
+linkedinId: ""
 
 ---
 

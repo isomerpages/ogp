@@ -17,7 +17,7 @@ pastProducts:
 accomplishments: i'm new, watch this space!
 quote: Families are the compass that guides us. They are the inspiration to
   reach great heights, and our comfort when we occasionally falter.
-linkedinId: clifford
+linkedinId: ""
 
 ---
 

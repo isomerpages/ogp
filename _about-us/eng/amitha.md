@@ -14,7 +14,7 @@ pastProducts:
   - CorpOps
 accomplishments: i'm new, watch this space!
 quote: Where there is family, there is love.
-linkedinId: amitha
+linkedinId: ""
 
 ---
 

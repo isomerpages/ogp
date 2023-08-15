@@ -26,7 +26,7 @@ accomplishments: >-
 
   * Planned and ran various government sharings (>1300 attendees) on OGP products to significantly increase product adoption across the rest of government. 
 quote: Family gives you the roots to stand tall and strong.
-linkedinId: jackson
+linkedinId: ""
 
 ---
 

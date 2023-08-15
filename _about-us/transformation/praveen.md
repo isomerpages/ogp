@@ -20,7 +20,7 @@ accomplishments: >-
   * Expanded the use of HealthTech products with stakeholders and users (e.g. Queue with SAF and MediPay/IRMS with MOH)
 quote: knowing that every day we change government one happy interaction, one
   line of code, one $ saved at a time
-linkedinId: praveen
+linkedinId: ""
 
 ---
 

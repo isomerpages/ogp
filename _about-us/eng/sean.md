@@ -14,7 +14,7 @@ pastProducts:
   - pastProducts
 accomplishments: ""
 quote: Family and friends are hidden treasures, seek them and enjoy their riches.
-linkedinId: sean
+linkedinId: ""
 
 ---
 

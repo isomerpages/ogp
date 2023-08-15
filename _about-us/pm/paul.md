@@ -22,7 +22,7 @@ accomplishments: >
   planning to use Purpose Bound Money (PBM), Scoped out Multi-Bank Payouts for
   RedeemSG, did a mentorship.
 quote: To us, family means putting your arms around each other and being there.
-linkedinId: paul
+linkedinId: ""
 
 ---
 

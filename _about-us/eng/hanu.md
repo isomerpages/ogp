@@ -14,7 +14,7 @@ pastProducts:
   - pastProducts
 accomplishments: i'm new, watch this space!
 quote: Ohana means family and family means nobody gets left behind or forgotten.
-linkedinId: hanu
+linkedinId: ""
 
 ---
 

@@ -21,7 +21,7 @@ accomplishments: >-
 
   * Overhauled OGP's employment letter templates for greater operational efficiency and clarity
 quote: It didn’t matter how big our house was; it mattered that there was love in it.
-linkedinId: joanna
+linkedinId: ""
 
 ---
 

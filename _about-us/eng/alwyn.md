@@ -32,7 +32,7 @@ accomplishments: >-
 
   * DevRelations POC for OGP in numerous events including NUS LifeHack, Build for Good & Tech for Public Good
 quote: A happy family is but an earlier heaven.
-linkedinId: alwyn
+linkedinId: ""
 
 ---
 

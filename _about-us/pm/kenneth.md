@@ -26,7 +26,7 @@ accomplishments: >-
   * Launched Crackdown, a tech solution to help HDB with housing policy enforcement
 quote: "Call it a clan, call it a network, call it a tribe, call it a family:
   Whatever you call it, whoever you are, you need one."
-linkedinId: kenneth
+linkedinId: ""
 
 ---
 

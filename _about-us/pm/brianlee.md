@@ -18,7 +18,7 @@ accomplishments: >-
   * Built relationships with stakeholders in NLB to understand operations and difficulties on the ground
 quote: Having somewhere to go is home. Having someone to love is family. And
   having both is a blessing.
-linkedinId: brianlee
+linkedinId: ""
 
 ---
 

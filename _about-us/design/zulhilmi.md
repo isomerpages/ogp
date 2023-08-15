@@ -21,7 +21,7 @@ accomplishments: >-
   * Strategised the long term vision for HealthTech design, and acceleated the speed of design and development for the consolidated patient and clinic experience.
 quote: It’s all about the quality of life and finding a happy balance between
   work and friends and family.
-linkedinId: zulhilmi
+linkedinId: ""
 
 ---
 

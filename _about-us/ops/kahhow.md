@@ -20,7 +20,7 @@ accomplishments: >-
 
   * Planned and filmed marketing campaign for Care360 (ref 5 days of care360). Cumulatively >100 views 
 quote: Family is not defined by our genes, it is built and maintained through love.
-linkedinId: kahhow
+linkedinId: ""
 
 ---
 

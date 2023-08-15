@@ -1,13 +1,13 @@
 ---
 title: Tim
 permalink: /aboutus/eng/timothee
-description: "Tim - Job Title"
+description: "Tim - Lead Software Engineer"
 third_nav_title: Software Engineering
 staffId: timothee
 name: Tim
 joinDate: July 5, 2021
 functionId: eng
-jobTitle: Job Title
+jobTitle: Lead Software Engineer
 curProducts:
   - FormSG
   - Tooling Team
@@ -28,7 +28,7 @@ accomplishments: >-
   * Reorganised the Forms team to pursue 3 concurrent products: FormSG, Signify, and CheckPoint
 quote: The family – that dear octopus from whose tentacles we never quite
   escape, nor, in our inmost hearts, ever quite wish to.
-linkedinId: timothee
+linkedinId: timotheegroleau
 
 ---
 

@@ -33,7 +33,7 @@ accomplishments: >-
   * Provided guidance on critical product and engineering decisions for Redeem.gov.sg, Data.gov.sg, Project Orchid, Pair, Plague, and Parking.sg.
 quote: "Blended families: woven together by choice, strengthened together by
   love, tested by everything, and each uniquely ours."
-linkedinId: pallani
+linkedinId: ""
 
 ---
 

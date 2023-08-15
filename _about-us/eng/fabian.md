@@ -21,7 +21,7 @@ accomplishments: >-
 
   * Implemented an OGP-wide easily adoptable infrastructure tool for handling Cloudflare outages
 quote: Family is not defined by our genes, it is built and maintained through love.
-linkedinId: fabian
+linkedinId: ""
 
 ---
 

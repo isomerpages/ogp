@@ -25,7 +25,7 @@ accomplishments: >-
   * Led SDK initiative for sgID which was targetted to make the process easier for developers working in common backend languages to implement sgID integrations. 
 quote: Our family is a circle of strength of love with every birth and every
   union the circle grows.
-linkedinId: antariksh
+linkedinId: ""
 
 ---
 

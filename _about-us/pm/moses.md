@@ -16,7 +16,7 @@ pastProducts:
 accomplishments: "* Led product visioning and the launch of Pair, including
   public-service wide rollout of Pair Chat"
 quote: Life is beautiful. It’s about giving. It’s about family.
-linkedinId: moses
+linkedinId: ""
 
 ---
 

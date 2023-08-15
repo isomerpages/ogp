@@ -14,7 +14,7 @@ pastProducts:
   - Go
 accomplishments: i'm new, watch this space!
 quote: Treat your family like friends and your friends like family.
-linkedinId: simun
+linkedinId: ""
 
 ---
 

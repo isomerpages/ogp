@@ -24,7 +24,7 @@ accomplishments: >-
   * Worked on CertSG and Checkpoint as part of HFPG'23
 quote: My family is my life, and everything else comes second as far as what’s
   important to me.
-linkedinId: justyn
+linkedinId: ""
 
 ---
 

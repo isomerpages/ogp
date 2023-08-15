@@ -20,7 +20,7 @@ accomplishments: >-
 
   * Optimized the performance of the new site, implemented load testing, optimized page load and reduced render time to less than 20% of the original load time for large datasets.
 quote: Other things may change us, but we start and end with the family.
-linkedinId: sihan
+linkedinId: ""
 
 ---
 

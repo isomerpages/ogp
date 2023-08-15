@@ -22,7 +22,7 @@ accomplishments: >-
   * Taking on the role of product manager and designer for Plague during the hackathon, forming the product vision, conducting user interviews, prioritizing tasks, and conducting pitches.
 quote: Having somewhere to go is home. Having someone to love is family. And
   having both is a blessing.
-linkedinId: ivan
+linkedinId: ""
 
 ---
 

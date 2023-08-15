@@ -24,7 +24,7 @@ accomplishments: >-
   * Ran HealthTech sprint to enable users from 6 healthcare clusters to initiate new tech workflows in their agencies with OGP products
 quote: The bond that links your true family is not one of blood, but of respect
   and joy in each other’s life.
-linkedinId: shawn
+linkedinId: ""
 
 ---
 

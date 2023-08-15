@@ -14,7 +14,7 @@ pastProducts:
   - pastProducts
 accomplishments: i'm new, watch this space!
 quote: Happiness is having a large, loving, caring, close-knit family in another city.
-linkedinId: zeke
+linkedinId: ""
 
 ---
 

@@ -22,7 +22,7 @@ accomplishments: >-
   * Integrated product marketing into the HAS roll-out efforts, leading to widespread media coverage and marketing events to accelerate vaccine appointment booking
 quote: Family ties mean that no matter how much you might want to run from your
   family, you can’t.
-linkedinId: cheryl
+linkedinId: ""
 
 ---
 

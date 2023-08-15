@@ -31,7 +31,7 @@ accomplishments: >-
 
   * Worked with the TFPG team to assess >12 agencies for incubating satellite tech teams
 quote: Some people are worth melting for.
-linkedinId: syan
+linkedinId: ""
 
 ---
 

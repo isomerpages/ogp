@@ -35,7 +35,6 @@
     }
 
     .staff-linkedin {
-        display: none; /* remove when linkedin ids are provided */
         margin-top: 20px;
     }
 
@@ -71,6 +70,7 @@
         <div class="staff-info" style="background-color:{{include.color}}">
             <div class="staff-name">{{ include.staff.name }}</div>
             <div class="staff-title">{{ include.staff.jobTitle }}</div>
+            {% if include.staff.linkedinId != "" %}
             <div class="staff-linkedin">
                 <a href="https://www.linkedin.com/in/{{ include.staff.linkedinId }}/" target="_blank" rel="noreferrer">
                     <svg
@@ -92,6 +92,7 @@
                     <span>{{ include.staff.name }}</span>
                 </a>
             </div>
+            {% endif %}
         </div>
         <div class="staff-pic" style="background-image:url(/images/headshots/{{ include.staff.staffId }}.jpg)"></div>
     </div>

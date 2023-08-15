@@ -20,7 +20,7 @@ accomplishments: >-
 
   * Created and trialled webhook workshop to enable 29 non technical form admins to create their own webhooks, with learnings from this workshop informing FormSG roadmap for webhook simplification
 quote: In time of test, family is best.
-linkedinId: kennethchang
+linkedinId: ""
 
 ---
 

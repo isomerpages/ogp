@@ -14,7 +14,7 @@ pastProducts:
   - "-"
 accomplishments: i'm new, watch this space!
 quote: Family and friends are hidden treasures, seek them and enjoy their riches.
-linkedinId: sehyun
+linkedinId: ""
 
 ---
 

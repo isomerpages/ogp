@@ -21,7 +21,7 @@ accomplishments: >-
   * Created FormSG X Workspace pitch deck to highlight Product USPs
 quote: Our family is a circle of strength of love with every birth and every
   union the circle grows.
-linkedinId: geraldine
+linkedinId: ""
 
 ---
 

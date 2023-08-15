@@ -24,7 +24,7 @@ accomplishments: >-
 
   * Contributed towards the development and timely delivery of the SPF dashboard frontend for Scamshield, plugging gaps where necessary and spearheading the releases to production prior to the deadline.
 quote: I didn’t give you the gift of life, but life gave me the gift of you.
-linkedinId: chinying
+linkedinId: ""
 
 ---
 

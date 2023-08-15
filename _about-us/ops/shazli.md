@@ -15,7 +15,7 @@ pastProducts:
   - pastProducts
 accomplishments: ""
 quote: A happy family is but an earlier heaven.
-linkedinId: shazli
+linkedinId: ""
 
 ---
 

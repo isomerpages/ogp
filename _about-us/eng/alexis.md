@@ -27,7 +27,7 @@ accomplishments: >-
   * Mentored a team-mate to build an asynchronous service to support bulk QR code generation. 
 quote: There is no doubt that it is around the family and the home that all the
   greatest virtues… are created, strengthened and maintained.
-linkedinId: alexis
+linkedinId: ""
 
 ---
 

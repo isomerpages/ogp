@@ -30,7 +30,7 @@ accomplishments: >-
   * Doubled the product operations team and established team processes for updates, sharings, and learning coordination
 quote: It’s all about the quality of life and finding a happy balance between
   work and friends and family.
-linkedinId: samuel
+linkedinId: ""
 
 ---
 

@@ -24,7 +24,7 @@ accomplishments: >
 
   * Monitored user feedback, support flow and worked on the visualisation of product feedback and performance using Grafana dashboards for the Go suite.
 quote: The family is one of nature’s masterpieces.
-linkedinId: clement
+linkedinId: ""
 
 ---
 

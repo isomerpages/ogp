@@ -22,7 +22,7 @@ accomplishments: >-
   * HFPG 2023 Venues, Logistics and Merchandise sourcing and execution
 quote: The only rock I know that stays steady, the only institution I know that
   works, is the family.
-linkedinId: jiahui
+linkedinId: ""
 
 ---
 

@@ -21,7 +21,7 @@ accomplishments: >-
 
   * Coordinated several initiatives to aid the product management function across OGP, including coordinating Twilio senderID registration across OGP as well as consolidating VAPT master lists and recommendations
 quote: The most important thing in the world is family and love.
-linkedinId: charmaine
+linkedinId: ""
 
 ---
 

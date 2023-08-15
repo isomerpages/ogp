@@ -19,7 +19,7 @@ accomplishments: >-
 
   * Contributed to sgID's Current Improvements: Implemented a robust rate-limiting strategy for sgID
 quote: We may have our differences, but nothing’s more important than family.
-linkedinId: prawira
+linkedinId: ""
 
 ---
 

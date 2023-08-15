@@ -39,7 +39,7 @@ accomplishments: >-
 
   * Worked on and went through the interview process to hire our first ever Product Design Manager!
 quote: The most important thing in the world is family and love.
-linkedinId: pearly
+linkedinId: ""
 
 ---
 

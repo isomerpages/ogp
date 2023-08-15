@@ -17,7 +17,7 @@ accomplishments: >-
 
   * Launched organisation feedback initiatives to drive a stronger feedback culture across OGP
 quote: Happiness is having a large, loving, caring, close-knit family in another city.
-linkedinId: bernadette
+linkedinId: ""
 
 ---
 

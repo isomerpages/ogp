@@ -23,7 +23,7 @@ quote: Being surrounded by some of the best minds in Singapore who are
   passionate about making a difference and who I continue to learn from everyday
   motivates me to do my best at OGP to make Singapore and the rest of the world
   a better place.
-linkedinId: sarahespaldon
+linkedinId: ""
 
 ---
 

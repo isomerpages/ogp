@@ -21,7 +21,7 @@ accomplishments: >-
   * Implemented confirmation modals for appointment creation and rescheduling in HAS
 quote: The family – that dear octopus from whose tentacles we never quite
   escape, nor, in our inmost hearts, ever quite wish to.
-linkedinId: dexter
+linkedinId: ""
 
 ---
 

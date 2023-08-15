@@ -20,7 +20,7 @@ accomplishments: >-
 
   * Created BYOS, a modular illustration system of Singaporean characters and scenes for OGP colleagues to use for their hackathon products and decks.
 quote: Nothing is better than going home to family and eating good food and relaxing
-linkedinId: rachel
+linkedinId: ""
 
 ---
 

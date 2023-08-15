@@ -14,7 +14,7 @@ pastProducts:
   - pastProducts
 accomplishments: i'm new, watch this space!
 quote: Family is not an important thing. It’s everything.
-linkedinId: simin
+linkedinId: ""
 
 ---
 

@@ -14,7 +14,7 @@ pastProducts:
   - pastProducts
 accomplishments: i'm new, watch this space!
 quote: It didn’t matter how big our house was; it mattered that there was love in it.
-linkedinId: sufyan
+linkedinId: ""
 
 ---
 

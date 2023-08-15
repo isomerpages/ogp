@@ -27,7 +27,7 @@ accomplishments: >-
 
   Unsubscription enhancement for Postman
 quote: Nothing is better than going home to family and eating good food and relaxing
-linkedinId: stanley
+linkedinId: ""
 
 ---
 

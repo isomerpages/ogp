@@ -27,7 +27,7 @@ accomplishments: >-
   * Worked on Care360 to optimise user experience by reducing lag and improved frontend application usage.
 quote: "Call it a clan, call it a network, call it a tribe, call it a family:
   Whatever you call it, whoever you are, you need one."
-linkedinId: karrui
+linkedinId: ""
 
 ---
 

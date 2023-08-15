@@ -18,7 +18,7 @@ accomplishments: >-
   * Worked on multiple features for Queue, including SMS notification settings and the admin notes panel
 quote: "Family: A social unit where the father is concerned with parking space,
   the children with outer space, and the mother with closet space."
-linkedinId: cheri
+linkedinId: ""
 
 ---
 

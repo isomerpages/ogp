@@ -16,7 +16,7 @@ accomplishments: FormSG achieved React migration, built payments prototype,
   improved accessibility, launched in Sri Lanka, won awards, and improved team
   functioning.
 quote: Other things may change us, but we start and end with the family.
-linkedinId: amit
+linkedinId: ""
 
 ---
 

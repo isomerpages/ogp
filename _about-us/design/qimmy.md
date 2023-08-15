@@ -14,7 +14,7 @@ pastProducts:
   - SkillsFuture
 accomplishments: i'm new, watch this space!
 quote: The family is one of nature’s masterpieces.
-linkedinId: qimmy
+linkedinId: ""
 
 ---
 

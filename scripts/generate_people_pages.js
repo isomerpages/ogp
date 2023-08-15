@@ -118,7 +118,7 @@ const namedRecords = records.map(([_sn, _done, _batch, _by, name, email, func, j
         pastProducts: pastProducts || 'pastProducts',
         accomplishments: accomplishments?.split(/[\r\n]+/).join('\n') || '',
         quote: quote || familyQuotes[quoteIndex++%familyQuotes.length],
-        linkedinId: linkedinId || id, // warning: using id is NOT correct, this is just to have something there for now
+        linkedinId: linkedinId || '',
     }
 
     record.curProducts = record.curProducts.trim().split(/\s*\*\s*/).filter(v => v)

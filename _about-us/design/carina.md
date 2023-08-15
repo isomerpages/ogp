@@ -19,7 +19,7 @@ accomplishments: |-
   * Generalised and scaled RedeemSG beyond CDC campaigns
   * Led discussions leading to the scope of features to prioritise for Pair MVP
 quote: To us, family means putting your arms around each other and being there.
-linkedinId: carina
+linkedinId: ""
 
 ---
 

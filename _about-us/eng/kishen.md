@@ -14,7 +14,7 @@ pastProducts:
   - Scamshield
 accomplishments: i'm new, watch this space!
 quote: Being part of a family means smiling for photos.
-linkedinId: kishen
+linkedinId: ""
 
 ---
 

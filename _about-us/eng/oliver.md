@@ -24,7 +24,7 @@ accomplishments: >-
 
   * Migrated CalSG to new infrastructure
 quote: Other things may change us, but we start and end with the family.
-linkedinId: oliver
+linkedinId: ""
 
 ---
 

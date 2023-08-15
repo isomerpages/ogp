@@ -21,7 +21,7 @@ accomplishments: >-
 
   * Took charge and addressed various security and privacy issues raised during vulnerability assessments/penetration testing to ensure that AskGov is secure and compliant with regulations.
 quote: Where there is family, there is love.
-linkedinId: ziyang
+linkedinId: ""
 
 ---
 

@@ -25,7 +25,7 @@ accomplishments: >-
 
   * Established HAS product operations task process workflows including metric monitoring via Vault, clinic whitelisting, and user support escalation processes
 quote: Family is the heart of a home.
-linkedinId: suhaila
+linkedinId: ""
 
 ---
 

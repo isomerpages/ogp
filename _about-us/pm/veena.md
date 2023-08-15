@@ -22,7 +22,7 @@ accomplishments: >-
   * Worked with a team of PMs to design and run ProductUp, a product management 101 workshop for senior government leaders
 quote: Stick to the basics, hold on to your family and friends – they will never
   go out of fashion.
-linkedinId: veena
+linkedinId: ""
 
 ---
 

@@ -15,7 +15,7 @@ pastProducts:
 accomplishments: ""
 quote: "Blended families: woven together by choice, strengthened together by
   love, tested by everything, and each uniquely ours."
-linkedinId: jessendra
+linkedinId: ""
 
 ---
 

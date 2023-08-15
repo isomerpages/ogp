@@ -26,7 +26,7 @@ accomplishments: >-
   * Provided expertise and consultation to the Digital Intelligence Service on tech hiring
 quote: This is my family. I found it all on my own. It’s little, and broken, but
   still good. Yeah. Still good.
-linkedinId: yuanruo
+linkedinId: ""
 
 ---
 

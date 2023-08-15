@@ -15,7 +15,7 @@ pastProducts:
 accomplishments: ""
 quote: In family life, love is the oil that eases friction, the cement that
   binds closer together, and the music that brings harmony.
-linkedinId: lennard
+linkedinId: ""
 
 ---
 

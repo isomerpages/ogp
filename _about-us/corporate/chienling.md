@@ -24,7 +24,7 @@ accomplishments: >-
   *   Did the bulk of hiring operations and pipeline management to grow OGP by more than 100 people from 2022-2023
 quote: Families are the compass that guides us. They are the inspiration to
   reach great heights, and our comfort when we occasionally falter.
-linkedinId: chienling
+linkedinId: ""
 
 ---
 

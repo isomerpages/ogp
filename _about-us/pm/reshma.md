@@ -14,7 +14,7 @@ pastProducts:
   - RedeemSG
 accomplishments: ""
 quote: The family is one of nature’s masterpieces.
-linkedinId: reshma
+linkedinId: ""
 
 ---
 

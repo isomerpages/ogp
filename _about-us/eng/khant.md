@@ -20,7 +20,7 @@ accomplishments: >-
 
   * Set-up monitoring systems and addresses security vulnerabilities for Vault 1.0
 quote: Family and friendships are two of the greatest facilitators of happiness.
-linkedinId: khant
+linkedinId: ""
 
 ---
 

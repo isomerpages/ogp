@@ -23,7 +23,7 @@ accomplishments: >-
   * Designed and delivered many features in Care360, such as the Rich text editor feature, backend pagination/filter/sort features, and application version mismatch errors. 
 quote: Being a family means you are a part of something very wonderful. It means
   you will love and be loved for the rest of your life.
-linkedinId: austin
+linkedinId: ""
 
 ---
 

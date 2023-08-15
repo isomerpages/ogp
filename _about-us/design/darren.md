@@ -14,7 +14,7 @@ pastProducts:
   - UX Research
 accomplishments: i'm new, watch this space!
 quote: A happy family is but an earlier heaven.
-linkedinId: darren
+linkedinId: ""
 
 ---
 

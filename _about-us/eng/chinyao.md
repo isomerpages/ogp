@@ -14,7 +14,7 @@ pastProducts:
   - Phonebook
 accomplishments: i'm new, watch this space!
 quote: Nothing is better than going home to family and eating good food and relaxing
-linkedinId: chinyao
+linkedinId: ""
 
 ---
 

@@ -22,7 +22,7 @@ accomplishments: >
   * Contributed to migration operations by writing a script to migrate the majority of financial form data.
 quote: The only rock I know that stays steady, the only institution I know that
   works, is the family.
-linkedinId: louiz
+linkedinId: ""
 
 ---
 

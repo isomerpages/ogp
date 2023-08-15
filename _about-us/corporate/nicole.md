@@ -15,7 +15,7 @@ pastProducts:
 accomplishments: i'm new, watch this space!
 quote: Being a family means you are a part of something very wonderful. It means
   you will love and be loved for the rest of your life.
-linkedinId: nicole
+linkedinId: ""
 
 ---
 

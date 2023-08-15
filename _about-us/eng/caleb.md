@@ -19,7 +19,7 @@ accomplishments: >
   healthcare institutions where Care360 will be launched. Also led InternalFunds
   sprint.
 quote: Families are like fudge – mostly sweet with a few nuts.
-linkedinId: caleb
+linkedinId: ""
 
 ---
 

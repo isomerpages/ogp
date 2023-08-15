@@ -23,7 +23,7 @@ quote: I joined OGP in 2019, and have stayed since then because I think it is
   the government’s best shot today at breaking the mould on trying new ways for
   government organisations to work better, so that we can be a better public
   service.
-linkedinId: russell
+linkedinId: russellchanyd
 
 ---
 

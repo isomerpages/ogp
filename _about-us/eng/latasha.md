@@ -16,7 +16,7 @@ accomplishments: Migrated AskGov, did SEO optimization, set up logging and
   monitoring, improved scrolling and search, refined topics UIUX, and prepared
   Checkpoint for launch.
 quote: Happiness is having a large, loving, caring, close-knit family in another city.
-linkedinId: latasha
+linkedinId: ""
 
 ---
 

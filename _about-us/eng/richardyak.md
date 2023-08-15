@@ -14,7 +14,7 @@ pastProducts:
   - Postman
 accomplishments: ""
 quote: Family and friendships are two of the greatest facilitators of happiness.
-linkedinId: richardyak
+linkedinId: ""
 
 ---
 

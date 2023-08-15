@@ -14,7 +14,7 @@ pastProducts:
   - Social media marketing
 accomplishments: "* "
 quote: Ohana means family and family means nobody gets left behind or forgotten.
-linkedinId: yihan
+linkedinId: ""
 
 ---
 

@@ -22,7 +22,7 @@ accomplishments: >-
 
   * Improved team processes on Postman such as shared engineering context for decision-making and greater structure in engineering practices
 quote: Being part of a family means smiling for photos.
-linkedinId: zixiang
+linkedinId: ""
 
 ---
 

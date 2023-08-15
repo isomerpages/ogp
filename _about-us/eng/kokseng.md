@@ -20,7 +20,7 @@ accomplishments: >-
   * Worked on CalSG to improve the functionality of slot booking and onboarding flow
 quote: The family – that dear octopus from whose tentacles we never quite
   escape, nor, in our inmost hearts, ever quite wish to.
-linkedinId: kokseng
+linkedinId: ""
 
 ---
 

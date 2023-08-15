@@ -27,7 +27,7 @@ accomplishments: >-
   * Built up engineeringg features for Signify from scratch, including integration with the Sign with SingPass API
 quote: "Family: A social unit where the father is concerned with parking space,
   the children with outer space, and the mother with closet space."
-linkedinId: shuli
+linkedinId: ""
 
 ---
 

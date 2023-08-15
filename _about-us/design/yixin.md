@@ -25,7 +25,7 @@ accomplishments: >
   * Launched CDC Trance 2 in Feb using Distribute app for tracking and new feature for tagging of voucher booklets. 
 quote: This is my family. I found it all on my own. It’s little, and broken, but
   still good. Yeah. Still good.
-linkedinId: yixin
+linkedinId: ""
 
 ---
 

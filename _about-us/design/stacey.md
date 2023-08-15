@@ -21,7 +21,7 @@ accomplishments: >-
 
   * Led design and UX research for Plumber
 quote: Some people are worth melting for.
-linkedinId: stacey
+linkedinId: ""
 
 ---
 

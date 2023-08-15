@@ -28,7 +28,7 @@ accomplishments: >-
 
   * Deprecated Touchpoint successfully with minimal disruption to business stakeholders and users
 quote: Ohana means family and family means nobody gets left behind or forgotten.
-linkedinId: lisa
+linkedinId: ""
 
 ---
 

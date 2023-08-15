@@ -25,7 +25,7 @@ accomplishments: >-
   • Also responsible for monitoring and reviewing security, and resolving vulnerabilities
 quote: Families are the compass that guides us. They are the inspiration to
   reach great heights, and our comfort when we occasionally falter.
-linkedinId: alexander
+linkedinId: ""
 
 ---
 

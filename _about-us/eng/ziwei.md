@@ -25,7 +25,7 @@ accomplishments: >-
 
   * Implemented the appointment flow and landing page for MediPay, during hackathon.
 quote: In time of test, family is best.
-linkedinId: ziwei
+linkedinId: ""
 
 ---
 

@@ -20,7 +20,7 @@ accomplishments: >-
 
   * Built presence and reputation of OGP in the local tech community through outreach events and collaborations, leading to OGP exceeding our hiring goals.
 quote: To us, family means putting your arms around each other and being there.
-linkedinId: shannen
+linkedinId: ""
 
 ---
 

@@ -14,7 +14,7 @@ pastProducts:
   - pastProducts
 accomplishments: i'm new, watch this space!
 quote: Families are like fudge – mostly sweet with a few nuts.
-linkedinId: gautam
+linkedinId: ""
 
 ---
 

@@ -26,7 +26,7 @@ accomplishments: >-
 
   * Co-organised the 27 April OGP x Singapore Product Design talk to advocate and propagate OGP design practices
 quote: Where there is family, there is love.
-linkedinId: christabelpng
+linkedinId: ""
 
 ---
 

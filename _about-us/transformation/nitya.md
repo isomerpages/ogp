@@ -21,7 +21,7 @@ accomplishments: >-
 
   * Collaborated with MINDEF/DIS to accelerate the formation and development of tech teams and capabilities
 quote: Family is not an important thing. It’s everything.
-linkedinId: nitya
+linkedinId: ""
 
 ---
 

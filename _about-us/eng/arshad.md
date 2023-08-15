@@ -28,7 +28,7 @@ accomplishments: >
   * Worked with product team gain better insights which allowed better user behaviour analysis to then optimise workflow.
 quote: The bond that links your true family is not one of blood, but of respect
   and joy in each other’s life.
-linkedinId: arshad
+linkedinId: ""
 
 ---
 

@@ -17,7 +17,7 @@ accomplishments: |
   * Improved backwards compatibility of Turnstile and Recaptcha integration
   * Resolved VAPT: WAF bypass via Content-Encoding compression 
 quote: Rejoice with your family in the beautiful land of life.
-linkedinId: sebastian
+linkedinId: ""
 
 ---
 

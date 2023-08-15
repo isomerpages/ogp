@@ -23,7 +23,7 @@ accomplishments: >-
 
   * Presented on Scamshield for Android at Friends of Figma
 quote: It didn’t matter how big our house was; it mattered that there was love in it.
-linkedinId: khaleedah
+linkedinId: ""
 
 ---
 

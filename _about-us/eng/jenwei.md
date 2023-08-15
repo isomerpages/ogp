@@ -20,7 +20,7 @@ accomplishments: >-
 
   * Migrated Covid ops databases and improved alarms, monitoring, and query performance for Covid operations
 quote: Family is family.
-linkedinId: jenwei
+linkedinId: ""
 
 ---
 

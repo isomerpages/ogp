@@ -20,7 +20,7 @@ accomplishments: >-
 
   * Closer integration of policy, ops and technology via vertically integrated teams e.g. ScamTech team
 quote: The memories we make with our family is everything.
-linkedinId: stephanie
+linkedinId: ""
 
 ---
 
