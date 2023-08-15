@@ -1,13 +1,13 @@
 ---
 title: Hongyi
-permalink: /aboutus/eng/lhy
-description: "Hongyi - Job Title"
-third_nav_title: Software Engineering
+permalink: /aboutus/corporate/lhy
+description: "Hongyi - Director of OGP"
+third_nav_title: Corporate Team
 staffId: lhy
 name: Hongyi
 joinDate: March 31, 2017
-functionId: eng
-jobTitle: Job Title
+functionId: corporate
+jobTitle: Director of OGP
 curProducts:
   - Director of OGP
 pastProducts:
@@ -18,4 +18,4 @@ linkedinId: lhy
 
 ---
 
-{% include staff.html staff=page color=site.colors.function-colors.eng %}
+{% include staff.html staff=page color=site.colors.function-colors.corporate %}
