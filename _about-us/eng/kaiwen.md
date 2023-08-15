@@ -3,7 +3,7 @@ title: Huang, Kaiwen
 permalink: /aboutus/eng/kaiwen
 description: "Huang, Kaiwen - Senior Software Engineer"
 third_nav_title: Software Engineering
-id: kaiwen
+staffId: kaiwen
 name: Huang, Kaiwen
 joinDate: 2016-04-07
 functionId: eng

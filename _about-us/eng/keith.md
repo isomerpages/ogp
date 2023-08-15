@@ -3,7 +3,7 @@ title: Chew, Mun Kei
 permalink: /aboutus/eng/keith
 description: "Chew, Mun Kei - Job Title"
 third_nav_title: Software Engineering
-id: keith
+staffId: keith
 name: Chew, Mun Kei
 joinDate: 1970-01-01
 functionId: eng

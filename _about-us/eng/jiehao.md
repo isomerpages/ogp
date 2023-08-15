@@ -3,7 +3,7 @@ title: Kwa, Jie Hao
 permalink: /aboutus/eng/jiehao
 description: "Kwa, Jie Hao - Job Title"
 third_nav_title: Software Engineering
-id: jiehao
+staffId: jiehao
 name: Kwa, Jie Hao
 joinDate: 2019-09-09
 functionId: eng

@@ -3,7 +3,7 @@ title: Tan, Huiyi
 permalink: /aboutus/eng/max
 description: "Tan, Huiyi - Job Title"
 third_nav_title: Software Engineering
-id: max
+staffId: max
 name: Tan, Huiyi
 joinDate: 2023-06-03
 functionId: eng

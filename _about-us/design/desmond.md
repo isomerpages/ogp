@@ -3,7 +3,7 @@ title: Lui, Desmond
 permalink: /aboutus/design/desmond
 description: "Lui, Desmond - Job Title"
 third_nav_title: Product Design
-id: desmond
+staffId: desmond
 name: Lui, Desmond
 joinDate: 1970-01-01
 functionId: design

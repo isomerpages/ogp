@@ -3,7 +3,7 @@ title: Yan, Sonjia
 permalink: /aboutus/pm/syan
 description: "Yan, Sonjia - Job Title"
 third_nav_title: Product Management
-id: syan
+staffId: syan
 name: Yan, Sonjia
 joinDate: 2019-04-09
 functionId: pm

@@ -3,7 +3,7 @@ title: Kuan, Wee Loong
 permalink: /aboutus/eng/weeloong
 description: "Kuan, Wee Loong - Job Title"
 third_nav_title: Software Engineering
-id: weeloong
+staffId: weeloong
 name: Kuan, Wee Loong
 joinDate: 1970-01-01
 functionId: eng

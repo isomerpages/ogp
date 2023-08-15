@@ -3,7 +3,7 @@ title: Seah, Chin Ying
 permalink: /aboutus/eng/chinying
 description: "Seah, Chin Ying - Job Title"
 third_nav_title: Software Engineering
-id: chinying
+staffId: chinying
 name: Seah, Chin Ying
 joinDate: 19/11/2018
 functionId: eng

@@ -3,7 +3,7 @@ title: Soh, Moses
 permalink: /aboutus/pm/moses
 description: "Soh, Moses - Job Title"
 third_nav_title: Product Management
-id: moses
+staffId: moses
 name: Soh, Moses
 joinDate: 2022-05-12
 functionId: pm

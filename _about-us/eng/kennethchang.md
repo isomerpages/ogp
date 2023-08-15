@@ -3,7 +3,7 @@ title: Chang, Kenneth
 permalink: /aboutus/eng/kennethchang
 description: "Chang, Kenneth - Job Title"
 third_nav_title: Software Engineering
-id: kennethchang
+staffId: kennethchang
 name: Chang, Kenneth
 joinDate: 1970-01-01
 functionId: eng

@@ -3,7 +3,7 @@ title: Sean, Lum Jian Yang
 permalink: /aboutus/eng/sean
 description: "Sean, Lum Jian Yang - Job Title"
 third_nav_title: Software Engineering
-id: sean
+staffId: sean
 name: Sean, Lum Jian Yang
 joinDate: 1970-01-01
 functionId: eng

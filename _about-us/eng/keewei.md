@@ -3,7 +3,7 @@ title: Lam, Kee Wei
 permalink: /aboutus/eng/keewei
 description: "Lam, Kee Wei - Job Title"
 third_nav_title: Software Engineering
-id: keewei
+staffId: keewei
 name: Lam, Kee Wei
 joinDate: 2020-01-06
 functionId: eng

@@ -3,7 +3,7 @@ title: Choo, Lorraine
 permalink: /aboutus/eng/lorraine
 description: "Choo, Lorraine - Job Title"
 third_nav_title: Software Engineering
-id: lorraine
+staffId: lorraine
 name: Choo, Lorraine
 joinDate: 1970-01-01
 functionId: eng

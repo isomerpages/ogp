@@ -3,7 +3,7 @@ title: Patanapanlert, Pete
 permalink: /aboutus/pm/pete
 description: "Patanapanlert, Pete - Job Title"
 third_nav_title: Product Management
-id: pete
+staffId: pete
 name: Patanapanlert, Pete
 joinDate: 27/03/2023
 functionId: pm

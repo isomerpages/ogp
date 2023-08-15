@@ -3,7 +3,7 @@ title: Yak, Kian Feng
 permalink: /aboutus/eng/richardyak
 description: "Yak, Kian Feng - Job Title"
 third_nav_title: Software Engineering
-id: richardyak
+staffId: richardyak
 name: Yak, Kian Feng
 joinDate: 1970-01-01
 functionId: eng

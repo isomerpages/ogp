@@ -3,7 +3,7 @@ title: Lew, Bo Ren
 permalink: /aboutus/eng/boren
 description: "Lew, Bo Ren - Job Title"
 third_nav_title: Software Engineering
-id: boren
+staffId: boren
 name: Lew, Bo Ren
 joinDate: 1970-01-01
 functionId: eng

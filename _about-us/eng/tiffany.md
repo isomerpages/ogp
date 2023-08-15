@@ -3,7 +3,7 @@ title: Chan, Tiffany
 permalink: /aboutus/eng/tiffany
 description: "Chan, Tiffany - Job Title"
 third_nav_title: Software Engineering
-id: tiffany
+staffId: tiffany
 name: Chan, Tiffany
 joinDate: 1970-01-01
 functionId: eng

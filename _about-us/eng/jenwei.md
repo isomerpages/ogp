@@ -3,7 +3,7 @@ title: Niam, Jen Wei
 permalink: /aboutus/eng/jenwei
 description: "Niam, Jen Wei - Job Title"
 third_nav_title: Software Engineering
-id: jenwei
+staffId: jenwei
 name: Niam, Jen Wei
 joinDate: 1970-01-01
 functionId: eng

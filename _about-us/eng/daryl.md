@@ -3,7 +3,7 @@ title: Chan, Daryl
 permalink: /aboutus/eng/daryl
 description: "Chan, Daryl - Job Title"
 third_nav_title: Software Engineering
-id: daryl
+staffId: daryl
 name: Chan, Daryl
 joinDate: 2022-03-01
 functionId: eng

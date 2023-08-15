@@ -3,7 +3,7 @@ title: Spano, Nicolas
 permalink: /aboutus/eng/nicolas
 description: "Spano, Nicolas - Job Title"
 third_nav_title: Software Engineering
-id: nicolas
+staffId: nicolas
 name: Spano, Nicolas
 joinDate: 1970-01-01
 functionId: eng

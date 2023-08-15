@@ -3,7 +3,7 @@ title: Takeguchi, Airika
 permalink: /aboutus/corporate/airika
 description: "Takeguchi, Airika - Job Title"
 third_nav_title: Corporate Team
-id: airika
+staffId: airika
 name: Takeguchi, Airika
 joinDate: 1970-01-01
 functionId: corporate

@@ -3,7 +3,7 @@ title: Ng, Nicholas Zhi Hao
 permalink: /aboutus/eng/nicholasng
 description: "Ng, Nicholas Zhi Hao - Job Title"
 third_nav_title: Software Engineering
-id: nicholasng
+staffId: nicholasng
 name: Ng, Nicholas Zhi Hao
 joinDate: 1970-01-01
 functionId: eng

@@ -3,7 +3,7 @@ title: Chan, Russell
 permalink: /aboutus/corporate/russell
 description: "Chan, Russell - Head of People Team"
 third_nav_title: Corporate Team
-id: russell
+staffId: russell
 name: Chan, Russell
 joinDate: 2019-09-02
 functionId: corporate

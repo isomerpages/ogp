@@ -3,7 +3,7 @@ title: Chiam, Caleb
 permalink: /aboutus/eng/caleb
 description: "Chiam, Caleb - Job Title"
 third_nav_title: Software Engineering
-id: caleb
+staffId: caleb
 name: Chiam, Caleb
 joinDate: 1970-01-01
 functionId: eng

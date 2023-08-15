@@ -3,7 +3,7 @@ title: Lai, Jing Yi
 permalink: /aboutus/eng/jingyi
 description: "Lai, Jing Yi - Job Title"
 third_nav_title: Software Engineering
-id: jingyi
+staffId: jingyi
 name: Lai, Jing Yi
 joinDate: 1970-01-01
 functionId: eng

@@ -3,7 +3,7 @@ title: Oh, Chin Yang
 permalink: /aboutus/eng/chinyang
 description: "Oh, Chin Yang - Job Title"
 third_nav_title: Software Engineering
-id: chinyang
+staffId: chinyang
 name: Oh, Chin Yang
 joinDate: 2023-06-03
 functionId: eng

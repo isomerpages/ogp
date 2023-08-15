@@ -3,7 +3,7 @@ title: Wong, Kendra
 permalink: /aboutus/eng/kendra
 description: "Wong, Kendra - Job Title"
 third_nav_title: Software Engineering
-id: kendra
+staffId: kendra
 name: Wong, Kendra
 joinDate: 1970-01-01
 functionId: eng

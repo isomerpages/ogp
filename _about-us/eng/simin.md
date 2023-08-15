@@ -3,7 +3,7 @@ title: Ong, Si Min
 permalink: /aboutus/eng/simin
 description: "Ong, Si Min - Job Title"
 third_nav_title: Software Engineering
-id: simin
+staffId: simin
 name: Ong, Si Min
 joinDate: 1970-01-01
 functionId: eng

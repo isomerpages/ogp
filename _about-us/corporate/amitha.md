@@ -3,7 +3,7 @@ title: Fernando, Amitha
 permalink: /aboutus/corporate/amitha
 description: "Fernando, Amitha - Job Title"
 third_nav_title: Corporate Team
-id: amitha
+staffId: amitha
 name: Fernando, Amitha
 joinDate: 1970-01-01
 functionId: corporate

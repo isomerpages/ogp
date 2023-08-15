@@ -3,7 +3,7 @@ title: Foo, Yong Jie
 permalink: /aboutus/eng/yongjie
 description: "Foo, Yong Jie - Job Title"
 third_nav_title: Software Engineering
-id: yongjie
+staffId: yongjie
 name: Foo, Yong Jie
 joinDate: 2019-02-12
 functionId: eng

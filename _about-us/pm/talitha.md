@@ -3,7 +3,7 @@ title: Chin, Rui Ling Talitha
 permalink: /aboutus/pm/talitha
 description: "Chin, Rui Ling Talitha - Job Title"
 third_nav_title: Product Management
-id: talitha
+staffId: talitha
 name: Chin, Rui Ling Talitha
 joinDate: 15/10/2018
 functionId: pm

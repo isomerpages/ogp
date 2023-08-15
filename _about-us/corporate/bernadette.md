@@ -3,7 +3,7 @@ title: Cho, Bernadette Marisa Chien Ling
 permalink: /aboutus/corporate/bernadette
 description: "Cho, Bernadette Marisa Chien Ling - Job Title"
 third_nav_title: Corporate Team
-id: bernadette
+staffId: bernadette
 name: Cho, Bernadette Marisa Chien Ling
 joinDate: 1970-01-01
 functionId: corporate

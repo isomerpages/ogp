@@ -3,7 +3,7 @@ title: Park, Se Hyun
 permalink: /aboutus/eng/sehyun
 description: "Park, Se Hyun - Job Title"
 third_nav_title: Software Engineering
-id: sehyun
+staffId: sehyun
 name: Park, Se Hyun
 joinDate: 1970-01-01
 functionId: eng

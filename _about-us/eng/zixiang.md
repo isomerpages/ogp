@@ -3,7 +3,7 @@ title: Tan, Zi Xiang
 permalink: /aboutus/eng/zixiang
 description: "Tan, Zi Xiang - Job Title"
 third_nav_title: Software Engineering
-id: zixiang
+staffId: zixiang
 name: Tan, Zi Xiang
 joinDate: 2022-10-01
 functionId: eng

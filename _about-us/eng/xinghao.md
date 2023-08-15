@@ -3,7 +3,7 @@ title: Yang, XingHao
 permalink: /aboutus/eng/xinghao
 description: "Yang, XingHao - Job Title"
 third_nav_title: Software Engineering
-id: xinghao
+staffId: xinghao
 name: Yang, XingHao
 joinDate: 1970-01-01
 functionId: eng

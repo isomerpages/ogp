@@ -3,7 +3,7 @@ title: Chandrakanth Rao Inna, Shreyas
 permalink: /aboutus/ops/shreyas
 description: "Chandrakanth Rao Inna, Shreyas - Job Title"
 third_nav_title: Product Operations
-id: shreyas
+staffId: shreyas
 name: Chandrakanth Rao Inna, Shreyas
 joinDate: 22/05/2023
 functionId: ops

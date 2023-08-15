@@ -3,7 +3,7 @@ title: Er, Jia Chin
 permalink: /aboutus/eng/jiachin
 description: "Er, Jia Chin - Job Title"
 third_nav_title: Software Engineering
-id: jiachin
+staffId: jiachin
 name: Er, Jia Chin
 joinDate: 2021-04-01
 functionId: eng

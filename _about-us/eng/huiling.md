@@ -3,7 +3,7 @@ title: Shi, Hui Ling
 permalink: /aboutus/eng/huiling
 description: "Shi, Hui Ling - Job Title"
 third_nav_title: Software Engineering
-id: huiling
+staffId: huiling
 name: Shi, Hui Ling
 joinDate: 1970-01-01
 functionId: eng

@@ -3,7 +3,7 @@ title: Kim-Chan, Louiz
 permalink: /aboutus/eng/louiz
 description: "Kim-Chan, Louiz - Job Title"
 third_nav_title: Software Engineering
-id: louiz
+staffId: louiz
 name: Kim-Chan, Louiz
 joinDate: 1970-01-01
 functionId: eng

@@ -3,7 +3,7 @@ title: Sng, Kenneth
 permalink: /aboutus/pm/kenneth
 description: "Sng, Kenneth - Job Title"
 third_nav_title: Product Management
-id: kenneth
+staffId: kenneth
 name: Sng, Kenneth
 joinDate: 1970-01-01
 functionId: pm
