@@ -13,23 +13,26 @@
     }
 
     .staff-info {
-        border-radius: 4px 0 0 4px;
-        width: 329px;
+        border-radius: 0 6px 6px 0;
+        min-width: 330px;
+        flex-grow: 1;
         height: 160px;
         overflow: hidden;
         padding: 20px;
         text-align: left;
         color: white;
+        font-weight: 400;
     }
 
     .staff-name {
         font-size: 32px;
+        font-weight: 600;
     }
 
     .staff-pic {
         width: 160px;
         height: 160px;
-        border-radius: 0 4px 4px 0;
+        border-radius: 6px 0 0 6px;
         background-repeat: no-repeat;
         background-size: cover;
     }
@@ -56,7 +59,7 @@
     }
 
     q {
-        display: block;
+        display: none;
         padding-left: 20px;
         font-size: 20px;
         font-style: italic;
@@ -67,6 +70,7 @@
 
 <div class="staff-heading functionId:{{include.staff.functionId}}">
     <div class="staff-main">
+        <div class="staff-pic" style="background-image:url(/images/headshots/{{ include.staff.staffId }}.jpg)"></div>
         <div class="staff-info" style="background-color:{{include.color}}">
             <div class="staff-name">{{ include.staff.name }}</div>
             <div class="staff-title">{{ include.staff.jobTitle }}</div>
@@ -94,7 +98,6 @@
             </div>
             {% endif %}
         </div>
-        <div class="staff-pic" style="background-image:url(/images/headshots/{{ include.staff.staffId }}.jpg)"></div>
     </div>
     <q>{{ include.staff.quote }}</q>
 </div>
