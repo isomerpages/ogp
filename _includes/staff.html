@@ -102,9 +102,17 @@
     <q>{{ include.staff.quote }}</q>
 </div>
 
-<p><strong>I joined since {{include.staff.joinDate}} and I am currently working on</strong> {{include.staff.curProducts | join: ', '}}.</p>
+<p>I joined since <strong>{{include.staff.joinDate}}</strong> and I am currently working on
+{% for product in include.staff.curProducts %}
+<strong>{{product}}</strong>,
+{% endfor %}
+</p>
 
-<p><strong>Products I worked on before include</strong> {{include.staff.pastProducts | join: ', '}}</p>
+<p>Products I worked on before include
+{% for product in include.staff.pastProducts %}
+<strong>{{product}}</strong>,
+{% endfor %}
+</p>
 
 <p><strong>Three things I've done recently which I'm proud of are...</strong></p>
 {{include.staff.accomplishments}}
