@@ -100,7 +100,7 @@ const namedRecords = records.map(([name, joinDate, email, func, jobTitle, curPro
     const id = email.split('@')[0].toLowerCase();
 
     const record = {
-        id,
+        staffId: id,
         name,
         joinDate: joinDate || '1970-01-01',
         functionId: functionNameToFunctionId[func] || (functionIdToFunctionName[func] ? func : 'eng'), // stupid default, but to make sure things don't break 🤷
@@ -134,14 +134,14 @@ for (const record of namedRecords) {
 
     const processed = templateContent.replace(/\{\{([a-z]+)\}\}/gi, (_match, itemId) => {
         if (!(itemId in record)) {
-            console.warn(`${record.id}: placeholder item [${itemId}] not found in record - wiping`)
+            console.warn(`${record.staffId}: placeholder item [${itemId}] not found in record - wiping`)
             return 'CLEARED'
         }
         return record[itemId]
     });
 
     const functionDir = `${TARGET_ABOUT_US_COLLECTION_DIR}${record.functionId}`
-    const staffPageFile = `${functionDir}/${record.id}.md`
+    const staffPageFile = `${functionDir}/${record.staffId}.md`
 
     console.log(`Writing file for ${record.name} into ${staffPageFile}`);
 
@@ -179,7 +179,7 @@ functionIds.forEach((functionId) => {
     namedRecords
         .filter(record => record.functionId === functionId)
         .forEach(record =>
-            pages.push(`${functionId}/${record.id}.md`)
+            pages.push(`${functionId}/${record.staffId}.md`)
         )
 });
 

@@ -66,8 +66,8 @@
     }
 </style>
 
-<div class="staff-heading">
-    <div class="staff-main functionId:{{include.staff.functionId}}">
+<div class="staff-heading functionId:{{include.staff.functionId}}">
+    <div class="staff-main">
         <div class="staff-info" style="background-color:{{color}}">
             <div class="staff-name">{{ include.staff.name }}</div>
             <div class="staff-title">{{ include.staff.jobTitle }}</div>
@@ -93,7 +93,7 @@
                 </a>
             </div>
         </div>
-        <div class="staff-pic" style="background-image:url(/images/headshots/{{ include.staff.id }}.jpg)"></div>
+        <div class="staff-pic" style="background-image:url(/images/headshots/{{ include.staff.staffId }}.jpg)"></div>
     </div>
     <q>{{ include.staff.quote }}</q>
 </div>
