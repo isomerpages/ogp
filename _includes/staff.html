@@ -10,6 +10,7 @@
     .staff-main {
         display: flex;
         gap: 0;
+        flex-grow: 1;
     }
 
     .staff-info {
@@ -22,6 +23,8 @@
         text-align: left;
         color: white;
         font-weight: 400;
+        display: flex;
+        align-items: center;
     }
 
     .staff-name {
@@ -72,9 +75,11 @@
     <div class="staff-main">
         <div class="staff-pic" style="background-image:url(/images/headshots/{{ include.staff.staffId }}.jpg)"></div>
         <div class="staff-info" style="background-color:{{include.color}}">
-            <div class="staff-name">{{ include.staff.name }}</div>
-            <div class="staff-title">{{ include.staff.jobTitle }}</div>
-            {% if include.staff.linkedinId != "" %}
+            <div>
+                <div class="staff-name">{{ include.staff.name }}</div>
+                <div class="staff-title">{{ include.staff.jobTitle }}</div>
+            </div>
+            {% if true == false %}
             <div class="staff-linkedin">
                 <a href="https://www.linkedin.com/in/{{ include.staff.linkedinId }}/" target="_blank" rel="noreferrer">
                     <svg
