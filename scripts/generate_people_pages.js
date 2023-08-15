@@ -7,7 +7,7 @@ import YAML from 'yaml';
 
 const parseAsync = promisify(parse)
 
-const SOURCE_PEOPLE_CSV = '../_people/people.csv'
+const SOURCE_PEOPLE_CSV = '../_about-us/people.csv'
 const STAFF_TEMPLATE_MD = './staff.md.template'
 const TARGET_PEOPLE_DATA_FILE_YML = '../_data/people.yml'
 const TARGET_PEOPLE_COLLECTION_DIR = '../_people/'
