@@ -109,13 +109,13 @@
 
 <p>I joined since <strong>{{include.staff.joinDate}}</strong> and I am currently working on
 {% for product in include.staff.curProducts %}
-<strong>{{product}}</strong>,
+<strong>{{product}}</strong>{% if forloop.last %}.{% else %},{% endif %}
 {% endfor %}
 </p>
 
 <p>Products I worked on before include
 {% for product in include.staff.pastProducts %}
-<strong>{{product}}</strong>,
+<strong>{{product}}</strong>{% if forloop.last %}.{% else %},{% endif %}
 {% endfor %}
 </p>
 
