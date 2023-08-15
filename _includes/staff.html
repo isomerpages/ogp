@@ -106,17 +106,19 @@
 </div>
 
 {% if include.staff.curProducts.size > 0 %}
-I joined since **{{include.staff.joinDate}}** and I am currently working on
+<p>I joined since <strong>{{include.staff.joinDate}}</strong> and I am currently working on
 {% for product in include.staff.curProducts %}
-**{{product}}**{% if forloop.last %}.{% else %},{% endif %}
+<strong>{{product}}</strong>{% if forloop.last %}.{% else %},{% endif %}
 {% endfor %}
+</p>
 {% endif %}
 
 {% if include.staff.pastProducts.size > 0 %}
-Products I worked on before include
+<p>Products I worked on before include
 {% for product in include.staff.pastProducts %}
-**{{product}}**{% if forloop.last %}.{% else %},{% endif %}
+<strong>{{product}}</strong>{% if forloop.last %}.{% else %},{% endif %}
 {% endfor %}
+</p>
 {% endif %}
 
 {% if include.staff.accomplishments == "i'm new, watch this space!" %}
