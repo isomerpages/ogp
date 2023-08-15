@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - About us.md
-      - corporate.md
-      - design.md
-      - eng.md
-      - ops.md
-      - pm.md
-      - transformation.md
+      - corporate/_all.md
+      - design/_all.md
+      - eng/_all.md
+      - ops/_all.md
+      - pm/_all.md
+      - transformation/_all.md
       - Board of Advisors.md
