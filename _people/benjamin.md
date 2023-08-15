@@ -2,6 +2,7 @@
 title: Bowes, Benjamin
 permalink: /people/benjamin
 description: "Bowes, Benjamin - Job Title"
+third_nav_title: Product Design
 id: benjamin
 name: Bowes, Benjamin
 joinDate: 1970-01-01

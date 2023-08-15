@@ -2,6 +2,7 @@
 title: Tan, Jie Yin
 permalink: /people/jieyin
 description: "Tan, Jie Yin - Job Title"
+third_nav_title: Software Engineering
 id: jieyin
 name: Tan, Jie Yin
 joinDate: 1970-01-01

@@ -2,6 +2,7 @@
 title: Chia Hup Peng, Fabian
 permalink: /people/fabian
 description: "Chia Hup Peng, Fabian - Job Title"
+third_nav_title: Software Engineering
 id: fabian
 name: Chia Hup Peng, Fabian
 joinDate: 2022-04-07

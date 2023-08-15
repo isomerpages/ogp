@@ -2,6 +2,7 @@
 title: Ng, Darren
 permalink: /people/darren
 description: "Ng, Darren - Job Title"
+third_nav_title: Software Engineering
 id: darren
 name: Ng, Darren
 joinDate: 1970-01-01

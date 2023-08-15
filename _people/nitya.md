@@ -2,10 +2,11 @@
 title: Menon, Nitya
 permalink: /people/nitya
 description: "Menon, Nitya - Job Title"
+third_nav_title: Partnerships & Transformation
 id: nitya
 name: Menon, Nitya
 joinDate: 1970-01-01
-function: partnerships
+function: transformation
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -17,7 +18,7 @@ linkedinId: nitya
 ---
 
 {%- assign staff = site.data.people | find: "id", "nitya" -%}
-{% include staff_heading.html staff=staff color=site.colors.function-colors.partnerships %}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.transformation %}
 
 <p>I joined since {{page.joinDate}} and I am currently working on {{page.curProducts}}.</p>
 

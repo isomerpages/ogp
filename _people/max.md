@@ -2,6 +2,7 @@
 title: Tan, Huiyi
 permalink: /people/max
 description: "Tan, Huiyi - Job Title"
+third_nav_title: Software Engineering
 id: max
 name: Tan, Huiyi
 joinDate: 2023-06-03

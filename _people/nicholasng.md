@@ -2,6 +2,7 @@
 title: Ng, Nicholas Zhi Hao
 permalink: /people/nicholasng
 description: "Ng, Nicholas Zhi Hao - Job Title"
+third_nav_title: Software Engineering
 id: nicholasng
 name: Ng, Nicholas Zhi Hao
 joinDate: 1970-01-01

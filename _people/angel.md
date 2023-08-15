@@ -2,6 +2,7 @@
 title: Suhardi, Maria
 permalink: /people/angel
 description: "Suhardi, Maria - Job Title"
+third_nav_title: Software Engineering
 id: angel
 name: Suhardi, Maria
 joinDate: 1970-01-01

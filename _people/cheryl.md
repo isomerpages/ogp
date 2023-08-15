@@ -2,6 +2,7 @@
 title: Lee, Cheryl
 permalink: /people/cheryl
 description: "Lee, Cheryl - Job Title"
+third_nav_title: Product Management
 id: cheryl
 name: Lee, Cheryl
 joinDate: 1970-01-01

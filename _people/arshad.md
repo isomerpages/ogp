@@ -2,6 +2,7 @@
 title: s/o Abdul Samad, Arshad Ali
 permalink: /people/arshad
 description: "s/o Abdul Samad, Arshad Ali - Job Title"
+third_nav_title: Software Engineering
 id: arshad
 name: s/o Abdul Samad, Arshad Ali
 joinDate: 1970-01-01

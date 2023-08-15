@@ -2,6 +2,7 @@
 title: Chow, Christian
 permalink: /people/christian
 description: "Chow, Christian - Job Title"
+third_nav_title: Software Engineering
 id: christian
 name: Chow, Christian
 joinDate: 1970-01-01

@@ -2,6 +2,7 @@
 title: Lee, Siu Hei
 permalink: /people/brianlee
 description: "Lee, Siu Hei - Job Title"
+third_nav_title: Product Management
 id: brianlee
 name: Lee, Siu Hei
 joinDate: 20/03/2023

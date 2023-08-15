@@ -2,6 +2,7 @@
 title: Neo, Xiuwen Christabel
 permalink: /people/christabel
 description: "Neo, Xiuwen Christabel - Job Title"
+third_nav_title: Software Engineering
 id: christabel
 name: Neo, Xiuwen Christabel
 joinDate: 1970-01-01

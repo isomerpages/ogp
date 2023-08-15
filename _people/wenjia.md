@@ -2,6 +2,7 @@
 title: Dong, Wen Jia
 permalink: /people/wenjia
 description: "Dong, Wen Jia - Job Title"
+third_nav_title: Software Engineering
 id: wenjia
 name: Dong, Wen Jia
 joinDate: 17/07/2023

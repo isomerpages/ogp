@@ -2,6 +2,7 @@
 title: Goh, Weiying
 permalink: /people/alexis
 description: "Goh, Weiying - Job Title"
+third_nav_title: Software Engineering
 id: alexis
 name: Goh, Weiying
 joinDate: 29/06/2020

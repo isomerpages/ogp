@@ -2,6 +2,7 @@
 title: Lim, Qi Xuan
 permalink: /people/qimmy
 description: "Lim, Qi Xuan - Job Title"
+third_nav_title: Software Engineering
 id: qimmy
 name: Lim, Qi Xuan
 joinDate: 1970-01-01

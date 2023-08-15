@@ -2,6 +2,7 @@
 title: Gan, Chin Yao
 permalink: /people/chinyao
 description: "Gan, Chin Yao - Job Title"
+third_nav_title: Software Engineering
 id: chinyao
 name: Gan, Chin Yao
 joinDate: 1970-01-01

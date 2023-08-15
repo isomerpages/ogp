@@ -2,6 +2,7 @@
 title: Lui, Desmond
 permalink: /people/desmond
 description: "Lui, Desmond - Job Title"
+third_nav_title: Product Design
 id: desmond
 name: Lui, Desmond
 joinDate: 1970-01-01

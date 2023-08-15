@@ -2,6 +2,7 @@
 title: Nguyen, Hung
 permalink: /people/stanley
 description: "Nguyen, Hung - Job Title"
+third_nav_title: Software Engineering
 id: stanley
 name: Nguyen, Hung
 joinDate: 1970-01-01

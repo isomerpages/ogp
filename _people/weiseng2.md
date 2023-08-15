@@ -2,6 +2,7 @@
 title: Tan, Wei Seng
 permalink: /people/weiseng2
 description: "Tan, Wei Seng - Job Title"
+third_nav_title: Software Engineering
 id: weiseng2
 name: Tan, Wei Seng
 joinDate: 22/02/2021

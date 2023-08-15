@@ -2,6 +2,7 @@
 title: Fernando, Amitha
 permalink: /people/amitha
 description: "Fernando, Amitha - Job Title"
+third_nav_title: People Team
 id: amitha
 name: Fernando, Amitha
 joinDate: 1970-01-01

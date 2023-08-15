@@ -2,6 +2,7 @@
 title: Venkatesan, Harish
 permalink: /people/harish
 description: "Venkatesan, Harish - Job Title"
+third_nav_title: Software Engineering
 id: harish
 name: Venkatesan, Harish
 joinDate: 1970-01-01

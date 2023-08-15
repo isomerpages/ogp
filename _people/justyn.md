@@ -2,6 +2,7 @@
 title: Oh, Wei Jin
 permalink: /people/justyn
 description: "Oh, Wei Jin - Job Title"
+third_nav_title: Software Engineering
 id: justyn
 name: Oh, Wei Jin
 joinDate: 13/06/2022

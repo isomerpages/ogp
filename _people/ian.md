@@ -2,6 +2,7 @@
 title: Chen, Wei Ian
 permalink: /people/ian
 description: "Chen, Wei Ian - Job Title"
+third_nav_title: Software Engineering
 id: ian
 name: Chen, Wei Ian
 joinDate: 2018-03-09

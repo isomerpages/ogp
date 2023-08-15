@@ -2,6 +2,7 @@
 title: Tee, May Ying
 permalink: /people/mayying
 description: "Tee, May Ying - Job Title"
+third_nav_title: Software Engineering
 id: mayying
 name: Tee, May Ying
 joinDate: 1970-01-01

@@ -2,6 +2,7 @@
 title: Le Thanh, Dat
 permalink: /people/dat
 description: "Le Thanh, Dat - Job Title"
+third_nav_title: Software Engineering
 id: dat
 name: Le Thanh, Dat
 joinDate: 1970-01-01

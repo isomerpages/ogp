@@ -2,6 +2,7 @@
 title: Yap, Jia Hui
 permalink: /people/jiahui
 description: "Yap, Jia Hui - Job Title"
+third_nav_title: People Team
 id: jiahui
 name: Yap, Jia Hui
 joinDate: 1970-01-01

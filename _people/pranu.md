@@ -2,6 +2,7 @@
 title: Pranu, Sarna
 permalink: /people/pranu
 description: "Pranu, Sarna - Job Title"
+third_nav_title: Software Engineering
 id: pranu
 name: Pranu, Sarna
 joinDate: 1970-01-01

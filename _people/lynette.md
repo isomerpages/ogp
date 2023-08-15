@@ -2,6 +2,7 @@
 title: Lee, Lynette
 permalink: /people/lynette
 description: "Lee, Lynette - Job Title"
+third_nav_title: Software Engineering
 id: lynette
 name: Lee, Lynette
 joinDate: 2023-01-08

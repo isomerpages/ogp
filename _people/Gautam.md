@@ -2,6 +2,7 @@
 title: Manek, Gautam
 permalink: /people/gautam
 description: "Manek, Gautam - Job Title"
+third_nav_title: Software Engineering
 id: gautam
 name: Manek, Gautam
 joinDate: 1970-01-01

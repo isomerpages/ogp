@@ -2,6 +2,7 @@
 title: Tan Ying Jie, Dexter
 permalink: /people/dexter
 description: "Tan Ying Jie, Dexter - Job Title"
+third_nav_title: Software Engineering
 id: dexter
 name: Tan Ying Jie, Dexter
 joinDate: 2022-09-05

@@ -2,6 +2,7 @@
 title: Singh, Ajayraj
 permalink: /people/ajayraj
 description: "Singh, Ajayraj - Job Title"
+third_nav_title: Product Operations
 id: ajayraj
 name: Singh, Ajayraj
 joinDate: 13/06/2022

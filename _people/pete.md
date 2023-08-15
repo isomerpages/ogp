@@ -2,6 +2,7 @@
 title: Patanapanlert, Pete
 permalink: /people/pete
 description: "Patanapanlert, Pete - Job Title"
+third_nav_title: Product Management
 id: pete
 name: Patanapanlert, Pete
 joinDate: 27/03/2023

@@ -1,9 +1,9 @@
 ---
-title: Design
+title: Product Design
 permalink: /about-us/design
 ---
 
-## **Design**
+## **Product Design**
 
 {%- assign people = site.data.people | where: "function", "design" -%}
 

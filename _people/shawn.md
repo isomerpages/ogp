@@ -2,10 +2,11 @@
 title: Ten, Shawn
 permalink: /people/shawn
 description: "Ten, Shawn - Job Title"
+third_nav_title: Partnerships & Transformation
 id: shawn
 name: Ten, Shawn
 joinDate: 1970-01-01
-function: policy
+function: transformation
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -17,7 +18,7 @@ linkedinId: shawn
 ---
 
 {%- assign staff = site.data.people | find: "id", "shawn" -%}
-{% include staff_heading.html staff=staff color=site.colors.function-colors.policy %}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.transformation %}
 
 <p>I joined since {{page.joinDate}} and I am currently working on {{page.curProducts}}.</p>
 

@@ -2,6 +2,7 @@
 title: Soh, Yi Zhi Zeke
 permalink: /people/zeke
 description: "Soh, Yi Zhi Zeke - Job Title"
+third_nav_title: Software Engineering
 id: zeke
 name: Soh, Yi Zhi Zeke
 joinDate: 1970-01-01

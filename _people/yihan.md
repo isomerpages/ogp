@@ -2,6 +2,7 @@
 title: Liao, Yihan
 permalink: /people/yihan
 description: "Liao, Yihan - Job Title"
+third_nav_title: Software Engineering
 id: yihan
 name: Liao, Yihan
 joinDate: 17/05/2021

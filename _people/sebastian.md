@@ -2,6 +2,7 @@
 title: Wong Zhi Qian, Sebastian
 permalink: /people/sebastian
 description: "Wong Zhi Qian, Sebastian - Job Title"
+third_nav_title: Software Engineering
 id: sebastian
 name: Wong Zhi Qian, Sebastian
 joinDate: 1970-01-01

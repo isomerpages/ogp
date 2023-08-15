@@ -2,6 +2,7 @@
 title: Loh Wan Hua, Nicole
 permalink: /people/nicole
 description: "Loh Wan Hua, Nicole - Job Title"
+third_nav_title: Software Engineering
 id: nicole
 name: Loh Wan Hua, Nicole
 joinDate: 1970-01-01

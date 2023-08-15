@@ -2,6 +2,7 @@
 title: Chiew, Kok Seng
 permalink: /people/kokseng
 description: "Chiew, Kok Seng - Job Title"
+third_nav_title: Software Engineering
 id: kokseng
 name: Chiew, Kok Seng
 joinDate: 1970-01-01

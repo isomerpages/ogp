@@ -2,6 +2,7 @@
 title: Lau, Kar Rui
 permalink: /people/karrui
 description: "Lau, Kar Rui - Job Title"
+third_nav_title: Software Engineering
 id: karrui
 name: Lau, Kar Rui
 joinDate: 2020-03-02

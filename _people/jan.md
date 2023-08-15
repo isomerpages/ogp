@@ -2,6 +2,7 @@
 title: Donyada, Jan
 permalink: /people/jan
 description: "Donyada, Jan - Job Title"
+third_nav_title: Product Management
 id: jan
 name: Donyada, Jan
 joinDate: 1970-01-01

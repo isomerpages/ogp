@@ -2,10 +2,11 @@
 title: Ang, Chien Ling
 permalink: /people/chienling
 description: "Ang, Chien Ling - Job Title"
+third_nav_title: People Team
 id: chienling
 name: Ang, Chien Ling
 joinDate: 2021-10-08
-function: people
+function: corporate
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -16,7 +17,7 @@ linkedinId: chienling
 ---
 
 {%- assign staff = site.data.people | find: "id", "chienling" -%}
-{% include staff_heading.html staff=staff color=site.colors.function-colors.people %}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.corporate %}
 
 <p>I joined since {{page.joinDate}} and I am currently working on {{page.curProducts}}.</p>
 

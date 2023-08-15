@@ -2,6 +2,7 @@
 title: Loh, Benjamin
 permalink: /people/benjaminloh
 description: "Loh, Benjamin - Job Title"
+third_nav_title: Software Engineering
 id: benjaminloh
 name: Loh, Benjamin
 joinDate: 1970-01-01

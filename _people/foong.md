@@ -2,6 +2,7 @@
 title: Yi Zhuan, Foong
 permalink: /people/foong
 description: "Yi Zhuan, Foong - Job Title"
+third_nav_title: Software Engineering
 id: foong
 name: Yi Zhuan, Foong
 joinDate: 17/07/2023

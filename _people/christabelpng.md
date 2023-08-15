@@ -2,6 +2,7 @@
 title: Png, Christabel
 permalink: /people/christabelpng
 description: "Png, Christabel - Job Title"
+third_nav_title: Product Design
 id: christabelpng
 name: Png, Christabel
 joinDate: 2020-01-06

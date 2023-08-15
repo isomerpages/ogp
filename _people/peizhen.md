@@ -2,6 +2,7 @@
 title: Yap, Pei Zhen
 permalink: /people/peizhen
 description: "Yap, Pei Zhen - Job Title"
+third_nav_title: Software Engineering
 id: peizhen
 name: Yap, Pei Zhen
 joinDate: 2023-08-05

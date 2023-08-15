@@ -2,6 +2,7 @@
 title: Bansal, Prakriti
 permalink: /people/prakriti
 description: "Bansal, Prakriti - Job Title"
+third_nav_title: Software Engineering
 id: prakriti
 name: Bansal, Prakriti
 joinDate: 1970-01-01

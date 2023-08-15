@@ -2,10 +2,11 @@
 title: Raj Kumar, Praveen
 permalink: /people/praveen
 description: "Raj Kumar, Praveen - Job Title"
+third_nav_title: Partnerships & Transformation
 id: praveen
 name: Raj Kumar, Praveen
 joinDate: 1970-01-01
-function: policy
+function: transformation
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -16,7 +17,7 @@ linkedinId: praveen
 ---
 
 {%- assign staff = site.data.people | find: "id", "praveen" -%}
-{% include staff_heading.html staff=staff color=site.colors.function-colors.policy %}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.transformation %}
 
 <p>I joined since {{page.joinDate}} and I am currently working on {{page.curProducts}}.</p>
 

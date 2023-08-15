@@ -2,6 +2,7 @@
 title: Gong, Blake
 permalink: /people/blake
 description: "Gong, Blake - Job Title"
+third_nav_title: Software Engineering
 id: blake
 name: Gong, Blake
 joinDate: 1970-01-01

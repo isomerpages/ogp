@@ -2,6 +2,7 @@
 title: Tan, Le Yang
 permalink: /people/leyang
 description: "Tan, Le Yang - Job Title"
+third_nav_title: Software Engineering
 id: leyang
 name: Tan, Le Yang
 joinDate: 1970-01-01

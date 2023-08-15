@@ -2,6 +2,7 @@
 title: Zaw, Khant
 permalink: /people/khant
 description: "Zaw, Khant - Job Title"
+third_nav_title: Software Engineering
 id: khant
 name: Zaw, Khant
 joinDate: 1970-01-01

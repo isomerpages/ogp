@@ -2,6 +2,7 @@
 title: Hsu, Zhong Jun
 permalink: /people/zhongjun
 description: "Hsu, Zhong Jun - Job Title"
+third_nav_title: Software Engineering
 id: zhongjun
 name: Hsu, Zhong Jun
 joinDate: 2022-08-08

@@ -2,6 +2,7 @@
 title: R, Kishore
 permalink: /people/kishore
 description: "R, Kishore - Job Title"
+third_nav_title: Software Engineering
 id: kishore
 name: R, Kishore
 joinDate: 1970-01-01

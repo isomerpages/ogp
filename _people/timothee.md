@@ -2,6 +2,7 @@
 title: Groleau, Timothee
 permalink: /people/timothee
 description: "Groleau, Timothee - Lead Software Engineer"
+third_nav_title: Software Engineering
 id: timothee
 name: Groleau, Timothee
 joinDate: 1970-01-01

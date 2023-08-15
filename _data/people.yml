@@ -1,7 +1,7 @@
 - id: chienling
   name: Ang, Chien Ling
   joinDate: 2021-10-08
-  function: people
+  function: corporate
   jobTitle: Job Title
   curProducts: currentProducts
   pastProducts: pastProducts
@@ -127,9 +127,9 @@
 - id: russell
   name: Chan, Russell
   joinDate: 2019-09-02
-  function: people
-  jobTitle: Job Title
-  curProducts: Head of People Team
+  function: corporate
+  jobTitle: Head of People Team
+  curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: >-
     * Grew the People team from an individual contributor practice to a team of
@@ -248,7 +248,7 @@
 - id: bernadette
   name: Cho, Bernadette Marisa Chien Ling
   joinDate: 1970-01-01
-  function: people
+  function: corporate
   jobTitle: Job Title
   curProducts: currentProducts
   pastProducts: pastProducts
@@ -357,7 +357,7 @@
 - id: sarahespaldon
   name: Espaldon, Sarah
   joinDate: 2019-04-11
-  function: marketing
+  function: corporate
   jobTitle: Job Title
   curProducts: currentProducts
   pastProducts: pastProducts
@@ -367,7 +367,7 @@
 - id: hygin
   name: Fernandez, Hygin
   joinDate: 1970-01-01
-  function: policy
+  function: transformation
   jobTitle: Job Title
   curProducts: currentProducts
   pastProducts: pastProducts
@@ -491,7 +491,7 @@
 - id: shannen
   name: Ho Yun Fang, Shannen
   joinDate: 1970-01-01
-  function: marketing
+  function: corporate
   jobTitle: Job Title
   curProducts: currentProducts
   pastProducts: pastProducts
@@ -546,10 +546,19 @@
   name: Huang, Kaiwen
   joinDate: 2016-04-07
   function: eng
-  jobTitle: Job Title
-  curProducts: currentProducts
-  pastProducts: pastProducts
-  accomplishments: ""
+  jobTitle: Senior Software Engineer
+  curProducts: "* PaySG"
+  pastProducts: |-
+    * Parking.sg
+    * Scamshield
+    * FormSG
+    * Redeem
+  accomplishments: >-
+    * Tech lead for Redeem, ParkingSG, and PawsTogether
+
+    * Served as the subject matter expert on mobile app development across OGP, consulting on multiple products and driving discussions with Apple on OGP organisation accounts
+
+    * Worked with the other FinTech team members to drive a strong team culture of user-centricity, iterativeness, and cross-functional collaboration
   quote: The most important thing in the world is family and love.
   linkedinId: kaiwen
 - id: zulhilmi
@@ -794,7 +803,7 @@
 - id: huixuan
   name: Leow, Hui Xuan
   joinDate: 2022-04-07
-  function: policy
+  function: transformation
   jobTitle: Job Title
   curProducts: currentProducts
   pastProducts: pastProducts
@@ -818,7 +827,7 @@
   name: Li, Hongyi
   joinDate: 1970-01-01
   function: corporate
-  jobTitle: Job Title
+  jobTitle: Director OGP
   curProducts: currentProducts
   pastProducts: pastProducts
   accomplishments: ""
@@ -1016,7 +1025,7 @@
 - id: nitya
   name: Menon, Nitya
   joinDate: 1970-01-01
-  function: partnerships
+  function: transformation
   jobTitle: Job Title
   curProducts: currentProducts
   pastProducts: pastProducts
@@ -1236,7 +1245,7 @@
 - id: praveen
   name: Raj Kumar, Praveen
   joinDate: 1970-01-01
-  function: policy
+  function: transformation
   jobTitle: Job Title
   curProducts: currentProducts
   pastProducts: pastProducts
@@ -1367,7 +1376,7 @@
 - id: stephanie
   name: Siow, Stephanie
   joinDate: 2022-01-04
-  function: partnerships
+  function: transformation
   jobTitle: Job Title
   curProducts: currentProducts
   pastProducts: pastProducts
@@ -1428,7 +1437,7 @@
 - id: airika
   name: Takeguchi, Airika
   joinDate: 1970-01-01
-  function: people
+  function: corporate
   jobTitle: Job Title
   curProducts: currentProducts
   pastProducts: pastProducts
@@ -1605,7 +1614,7 @@
 - id: shawn
   name: Ten, Shawn
   joinDate: 1970-01-01
-  function: policy
+  function: transformation
   jobTitle: Job Title
   curProducts: currentProducts
   pastProducts: pastProducts

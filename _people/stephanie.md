@@ -2,10 +2,11 @@
 title: Siow, Stephanie
 permalink: /people/stephanie
 description: "Siow, Stephanie - Job Title"
+third_nav_title: Partnerships & Transformation
 id: stephanie
 name: Siow, Stephanie
 joinDate: 2022-01-04
-function: partnerships
+function: transformation
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -16,7 +17,7 @@ linkedinId: stephanie
 ---
 
 {%- assign staff = site.data.people | find: "id", "stephanie" -%}
-{% include staff_heading.html staff=staff color=site.colors.function-colors.partnerships %}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.transformation %}
 
 <p>I joined since {{page.joinDate}} and I am currently working on {{page.curProducts}}.</p>
 

@@ -2,6 +2,7 @@
 title: Yang, XingHao
 permalink: /people/xinghao
 description: "Yang, XingHao - Job Title"
+third_nav_title: Software Engineering
 id: xinghao
 name: Yang, XingHao
 joinDate: 1970-01-01

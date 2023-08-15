@@ -2,6 +2,7 @@
 title: Chan, Daryl
 permalink: /people/daryl
 description: "Chan, Daryl - Job Title"
+third_nav_title: Software Engineering
 id: daryl
 name: Chan, Daryl
 joinDate: 2022-03-01

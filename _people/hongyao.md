@@ -2,6 +2,7 @@
 title: Gan, Hong Yao
 permalink: /people/hongyao
 description: "Gan, Hong Yao - Job Title"
+third_nav_title: Software Engineering
 id: hongyao
 name: Gan, Hong Yao
 joinDate: 14/08/2023

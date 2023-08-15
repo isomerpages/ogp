@@ -2,6 +2,7 @@
 title: Lin, Huiqing
 permalink: /people/huiqing
 description: "Lin, Huiqing - Job Title"
+third_nav_title: Software Engineering
 id: huiqing
 name: Lin, Huiqing
 joinDate: 2021-06-09

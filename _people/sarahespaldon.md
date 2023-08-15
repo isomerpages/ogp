@@ -2,10 +2,11 @@
 title: Espaldon, Sarah
 permalink: /people/sarahespaldon
 description: "Espaldon, Sarah - Job Title"
+third_nav_title: People Team
 id: sarahespaldon
 name: Espaldon, Sarah
 joinDate: 2019-04-11
-function: marketing
+function: corporate
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -16,7 +17,7 @@ linkedinId: sarahespaldon
 ---
 
 {%- assign staff = site.data.people | find: "id", "sarahespaldon" -%}
-{% include staff_heading.html staff=staff color=site.colors.function-colors.marketing %}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.corporate %}
 
 <p>I joined since {{page.joinDate}} and I am currently working on {{page.curProducts}}.</p>
 

@@ -1,12 +1,13 @@
 ---
 title: Li, Hongyi
 permalink: /people/lhy
-description: "Li, Hongyi - Job Title"
+description: "Li, Hongyi - Director OGP"
+third_nav_title: People Team
 id: lhy
 name: Li, Hongyi
 joinDate: 1970-01-01
 function: corporate
-jobTitle: Job Title
+jobTitle: Director OGP
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""

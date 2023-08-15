@@ -2,6 +2,7 @@
 title: Lai, Jing Yi
 permalink: /people/jingyi
 description: "Lai, Jing Yi - Job Title"
+third_nav_title: Software Engineering
 id: jingyi
 name: Lai, Jing Yi
 joinDate: 1970-01-01

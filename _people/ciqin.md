@@ -2,6 +2,7 @@
 title: Ghwee, Ciqin
 permalink: /people/ciqin
 description: "Ghwee, Ciqin - Job Title"
+third_nav_title: Software Engineering
 id: ciqin
 name: Ghwee, Ciqin
 joinDate: 22/05/2023

@@ -29,14 +29,11 @@ colors:
       color: "#00838f"
   function-colors:
     corporate: "#1361F0"
-    people: "#1361F0"
-    marketing: "#1361F0"
     design: "#2D978C"
     eng: "#E74F4F"
     ops: "#5D6785"
     pm: "#C4992A"
-    partnership: "#272D41"
-    policy: "#272D41"
+    part_n_pol: "#272D41"
 google_analytics: UA-189280200-1
 staging: https://ogp-staging.netlify.app
 prod: https://isomer-opengovsg-prod.netlify.app

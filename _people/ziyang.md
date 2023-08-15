@@ -2,6 +2,7 @@
 title: See, Zi Yang
 permalink: /people/ziyang
 description: "See, Zi Yang - Job Title"
+third_nav_title: Software Engineering
 id: ziyang
 name: See, Zi Yang
 joinDate: 1970-01-01

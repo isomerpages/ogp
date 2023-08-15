@@ -2,6 +2,7 @@
 title: Ang, Yi Xin
 permalink: /people/yixin
 description: "Ang, Yi Xin - Job Title"
+third_nav_title: Software Engineering
 id: yixin
 name: Ang, Yi Xin
 joinDate: 2023-06-03

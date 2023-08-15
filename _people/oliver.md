@@ -2,6 +2,7 @@
 title: Chan, Oliver
 permalink: /people/oliver
 description: "Chan, Oliver - Job Title"
+third_nav_title: Software Engineering
 id: oliver
 name: Chan, Oliver
 joinDate: 2021-12-13

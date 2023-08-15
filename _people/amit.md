@@ -2,6 +2,7 @@
 title: Samdarshi, Amit
 permalink: /people/amit
 description: "Samdarshi, Amit - Job Title"
+third_nav_title: Product Management
 id: amit
 name: Samdarshi, Amit
 joinDate: 1970-01-01

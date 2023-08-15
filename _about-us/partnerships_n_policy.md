@@ -1,10 +1,9 @@
 ---
-title: Partnerships & Policy
-permalink: /about-us/partnerships_n_policy
+title: Partnerships & Transformation
+permalink: /about-us/transformation
 ---
 
-## **Partnerships & Policy**
+## **Partnerships & Transformation**
 
-{%- assign people = site.data.people | where_exp: "staff", "staff.function == 'partnerships' or staff.function == 'policy'" -%}
-
+{%- assign people = site.data.people | where_exp: "staff", "staff.function == 'transformation'" | sort 'name' -%}
 {% include people-of-OGP.html people=people color=site.colors.function-colors.partnership  %}

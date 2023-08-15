@@ -2,10 +2,11 @@
 title: Leow, Hui Xuan
 permalink: /people/huixuan
 description: "Leow, Hui Xuan - Job Title"
+third_nav_title: Partnerships & Transformation
 id: huixuan
 name: Leow, Hui Xuan
 joinDate: 2022-04-07
-function: policy
+function: transformation
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -17,7 +18,7 @@ linkedinId: huixuan
 ---
 
 {%- assign staff = site.data.people | find: "id", "huixuan" -%}
-{% include staff_heading.html staff=staff color=site.colors.function-colors.policy %}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.transformation %}
 
 <p>I joined since {{page.joinDate}} and I am currently working on {{page.curProducts}}.</p>
 

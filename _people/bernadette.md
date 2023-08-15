@@ -2,10 +2,11 @@
 title: Cho, Bernadette Marisa Chien Ling
 permalink: /people/bernadette
 description: "Cho, Bernadette Marisa Chien Ling - Job Title"
+third_nav_title: People Team
 id: bernadette
 name: Cho, Bernadette Marisa Chien Ling
 joinDate: 1970-01-01
-function: people
+function: corporate
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -17,7 +18,7 @@ linkedinId: bernadette
 ---
 
 {%- assign staff = site.data.people | find: "id", "bernadette" -%}
-{% include staff_heading.html staff=staff color=site.colors.function-colors.people %}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.corporate %}
 
 <p>I joined since {{page.joinDate}} and I am currently working on {{page.curProducts}}.</p>
 

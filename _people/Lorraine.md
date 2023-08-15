@@ -2,6 +2,7 @@
 title: Choo, Lorraine
 permalink: /people/lorraine
 description: "Choo, Lorraine - Job Title"
+third_nav_title: Software Engineering
 id: lorraine
 name: Choo, Lorraine
 joinDate: 1970-01-01

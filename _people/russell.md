@@ -1,13 +1,14 @@
 ---
 title: Chan, Russell
 permalink: /people/russell
-description: "Chan, Russell - Job Title"
+description: "Chan, Russell - Head of People Team"
+third_nav_title: People Team
 id: russell
 name: Chan, Russell
 joinDate: 2019-09-02
-function: people
-jobTitle: Job Title
-curProducts: Head of People Team
+function: corporate
+jobTitle: Head of People Team
+curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: >-
   * Grew the People team from an individual contributor practice to a team of 4
@@ -25,7 +26,7 @@ linkedinId: russell
 ---
 
 {%- assign staff = site.data.people | find: "id", "russell" -%}
-{% include staff_heading.html staff=staff color=site.colors.function-colors.people %}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.corporate %}
 
 <p>I joined since {{page.joinDate}} and I am currently working on {{page.curProducts}}.</p>
 

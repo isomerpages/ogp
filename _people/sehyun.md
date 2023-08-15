@@ -2,6 +2,7 @@
 title: Park, Se Hyun
 permalink: /people/sehyun
 description: "Park, Se Hyun - Job Title"
+third_nav_title: Software Engineering
 id: sehyun
 name: Park, Se Hyun
 joinDate: 1970-01-01

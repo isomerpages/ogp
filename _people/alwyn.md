@@ -2,6 +2,7 @@
 title: Tan, Alwyn Solomon
 permalink: /people/alwyn
 description: "Tan, Alwyn Solomon - Job Title"
+third_nav_title: Software Engineering
 id: alwyn
 name: Tan, Alwyn Solomon
 joinDate: 1970-01-01

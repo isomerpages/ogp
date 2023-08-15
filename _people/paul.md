@@ -2,6 +2,7 @@
 title: Tay, Paul hong
 permalink: /people/paul
 description: "Tay, Paul hong - Job Title"
+third_nav_title: Product Management
 id: paul
 name: Tay, Paul hong
 joinDate: 1970-01-01

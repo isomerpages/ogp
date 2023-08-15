@@ -2,10 +2,11 @@
 title: Takeguchi, Airika
 permalink: /people/airika
 description: "Takeguchi, Airika - Job Title"
+third_nav_title: People Team
 id: airika
 name: Takeguchi, Airika
 joinDate: 1970-01-01
-function: people
+function: corporate
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -16,7 +17,7 @@ linkedinId: airika
 ---
 
 {%- assign staff = site.data.people | find: "id", "airika" -%}
-{% include staff_heading.html staff=staff color=site.colors.function-colors.people %}
+{% include staff_heading.html staff=staff color=site.colors.function-colors.corporate %}
 
 <p>I joined since {{page.joinDate}} and I am currently working on {{page.curProducts}}.</p>
 

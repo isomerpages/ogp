@@ -2,6 +2,7 @@
 title: Teo, Shu Li
 permalink: /people/shuli
 description: "Teo, Shu Li - Job Title"
+third_nav_title: Software Engineering
 id: shuli
 name: Teo, Shu Li
 joinDate: 20/04/2020

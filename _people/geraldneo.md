@@ -2,6 +2,7 @@
 title: Neo, Gerald
 permalink: /people/geraldneo
 description: "Neo, Gerald - Job Title"
+third_nav_title: Software Engineering
 id: geraldneo
 name: Neo, Gerald
 joinDate: 22/05/2023

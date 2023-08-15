@@ -2,6 +2,7 @@
 title: Ho, Ivan
 permalink: /people/ivan
 description: "Ho, Ivan - Job Title"
+third_nav_title: Software Engineering
 id: ivan
 name: Ho, Ivan
 joinDate: 2020-06-04

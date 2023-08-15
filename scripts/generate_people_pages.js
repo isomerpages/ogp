@@ -12,6 +12,26 @@ const STAFF_TEMPLATE_MD = './staff.md.template'
 const TARGET_PEOPLE_DATA_FILE_YML = '../_data/people.yml'
 const TARGET_PEOPLE_COLLECTION_DIR = '../_people/'
 
+const functionNameToFunctionId = {
+    'Software Engineering': 'eng',
+    'Product Management': 'pm',
+    'Corporate Team': 'corporate',
+    'People Team': 'corporate',
+    'Marketing Team': 'corporate',
+    'Product Design': 'design',
+    'Product Operations': 'ops',
+    'Partnerships & Transformation': 'transformation',
+}
+
+const functionIdToFunctionName = {
+    corporate: 'Corporate Team',
+    eng: 'Software Engineering',
+    pm: 'Product Management',
+    design: 'Product Design',
+    ops: 'Product Operations',
+    transformation: 'Partnerships & Transformation',
+}
+
 // https://www.shutterfly.com/ideas/family-quotes/
 const familyQuotes = [
     'The most important thing in the world is family and love.',
@@ -80,7 +100,7 @@ const namedRecords = records.map(([name, joinDate, email, func, jobTitle, curPro
         id,
         name,
         joinDate: joinDate || '1970-01-01',
-        function: func || 'eng', // stupid default, but to make sure things don't break 🤷
+        function: functionNameToFunctionId[func] || (functionIdToFunctionName[func] ? func : 'eng'), // stupid default, but to make sure things don't break 🤷
         jobTitle: jobTitle || 'Job Title',
         curProducts: curProducts || 'currentProducts',
         pastProducts: pastProducts || 'pastProducts',
@@ -103,7 +123,10 @@ for (const record of namedRecords) {
     console.log(`Writing file for ${record.id} (${record.name})`
     )
 
+    // augment the record with new field
     record.yamlData = YAML.stringify(record)
+    record.functionId = record.function
+    record.functionName = functionIdToFunctionName[record.function]
 
     const processed = templateContent.replace(/\{\{([a-z]+)\}\}/gi, (_match, itemId) => {
         if (!(itemId in record)) {
@@ -119,3 +142,7 @@ for (const record of namedRecords) {
     catch(err) {}
     await writeFile(`${TARGET_PEOPLE_COLLECTION_DIR}${record.id}.md`, processed)
 }
+
+
+// 3. Generate "About Us" Navigation
+

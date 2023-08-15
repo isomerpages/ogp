@@ -2,6 +2,7 @@
 title: Lenus, Latasha
 permalink: /people/latasha
 description: "Lenus, Latasha - Job Title"
+third_nav_title: Software Engineering
 id: latasha
 name: Lenus, Latasha
 joinDate: 1970-01-01

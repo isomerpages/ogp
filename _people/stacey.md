@@ -2,6 +2,7 @@
 title: Tan Seok Sim, Stacey
 permalink: /people/stacey
 description: "Tan Seok Sim, Stacey - Job Title"
+third_nav_title: Product Design
 id: stacey
 name: Tan Seok Sim, Stacey
 joinDate: 2022-07-02

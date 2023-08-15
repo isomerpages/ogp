@@ -2,6 +2,7 @@
 title: Wong, Kendra
 permalink: /people/kendra
 description: "Wong, Kendra - Job Title"
+third_nav_title: Software Engineering
 id: kendra
 name: Wong, Kendra
 joinDate: 1970-01-01

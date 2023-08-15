@@ -2,6 +2,7 @@
 title: s/o Selvan, Pallanikumaran
 permalink: /people/pallani
 description: "s/o Selvan, Pallanikumaran - Job Title"
+third_nav_title: Software Engineering
 id: pallani
 name: s/o Selvan, Pallanikumaran
 joinDate: 2015-11-05
