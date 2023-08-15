@@ -33,6 +33,11 @@
   sum: Find and book vaccine appointments near you
   link: /products/HAS
 
+- title: HIGHWAY
+  image: /images/highway.png
+  sum: Secure file collection for government agencies
+  link: /products/highway
+
 - title: ISOMER
   sum: A static website building and hosting solution for the public service
   image: /images/isomer.png
