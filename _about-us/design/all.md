@@ -1,5 +1,5 @@
 ---
-title: Meat The Team
+title: Meet The Team
 permalink: /about-us/design
 third_nav_title: Product Design
 ---

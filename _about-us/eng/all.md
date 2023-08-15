@@ -1,5 +1,5 @@
 ---
-title: Meat The Team
+title: Meet The Team
 permalink: /about-us/eng
 third_nav_title: Software Engineering
 ---
