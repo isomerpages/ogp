@@ -7,4 +7,4 @@ third_nav_title: Product Design
 ## **Product Design**
 
 {%- assign people = site.data.people | where: "functionId", "design" | sort: 'name' -%}
-{% include people-of-OGP.html people=people color=site.colors.function-colors.design %}
+{% include staff-list.html people=people color=site.colors.function-colors.design %}

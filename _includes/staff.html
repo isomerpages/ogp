@@ -1,3 +1,5 @@
+{% assign color=site.colors.function-colors.{{include.staff.functionId}} %}
+
 <style>
     .heading {
         display: flex;
@@ -66,7 +68,7 @@
 
 <div class="heading">
     <div class="main">
-        <div class="info" style="background-color:{{include.color}}">
+        <div class="info" style="background-color:{{color}}">
             <div class="staff-name">{{ include.staff.name }}</div>
             <div class="staff-title">{{ include.staff.jobTitle }}</div>
             <div class="staff-linkedin">
@@ -80,11 +82,11 @@
                         >
                         <path
                         d="M6.6439 9.59596C8.2551 9.59596 9.56123 8.28982 9.56123 6.67862C9.56123 5.06743 8.2551 3.76129 6.6439 3.76129C5.0327 3.76129 3.72656 5.06743 3.72656 6.67862C3.72656 8.28982 5.0327 9.59596 6.6439 9.59596Z"
-                        fill="{{include.color}}"
+                        fill="{{color}}"
                         />
                         <path
                         d="M12.3163 11.8067V27.9921H17.3416V19.9881C17.3416 17.8761 17.739 15.8307 20.3576 15.8307C22.9403 15.8307 22.9723 18.2454 22.9723 20.1214V27.9934H28.0003V19.1174C28.0003 14.7574 27.0616 11.4067 21.9656 11.4067C19.519 11.4067 17.879 12.7494 17.2083 14.0201H17.1403V11.8067H12.3163ZM4.12695 11.8067H9.16029V27.9921H4.12695V11.8067Z"
-                        fill="{{include.color}}"
+                        fill="{{color}}"
                         />
                     </svg>
                     <span>{{ include.staff.name }}</span>

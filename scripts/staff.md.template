@@ -6,4 +6,4 @@ third_nav_title: {{functionName}}
 {{yamlData}}
 ---
 
-{% include staff.html staff=page color=site.colors.function-colors.{{functionId}} %}
+{% include staff.html staff=page %}
