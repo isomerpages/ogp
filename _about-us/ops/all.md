@@ -1,5 +1,5 @@
 ---
-title: All
+title: Meat The Team
 permalink: /about-us/ops
 third_nav_title: Product Operations
 ---

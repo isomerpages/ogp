@@ -1,5 +1,5 @@
 ---
-title: All
+title: Meat The Team
 permalink: /about-us/corporate
 third_nav_title: Corporate Team
 ---

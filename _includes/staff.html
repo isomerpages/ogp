@@ -13,7 +13,7 @@
     }
 
     .staff-info {
-        border-radius: 9px 0 0 9px;
+        border-radius: 4px 0 0 4px;
         width: 329px;
         height: 160px;
         overflow: hidden;
@@ -29,7 +29,7 @@
     .staff-pic {
         width: 160px;
         height: 160px;
-        border-radius: 0 9px 9px 0;
+        border-radius: 0 4px 4px 0;
         background-repeat: no-repeat;
         background-size: cover;
     }
@@ -99,9 +99,9 @@
     <q>{{ include.staff.quote }}</q>
 </div>
 
-<p>I joined since {{include.staff.joinDate}} and I am currently working on {{include.staff.curProducts | join: ', '}}.</p>
+<p><strong>I joined since {{include.staff.joinDate}} and I am currently working on</strong> {{include.staff.curProducts | join: ', '}}.</p>
 
-<p>Products I worked on before include {{include.staff.pastProducts | join: ', '}}</p>
+<p><strong>Products I worked on before include</strong> {{include.staff.pastProducts | join: ', '}}</p>
 
-<p>Three things I've done recently which I'm proud of are...</p>
+<p><strong>Three things I've done recently which I'm proud of are...</strong></p>
 {{include.staff.accomplishments}}
