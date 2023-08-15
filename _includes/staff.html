@@ -1,18 +1,18 @@
 {% assign color=site.colors.function-colors.{{include.staff.functionId}} %}
 
 <style>
-    .heading {
+    .staff-heading {
         display: flex;
         gap: 20px;
         font-size: 16px;
     }
 
-    .main {
+    .staff-main {
         display: flex;
         gap: 0;
     }
 
-    .info {
+    .staff-info {
         border-radius: 9px 0 0 9px;
         width: 329px;
         height: 160px;
@@ -66,9 +66,9 @@
     }
 </style>
 
-<div class="heading">
-    <div class="main functionId:{{include.staff.functionId}}">
-        <div class="info" style="background-color:{{color}}">
+<div class="staff-heading">
+    <div class="staff-main functionId:{{include.staff.functionId}}">
+        <div class="staff-info" style="background-color:{{color}}">
             <div class="staff-name">{{ include.staff.name }}</div>
             <div class="staff-title">{{ include.staff.jobTitle }}</div>
             <div class="staff-linkedin">
