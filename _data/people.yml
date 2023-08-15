@@ -1273,6 +1273,26 @@
   accomplishments: ""
   quote: Family and friendships are two of the greatest facilitators of happiness.
   linkedinId: suhaila
+- id: arshad
+  name: s/o Abdul Samad, Arshad Ali
+  joinDate: 1970-01-01
+  functionId: eng
+  jobTitle: Job Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
+  accomplishments: ""
+  quote: Treat your family like friends and your friends like family.
+  linkedinId: arshad
+- id: pallani
+  name: s/o Selvan, Pallanikumaran
+  joinDate: 2015-11-05
+  functionId: eng
+  jobTitle: Job Title
+  curProducts: currentProducts
+  pastProducts: pastProducts
+  accomplishments: ""
+  quote: Family and friends are hidden treasures, seek them and enjoy their riches.
+  linkedinId: pallani
 - id: khaleedah
   name: Sairi, Khaleedah
   joinDate: 2021-12-07
@@ -1841,23 +1861,3 @@
   quote: The family is the test of freedom; because the family is the only thing
     that the free man makes for himself and by himself.
   linkedinId: khant
-- id: arshad
-  name: s/o Abdul Samad, Arshad Ali
-  joinDate: 1970-01-01
-  functionId: eng
-  jobTitle: Job Title
-  curProducts: currentProducts
-  pastProducts: pastProducts
-  accomplishments: ""
-  quote: Treat your family like friends and your friends like family.
-  linkedinId: arshad
-- id: pallani
-  name: s/o Selvan, Pallanikumaran
-  joinDate: 2015-11-05
-  functionId: eng
-  jobTitle: Job Title
-  curProducts: currentProducts
-  pastProducts: pastProducts
-  accomplishments: ""
-  quote: Family and friends are hidden treasures, seek them and enjoy their riches.
-  linkedinId: pallani

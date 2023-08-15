@@ -116,7 +116,7 @@ const namedRecords = records.map(([name, joinDate, email, func, jobTitle, curPro
 })
 
 // order the record by name
-namedRecords.sort((r1, r2) => r1.name < r2.name ? -1 : 1)
+namedRecords.sort((r1, r2) => r1.name.toLowerCase() < r2.name.toLowerCase() ? -1 : 1)
 
 await writeFile(TARGET_PEOPLE_DATA_FILE_YML, YAML.stringify(namedRecords))
 

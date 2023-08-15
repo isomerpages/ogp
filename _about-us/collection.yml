@@ -111,6 +111,8 @@ collections:
       - eng/pranu.md
       - eng/kishore.md
       - eng/rachel.md
+      - eng/arshad.md
+      - eng/pallani.md
       - eng/chinying.md
       - eng/sean.md
       - eng/ziyang.md
@@ -146,8 +148,6 @@ collections:
       - eng/foong.md
       - eng/yuling.md
       - eng/khant.md
-      - eng/arshad.md
-      - eng/pallani.md
       - ops/all.md
       - ops/shazli.md
       - ops/shreyas.md
