@@ -1,4 +1,0 @@
-collections:
-  people:
-    sort_by: title
-    output: true

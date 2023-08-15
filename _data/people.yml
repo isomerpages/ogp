@@ -8,7 +8,6 @@
   accomplishments: ""
   quote: The most important thing in the world is family and love.
   linkedinId: chienling
-  functionName: Corporate Team
 - id: jasmine
   name: Ang, Jasmine
   joinDate: 1970-01-01
@@ -19,7 +18,6 @@
   accomplishments: ""
   quote: Nothing is better than going home to family and eating good food and relaxing
   linkedinId: jasmine
-  functionName: Software Engineering
 - id: yixin
   name: Ang, Yi Xin
   joinDate: 2023-06-03
@@ -30,7 +28,6 @@
   accomplishments: ""
   quote: To us, family means putting your arms around each other and being there.
   linkedinId: yixin
-  functionName: Software Engineering
 - id: kishen
   name: Ashok Kumar, Kishen
   joinDate: 2022-06-06
@@ -42,7 +39,6 @@
   quote: In family life, love is the oil that eases friction, the cement that
     binds closer together, and the music that brings harmony.
   linkedinId: kishen
-  functionName: Software Engineering
 - id: prakriti
   name: Bansal, Prakriti
   joinDate: 1970-01-01
@@ -53,7 +49,6 @@
   accomplishments: ""
   quote: Other things may change us, but we start and end with the family.
   linkedinId: prakriti
-  functionName: Software Engineering
 - id: shanty
   name: Basrur, Shantanu Dilip
   joinDate: 1970-01-01
@@ -65,7 +60,6 @@
   quote: Having somewhere to go is home. Having someone to love is family. And
     having both is a blessing.
   linkedinId: shanty
-  functionName: Software Engineering
 - id: sheikh
   name: Bin Mohamed Aneess Alrragi, Sheikh Salim
   joinDate: 1970-01-01
@@ -77,7 +71,6 @@
   quote: Being a family means you are a part of something very wonderful. It means
     you will love and be loved for the rest of your life.
   linkedinId: sheikh
-  functionName: Software Engineering
 - id: sufyan
   name: Bin Selamet, Sufyan
   joinDate: 1970-01-01
@@ -89,7 +82,6 @@
   quote: Happiness is having a large, loving, caring, close-knit family in another
     city.
   linkedinId: sufyan
-  functionName: Software Engineering
 - id: shazli
   name: Bin Shahril Shintaro, Muhammad Shazli
   joinDate: 1970-01-01
@@ -101,7 +93,6 @@
   quote: The informality of family life is a blessed condition that allows us all
     to become our best while looking our worst.
   linkedinId: shazli
-  functionName: Product Operations
 - id: benjamin
   name: Bowes, Benjamin
   joinDate: 1970-01-01
@@ -112,7 +103,6 @@
   accomplishments: ""
   quote: Families are like fudge – mostly sweet with a few nuts.
   linkedinId: benjamin
-  functionName: Product Design
 - id: daryl
   name: Chan, Daryl
   joinDate: 2022-03-01
@@ -123,7 +113,6 @@
   accomplishments: ""
   quote: Being part of a family means smiling for photos.
   linkedinId: daryl
-  functionName: Software Engineering
 - id: oliver
   name: Chan, Oliver
   joinDate: 2021-12-13
@@ -135,7 +124,6 @@
   quote: Family ties mean that no matter how much you might want to run from your
     family, you can’t.
   linkedinId: oliver
-  functionName: Software Engineering
 - id: russell
   name: Chan, Russell
   joinDate: 2019-09-02
@@ -155,7 +143,6 @@
     for government organisations to work better, so that we can be a better
     public service.
   linkedinId: russell
-  functionName: Corporate Team
 - id: tiffany
   name: Chan, Tiffany
   joinDate: 1970-01-01
@@ -166,7 +153,6 @@
   accomplishments: ""
   quote: Family is not an important thing. It’s everything.
   linkedinId: tiffany
-  functionName: Software Engineering
 - id: shreyas
   name: Chandrakanth Rao Inna, Shreyas
   joinDate: 22/05/2023
@@ -177,7 +163,6 @@
   accomplishments: ""
   quote: The memories we make with our family is everything.
   linkedinId: shreyas
-  functionName: Product Operations
 - id: kennethchang
   name: Chang, Kenneth
   joinDate: 1970-01-01
@@ -188,7 +173,6 @@
   accomplishments: ""
   quote: Family is family.
   linkedinId: kennethchang
-  functionName: Software Engineering
 - id: ian
   name: Chen, Wei Ian
   joinDate: 2018-03-09
@@ -199,7 +183,6 @@
   accomplishments: ""
   quote: The family is one of nature’s masterpieces.
   linkedinId: ian
-  functionName: Software Engineering
 - id: keith
   name: Chew, Mun Kei
   joinDate: 1970-01-01
@@ -210,7 +193,6 @@
   accomplishments: ""
   quote: In time of test, family is best.
   linkedinId: keith
-  functionName: Software Engineering
 - id: fabian
   name: Chia Hup Peng, Fabian
   joinDate: 2022-04-07
@@ -222,7 +204,6 @@
   quote: It’s all about the quality of life and finding a happy balance between
     work and friends and family.
   linkedinId: fabian
-  functionName: Software Engineering
 - id: clement
   name: Chia, Clement
   joinDate: 1970-01-01
@@ -233,7 +214,6 @@
   accomplishments: ""
   quote: Family and friendships are two of the greatest facilitators of happiness.
   linkedinId: clement
-  functionName: Product Operations
 - id: caleb
   name: Chiam, Caleb
   joinDate: 1970-01-01
@@ -244,7 +224,6 @@
   accomplishments: ""
   quote: Treat your family like friends and your friends like family.
   linkedinId: caleb
-  functionName: Software Engineering
 - id: kokseng
   name: Chiew, Kok Seng
   joinDate: 1970-01-01
@@ -255,7 +234,6 @@
   accomplishments: ""
   quote: Family and friends are hidden treasures, seek them and enjoy their riches.
   linkedinId: kokseng
-  functionName: Software Engineering
 - id: talitha
   name: Chin, Rui Ling Talitha
   joinDate: 15/10/2018
@@ -267,7 +245,6 @@
   quote: Stick to the basics, hold on to your family and friends – they will never
     go out of fashion.
   linkedinId: talitha
-  functionName: Product Management
 - id: bernadette
   name: Cho, Bernadette Marisa Chien Ling
   joinDate: 1970-01-01
@@ -279,7 +256,6 @@
   quote: My family is my life, and everything else comes second as far as what’s
     important to me.
   linkedinId: bernadette
-  functionName: Corporate Team
 - id: jason
   name: Chong, Jason
   joinDate: 2020-11-05
@@ -290,7 +266,6 @@
   accomplishments: ""
   quote: A happy family is but an earlier heaven.
   linkedinId: jason
-  functionName: Software Engineering
 - id: lorraine
   name: Choo, Lorraine
   joinDate: 1970-01-01
@@ -302,7 +277,6 @@
   quote: The family is the test of freedom; because the family is the only thing
     that the free man makes for himself and by himself.
   linkedinId: lorraine
-  functionName: Software Engineering
 - id: christian
   name: Chow, Christian
   joinDate: 1970-01-01
@@ -315,7 +289,6 @@
     world of today keep you from showing how much you love and appreciate your
     family.
   linkedinId: christian
-  functionName: Software Engineering
 - id: hanu
   name: Damodaran, Hanu
   joinDate: 27/02/2023
@@ -327,7 +300,6 @@
   quote: Our family is a circle of strength of love with every birth and every
     union the circle grows.
   linkedinId: hanu
-  functionName: Software Engineering
 - id: danelynn
   name: Danelynn, Ding You Jia,
   joinDate: 1970-01-01
@@ -339,7 +311,6 @@
   quote: There is no doubt that it is around the family and the home that all the
     greatest virtues… are created, strengthened and maintained.
   linkedinId: danelynn
-  functionName: Software Engineering
 - id: sihan
   name: Ding, Si Han
   joinDate: 13/06/2022
@@ -351,7 +322,6 @@
   quote: "Blended families: woven together by choice, strengthened together by
     love, tested by everything, and each uniquely ours."
   linkedinId: sihan
-  functionName: Software Engineering
 - id: wenjia
   name: Dong, Wen Jia
   joinDate: 17/07/2023
@@ -364,7 +334,6 @@
     theirs; the ones who accept you for who you are. The ones that would do
     anything to see you smile and who love you no matter what.
   linkedinId: wenjia
-  functionName: Software Engineering
 - id: jan
   name: Donyada, Jan
   joinDate: 1970-01-01
@@ -375,7 +344,6 @@
   accomplishments: ""
   quote: Family is not defined by our genes, it is built and maintained through love.
   linkedinId: jan
-  functionName: Product Management
 - id: jiachin
   name: Er, Jia Chin
   joinDate: 2021-04-01
@@ -386,7 +354,6 @@
   accomplishments: ""
   quote: I didn’t give you the gift of life, but life gave me the gift of you.
   linkedinId: jiachin
-  functionName: Software Engineering
 - id: sarahespaldon
   name: Espaldon, Sarah
   joinDate: 2019-04-11
@@ -397,7 +364,6 @@
   accomplishments: ""
   quote: Ohana means family and family means nobody gets left behind or forgotten.
   linkedinId: sarahespaldon
-  functionName: Corporate Team
 - id: hygin
   name: Fernandez, Hygin
   joinDate: 1970-01-01
@@ -409,7 +375,6 @@
   quote: This is my family. I found it all on my own. It’s little, and broken, but
     still good. Yeah. Still good.
   linkedinId: hygin
-  functionName: Partnerships & Transformation
 - id: amitha
   name: Fernando, Amitha
   joinDate: 1970-01-01
@@ -420,7 +385,6 @@
   accomplishments: ""
   quote: Some people are worth melting for.
   linkedinId: amitha
-  functionName: Corporate Team
 - id: chifa
   name: Foo, Chi Fa
   joinDate: 1970-01-01
@@ -431,7 +395,6 @@
   accomplishments: ""
   quote: We may have our differences, but nothing’s more important than family.
   linkedinId: chifa
-  functionName: Software Engineering
 - id: yongjie
   name: Foo, Yong Jie
   joinDate: 2019-02-12
@@ -442,7 +405,6 @@
   accomplishments: ""
   quote: Life is beautiful. It’s about giving. It’s about family.
   linkedinId: yongjie
-  functionName: Software Engineering
 - id: chinyao
   name: Gan, Chin Yao
   joinDate: 1970-01-01
@@ -453,7 +415,6 @@
   accomplishments: ""
   quote: Rejoice with your family in the beautiful land of life.
   linkedinId: chinyao
-  functionName: Software Engineering
 - id: hongyao
   name: Gan, Hong Yao
   joinDate: 14/08/2023
@@ -465,7 +426,6 @@
   quote: "Family: A social unit where the father is concerned with parking space,
     the children with outer space, and the mother with closet space."
   linkedinId: hongyao
-  functionName: Software Engineering
 - id: prawira
   name: Genestonlia, Prawira
   joinDate: 1970-01-01
@@ -476,7 +436,6 @@
   accomplishments: ""
   quote: Where there is family, there is love.
   linkedinId: prawira
-  functionName: Software Engineering
 - id: ciqin
   name: Ghwee, Ciqin
   joinDate: 22/05/2023
@@ -487,7 +446,6 @@
   accomplishments: ""
   quote: Family gives you the roots to stand tall and strong.
   linkedinId: ciqin
-  functionName: Software Engineering
 - id: alexis
   name: Goh, Weiying
   joinDate: 29/06/2020
@@ -498,7 +456,6 @@
   accomplishments: ""
   quote: Family is the heart of a home.
   linkedinId: alexis
-  functionName: Software Engineering
 - id: blake
   name: Gong, Blake
   joinDate: 1970-01-01
@@ -510,7 +467,6 @@
   quote: The family – that dear octopus from whose tentacles we never quite
     escape, nor, in our inmost hearts, ever quite wish to.
   linkedinId: blake
-  functionName: Software Engineering
 - id: timothee
   name: Groleau, Timothee
   joinDate: 1970-01-01
@@ -522,7 +478,6 @@
   quote: It didn’t matter how big our house was; it mattered that there was love
     in it.
   linkedinId: timothee
-  functionName: Software Engineering
 - id: james
   name: Hibberd, James
   joinDate: 1970-01-01
@@ -533,7 +488,6 @@
   accomplishments: ""
   quote: To us, family means putting your arms around each other and being there.
   linkedinId: james
-  functionName: Software Engineering
 - id: shannen
   name: Ho Yun Fang, Shannen
   joinDate: 1970-01-01
@@ -545,7 +499,6 @@
   quote: The bond that links your true family is not one of blood, but of respect
     and joy in each other’s life.
   linkedinId: shannen
-  functionName: Corporate Team
 - id: ivan
   name: Ho, Ivan
   joinDate: 2020-06-04
@@ -557,7 +510,6 @@
   quote: "Call it a clan, call it a network, call it a tribe, call it a family:
     Whatever you call it, whoever you are, you need one."
   linkedinId: ivan
-  functionName: Software Engineering
 - id: zonghan
   name: Ho, Zong Han
   joinDate: 1970-01-01
@@ -569,7 +521,6 @@
   quote: Families are the compass that guides us. They are the inspiration to
     reach great heights, and our comfort when we occasionally falter.
   linkedinId: zonghan
-  functionName: Software Engineering
 - id: malcolm
   name: Hong Malcolm, Ong Guan
   joinDate: 1970-01-01
@@ -581,7 +532,6 @@
   quote: The only rock I know that stays steady, the only institution I know that
     works, is the family.
   linkedinId: malcolm
-  functionName: Software Engineering
 - id: zhongjun
   name: Hsu, Zhong Jun
   joinDate: 2022-08-08
@@ -592,7 +542,6 @@
   accomplishments: ""
   quote: When trouble comes, it’s your family that supports you.
   linkedinId: zhongjun
-  functionName: Software Engineering
 - id: kaiwen
   name: Huang, Kaiwen
   joinDate: 2016-04-07
@@ -612,7 +561,6 @@
     * Worked with the other FinTech team members to drive a strong team culture of user-centricity, iterativeness, and cross-functional collaboration
   quote: The most important thing in the world is family and love.
   linkedinId: kaiwen
-  functionName: Software Engineering
 - id: zulhilmi
   name: Icksan, Mohammad Zulhilmi
   joinDate: 1970-01-01
@@ -623,7 +571,6 @@
   accomplishments: ""
   quote: Nothing is better than going home to family and eating good food and relaxing
   linkedinId: zulhilmi
-  functionName: Software Engineering
 - id: aditya
   name: Jain, Aditya
   joinDate: 1970-01-01
@@ -634,7 +581,6 @@
   accomplishments: ""
   quote: To us, family means putting your arms around each other and being there.
   linkedinId: aditya
-  functionName: Software Engineering
 - id: raisa
   name: Kabir, Raisa
   joinDate: 1970-01-01
@@ -646,7 +592,6 @@
   quote: In family life, love is the oil that eases friction, the cement that
     binds closer together, and the music that brings harmony.
   linkedinId: raisa
-  functionName: Software Engineering
 - id: louiz
   name: Kim-Chan, Louiz
   joinDate: 1970-01-01
@@ -657,7 +602,6 @@
   accomplishments: ""
   quote: Other things may change us, but we start and end with the family.
   linkedinId: louiz
-  functionName: Software Engineering
 - id: aiko
   name: Klostermann, Aiko
   joinDate: 1970-01-01
@@ -669,7 +613,6 @@
   quote: Having somewhere to go is home. Having someone to love is family. And
     having both is a blessing.
   linkedinId: aiko
-  functionName: Software Engineering
 - id: kathleen
   name: Koh, Kathleen
   joinDate: 1970-01-01
@@ -681,7 +624,6 @@
   quote: Being a family means you are a part of something very wonderful. It means
     you will love and be loved for the rest of your life.
   linkedinId: kathleen
-  functionName: Product Management
 - id: samuel
   name: Koh, Samuel
   joinDate: 1970-01-01
@@ -693,7 +635,6 @@
   quote: Happiness is having a large, loving, caring, close-knit family in another
     city.
   linkedinId: samuel
-  functionName: Product Operations
 - id: weeloong
   name: Kuan, Wee Loong
   joinDate: 1970-01-01
@@ -705,7 +646,6 @@
   quote: The informality of family life is a blessed condition that allows us all
     to become our best while looking our worst.
   linkedinId: weeloong
-  functionName: Software Engineering
 - id: jiehao
   name: Kwa, Jie Hao
   joinDate: 2019-09-09
@@ -716,7 +656,6 @@
   accomplishments: ""
   quote: Families are like fudge – mostly sweet with a few nuts.
   linkedinId: jiehao
-  functionName: Software Engineering
 - id: jingyi
   name: Lai, Jing Yi
   joinDate: 1970-01-01
@@ -727,7 +666,6 @@
   accomplishments: ""
   quote: Being part of a family means smiling for photos.
   linkedinId: jingyi
-  functionName: Software Engineering
 - id: keewei
   name: Lam, Kee Wei
   joinDate: 2020-01-06
@@ -739,7 +677,6 @@
   quote: Family ties mean that no matter how much you might want to run from your
     family, you can’t.
   linkedinId: keewei
-  functionName: Software Engineering
 - id: karrui
   name: Lau, Kar Rui
   joinDate: 2020-03-02
@@ -750,7 +687,6 @@
   accomplishments: ""
   quote: Family is not an important thing. It’s everything.
   linkedinId: karrui
-  functionName: Software Engineering
 - id: dat
   name: Le Thanh, Dat
   joinDate: 1970-01-01
@@ -761,7 +697,6 @@
   accomplishments: ""
   quote: The memories we make with our family is everything.
   linkedinId: dat
-  functionName: Software Engineering
 - id: alexander
   name: Lee, Alexander
   joinDate: 15/06/2020
@@ -772,7 +707,6 @@
   accomplishments: ""
   quote: Family is family.
   linkedinId: alexander
-  functionName: Software Engineering
 - id: charmaine
   name: Lee, Charmaine
   joinDate: 1970-01-01
@@ -783,7 +717,6 @@
   accomplishments: ""
   quote: The family is one of nature’s masterpieces.
   linkedinId: charmaine
-  functionName: Product Management
 - id: cheryl
   name: Lee, Cheryl
   joinDate: 1970-01-01
@@ -794,7 +727,6 @@
   accomplishments: ""
   quote: In time of test, family is best.
   linkedinId: cheryl
-  functionName: Product Management
 - id: kahhow
   name: Lee, Kahhow
   joinDate: 1970-01-01
@@ -806,7 +738,6 @@
   quote: It’s all about the quality of life and finding a happy balance between
     work and friends and family.
   linkedinId: kahhow
-  functionName: Product Operations
 - id: ken
   name: Lee, Ken
   joinDate: 27/02/2023
@@ -817,7 +748,6 @@
   accomplishments: ""
   quote: Family and friendships are two of the greatest facilitators of happiness.
   linkedinId: ken
-  functionName: Software Engineering
 - id: lynette
   name: Lee, Lynette
   joinDate: 2023-01-08
@@ -828,7 +758,6 @@
   accomplishments: ""
   quote: Treat your family like friends and your friends like family.
   linkedinId: lynette
-  functionName: Software Engineering
 - id: brianlee
   name: Lee, Siu Hei
   joinDate: 20/03/2023
@@ -839,7 +768,6 @@
   accomplishments: ""
   quote: Family and friends are hidden treasures, seek them and enjoy their riches.
   linkedinId: brianlee
-  functionName: Product Management
 - id: zhiying
   name: Lee, Zhi Ying
   joinDate: 2023-08-05
@@ -851,7 +779,6 @@
   quote: Stick to the basics, hold on to your family and friends – they will never
     go out of fashion.
   linkedinId: zhiying
-  functionName: Software Engineering
 - id: latasha
   name: Lenus, Latasha
   joinDate: 1970-01-01
@@ -863,7 +790,6 @@
   quote: My family is my life, and everything else comes second as far as what’s
     important to me.
   linkedinId: latasha
-  functionName: Software Engineering
 - id: enyi
   name: Leong, EnYi
   joinDate: 1970-01-01
@@ -874,7 +800,6 @@
   accomplishments: ""
   quote: A happy family is but an earlier heaven.
   linkedinId: enyi
-  functionName: Software Engineering
 - id: huixuan
   name: Leow, Hui Xuan
   joinDate: 2022-04-07
@@ -886,7 +811,6 @@
   quote: The family is the test of freedom; because the family is the only thing
     that the free man makes for himself and by himself.
   linkedinId: huixuan
-  functionName: Partnerships & Transformation
 - id: boren
   name: Lew, Bo Ren
   joinDate: 1970-01-01
@@ -899,7 +823,6 @@
     world of today keep you from showing how much you love and appreciate your
     family.
   linkedinId: boren
-  functionName: Software Engineering
 - id: lhy
   name: Li, Hongyi
   joinDate: 1970-01-01
@@ -911,7 +834,6 @@
   quote: Our family is a circle of strength of love with every birth and every
     union the circle grows.
   linkedinId: lhy
-  functionName: Corporate Team
 - id: yuanruo
   name: Liang, Yuanruo
   joinDate: 2019-01-07
@@ -923,7 +845,6 @@
   quote: There is no doubt that it is around the family and the home that all the
     greatest virtues… are created, strengthened and maintained.
   linkedinId: yuanruo
-  functionName: Software Engineering
 - id: yihan
   name: Liao, Yihan
   joinDate: 17/05/2021
@@ -935,7 +856,6 @@
   quote: "Blended families: woven together by choice, strengthened together by
     love, tested by everything, and each uniquely ours."
   linkedinId: yihan
-  functionName: Software Engineering
 - id: carina
   name: Lim, Carina
   joinDate: 26/07/2021
@@ -948,7 +868,6 @@
     theirs; the ones who accept you for who you are. The ones that would do
     anything to see you smile and who love you no matter what.
   linkedinId: carina
-  functionName: Software Engineering
 - id: lennard
   name: Lim, Fa Ping Lennard
   joinDate: 1970-01-01
@@ -959,7 +878,6 @@
   accomplishments: ""
   quote: Family is not defined by our genes, it is built and maintained through love.
   linkedinId: lennard
-  functionName: Product Management
 - id: jiayee
   name: Lim, Jia Yee
   joinDate: 1970-01-01
@@ -970,7 +888,6 @@
   accomplishments: ""
   quote: I didn’t give you the gift of life, but life gave me the gift of you.
   linkedinId: jiayee
-  functionName: Software Engineering
 - id: qimmy
   name: Lim, Qi Xuan
   joinDate: 1970-01-01
@@ -981,7 +898,6 @@
   accomplishments: ""
   quote: Ohana means family and family means nobody gets left behind or forgotten.
   linkedinId: qimmy
-  functionName: Software Engineering
 - id: sengpoh
   name: Lim, Seng Poh
   joinDate: 1970-01-01
@@ -993,7 +909,6 @@
   quote: This is my family. I found it all on my own. It’s little, and broken, but
     still good. Yeah. Still good.
   linkedinId: sengpoh
-  functionName: Software Engineering
 - id: ziwei
   name: Lim, Zi Wei
   joinDate: 2022-04-07
@@ -1004,7 +919,6 @@
   accomplishments: ""
   quote: Some people are worth melting for.
   linkedinId: ziwei
-  functionName: Software Engineering
 - id: huiqing
   name: Lin, Huiqing
   joinDate: 2021-06-09
@@ -1015,7 +929,6 @@
   accomplishments: ""
   quote: We may have our differences, but nothing’s more important than family.
   linkedinId: huiqing
-  functionName: Software Engineering
 - id: jennifer
   name: Liu, Jennifer
   joinDate: 1970-01-01
@@ -1026,7 +939,6 @@
   accomplishments: ""
   quote: Life is beautiful. It’s about giving. It’s about family.
   linkedinId: jennifer
-  functionName: Product Management
 - id: joanna
   name: Lo Wai Fun, Joanna
   joinDate: 27/03/2023
@@ -1037,7 +949,6 @@
   accomplishments: ""
   quote: Rejoice with your family in the beautiful land of life.
   linkedinId: joanna
-  functionName: Software Engineering
 - id: nicole
   name: Loh Wan Hua, Nicole
   joinDate: 1970-01-01
@@ -1049,7 +960,6 @@
   quote: "Family: A social unit where the father is concerned with parking space,
     the children with outer space, and the mother with closet space."
   linkedinId: nicole
-  functionName: Software Engineering
 - id: benjaminloh
   name: Loh, Benjamin
   joinDate: 1970-01-01
@@ -1060,7 +970,6 @@
   accomplishments: ""
   quote: Where there is family, there is love.
   linkedinId: benjaminloh
-  functionName: Software Engineering
 - id: rayner
   name: Loh, Rayner
   joinDate: 2023-03-04
@@ -1071,7 +980,6 @@
   accomplishments: ""
   quote: Family gives you the roots to stand tall and strong.
   linkedinId: rayner
-  functionName: Software Engineering
 - id: jessendra
   name: Loke Swen, Jessendra
   joinDate: 1970-01-01
@@ -1082,7 +990,6 @@
   accomplishments: ""
   quote: Family is the heart of a home.
   linkedinId: jessendra
-  functionName: Product Management
 - id: desmond
   name: Lui, Desmond
   joinDate: 1970-01-01
@@ -1094,7 +1001,6 @@
   quote: The family – that dear octopus from whose tentacles we never quite
     escape, nor, in our inmost hearts, ever quite wish to.
   linkedinId: desmond
-  functionName: Product Design
 - id: antariksh
   name: Mahajan, Antariksh
   joinDate: 2020-02-03
@@ -1106,7 +1012,6 @@
   quote: It didn’t matter how big our house was; it mattered that there was love
     in it.
   linkedinId: antariksh
-  functionName: Software Engineering
 - id: gautam
   name: Manek, Gautam
   joinDate: 1970-01-01
@@ -1117,7 +1022,6 @@
   accomplishments: ""
   quote: To us, family means putting your arms around each other and being there.
   linkedinId: gautam
-  functionName: Software Engineering
 - id: nitya
   name: Menon, Nitya
   joinDate: 1970-01-01
@@ -1129,7 +1033,6 @@
   quote: The bond that links your true family is not one of blood, but of respect
     and joy in each other’s life.
   linkedinId: nitya
-  functionName: Partnerships & Transformation
 - id: feliciana
   name: Natali, Feliciana
   joinDate: 1970-01-01
@@ -1141,7 +1044,6 @@
   quote: "Call it a clan, call it a network, call it a tribe, call it a family:
     Whatever you call it, whoever you are, you need one."
   linkedinId: feliciana
-  functionName: Software Engineering
 - id: didymus
   name: Ne, Didymus
   joinDate: 2023-08-05
@@ -1153,7 +1055,6 @@
   quote: Families are the compass that guides us. They are the inspiration to
     reach great heights, and our comfort when we occasionally falter.
   linkedinId: didymus
-  functionName: Software Engineering
 - id: geraldneo
   name: Neo, Gerald
   joinDate: 22/05/2023
@@ -1165,7 +1066,6 @@
   quote: The only rock I know that stays steady, the only institution I know that
     works, is the family.
   linkedinId: geraldneo
-  functionName: Software Engineering
 - id: christabel
   name: Neo, Xiuwen Christabel
   joinDate: 1970-01-01
@@ -1176,7 +1076,6 @@
   accomplishments: ""
   quote: When trouble comes, it’s your family that supports you.
   linkedinId: christabel
-  functionName: Software Engineering
 - id: darren
   name: Ng, Darren
   joinDate: 1970-01-01
@@ -1187,7 +1086,6 @@
   accomplishments: ""
   quote: The most important thing in the world is family and love.
   linkedinId: darren
-  functionName: Software Engineering
 - id: nicholasng
   name: Ng, Nicholas Zhi Hao
   joinDate: 1970-01-01
@@ -1198,7 +1096,6 @@
   accomplishments: ""
   quote: Nothing is better than going home to family and eating good food and relaxing
   linkedinId: nicholasng
-  functionName: Software Engineering
 - id: stanley
   name: Nguyen, Hung
   joinDate: 1970-01-01
@@ -1209,7 +1106,6 @@
   accomplishments: ""
   quote: To us, family means putting your arms around each other and being there.
   linkedinId: stanley
-  functionName: Software Engineering
 - id: jenwei
   name: Niam, Jen Wei
   joinDate: 1970-01-01
@@ -1221,7 +1117,6 @@
   quote: In family life, love is the oil that eases friction, the cement that
     binds closer together, and the music that brings harmony.
   linkedinId: jenwei
-  functionName: Software Engineering
 - id: chinyang
   name: Oh, Chin Yang
   joinDate: 2023-06-03
@@ -1232,7 +1127,6 @@
   accomplishments: ""
   quote: Other things may change us, but we start and end with the family.
   linkedinId: chinyang
-  functionName: Software Engineering
 - id: justyn
   name: Oh, Wei Jin
   joinDate: 13/06/2022
@@ -1244,7 +1138,6 @@
   quote: Having somewhere to go is home. Having someone to love is family. And
     having both is a blessing.
   linkedinId: justyn
-  functionName: Software Engineering
 - id: cheri
   name: Ong, Cheri
   joinDate: 1970-01-01
@@ -1256,7 +1149,6 @@
   quote: Being a family means you are a part of something very wonderful. It means
     you will love and be loved for the rest of your life.
   linkedinId: cheri
-  functionName: Software Engineering
 - id: pearly
   name: Ong, Pearly
   joinDate: 21/10/2019
@@ -1268,7 +1160,6 @@
   quote: Happiness is having a large, loving, caring, close-knit family in another
     city.
   linkedinId: pearly
-  functionName: Product Design
 - id: simin
   name: Ong, Si Min
   joinDate: 1970-01-01
@@ -1280,7 +1171,6 @@
   quote: The informality of family life is a blessed condition that allows us all
     to become our best while looking our worst.
   linkedinId: simin
-  functionName: Software Engineering
 - id: sehyun
   name: Park, Se Hyun
   joinDate: 1970-01-01
@@ -1291,7 +1181,6 @@
   accomplishments: ""
   quote: Families are like fudge – mostly sweet with a few nuts.
   linkedinId: sehyun
-  functionName: Software Engineering
 - id: pete
   name: Patanapanlert, Pete
   joinDate: 27/03/2023
@@ -1302,7 +1191,6 @@
   accomplishments: ""
   quote: Being part of a family means smiling for photos.
   linkedinId: pete
-  functionName: Product Management
 - id: fiona
   name: Pay Si Ying, Fiona
   joinDate: 24/07/2023
@@ -1314,7 +1202,6 @@
   quote: Family ties mean that no matter how much you might want to run from your
     family, you can’t.
   linkedinId: fiona
-  functionName: Software Engineering
 - id: christabelpng
   name: Png, Christabel
   joinDate: 2020-01-06
@@ -1325,7 +1212,6 @@
   accomplishments: ""
   quote: Family is not an important thing. It’s everything.
   linkedinId: christabelpng
-  functionName: Product Design
 - id: pranu
   name: Pranu, Sarna
   joinDate: 1970-01-01
@@ -1336,7 +1222,6 @@
   accomplishments: ""
   quote: The memories we make with our family is everything.
   linkedinId: pranu
-  functionName: Software Engineering
 - id: kishore
   name: R, Kishore
   joinDate: 1970-01-01
@@ -1347,7 +1232,6 @@
   accomplishments: ""
   quote: Family is family.
   linkedinId: kishore
-  functionName: Software Engineering
 - id: rachel
   name: Rachel, Tan Si Ying
   joinDate: 1970-01-01
@@ -1358,7 +1242,6 @@
   accomplishments: ""
   quote: The family is one of nature’s masterpieces.
   linkedinId: rachel
-  functionName: Software Engineering
 - id: praveen
   name: Raj Kumar, Praveen
   joinDate: 1970-01-01
@@ -1369,7 +1252,6 @@
   accomplishments: ""
   quote: In time of test, family is best.
   linkedinId: praveen
-  functionName: Partnerships & Transformation
 - id: veena
   name: Rao, Anavatti Veena
   joinDate: 1970-01-01
@@ -1381,7 +1263,6 @@
   quote: It’s all about the quality of life and finding a happy balance between
     work and friends and family.
   linkedinId: veena
-  functionName: Product Management
 - id: suhaila
   name: Roslan, Suhaila
   joinDate: 2021-05-04
@@ -1392,7 +1273,6 @@
   accomplishments: ""
   quote: Family and friendships are two of the greatest facilitators of happiness.
   linkedinId: suhaila
-  functionName: Product Operations
 - id: khaleedah
   name: Sairi, Khaleedah
   joinDate: 2021-12-07
@@ -1404,7 +1284,6 @@
   quote: Stick to the basics, hold on to your family and friends – they will never
     go out of fashion.
   linkedinId: khaleedah
-  functionName: Product Design
 - id: sarahsalim
   name: Salim, Siti Sarah
   joinDate: 1970-01-01
@@ -1416,7 +1295,6 @@
   quote: My family is my life, and everything else comes second as far as what’s
     important to me.
   linkedinId: sarahsalim
-  functionName: Product Design
 - id: amit
   name: Samdarshi, Amit
   joinDate: 1970-01-01
@@ -1427,7 +1305,6 @@
   accomplishments: ""
   quote: A happy family is but an earlier heaven.
   linkedinId: amit
-  functionName: Product Management
 - id: chinying
   name: Seah, Chin Ying
   joinDate: 19/11/2018
@@ -1439,7 +1316,6 @@
   quote: The family is the test of freedom; because the family is the only thing
     that the free man makes for himself and by himself.
   linkedinId: chinying
-  functionName: Software Engineering
 - id: sean
   name: Sean, Lum Jian Yang
   joinDate: 1970-01-01
@@ -1452,7 +1328,6 @@
     world of today keep you from showing how much you love and appreciate your
     family.
   linkedinId: sean
-  functionName: Software Engineering
 - id: ziyang
   name: See, Zi Yang
   joinDate: 1970-01-01
@@ -1464,7 +1339,6 @@
   quote: Our family is a circle of strength of love with every birth and every
     union the circle grows.
   linkedinId: ziyang
-  functionName: Software Engineering
 - id: hena
   name: Shah, Hena
   joinDate: 1970-01-01
@@ -1476,7 +1350,6 @@
   quote: There is no doubt that it is around the family and the home that all the
     greatest virtues… are created, strengthened and maintained.
   linkedinId: hena
-  functionName: Product Management
 - id: huiling
   name: Shi, Hui Ling
   joinDate: 1970-01-01
@@ -1488,7 +1361,6 @@
   quote: "Blended families: woven together by choice, strengthened together by
     love, tested by everything, and each uniquely ours."
   linkedinId: huiling
-  functionName: Software Engineering
 - id: ajayraj
   name: Singh, Ajayraj
   joinDate: 13/06/2022
@@ -1501,7 +1373,6 @@
     theirs; the ones who accept you for who you are. The ones that would do
     anything to see you smile and who love you no matter what.
   linkedinId: ajayraj
-  functionName: Product Operations
 - id: stephanie
   name: Siow, Stephanie
   joinDate: 2022-01-04
@@ -1512,7 +1383,6 @@
   accomplishments: ""
   quote: Family is not defined by our genes, it is built and maintained through love.
   linkedinId: stephanie
-  functionName: Partnerships & Transformation
 - id: kenneth
   name: Sng, Kenneth
   joinDate: 1970-01-01
@@ -1523,7 +1393,6 @@
   accomplishments: ""
   quote: I didn’t give you the gift of life, but life gave me the gift of you.
   linkedinId: kenneth
-  functionName: Product Management
 - id: moses
   name: Soh, Moses
   joinDate: 2022-05-12
@@ -1534,7 +1403,6 @@
   accomplishments: ""
   quote: Ohana means family and family means nobody gets left behind or forgotten.
   linkedinId: moses
-  functionName: Product Management
 - id: zeke
   name: Soh, Yi Zhi Zeke
   joinDate: 1970-01-01
@@ -1546,7 +1414,6 @@
   quote: This is my family. I found it all on my own. It’s little, and broken, but
     still good. Yeah. Still good.
   linkedinId: zeke
-  functionName: Software Engineering
 - id: nicolas
   name: Spano, Nicolas
   joinDate: 1970-01-01
@@ -1557,7 +1424,6 @@
   accomplishments: ""
   quote: Some people are worth melting for.
   linkedinId: nicolas
-  functionName: Software Engineering
 - id: angel
   name: Suhardi, Maria
   joinDate: 1970-01-01
@@ -1568,7 +1434,6 @@
   accomplishments: ""
   quote: We may have our differences, but nothing’s more important than family.
   linkedinId: angel
-  functionName: Software Engineering
 - id: airika
   name: Takeguchi, Airika
   joinDate: 1970-01-01
@@ -1579,7 +1444,6 @@
   accomplishments: ""
   quote: Life is beautiful. It’s about giving. It’s about family.
   linkedinId: airika
-  functionName: Corporate Team
 - id: stacey
   name: Tan Seok Sim, Stacey
   joinDate: 2022-07-02
@@ -1590,7 +1454,6 @@
   accomplishments: ""
   quote: Rejoice with your family in the beautiful land of life.
   linkedinId: stacey
-  functionName: Product Design
 - id: dexter
   name: Tan Ying Jie, Dexter
   joinDate: 2022-09-05
@@ -1602,7 +1465,6 @@
   quote: "Family: A social unit where the father is concerned with parking space,
     the children with outer space, and the mother with closet space."
   linkedinId: dexter
-  functionName: Software Engineering
 - id: alwyn
   name: Tan, Alwyn Solomon
   joinDate: 1970-01-01
@@ -1613,7 +1475,6 @@
   accomplishments: ""
   quote: Where there is family, there is love.
   linkedinId: alwyn
-  functionName: Software Engineering
 - id: geraldine
   name: Tan, Geraldine
   joinDate: 1970-01-01
@@ -1624,7 +1485,6 @@
   accomplishments: ""
   quote: Family gives you the roots to stand tall and strong.
   linkedinId: geraldine
-  functionName: Product Operations
 - id: max
   name: Tan, Huiyi
   joinDate: 2023-06-03
@@ -1635,7 +1495,6 @@
   accomplishments: ""
   quote: Family is the heart of a home.
   linkedinId: max
-  functionName: Software Engineering
 - id: jieyin
   name: Tan, Jie Yin
   joinDate: 1970-01-01
@@ -1647,7 +1506,6 @@
   quote: The family – that dear octopus from whose tentacles we never quite
     escape, nor, in our inmost hearts, ever quite wish to.
   linkedinId: jieyin
-  functionName: Software Engineering
 - id: joshua
   name: Tan, Junming
   joinDate: 2021-06-09
@@ -1659,7 +1517,6 @@
   quote: It didn’t matter how big our house was; it mattered that there was love
     in it.
   linkedinId: joshua
-  functionName: Corporate Team
 - id: kevan
   name: Tan, Kevan
   joinDate: 18/11/2019
@@ -1670,7 +1527,6 @@
   accomplishments: ""
   quote: To us, family means putting your arms around each other and being there.
   linkedinId: kevan
-  functionName: Software Engineering
 - id: leyang
   name: Tan, Le Yang
   joinDate: 1970-01-01
@@ -1682,7 +1538,6 @@
   quote: The bond that links your true family is not one of blood, but of respect
     and joy in each other’s life.
   linkedinId: leyang
-  functionName: Software Engineering
 - id: natalie
   name: Tan, Natalie
   joinDate: 2020-06-04
@@ -1694,7 +1549,6 @@
   quote: "Call it a clan, call it a network, call it a tribe, call it a family:
     Whatever you call it, whoever you are, you need one."
   linkedinId: natalie
-  functionName: Software Engineering
 - id: weilun
   name: Tan, Wei Lun
   joinDate: 1970-01-01
@@ -1706,7 +1560,6 @@
   quote: Families are the compass that guides us. They are the inspiration to
     reach great heights, and our comfort when we occasionally falter.
   linkedinId: weilun
-  functionName: Software Engineering
 - id: weiseng2
   name: Tan, Wei Seng
   joinDate: 22/02/2021
@@ -1718,7 +1571,6 @@
   quote: The only rock I know that stays steady, the only institution I know that
     works, is the family.
   linkedinId: weiseng2
-  functionName: Software Engineering
 - id: zixiang
   name: Tan, Zi Xiang
   joinDate: 2022-10-01
@@ -1729,7 +1581,6 @@
   accomplishments: ""
   quote: When trouble comes, it’s your family that supports you.
   linkedinId: zixiang
-  functionName: Software Engineering
 - id: amelia
   name: Tay Li Jia, Amelia
   joinDate: 2023-07-08
@@ -1740,7 +1591,6 @@
   accomplishments: ""
   quote: The most important thing in the world is family and love.
   linkedinId: amelia
-  functionName: Software Engineering
 - id: paul
   name: Tay, Paul hong
   joinDate: 1970-01-01
@@ -1751,7 +1601,6 @@
   accomplishments: ""
   quote: Nothing is better than going home to family and eating good food and relaxing
   linkedinId: paul
-  functionName: Product Management
 - id: mayying
   name: Tee, May Ying
   joinDate: 1970-01-01
@@ -1762,7 +1611,6 @@
   accomplishments: ""
   quote: To us, family means putting your arms around each other and being there.
   linkedinId: mayying
-  functionName: Software Engineering
 - id: shawn
   name: Ten, Shawn
   joinDate: 1970-01-01
@@ -1774,7 +1622,6 @@
   quote: In family life, love is the oil that eases friction, the cement that
     binds closer together, and the music that brings harmony.
   linkedinId: shawn
-  functionName: Partnerships & Transformation
 - id: clifford
   name: Teo, Clifford
   joinDate: 1970-01-01
@@ -1785,7 +1632,6 @@
   accomplishments: ""
   quote: Other things may change us, but we start and end with the family.
   linkedinId: clifford
-  functionName: Software Engineering
 - id: shuli
   name: Teo, Shu Li
   joinDate: 20/04/2020
@@ -1797,7 +1643,6 @@
   quote: Having somewhere to go is home. Having someone to love is family. And
     having both is a blessing.
   linkedinId: shuli
-  functionName: Software Engineering
 - id: simun
   name: Tham, Si Mun
   joinDate: 1970-01-01
@@ -1809,7 +1654,6 @@
   quote: Being a family means you are a part of something very wonderful. It means
     you will love and be loved for the rest of your life.
   linkedinId: simun
-  functionName: Software Engineering
 - id: wanling
   name: Thoo, Wan Ling
   joinDate: 13/09/2021
@@ -1821,7 +1665,6 @@
   quote: Happiness is having a large, loving, caring, close-knit family in another
     city.
   linkedinId: wanling
-  functionName: Software Engineering
 - id: lisa
   name: Tjide, Lisa
   joinDate: 26/11/2018
@@ -1833,7 +1676,6 @@
   quote: The informality of family life is a blessed condition that allows us all
     to become our best while looking our worst.
   linkedinId: lisa
-  functionName: Product Management
 - id: reshma
   name: Vasu, Reshma
   joinDate: 1970-01-01
@@ -1844,7 +1686,6 @@
   accomplishments: ""
   quote: Families are like fudge – mostly sweet with a few nuts.
   linkedinId: reshma
-  functionName: Product Operations
 - id: harish
   name: Venkatesan, Harish
   joinDate: 1970-01-01
@@ -1855,7 +1696,6 @@
   accomplishments: ""
   quote: Being part of a family means smiling for photos.
   linkedinId: harish
-  functionName: Software Engineering
 - id: adan
   name: Vielma, Adan
   joinDate: 1970-01-01
@@ -1867,7 +1707,6 @@
   quote: Family ties mean that no matter how much you might want to run from your
     family, you can’t.
   linkedinId: adan
-  functionName: Software Engineering
 - id: sebastian
   name: Wong Zhi Qian, Sebastian
   joinDate: 1970-01-01
@@ -1878,7 +1717,6 @@
   accomplishments: ""
   quote: Family is not an important thing. It’s everything.
   linkedinId: sebastian
-  functionName: Software Engineering
 - id: kendra
   name: Wong, Kendra
   joinDate: 1970-01-01
@@ -1889,7 +1727,6 @@
   accomplishments: ""
   quote: The memories we make with our family is everything.
   linkedinId: kendra
-  functionName: Software Engineering
 - id: austin
   name: Woon Quan, Austin
   joinDate: 1970-01-01
@@ -1900,7 +1737,6 @@
   accomplishments: ""
   quote: Family is family.
   linkedinId: austin
-  functionName: Software Engineering
 - id: qilu
   name: Xie, Qilu
   joinDate: 2023-06-02
@@ -1911,7 +1747,6 @@
   accomplishments: ""
   quote: The family is one of nature’s masterpieces.
   linkedinId: qilu
-  functionName: Software Engineering
 - id: richardyak
   name: Yak, Kian Feng
   joinDate: 1970-01-01
@@ -1922,7 +1757,6 @@
   accomplishments: ""
   quote: In time of test, family is best.
   linkedinId: richardyak
-  functionName: Software Engineering
 - id: syan
   name: Yan, Sonjia
   joinDate: 2019-04-09
@@ -1934,7 +1768,6 @@
   quote: It’s all about the quality of life and finding a happy balance between
     work and friends and family.
   linkedinId: syan
-  functionName: Product Management
 - id: xinghao
   name: Yang, XingHao
   joinDate: 1970-01-01
@@ -1945,7 +1778,6 @@
   accomplishments: ""
   quote: Family and friendships are two of the greatest facilitators of happiness.
   linkedinId: xinghao
-  functionName: Software Engineering
 - id: jackson
   name: Yap, Jackson
   joinDate: 31/08/2020
@@ -1956,7 +1788,6 @@
   accomplishments: ""
   quote: Treat your family like friends and your friends like family.
   linkedinId: jackson
-  functionName: Product Operations
 - id: jiahui
   name: Yap, Jia Hui
   joinDate: 1970-01-01
@@ -1967,7 +1798,6 @@
   accomplishments: ""
   quote: Family and friends are hidden treasures, seek them and enjoy their riches.
   linkedinId: jiahui
-  functionName: Corporate Team
 - id: peizhen
   name: Yap, Pei Zhen
   joinDate: 2023-08-05
@@ -1979,7 +1809,6 @@
   quote: Stick to the basics, hold on to your family and friends – they will never
     go out of fashion.
   linkedinId: peizhen
-  functionName: Software Engineering
 - id: foong
   name: Yi Zhuan, Foong
   joinDate: 17/07/2023
@@ -1991,7 +1820,6 @@
   quote: My family is my life, and everything else comes second as far as what’s
     important to me.
   linkedinId: foong
-  functionName: Software Engineering
 - id: yuling
   name: Yu Ling, Tan
   joinDate: 25/09/2023
@@ -2002,7 +1830,6 @@
   accomplishments: ""
   quote: A happy family is but an earlier heaven.
   linkedinId: yuling
-  functionName: Software Engineering
 - id: khant
   name: Zaw, Khant
   joinDate: 1970-01-01
@@ -2014,7 +1841,6 @@
   quote: The family is the test of freedom; because the family is the only thing
     that the free man makes for himself and by himself.
   linkedinId: khant
-  functionName: Software Engineering
 - id: arshad
   name: s/o Abdul Samad, Arshad Ali
   joinDate: 1970-01-01
@@ -2025,7 +1851,6 @@
   accomplishments: ""
   quote: Treat your family like friends and your friends like family.
   linkedinId: arshad
-  functionName: Software Engineering
 - id: pallani
   name: s/o Selvan, Pallanikumaran
   joinDate: 2015-11-05
@@ -2036,4 +1861,3 @@
   accomplishments: ""
   quote: Family and friends are hidden treasures, seek them and enjoy their riches.
   linkedinId: pallani
-  functionName: Software Engineering

@@ -1,5 +1,5 @@
 import assert from 'assert';
-import { readFile, writeFile, unlink } from 'fs/promises'
+import { readFile, writeFile, unlink, mkdir } from 'fs/promises'
 import { parse } from 'csv-parse';
 import { promisify } from 'util';
 import _ from 'lodash';
@@ -10,7 +10,7 @@ const parseAsync = promisify(parse)
 const SOURCE_PEOPLE_CSV = '../_about-us/people.csv'
 const STAFF_TEMPLATE_MD = './staff.md.template'
 const TARGET_PEOPLE_DATA_FILE_YML = '../_data/people.yml'
-const TARGET_PEOPLE_COLLECTION_DIR = '../_people/'
+const TARGET_PEOPLE_COLLECTION_DIR = '../_about-us/'
 
 const functionNameToFunctionId = {
     'Software Engineering': 'eng',
@@ -122,8 +122,7 @@ await writeFile(TARGET_PEOPLE_DATA_FILE_YML, YAML.stringify(namedRecords))
 const templateContent = (await readFile(STAFF_TEMPLATE_MD)).toString() // assumes UTF-8
 
 for (const record of namedRecords) {
-    console.log(`Writing file for ${record.id} (${record.name})`
-    )
+    console.log(`Writing file for ${record.id} (${record.name})`)
 
     // augment the record with new fields
     record.yamlData = YAML.stringify(record)
@@ -137,11 +136,21 @@ for (const record of namedRecords) {
         return record[itemId]
     });
 
+    const functionDir = `${TARGET_PEOPLE_COLLECTION_DIR}${record.functionId}`
+
     try {
-        await unlink(`${TARGET_PEOPLE_COLLECTION_DIR}${record.id}.md`)
+        await unlink(`${functionDir}/${record.id}.md`);
     }
-    catch(err) {}
-    await writeFile(`${TARGET_PEOPLE_COLLECTION_DIR}${record.id}.md`, processed)
+    catch(err) {
+        // console.log(err)
+    }
+    try {
+        await mkdir(`${functionDir}`);
+    }
+    catch(err) {
+        // console.log(err)
+    }
+    await writeFile(`${functionDir}/${record.id}.md`, processed);
 }
 
 
