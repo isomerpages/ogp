@@ -1,6 +1,6 @@
 ---
 title: Lee, Lynette
-permalink: /people/lynette
+permalink: /aboutus/eng/lynette
 description: "Lee, Lynette - Job Title"
 third_nav_title: Software Engineering
 id: lynette

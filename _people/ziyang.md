@@ -1,6 +1,6 @@
 ---
 title: See, Zi Yang
-permalink: /people/ziyang
+permalink: /aboutus/eng/ziyang
 description: "See, Zi Yang - Job Title"
 third_nav_title: Software Engineering
 id: ziyang

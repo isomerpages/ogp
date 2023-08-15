@@ -1,6 +1,6 @@
 ---
 title: s/o Abdul Samad, Arshad Ali
-permalink: /people/arshad
+permalink: /aboutus/eng/arshad
 description: "s/o Abdul Samad, Arshad Ali - Job Title"
 third_nav_title: Software Engineering
 id: arshad

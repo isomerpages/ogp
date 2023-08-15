@@ -1,6 +1,6 @@
 ---
 title: Lim, Seng Poh
-permalink: /people/sengpoh
+permalink: /aboutus/eng/sengpoh
 description: "Lim, Seng Poh - Job Title"
 third_nav_title: Software Engineering
 id: sengpoh

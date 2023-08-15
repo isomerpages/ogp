@@ -1,6 +1,6 @@
 ---
 title: Danelynn, Ding You Jia,
-permalink: /people/danelynn
+permalink: /aboutus/eng/danelynn
 description: "Danelynn, Ding You Jia, - Job Title"
 third_nav_title: Software Engineering
 id: danelynn

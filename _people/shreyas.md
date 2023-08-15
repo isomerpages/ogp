@@ -1,6 +1,6 @@
 ---
 title: Chandrakanth Rao Inna, Shreyas
-permalink: /people/shreyas
+permalink: /aboutus/ops/shreyas
 description: "Chandrakanth Rao Inna, Shreyas - Job Title"
 third_nav_title: Product Operations
 id: shreyas

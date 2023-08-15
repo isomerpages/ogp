@@ -1,6 +1,6 @@
 ---
 title: Lim, Zi Wei
-permalink: /people/ziwei
+permalink: /aboutus/eng/ziwei
 description: "Lim, Zi Wei - Job Title"
 third_nav_title: Software Engineering
 id: ziwei

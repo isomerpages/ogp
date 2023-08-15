@@ -1,6 +1,6 @@
 ---
 title: Yap, Jackson
-permalink: /people/jackson
+permalink: /aboutus/ops/jackson
 description: "Yap, Jackson - Job Title"
 third_nav_title: Product Operations
 id: jackson

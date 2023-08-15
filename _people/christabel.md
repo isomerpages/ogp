@@ -1,6 +1,6 @@
 ---
 title: Neo, Xiuwen Christabel
-permalink: /people/christabel
+permalink: /aboutus/eng/christabel
 description: "Neo, Xiuwen Christabel - Job Title"
 third_nav_title: Software Engineering
 id: christabel

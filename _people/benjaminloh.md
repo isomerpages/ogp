@@ -1,6 +1,6 @@
 ---
 title: Loh, Benjamin
-permalink: /people/benjaminloh
+permalink: /aboutus/eng/benjaminloh
 description: "Loh, Benjamin - Job Title"
 third_nav_title: Software Engineering
 id: benjaminloh

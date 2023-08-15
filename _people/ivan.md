@@ -1,6 +1,6 @@
 ---
 title: Ho, Ivan
-permalink: /people/ivan
+permalink: /aboutus/eng/ivan
 description: "Ho, Ivan - Job Title"
 third_nav_title: Software Engineering
 id: ivan

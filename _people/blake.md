@@ -1,6 +1,6 @@
 ---
 title: Gong, Blake
-permalink: /people/blake
+permalink: /aboutus/eng/blake
 description: "Gong, Blake - Job Title"
 third_nav_title: Software Engineering
 id: blake

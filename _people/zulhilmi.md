@@ -1,6 +1,6 @@
 ---
 title: Icksan, Mohammad Zulhilmi
-permalink: /people/zulhilmi
+permalink: /aboutus/eng/zulhilmi
 description: "Icksan, Mohammad Zulhilmi - Job Title"
 third_nav_title: Software Engineering
 id: zulhilmi

@@ -1,6 +1,6 @@
 ---
 title: Nguyen, Hung
-permalink: /people/stanley
+permalink: /aboutus/eng/stanley
 description: "Nguyen, Hung - Job Title"
 third_nav_title: Software Engineering
 id: stanley

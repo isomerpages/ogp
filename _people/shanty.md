@@ -1,6 +1,6 @@
 ---
 title: Basrur, Shantanu Dilip
-permalink: /people/shanty
+permalink: /aboutus/eng/shanty
 description: "Basrur, Shantanu Dilip - Job Title"
 third_nav_title: Software Engineering
 id: shanty

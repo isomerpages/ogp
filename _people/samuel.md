@@ -1,6 +1,6 @@
 ---
 title: Koh, Samuel
-permalink: /people/samuel
+permalink: /aboutus/ops/samuel
 description: "Koh, Samuel - Job Title"
 third_nav_title: Product Operations
 id: samuel

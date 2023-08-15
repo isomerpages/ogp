@@ -1,6 +1,6 @@
 ---
 title: Wong Zhi Qian, Sebastian
-permalink: /people/sebastian
+permalink: /aboutus/eng/sebastian
 description: "Wong Zhi Qian, Sebastian - Job Title"
 third_nav_title: Software Engineering
 id: sebastian

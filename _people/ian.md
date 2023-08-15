@@ -1,6 +1,6 @@
 ---
 title: Chen, Wei Ian
-permalink: /people/ian
+permalink: /aboutus/eng/ian
 description: "Chen, Wei Ian - Job Title"
 third_nav_title: Software Engineering
 id: ian

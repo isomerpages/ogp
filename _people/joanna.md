@@ -1,6 +1,6 @@
 ---
 title: Lo Wai Fun, Joanna
-permalink: /people/joanna
+permalink: /aboutus/eng/joanna
 description: "Lo Wai Fun, Joanna - Job Title"
 third_nav_title: Software Engineering
 id: joanna

@@ -1,6 +1,6 @@
 ---
 title: Niam, Jen Wei
-permalink: /people/jenwei
+permalink: /aboutus/eng/jenwei
 description: "Niam, Jen Wei - Job Title"
 third_nav_title: Software Engineering
 id: jenwei

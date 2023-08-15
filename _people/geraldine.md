@@ -1,6 +1,6 @@
 ---
 title: Tan, Geraldine
-permalink: /people/geraldine
+permalink: /aboutus/ops/geraldine
 description: "Tan, Geraldine - Job Title"
 third_nav_title: Product Operations
 id: geraldine

@@ -1,6 +1,6 @@
 ---
 title: Damodaran, Hanu
-permalink: /people/hanu
+permalink: /aboutus/eng/hanu
 description: "Damodaran, Hanu - Job Title"
 third_nav_title: Software Engineering
 id: hanu

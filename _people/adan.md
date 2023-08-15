@@ -1,6 +1,6 @@
 ---
 title: Vielma, Adan
-permalink: /people/adan
+permalink: /aboutus/eng/adan
 description: "Vielma, Adan - Job Title"
 third_nav_title: Software Engineering
 id: adan

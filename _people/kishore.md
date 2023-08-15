@@ -1,6 +1,6 @@
 ---
 title: R, Kishore
-permalink: /people/kishore
+permalink: /aboutus/eng/kishore
 description: "R, Kishore - Job Title"
 third_nav_title: Software Engineering
 id: kishore

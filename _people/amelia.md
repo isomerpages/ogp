@@ -1,6 +1,6 @@
 ---
 title: Tay Li Jia, Amelia
-permalink: /people/amelia
+permalink: /aboutus/eng/amelia
 description: "Tay Li Jia, Amelia - Job Title"
 third_nav_title: Software Engineering
 id: amelia

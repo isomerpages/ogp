@@ -1,6 +1,6 @@
 ---
 title: Chin, Rui Ling Talitha
-permalink: /people/talitha
+permalink: /aboutus/pm/talitha
 description: "Chin, Rui Ling Talitha - Job Title"
 third_nav_title: Product Management
 id: talitha

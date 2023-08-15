@@ -1,6 +1,6 @@
 ---
 title: Tan Seok Sim, Stacey
-permalink: /people/stacey
+permalink: /aboutus/design/stacey
 description: "Tan Seok Sim, Stacey - Job Title"
 third_nav_title: Product Design
 id: stacey

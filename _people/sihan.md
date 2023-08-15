@@ -1,6 +1,6 @@
 ---
 title: Ding, Si Han
-permalink: /people/sihan
+permalink: /aboutus/eng/sihan
 description: "Ding, Si Han - Job Title"
 third_nav_title: Software Engineering
 id: sihan

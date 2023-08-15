@@ -1,6 +1,6 @@
 ---
 title: Loh Wan Hua, Nicole
-permalink: /people/nicole
+permalink: /aboutus/eng/nicole
 description: "Loh Wan Hua, Nicole - Job Title"
 third_nav_title: Software Engineering
 id: nicole

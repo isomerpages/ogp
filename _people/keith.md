@@ -1,6 +1,6 @@
 ---
 title: Chew, Mun Kei
-permalink: /people/keith
+permalink: /aboutus/eng/keith
 description: "Chew, Mun Kei - Job Title"
 third_nav_title: Software Engineering
 id: keith

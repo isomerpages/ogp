@@ -1,6 +1,6 @@
 ---
 title: Sean, Lum Jian Yang
-permalink: /people/sean
+permalink: /aboutus/eng/sean
 description: "Sean, Lum Jian Yang - Job Title"
 third_nav_title: Software Engineering
 id: sean

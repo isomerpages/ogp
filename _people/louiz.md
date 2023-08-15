@@ -1,6 +1,6 @@
 ---
 title: Kim-Chan, Louiz
-permalink: /people/louiz
+permalink: /aboutus/eng/louiz
 description: "Kim-Chan, Louiz - Job Title"
 third_nav_title: Software Engineering
 id: louiz

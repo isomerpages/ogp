@@ -1,6 +1,6 @@
 ---
 title: Yu Ling, Tan
-permalink: /people/yuling
+permalink: /aboutus/eng/yuling
 description: "Yu Ling, Tan - Job Title"
 third_nav_title: Software Engineering
 id: yuling

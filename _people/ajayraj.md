@@ -1,6 +1,6 @@
 ---
 title: Singh, Ajayraj
-permalink: /people/ajayraj
+permalink: /aboutus/ops/ajayraj
 description: "Singh, Ajayraj - Job Title"
 third_nav_title: Product Operations
 id: ajayraj

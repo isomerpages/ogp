@@ -1,6 +1,6 @@
 ---
 title: Tan, Natalie
-permalink: /people/natalie
+permalink: /aboutus/eng/natalie
 description: "Tan, Natalie - Job Title"
 third_nav_title: Software Engineering
 id: natalie

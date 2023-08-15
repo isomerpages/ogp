@@ -1,6 +1,6 @@
 ---
 title: Pay Si Ying, Fiona
-permalink: /people/fiona
+permalink: /aboutus/eng/fiona
 description: "Pay Si Ying, Fiona - Job Title"
 third_nav_title: Software Engineering
 id: fiona

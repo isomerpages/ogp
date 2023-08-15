@@ -1,6 +1,6 @@
 ---
 title: Hong Malcolm, Ong Guan
-permalink: /people/malcolm
+permalink: /aboutus/eng/malcolm
 description: "Hong Malcolm, Ong Guan - Job Title"
 third_nav_title: Software Engineering
 id: malcolm

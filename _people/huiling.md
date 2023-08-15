@@ -1,6 +1,6 @@
 ---
 title: Shi, Hui Ling
-permalink: /people/huiling
+permalink: /aboutus/eng/huiling
 description: "Shi, Hui Ling - Job Title"
 third_nav_title: Software Engineering
 id: huiling

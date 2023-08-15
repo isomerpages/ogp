@@ -1,6 +1,6 @@
 ---
 title: Lai, Jing Yi
-permalink: /people/jingyi
+permalink: /aboutus/eng/jingyi
 description: "Lai, Jing Yi - Job Title"
 third_nav_title: Software Engineering
 id: jingyi

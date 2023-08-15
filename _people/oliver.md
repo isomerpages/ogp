@@ -1,6 +1,6 @@
 ---
 title: Chan, Oliver
-permalink: /people/oliver
+permalink: /aboutus/eng/oliver
 description: "Chan, Oliver - Job Title"
 third_nav_title: Software Engineering
 id: oliver

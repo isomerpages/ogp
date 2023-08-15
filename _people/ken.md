@@ -1,6 +1,6 @@
 ---
 title: Lee, Ken
-permalink: /people/ken
+permalink: /aboutus/eng/ken
 description: "Lee, Ken - Job Title"
 third_nav_title: Software Engineering
 id: ken

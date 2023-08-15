@@ -1,6 +1,6 @@
 ---
 title: Chong, Jason
-permalink: /people/jason
+permalink: /aboutus/eng/jason
 description: "Chong, Jason - Job Title"
 third_nav_title: Software Engineering
 id: jason

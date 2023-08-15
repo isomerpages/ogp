@@ -1,8 +1,8 @@
 ---
 title: Li, Hongyi
-permalink: /people/lhy
+permalink: /aboutus/corporate/lhy
 description: "Li, Hongyi - Director OGP"
-third_nav_title: People Team
+third_nav_title: Corporate Team
 id: lhy
 name: Li, Hongyi
 joinDate: 1970-01-01

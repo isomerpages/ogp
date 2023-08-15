@@ -1,8 +1,8 @@
 ---
 title: Cho, Bernadette Marisa Chien Ling
-permalink: /people/bernadette
+permalink: /aboutus/corporate/bernadette
 description: "Cho, Bernadette Marisa Chien Ling - Job Title"
-third_nav_title: People Team
+third_nav_title: Corporate Team
 id: bernadette
 name: Cho, Bernadette Marisa Chien Ling
 joinDate: 1970-01-01

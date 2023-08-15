@@ -1,6 +1,6 @@
 ---
 title: Lee, Kahhow
-permalink: /people/kahhow
+permalink: /aboutus/ops/kahhow
 description: "Lee, Kahhow - Job Title"
 third_nav_title: Product Operations
 id: kahhow

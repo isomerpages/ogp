@@ -1,6 +1,6 @@
 ---
 title: Natali, Feliciana
-permalink: /people/feliciana
+permalink: /aboutus/eng/feliciana
 description: "Natali, Feliciana - Job Title"
 third_nav_title: Software Engineering
 id: feliciana

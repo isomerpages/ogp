@@ -1,6 +1,6 @@
 ---
 title: Chiew, Kok Seng
-permalink: /people/kokseng
+permalink: /aboutus/eng/kokseng
 description: "Chiew, Kok Seng - Job Title"
 third_nav_title: Software Engineering
 id: kokseng

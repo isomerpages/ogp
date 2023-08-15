@@ -1,6 +1,6 @@
 ---
 title: Manek, Gautam
-permalink: /people/gautam
+permalink: /aboutus/eng/gautam
 description: "Manek, Gautam - Job Title"
 third_nav_title: Software Engineering
 id: gautam

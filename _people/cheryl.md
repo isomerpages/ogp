@@ -1,6 +1,6 @@
 ---
 title: Lee, Cheryl
-permalink: /people/cheryl
+permalink: /aboutus/pm/cheryl
 description: "Lee, Cheryl - Job Title"
 third_nav_title: Product Management
 id: cheryl

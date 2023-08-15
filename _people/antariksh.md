@@ -1,6 +1,6 @@
 ---
 title: Mahajan, Antariksh
-permalink: /people/antariksh
+permalink: /aboutus/eng/antariksh
 description: "Mahajan, Antariksh - Job Title"
 third_nav_title: Software Engineering
 id: antariksh

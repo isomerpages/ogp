@@ -1,6 +1,6 @@
 ---
 title: Rao, Anavatti Veena
-permalink: /people/veena
+permalink: /aboutus/pm/veena
 description: "Rao, Anavatti Veena - Job Title"
 third_nav_title: Product Management
 id: veena

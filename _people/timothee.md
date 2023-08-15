@@ -1,6 +1,6 @@
 ---
 title: Groleau, Timothee
-permalink: /people/timothee
+permalink: /aboutus/eng/timothee
 description: "Groleau, Timothee - Lead Software Engineer"
 third_nav_title: Software Engineering
 id: timothee

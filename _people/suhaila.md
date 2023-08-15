@@ -1,6 +1,6 @@
 ---
 title: Roslan, Suhaila
-permalink: /people/suhaila
+permalink: /aboutus/ops/suhaila
 description: "Roslan, Suhaila - Job Title"
 third_nav_title: Product Operations
 id: suhaila

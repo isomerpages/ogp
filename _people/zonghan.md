@@ -1,6 +1,6 @@
 ---
 title: Ho, Zong Han
-permalink: /people/zonghan
+permalink: /aboutus/eng/zonghan
 description: "Ho, Zong Han - Job Title"
 third_nav_title: Software Engineering
 id: zonghan

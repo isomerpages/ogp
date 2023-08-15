@@ -1,6 +1,6 @@
 ---
 title: Hibberd, James
-permalink: /people/james
+permalink: /aboutus/eng/james
 description: "Hibberd, James - Job Title"
 third_nav_title: Software Engineering
 id: james

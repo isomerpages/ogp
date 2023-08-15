@@ -1,6 +1,6 @@
 ---
 title: Siow, Stephanie
-permalink: /people/stephanie
+permalink: /aboutus/transformation/stephanie
 description: "Siow, Stephanie - Job Title"
 third_nav_title: Partnerships & Transformation
 id: stephanie

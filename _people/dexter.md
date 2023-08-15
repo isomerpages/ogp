@@ -1,6 +1,6 @@
 ---
 title: Tan Ying Jie, Dexter
-permalink: /people/dexter
+permalink: /aboutus/eng/dexter
 description: "Tan Ying Jie, Dexter - Job Title"
 third_nav_title: Software Engineering
 id: dexter

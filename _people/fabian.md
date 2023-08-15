@@ -1,6 +1,6 @@
 ---
 title: Chia Hup Peng, Fabian
-permalink: /people/fabian
+permalink: /aboutus/eng/fabian
 description: "Chia Hup Peng, Fabian - Job Title"
 third_nav_title: Software Engineering
 id: fabian

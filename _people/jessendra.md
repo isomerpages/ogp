@@ -1,6 +1,6 @@
 ---
 title: Loke Swen, Jessendra
-permalink: /people/jessendra
+permalink: /aboutus/pm/jessendra
 description: "Loke Swen, Jessendra - Job Title"
 third_nav_title: Product Management
 id: jessendra

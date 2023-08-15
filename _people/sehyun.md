@@ -1,6 +1,6 @@
 ---
 title: Park, Se Hyun
-permalink: /people/sehyun
+permalink: /aboutus/eng/sehyun
 description: "Park, Se Hyun - Job Title"
 third_nav_title: Software Engineering
 id: sehyun

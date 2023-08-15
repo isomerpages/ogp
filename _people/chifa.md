@@ -1,6 +1,6 @@
 ---
 title: Foo, Chi Fa
-permalink: /people/chifa
+permalink: /aboutus/eng/chifa
 description: "Foo, Chi Fa - Job Title"
 third_nav_title: Software Engineering
 id: chifa

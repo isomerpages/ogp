@@ -1,6 +1,6 @@
 ---
 title: Ong, Si Min
-permalink: /people/simin
+permalink: /aboutus/eng/simin
 description: "Ong, Si Min - Job Title"
 third_nav_title: Software Engineering
 id: simin

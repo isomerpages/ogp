@@ -1,6 +1,6 @@
 ---
 title: Tan, Zi Xiang
-permalink: /people/zixiang
+permalink: /aboutus/eng/zixiang
 description: "Tan, Zi Xiang - Job Title"
 third_nav_title: Software Engineering
 id: zixiang

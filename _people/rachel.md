@@ -1,6 +1,6 @@
 ---
 title: Rachel, Tan Si Ying
-permalink: /people/rachel
+permalink: /aboutus/eng/rachel
 description: "Rachel, Tan Si Ying - Job Title"
 third_nav_title: Software Engineering
 id: rachel

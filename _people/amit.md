@@ -1,6 +1,6 @@
 ---
 title: Samdarshi, Amit
-permalink: /people/amit
+permalink: /aboutus/pm/amit
 description: "Samdarshi, Amit - Job Title"
 third_nav_title: Product Management
 id: amit

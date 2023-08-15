@@ -1,6 +1,6 @@
 ---
 title: Menon, Nitya
-permalink: /people/nitya
+permalink: /aboutus/transformation/nitya
 description: "Menon, Nitya - Job Title"
 third_nav_title: Partnerships & Transformation
 id: nitya

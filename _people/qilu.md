@@ -1,6 +1,6 @@
 ---
 title: Xie, Qilu
-permalink: /people/qilu
+permalink: /aboutus/eng/qilu
 description: "Xie, Qilu - Job Title"
 third_nav_title: Software Engineering
 id: qilu

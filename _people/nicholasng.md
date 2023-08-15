@@ -1,6 +1,6 @@
 ---
 title: Ng, Nicholas Zhi Hao
-permalink: /people/nicholasng
+permalink: /aboutus/eng/nicholasng
 description: "Ng, Nicholas Zhi Hao - Job Title"
 third_nav_title: Software Engineering
 id: nicholasng

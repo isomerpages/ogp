@@ -1,6 +1,6 @@
 ---
 title: Foo, Yong Jie
-permalink: /people/yongjie
+permalink: /aboutus/eng/yongjie
 description: "Foo, Yong Jie - Job Title"
 third_nav_title: Software Engineering
 id: yongjie

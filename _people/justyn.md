@@ -1,6 +1,6 @@
 ---
 title: Oh, Wei Jin
-permalink: /people/justyn
+permalink: /aboutus/eng/justyn
 description: "Oh, Wei Jin - Job Title"
 third_nav_title: Software Engineering
 id: justyn

@@ -1,6 +1,6 @@
 ---
 title: Tee, May Ying
-permalink: /people/mayying
+permalink: /aboutus/eng/mayying
 description: "Tee, May Ying - Job Title"
 third_nav_title: Software Engineering
 id: mayying

@@ -1,6 +1,6 @@
 ---
 title: Neo, Gerald
-permalink: /people/geraldneo
+permalink: /aboutus/eng/geraldneo
 description: "Neo, Gerald - Job Title"
 third_nav_title: Software Engineering
 id: geraldneo

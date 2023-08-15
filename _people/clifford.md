@@ -1,6 +1,6 @@
 ---
 title: Teo, Clifford
-permalink: /people/clifford
+permalink: /aboutus/eng/clifford
 description: "Teo, Clifford - Job Title"
 third_nav_title: Software Engineering
 id: clifford

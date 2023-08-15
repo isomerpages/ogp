@@ -1,6 +1,6 @@
 ---
 title: {{name}}
-permalink: /people/{{id}}
+permalink: /aboutus/{{functionId}}/{{id}}
 description: "{{name}} - {{jobTitle}}"
 third_nav_title: {{functionName}}
 {{yamlData}}

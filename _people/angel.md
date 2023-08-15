@@ -1,6 +1,6 @@
 ---
 title: Suhardi, Maria
-permalink: /people/angel
+permalink: /aboutus/eng/angel
 description: "Suhardi, Maria - Job Title"
 third_nav_title: Software Engineering
 id: angel

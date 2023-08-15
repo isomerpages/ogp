@@ -1,6 +1,6 @@
 ---
 title: Goh, Weiying
-permalink: /people/alexis
+permalink: /aboutus/eng/alexis
 description: "Goh, Weiying - Job Title"
 third_nav_title: Software Engineering
 id: alexis

@@ -1,6 +1,6 @@
 ---
 title: Wong, Kendra
-permalink: /people/kendra
+permalink: /aboutus/eng/kendra
 description: "Wong, Kendra - Job Title"
 third_nav_title: Software Engineering
 id: kendra

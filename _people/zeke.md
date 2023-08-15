@@ -1,6 +1,6 @@
 ---
 title: Soh, Yi Zhi Zeke
-permalink: /people/zeke
+permalink: /aboutus/eng/zeke
 description: "Soh, Yi Zhi Zeke - Job Title"
 third_nav_title: Software Engineering
 id: zeke

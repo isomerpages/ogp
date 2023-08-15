@@ -1,6 +1,6 @@
 ---
 title: Patanapanlert, Pete
-permalink: /people/pete
+permalink: /aboutus/pm/pete
 description: "Patanapanlert, Pete - Job Title"
 third_nav_title: Product Management
 id: pete

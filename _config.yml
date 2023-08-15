@@ -33,7 +33,7 @@ colors:
     eng: "#E74F4F"
     ops: "#5D6785"
     pm: "#C4992A"
-    part_n_pol: "#272D41"
+    transformation: "#272D41"
 google_analytics: UA-189280200-1
 staging: https://ogp-staging.netlify.app
 prod: https://isomer-opengovsg-prod.netlify.app

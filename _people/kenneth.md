@@ -1,6 +1,6 @@
 ---
 title: Sng, Kenneth
-permalink: /people/kenneth
+permalink: /aboutus/pm/kenneth
 description: "Sng, Kenneth - Job Title"
 third_nav_title: Product Management
 id: kenneth

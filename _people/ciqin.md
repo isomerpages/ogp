@@ -1,6 +1,6 @@
 ---
 title: Ghwee, Ciqin
-permalink: /people/ciqin
+permalink: /aboutus/eng/ciqin
 description: "Ghwee, Ciqin - Job Title"
 third_nav_title: Software Engineering
 id: ciqin

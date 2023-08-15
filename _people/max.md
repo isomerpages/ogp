@@ -1,6 +1,6 @@
 ---
 title: Tan, Huiyi
-permalink: /people/max
+permalink: /aboutus/eng/max
 description: "Tan, Huiyi - Job Title"
 third_nav_title: Software Engineering
 id: max

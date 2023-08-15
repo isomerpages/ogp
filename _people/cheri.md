@@ -1,6 +1,6 @@
 ---
 title: Ong, Cheri
-permalink: /people/cheri
+permalink: /aboutus/eng/cheri
 description: "Ong, Cheri - Job Title"
 third_nav_title: Software Engineering
 id: cheri

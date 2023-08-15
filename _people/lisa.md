@@ -1,6 +1,6 @@
 ---
 title: Tjide, Lisa
-permalink: /people/lisa
+permalink: /aboutus/pm/lisa
 description: "Tjide, Lisa - Job Title"
 third_nav_title: Product Management
 id: lisa

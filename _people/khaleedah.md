@@ -1,6 +1,6 @@
 ---
 title: Sairi, Khaleedah
-permalink: /people/khaleedah
+permalink: /aboutus/design/khaleedah
 description: "Sairi, Khaleedah - Job Title"
 third_nav_title: Product Design
 id: khaleedah

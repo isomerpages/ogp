@@ -1,8 +1,8 @@
 ---
 title: Takeguchi, Airika
-permalink: /people/airika
+permalink: /aboutus/corporate/airika
 description: "Takeguchi, Airika - Job Title"
-third_nav_title: People Team
+third_nav_title: Corporate Team
 id: airika
 name: Takeguchi, Airika
 joinDate: 1970-01-01

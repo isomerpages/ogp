@@ -1,6 +1,6 @@
 ---
 title: Ashok Kumar, Kishen
-permalink: /people/kishen
+permalink: /aboutus/eng/kishen
 description: "Ashok Kumar, Kishen - Job Title"
 third_nav_title: Software Engineering
 id: kishen

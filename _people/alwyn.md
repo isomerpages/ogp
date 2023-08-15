@@ -1,6 +1,6 @@
 ---
 title: Tan, Alwyn Solomon
-permalink: /people/alwyn
+permalink: /aboutus/eng/alwyn
 description: "Tan, Alwyn Solomon - Job Title"
 third_nav_title: Software Engineering
 id: alwyn

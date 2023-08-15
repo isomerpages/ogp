@@ -1,6 +1,6 @@
 ---
 title: Tan, Wei Seng
-permalink: /people/weiseng2
+permalink: /aboutus/eng/weiseng2
 description: "Tan, Wei Seng - Job Title"
 third_nav_title: Software Engineering
 id: weiseng2

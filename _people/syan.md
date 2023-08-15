@@ -1,6 +1,6 @@
 ---
 title: Yan, Sonjia
-permalink: /people/syan
+permalink: /aboutus/pm/syan
 description: "Yan, Sonjia - Job Title"
 third_nav_title: Product Management
 id: syan

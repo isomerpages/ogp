@@ -1,6 +1,6 @@
 ---
 title: Yap, Pei Zhen
-permalink: /people/peizhen
+permalink: /aboutus/eng/peizhen
 description: "Yap, Pei Zhen - Job Title"
 third_nav_title: Software Engineering
 id: peizhen

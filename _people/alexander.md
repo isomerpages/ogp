@@ -1,6 +1,6 @@
 ---
 title: Lee, Alexander
-permalink: /people/alexander
+permalink: /aboutus/eng/alexander
 description: "Lee, Alexander - Job Title"
 third_nav_title: Software Engineering
 id: alexander

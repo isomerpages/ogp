@@ -1,8 +1,8 @@
 ---
 title: Chan, Russell
-permalink: /people/russell
+permalink: /aboutus/corporate/russell
 description: "Chan, Russell - Head of People Team"
-third_nav_title: People Team
+third_nav_title: Corporate Team
 id: russell
 name: Chan, Russell
 joinDate: 2019-09-02

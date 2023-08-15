@@ -1,6 +1,6 @@
 ---
 title: Ne, Didymus
-permalink: /people/didymus
+permalink: /aboutus/eng/didymus
 description: "Ne, Didymus - Job Title"
 third_nav_title: Software Engineering
 id: didymus

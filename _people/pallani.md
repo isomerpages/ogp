@@ -1,6 +1,6 @@
 ---
 title: s/o Selvan, Pallanikumaran
-permalink: /people/pallani
+permalink: /aboutus/eng/pallani
 description: "s/o Selvan, Pallanikumaran - Job Title"
 third_nav_title: Software Engineering
 id: pallani

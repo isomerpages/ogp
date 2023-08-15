@@ -1,6 +1,6 @@
 ---
 title: Lam, Kee Wei
-permalink: /people/keewei
+permalink: /aboutus/eng/keewei
 description: "Lam, Kee Wei - Job Title"
 third_nav_title: Software Engineering
 id: keewei

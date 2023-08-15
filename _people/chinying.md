@@ -1,6 +1,6 @@
 ---
 title: Seah, Chin Ying
-permalink: /people/chinying
+permalink: /aboutus/eng/chinying
 description: "Seah, Chin Ying - Job Title"
 third_nav_title: Software Engineering
 id: chinying

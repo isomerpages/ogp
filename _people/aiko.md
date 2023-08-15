@@ -1,6 +1,6 @@
 ---
 title: Klostermann, Aiko
-permalink: /people/aiko
+permalink: /aboutus/eng/aiko
 description: "Klostermann, Aiko - Job Title"
 third_nav_title: Software Engineering
 id: aiko

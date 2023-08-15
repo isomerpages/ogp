@@ -1,6 +1,6 @@
 ---
 title: Salim, Siti Sarah
-permalink: /people/sarahsalim
+permalink: /aboutus/design/sarahsalim
 description: "Salim, Siti Sarah - Job Title"
 third_nav_title: Product Design
 id: sarahsalim

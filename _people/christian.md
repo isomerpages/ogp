@@ -1,6 +1,6 @@
 ---
 title: Chow, Christian
-permalink: /people/christian
+permalink: /aboutus/eng/christian
 description: "Chow, Christian - Job Title"
 third_nav_title: Software Engineering
 id: christian

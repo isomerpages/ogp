@@ -1,6 +1,6 @@
 ---
 title: Ten, Shawn
-permalink: /people/shawn
+permalink: /aboutus/transformation/shawn
 description: "Ten, Shawn - Job Title"
 third_nav_title: Partnerships & Transformation
 id: shawn

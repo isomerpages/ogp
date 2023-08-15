@@ -1,8 +1,8 @@
 ---
 title: Ang, Chien Ling
-permalink: /people/chienling
+permalink: /aboutus/corporate/chienling
 description: "Ang, Chien Ling - Job Title"
-third_nav_title: People Team
+third_nav_title: Corporate Team
 id: chienling
 name: Ang, Chien Ling
 joinDate: 2021-10-08

@@ -1,6 +1,6 @@
 ---
 title: Le Thanh, Dat
-permalink: /people/dat
+permalink: /aboutus/eng/dat
 description: "Le Thanh, Dat - Job Title"
 third_nav_title: Software Engineering
 id: dat

@@ -1,6 +1,6 @@
 ---
 title: Kabir, Raisa
-permalink: /people/raisa
+permalink: /aboutus/eng/raisa
 description: "Kabir, Raisa - Job Title"
 third_nav_title: Software Engineering
 id: raisa

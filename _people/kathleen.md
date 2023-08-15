@@ -1,6 +1,6 @@
 ---
 title: Koh, Kathleen
-permalink: /people/kathleen
+permalink: /aboutus/pm/kathleen
 description: "Koh, Kathleen - Job Title"
 third_nav_title: Product Management
 id: kathleen

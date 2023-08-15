@@ -1,6 +1,6 @@
 ---
 title: Gan, Hong Yao
-permalink: /people/hongyao
+permalink: /aboutus/eng/hongyao
 description: "Gan, Hong Yao - Job Title"
 third_nav_title: Software Engineering
 id: hongyao

@@ -1,6 +1,6 @@
 ---
 title: Bin Selamet, Sufyan
-permalink: /people/sufyan
+permalink: /aboutus/eng/sufyan
 description: "Bin Selamet, Sufyan - Job Title"
 third_nav_title: Software Engineering
 id: sufyan

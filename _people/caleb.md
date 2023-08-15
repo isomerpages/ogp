@@ -1,6 +1,6 @@
 ---
 title: Chiam, Caleb
-permalink: /people/caleb
+permalink: /aboutus/eng/caleb
 description: "Chiam, Caleb - Job Title"
 third_nav_title: Software Engineering
 id: caleb

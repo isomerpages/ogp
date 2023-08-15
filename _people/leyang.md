@@ -1,6 +1,6 @@
 ---
 title: Tan, Le Yang
-permalink: /people/leyang
+permalink: /aboutus/eng/leyang
 description: "Tan, Le Yang - Job Title"
 third_nav_title: Software Engineering
 id: leyang

@@ -1,6 +1,6 @@
 ---
 title: Ang, Yi Xin
-permalink: /people/yixin
+permalink: /aboutus/eng/yixin
 description: "Ang, Yi Xin - Job Title"
 third_nav_title: Software Engineering
 id: yixin

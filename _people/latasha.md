@@ -1,6 +1,6 @@
 ---
 title: Lenus, Latasha
-permalink: /people/latasha
+permalink: /aboutus/eng/latasha
 description: "Lenus, Latasha - Job Title"
 third_nav_title: Software Engineering
 id: latasha

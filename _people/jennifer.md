@@ -1,6 +1,6 @@
 ---
 title: Liu, Jennifer
-permalink: /people/jennifer
+permalink: /aboutus/pm/jennifer
 description: "Liu, Jennifer - Job Title"
 third_nav_title: Product Management
 id: jennifer

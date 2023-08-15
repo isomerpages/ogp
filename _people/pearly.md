@@ -1,6 +1,6 @@
 ---
 title: Ong, Pearly
-permalink: /people/pearly
+permalink: /aboutus/design/pearly
 description: "Ong, Pearly - Job Title"
 third_nav_title: Product Design
 id: pearly

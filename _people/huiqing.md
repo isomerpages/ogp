@@ -1,6 +1,6 @@
 ---
 title: Lin, Huiqing
-permalink: /people/huiqing
+permalink: /aboutus/eng/huiqing
 description: "Lin, Huiqing - Job Title"
 third_nav_title: Software Engineering
 id: huiqing

@@ -1,6 +1,6 @@
 ---
 title: Soh, Moses
-permalink: /people/moses
+permalink: /aboutus/pm/moses
 description: "Soh, Moses - Job Title"
 third_nav_title: Product Management
 id: moses

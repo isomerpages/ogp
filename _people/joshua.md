@@ -1,8 +1,8 @@
 ---
 title: Tan, Junming
-permalink: /people/joshua
+permalink: /aboutus/corporate/joshua
 description: "Tan, Junming - Job Title"
-third_nav_title: People Team
+third_nav_title: Corporate Team
 id: joshua
 name: Tan, Junming
 joinDate: 2021-06-09

@@ -1,6 +1,6 @@
 ---
 title: Teo, Shu Li
-permalink: /people/shuli
+permalink: /aboutus/eng/shuli
 description: "Teo, Shu Li - Job Title"
 third_nav_title: Software Engineering
 id: shuli

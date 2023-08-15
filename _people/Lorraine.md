@@ -1,6 +1,6 @@
 ---
 title: Choo, Lorraine
-permalink: /people/lorraine
+permalink: /aboutus/eng/lorraine
 description: "Choo, Lorraine - Job Title"
 third_nav_title: Software Engineering
 id: lorraine

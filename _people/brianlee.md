@@ -1,6 +1,6 @@
 ---
 title: Lee, Siu Hei
-permalink: /people/brianlee
+permalink: /aboutus/pm/brianlee
 description: "Lee, Siu Hei - Job Title"
 third_nav_title: Product Management
 id: brianlee

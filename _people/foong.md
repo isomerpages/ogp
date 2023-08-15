@@ -1,6 +1,6 @@
 ---
 title: Yi Zhuan, Foong
-permalink: /people/foong
+permalink: /aboutus/eng/foong
 description: "Yi Zhuan, Foong - Job Title"
 third_nav_title: Software Engineering
 id: foong

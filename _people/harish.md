@@ -1,6 +1,6 @@
 ---
 title: Venkatesan, Harish
-permalink: /people/harish
+permalink: /aboutus/eng/harish
 description: "Venkatesan, Harish - Job Title"
 third_nav_title: Software Engineering
 id: harish

@@ -1,6 +1,6 @@
 ---
 title: Thoo, Wan Ling
-permalink: /people/wanling
+permalink: /aboutus/eng/wanling
 description: "Thoo, Wan Ling - Job Title"
 third_nav_title: Software Engineering
 id: wanling

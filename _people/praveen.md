@@ -1,6 +1,6 @@
 ---
 title: Raj Kumar, Praveen
-permalink: /people/praveen
+permalink: /aboutus/transformation/praveen
 description: "Raj Kumar, Praveen - Job Title"
 third_nav_title: Partnerships & Transformation
 id: praveen

@@ -1,6 +1,6 @@
 ---
 title: Chang, Kenneth
-permalink: /people/kennethchang
+permalink: /aboutus/eng/kennethchang
 description: "Chang, Kenneth - Job Title"
 third_nav_title: Software Engineering
 id: kennethchang

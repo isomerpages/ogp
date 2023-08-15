@@ -1,6 +1,6 @@
 ---
 title: Lee, Zhi Ying
-permalink: /people/zhiying
+permalink: /aboutus/eng/zhiying
 description: "Lee, Zhi Ying - Job Title"
 third_nav_title: Software Engineering
 id: zhiying

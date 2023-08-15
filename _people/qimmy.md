@@ -1,6 +1,6 @@
 ---
 title: Lim, Qi Xuan
-permalink: /people/qimmy
+permalink: /aboutus/eng/qimmy
 description: "Lim, Qi Xuan - Job Title"
 third_nav_title: Software Engineering
 id: qimmy

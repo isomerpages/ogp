@@ -1,6 +1,6 @@
 ---
 title: Dong, Wen Jia
-permalink: /people/wenjia
+permalink: /aboutus/eng/wenjia
 description: "Dong, Wen Jia - Job Title"
 third_nav_title: Software Engineering
 id: wenjia

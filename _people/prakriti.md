@@ -1,6 +1,6 @@
 ---
 title: Bansal, Prakriti
-permalink: /people/prakriti
+permalink: /aboutus/eng/prakriti
 description: "Bansal, Prakriti - Job Title"
 third_nav_title: Software Engineering
 id: prakriti

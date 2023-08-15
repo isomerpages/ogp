@@ -1,6 +1,6 @@
 ---
 title: Tay, Paul hong
-permalink: /people/paul
+permalink: /aboutus/pm/paul
 description: "Tay, Paul hong - Job Title"
 third_nav_title: Product Management
 id: paul

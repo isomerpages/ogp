@@ -1,6 +1,6 @@
 ---
 title: Leong, EnYi
-permalink: /people/enyi
+permalink: /aboutus/eng/enyi
 description: "Leong, EnYi - Job Title"
 third_nav_title: Software Engineering
 id: enyi

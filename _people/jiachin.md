@@ -1,6 +1,6 @@
 ---
 title: Er, Jia Chin
-permalink: /people/jiachin
+permalink: /aboutus/eng/jiachin
 description: "Er, Jia Chin - Job Title"
 third_nav_title: Software Engineering
 id: jiachin

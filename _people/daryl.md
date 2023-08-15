@@ -1,6 +1,6 @@
 ---
 title: Chan, Daryl
-permalink: /people/daryl
+permalink: /aboutus/eng/daryl
 description: "Chan, Daryl - Job Title"
 third_nav_title: Software Engineering
 id: daryl

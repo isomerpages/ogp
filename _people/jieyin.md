@@ -1,6 +1,6 @@
 ---
 title: Tan, Jie Yin
-permalink: /people/jieyin
+permalink: /aboutus/eng/jieyin
 description: "Tan, Jie Yin - Job Title"
 third_nav_title: Software Engineering
 id: jieyin

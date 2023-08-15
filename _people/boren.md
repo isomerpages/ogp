@@ -1,6 +1,6 @@
 ---
 title: Lew, Bo Ren
-permalink: /people/boren
+permalink: /aboutus/eng/boren
 description: "Lew, Bo Ren - Job Title"
 third_nav_title: Software Engineering
 id: boren

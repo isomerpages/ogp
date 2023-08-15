@@ -1,6 +1,6 @@
 ---
 title: Chan, Tiffany
-permalink: /people/tiffany
+permalink: /aboutus/eng/tiffany
 description: "Chan, Tiffany - Job Title"
 third_nav_title: Software Engineering
 id: tiffany

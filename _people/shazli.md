@@ -1,6 +1,6 @@
 ---
 title: Bin Shahril Shintaro, Muhammad Shazli
-permalink: /people/shazli
+permalink: /aboutus/ops/shazli
 description: "Bin Shahril Shintaro, Muhammad Shazli - Job Title"
 third_nav_title: Product Operations
 id: shazli

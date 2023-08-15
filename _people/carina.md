@@ -1,6 +1,6 @@
 ---
 title: Lim, Carina
-permalink: /people/carina
+permalink: /aboutus/eng/carina
 description: "Lim, Carina - Job Title"
 third_nav_title: Software Engineering
 id: carina

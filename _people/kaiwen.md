@@ -1,6 +1,6 @@
 ---
 title: Huang, Kaiwen
-permalink: /people/kaiwen
+permalink: /aboutus/eng/kaiwen
 description: "Huang, Kaiwen - Senior Software Engineer"
 third_nav_title: Software Engineering
 id: kaiwen

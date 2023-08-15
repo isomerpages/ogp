@@ -1,6 +1,6 @@
 ---
 title: Lui, Desmond
-permalink: /people/desmond
+permalink: /aboutus/design/desmond
 description: "Lui, Desmond - Job Title"
 third_nav_title: Product Design
 id: desmond

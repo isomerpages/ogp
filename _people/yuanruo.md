@@ -1,6 +1,6 @@
 ---
 title: Liang, Yuanruo
-permalink: /people/yuanruo
+permalink: /aboutus/eng/yuanruo
 description: "Liang, Yuanruo - Job Title"
 third_nav_title: Software Engineering
 id: yuanruo

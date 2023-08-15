@@ -1,6 +1,6 @@
 ---
 title: Bowes, Benjamin
-permalink: /people/benjamin
+permalink: /aboutus/design/benjamin
 description: "Bowes, Benjamin - Job Title"
 third_nav_title: Product Design
 id: benjamin

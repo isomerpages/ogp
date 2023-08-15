@@ -1,6 +1,6 @@
 ---
 title: Loh, Rayner
-permalink: /people/rayner
+permalink: /aboutus/eng/rayner
 description: "Loh, Rayner - Job Title"
 third_nav_title: Software Engineering
 id: rayner

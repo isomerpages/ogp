@@ -1,6 +1,6 @@
 ---
 title: Yang, XingHao
-permalink: /people/xinghao
+permalink: /aboutus/eng/xinghao
 description: "Yang, XingHao - Job Title"
 third_nav_title: Software Engineering
 id: xinghao

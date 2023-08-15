@@ -1,6 +1,6 @@
 ---
 title: Yak, Kian Feng
-permalink: /people/richardyak
+permalink: /aboutus/eng/richardyak
 description: "Yak, Kian Feng - Job Title"
 third_nav_title: Software Engineering
 id: richardyak

@@ -1,6 +1,6 @@
 ---
 title: Tham, Si Mun
-permalink: /people/simun
+permalink: /aboutus/eng/simun
 description: "Tham, Si Mun - Job Title"
 third_nav_title: Software Engineering
 id: simun

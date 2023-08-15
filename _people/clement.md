@@ -1,6 +1,6 @@
 ---
 title: Chia, Clement
-permalink: /people/clement
+permalink: /aboutus/ops/clement
 description: "Chia, Clement - Job Title"
 third_nav_title: Product Operations
 id: clement

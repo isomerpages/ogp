@@ -1,6 +1,6 @@
 ---
 title: Zaw, Khant
-permalink: /people/khant
+permalink: /aboutus/eng/khant
 description: "Zaw, Khant - Job Title"
 third_nav_title: Software Engineering
 id: khant

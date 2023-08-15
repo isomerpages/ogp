@@ -1,6 +1,6 @@
 ---
 title: Tan, Kevan
-permalink: /people/kevan
+permalink: /aboutus/eng/kevan
 description: "Tan, Kevan - Job Title"
 third_nav_title: Software Engineering
 id: kevan

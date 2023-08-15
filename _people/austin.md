@@ -1,6 +1,6 @@
 ---
 title: Woon Quan, Austin
-permalink: /people/austin
+permalink: /aboutus/eng/austin
 description: "Woon Quan, Austin - Job Title"
 third_nav_title: Software Engineering
 id: austin

@@ -1,6 +1,6 @@
 ---
 title: Ng, Darren
-permalink: /people/darren
+permalink: /aboutus/eng/darren
 description: "Ng, Darren - Job Title"
 third_nav_title: Software Engineering
 id: darren

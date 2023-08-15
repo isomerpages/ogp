@@ -1,6 +1,6 @@
 ---
 title: Hsu, Zhong Jun
-permalink: /people/zhongjun
+permalink: /aboutus/eng/zhongjun
 description: "Hsu, Zhong Jun - Job Title"
 third_nav_title: Software Engineering
 id: zhongjun

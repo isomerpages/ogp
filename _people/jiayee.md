@@ -1,6 +1,6 @@
 ---
 title: Lim, Jia Yee
-permalink: /people/jiayee
+permalink: /aboutus/eng/jiayee
 description: "Lim, Jia Yee - Job Title"
 third_nav_title: Software Engineering
 id: jiayee

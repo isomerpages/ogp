@@ -1,6 +1,6 @@
 ---
 title: Donyada, Jan
-permalink: /people/jan
+permalink: /aboutus/pm/jan
 description: "Donyada, Jan - Job Title"
 third_nav_title: Product Management
 id: jan

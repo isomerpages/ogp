@@ -1,6 +1,6 @@
 ---
 title: Fernandez, Hygin
-permalink: /people/hygin
+permalink: /aboutus/transformation/hygin
 description: "Fernandez, Hygin - Job Title"
 third_nav_title: Partnerships & Transformation
 id: hygin

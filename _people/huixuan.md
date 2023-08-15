@@ -1,6 +1,6 @@
 ---
 title: Leow, Hui Xuan
-permalink: /people/huixuan
+permalink: /aboutus/transformation/huixuan
 description: "Leow, Hui Xuan - Job Title"
 third_nav_title: Partnerships & Transformation
 id: huixuan

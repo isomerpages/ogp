@@ -1,6 +1,6 @@
 ---
 title: Lau, Kar Rui
-permalink: /people/karrui
+permalink: /aboutus/eng/karrui
 description: "Lau, Kar Rui - Job Title"
 third_nav_title: Software Engineering
 id: karrui

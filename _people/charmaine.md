@@ -1,6 +1,6 @@
 ---
 title: Lee, Charmaine
-permalink: /people/charmaine
+permalink: /aboutus/pm/charmaine
 description: "Lee, Charmaine - Job Title"
 third_nav_title: Product Management
 id: charmaine

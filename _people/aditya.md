@@ -1,6 +1,6 @@
 ---
 title: Jain, Aditya
-permalink: /people/aditya
+permalink: /aboutus/eng/aditya
 description: "Jain, Aditya - Job Title"
 third_nav_title: Software Engineering
 id: aditya

@@ -1,6 +1,6 @@
 ---
 title: Oh, Chin Yang
-permalink: /people/chinyang
+permalink: /aboutus/eng/chinyang
 description: "Oh, Chin Yang - Job Title"
 third_nav_title: Software Engineering
 id: chinyang

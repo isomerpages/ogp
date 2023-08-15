@@ -1,6 +1,6 @@
 ---
 title: Gan, Chin Yao
-permalink: /people/chinyao
+permalink: /aboutus/eng/chinyao
 description: "Gan, Chin Yao - Job Title"
 third_nav_title: Software Engineering
 id: chinyao

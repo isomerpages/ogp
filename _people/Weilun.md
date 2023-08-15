@@ -1,6 +1,6 @@
 ---
 title: Tan, Wei Lun
-permalink: /people/weilun
+permalink: /aboutus/eng/weilun
 description: "Tan, Wei Lun - Job Title"
 third_nav_title: Software Engineering
 id: weilun

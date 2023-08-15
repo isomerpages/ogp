@@ -1,6 +1,6 @@
 ---
 title: Liao, Yihan
-permalink: /people/yihan
+permalink: /aboutus/eng/yihan
 description: "Liao, Yihan - Job Title"
 third_nav_title: Software Engineering
 id: yihan

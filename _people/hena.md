@@ -1,6 +1,6 @@
 ---
 title: Shah, Hena
-permalink: /people/hena
+permalink: /aboutus/pm/hena
 description: "Shah, Hena - Job Title"
 third_nav_title: Product Management
 id: hena

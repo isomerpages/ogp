@@ -1,6 +1,6 @@
 ---
 title: Ang, Jasmine
-permalink: /people/jasmine
+permalink: /aboutus/eng/jasmine
 description: "Ang, Jasmine - Job Title"
 third_nav_title: Software Engineering
 id: jasmine

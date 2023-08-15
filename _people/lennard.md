@@ -1,6 +1,6 @@
 ---
 title: Lim, Fa Ping Lennard
-permalink: /people/lennard
+permalink: /aboutus/pm/lennard
 description: "Lim, Fa Ping Lennard - Job Title"
 third_nav_title: Product Management
 id: lennard
