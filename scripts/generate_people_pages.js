@@ -10,7 +10,8 @@ const parseAsync = promisify(parse)
 const SOURCE_PEOPLE_CSV = '../_about-us/people.csv'
 const STAFF_TEMPLATE_MD = './staff.md.template'
 const TARGET_PEOPLE_DATA_FILE_YML = '../_data/people.yml'
-const TARGET_PEOPLE_COLLECTION_DIR = '../_about-us/'
+const TARGET_ABOUT_US_COLLECTION_DIR = '../_about-us/'
+const TARGET_ABOUT_US_COLLECTION_YML = '../_about-us/collection.yml'
 
 const functionNameToFunctionId = {
     'Software Engineering': 'eng',
@@ -31,6 +32,8 @@ const functionIdToFunctionName = {
     ops: 'Product Operations',
     transformation: 'Partnerships & Transformation',
 }
+
+
 
 // https://www.shutterfly.com/ideas/family-quotes/
 const familyQuotes = [
@@ -136,7 +139,7 @@ for (const record of namedRecords) {
         return record[itemId]
     });
 
-    const functionDir = `${TARGET_PEOPLE_COLLECTION_DIR}${record.functionId}`
+    const functionDir = `${TARGET_ABOUT_US_COLLECTION_DIR}${record.functionId}`
 
     try {
         await unlink(`${functionDir}/${record.id}.md`);
@@ -155,4 +158,36 @@ for (const record of namedRecords) {
 
 
 // 3. Generate "About Us" Navigation
+const first = 'About us.md';
+const last = 'Board of Advisors.md';
+const functionIds = [
+    'corporate',
+    'design',
+    'eng',
+    'ops',
+    'pm',
+    'transformation',
+];
+const pages = [first];
 
+functionIds.forEach((functionId) => {
+    pages.push(`${functionId}/all.md`);
+    namedRecords
+        .filter(record => record.functionId === functionId)
+        .forEach(record =>
+            pages.push(`${functionId}/${record.id}.md`)
+        )
+});
+
+pages.push(last);
+
+const aboutUsCollectionStruct = {
+    collections: {
+        'about-us': {
+            output: true,
+            order: pages
+        }
+    }
+}
+
+await writeFile(TARGET_ABOUT_US_COLLECTION_YML, YAML.stringify(aboutUsCollectionStruct))
