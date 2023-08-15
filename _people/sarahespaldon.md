@@ -6,13 +6,14 @@ third_nav_title: Corporate Team
 id: sarahespaldon
 name: Espaldon, Sarah
 joinDate: 2019-04-11
-function: corporate
+functionId: corporate
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Ohana means family and family means nobody gets left behind or forgotten.
 linkedinId: sarahespaldon
+functionName: Corporate Team
 
 ---
 

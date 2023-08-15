@@ -6,7 +6,7 @@ third_nav_title: Corporate Team
 id: shannen
 name: Ho Yun Fang, Shannen
 joinDate: 1970-01-01
-function: corporate
+functionId: corporate
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -14,6 +14,7 @@ accomplishments: ""
 quote: The bond that links your true family is not one of blood, but of respect
   and joy in each other’s life.
 linkedinId: shannen
+functionName: Corporate Team
 
 ---
 

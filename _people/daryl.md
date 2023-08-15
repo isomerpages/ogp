@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: daryl
 name: Chan, Daryl
 joinDate: 2022-03-01
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Being part of a family means smiling for photos.
 linkedinId: daryl
+functionName: Software Engineering
 
 ---
 

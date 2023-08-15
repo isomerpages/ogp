@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: sufyan
 name: Bin Selamet, Sufyan
 joinDate: 1970-01-01
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Happiness is having a large, loving, caring, close-knit family in another city.
 linkedinId: sufyan
+functionName: Software Engineering
 
 ---
 

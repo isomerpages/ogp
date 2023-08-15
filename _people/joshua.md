@@ -6,13 +6,14 @@ third_nav_title: Corporate Team
 id: joshua
 name: Tan, Junming
 joinDate: 2021-06-09
-function: corporate
+functionId: corporate
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: It didn’t matter how big our house was; it mattered that there was love in it.
 linkedinId: joshua
+functionName: Corporate Team
 
 ---
 

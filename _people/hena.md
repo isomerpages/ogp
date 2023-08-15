@@ -6,7 +6,7 @@ third_nav_title: Product Management
 id: hena
 name: Shah, Hena
 joinDate: 1970-01-01
-function: pm
+functionId: pm
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -14,6 +14,7 @@ accomplishments: ""
 quote: There is no doubt that it is around the family and the home that all the
   greatest virtues… are created, strengthened and maintained.
 linkedinId: hena
+functionName: Product Management
 
 ---
 

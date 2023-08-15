@@ -6,7 +6,7 @@ third_nav_title: Software Engineering
 id: jieyin
 name: Tan, Jie Yin
 joinDate: 1970-01-01
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -14,6 +14,7 @@ accomplishments: ""
 quote: The family – that dear octopus from whose tentacles we never quite
   escape, nor, in our inmost hearts, ever quite wish to.
 linkedinId: jieyin
+functionName: Software Engineering
 
 ---
 

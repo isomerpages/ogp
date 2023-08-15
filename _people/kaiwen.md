@@ -6,7 +6,7 @@ third_nav_title: Software Engineering
 id: kaiwen
 name: Huang, Kaiwen
 joinDate: 2016-04-07
-function: eng
+functionId: eng
 jobTitle: Senior Software Engineer
 curProducts: "* PaySG"
 pastProducts: |-
@@ -22,6 +22,7 @@ accomplishments: >-
   * Worked with the other FinTech team members to drive a strong team culture of user-centricity, iterativeness, and cross-functional collaboration
 quote: The most important thing in the world is family and love.
 linkedinId: kaiwen
+functionName: Software Engineering
 
 ---
 

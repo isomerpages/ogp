@@ -6,7 +6,7 @@ third_nav_title: Product Design
 id: desmond
 name: Lui, Desmond
 joinDate: 1970-01-01
-function: design
+functionId: design
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -14,6 +14,7 @@ accomplishments: ""
 quote: The family – that dear octopus from whose tentacles we never quite
   escape, nor, in our inmost hearts, ever quite wish to.
 linkedinId: desmond
+functionName: Product Design
 
 ---
 

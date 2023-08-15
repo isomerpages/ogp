@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: rayner
 name: Loh, Rayner
 joinDate: 2023-03-04
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Family gives you the roots to stand tall and strong.
 linkedinId: rayner
+functionName: Software Engineering
 
 ---
 

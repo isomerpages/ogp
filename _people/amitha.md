@@ -6,13 +6,14 @@ third_nav_title: Corporate Team
 id: amitha
 name: Fernando, Amitha
 joinDate: 1970-01-01
-function: corporate
+functionId: corporate
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Some people are worth melting for.
 linkedinId: amitha
+functionName: Corporate Team
 
 ---
 

@@ -6,13 +6,14 @@ third_nav_title: Corporate Team
 id: chienling
 name: Ang, Chien Ling
 joinDate: 2021-10-08
-function: corporate
+functionId: corporate
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: The most important thing in the world is family and love.
 linkedinId: chienling
+functionName: Corporate Team
 
 ---
 

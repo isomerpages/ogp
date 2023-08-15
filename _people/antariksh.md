@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: antariksh
 name: Mahajan, Antariksh
 joinDate: 2020-02-03
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: It didn’t matter how big our house was; it mattered that there was love in it.
 linkedinId: antariksh
+functionName: Software Engineering
 
 ---
 

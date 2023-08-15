@@ -6,13 +6,14 @@ third_nav_title: Product Management
 id: jan
 name: Donyada, Jan
 joinDate: 1970-01-01
-function: pm
+functionId: pm
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Family is not defined by our genes, it is built and maintained through love.
 linkedinId: jan
+functionName: Product Management
 
 ---
 

@@ -6,7 +6,7 @@ third_nav_title: Product Management
 id: kathleen
 name: Koh, Kathleen
 joinDate: 1970-01-01
-function: pm
+functionId: pm
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -14,6 +14,7 @@ accomplishments: ""
 quote: Being a family means you are a part of something very wonderful. It means
   you will love and be loved for the rest of your life.
 linkedinId: kathleen
+functionName: Product Management
 
 ---
 

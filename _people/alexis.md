@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: alexis
 name: Goh, Weiying
 joinDate: 29/06/2020
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Family is the heart of a home.
 linkedinId: alexis
+functionName: Software Engineering
 
 ---
 

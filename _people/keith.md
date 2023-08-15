@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: keith
 name: Chew, Mun Kei
 joinDate: 1970-01-01
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: In time of test, family is best.
 linkedinId: keith
+functionName: Software Engineering
 
 ---
 

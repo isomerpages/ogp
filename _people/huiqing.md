@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: huiqing
 name: Lin, Huiqing
 joinDate: 2021-06-09
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: We may have our differences, but nothing’s more important than family.
 linkedinId: huiqing
+functionName: Software Engineering
 
 ---
 

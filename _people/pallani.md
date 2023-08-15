@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: pallani
 name: s/o Selvan, Pallanikumaran
 joinDate: 2015-11-05
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Family and friends are hidden treasures, seek them and enjoy their riches.
 linkedinId: pallani
+functionName: Software Engineering
 
 ---
 

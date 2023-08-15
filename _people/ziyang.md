@@ -6,7 +6,7 @@ third_nav_title: Software Engineering
 id: ziyang
 name: See, Zi Yang
 joinDate: 1970-01-01
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -14,6 +14,7 @@ accomplishments: ""
 quote: Our family is a circle of strength of love with every birth and every
   union the circle grows.
 linkedinId: ziyang
+functionName: Software Engineering
 
 ---
 

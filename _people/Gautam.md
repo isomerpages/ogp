@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: gautam
 name: Manek, Gautam
 joinDate: 1970-01-01
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: To us, family means putting your arms around each other and being there.
 linkedinId: gautam
+functionName: Software Engineering
 
 ---
 

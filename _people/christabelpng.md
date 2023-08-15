@@ -6,13 +6,14 @@ third_nav_title: Product Design
 id: christabelpng
 name: Png, Christabel
 joinDate: 2020-01-06
-function: design
+functionId: design
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Family is not an important thing. It’s everything.
 linkedinId: christabelpng
+functionName: Product Design
 
 ---
 

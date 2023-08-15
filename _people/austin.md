@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: austin
 name: Woon Quan, Austin
 joinDate: 1970-01-01
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Family is family.
 linkedinId: austin
+functionName: Software Engineering
 
 ---
 

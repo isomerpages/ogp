@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: jingyi
 name: Lai, Jing Yi
 joinDate: 1970-01-01
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Being part of a family means smiling for photos.
 linkedinId: jingyi
+functionName: Software Engineering
 
 ---
 

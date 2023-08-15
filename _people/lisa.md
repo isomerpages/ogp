@@ -6,7 +6,7 @@ third_nav_title: Product Management
 id: lisa
 name: Tjide, Lisa
 joinDate: 26/11/2018
-function: pm
+functionId: pm
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -14,6 +14,7 @@ accomplishments: ""
 quote: The informality of family life is a blessed condition that allows us all
   to become our best while looking our worst.
 linkedinId: lisa
+functionName: Product Management
 
 ---
 

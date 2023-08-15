@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: ciqin
 name: Ghwee, Ciqin
 joinDate: 22/05/2023
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Family gives you the roots to stand tall and strong.
 linkedinId: ciqin
+functionName: Software Engineering
 
 ---
 

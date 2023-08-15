@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: angel
 name: Suhardi, Maria
 joinDate: 1970-01-01
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: We may have our differences, but nothing’s more important than family.
 linkedinId: angel
+functionName: Software Engineering
 
 ---
 

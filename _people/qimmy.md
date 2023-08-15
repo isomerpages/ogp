@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: qimmy
 name: Lim, Qi Xuan
 joinDate: 1970-01-01
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Ohana means family and family means nobody gets left behind or forgotten.
 linkedinId: qimmy
+functionName: Software Engineering
 
 ---
 

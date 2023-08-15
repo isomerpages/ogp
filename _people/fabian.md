@@ -6,7 +6,7 @@ third_nav_title: Software Engineering
 id: fabian
 name: Chia Hup Peng, Fabian
 joinDate: 2022-04-07
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -14,6 +14,7 @@ accomplishments: ""
 quote: It’s all about the quality of life and finding a happy balance between
   work and friends and family.
 linkedinId: fabian
+functionName: Software Engineering
 
 ---
 

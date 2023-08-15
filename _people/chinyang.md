@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: chinyang
 name: Oh, Chin Yang
 joinDate: 2023-06-03
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Other things may change us, but we start and end with the family.
 linkedinId: chinyang
+functionName: Software Engineering
 
 ---
 

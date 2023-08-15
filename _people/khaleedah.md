@@ -6,7 +6,7 @@ third_nav_title: Product Design
 id: khaleedah
 name: Sairi, Khaleedah
 joinDate: 2021-12-07
-function: design
+functionId: design
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -14,6 +14,7 @@ accomplishments: ""
 quote: Stick to the basics, hold on to your family and friends – they will never
   go out of fashion.
 linkedinId: khaleedah
+functionName: Product Design
 
 ---
 

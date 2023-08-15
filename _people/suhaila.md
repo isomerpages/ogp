@@ -6,13 +6,14 @@ third_nav_title: Product Operations
 id: suhaila
 name: Roslan, Suhaila
 joinDate: 2021-05-04
-function: ops
+functionId: ops
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Family and friendships are two of the greatest facilitators of happiness.
 linkedinId: suhaila
+functionName: Product Operations
 
 ---
 

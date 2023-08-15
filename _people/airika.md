@@ -6,13 +6,14 @@ third_nav_title: Corporate Team
 id: airika
 name: Takeguchi, Airika
 joinDate: 1970-01-01
-function: corporate
+functionId: corporate
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Life is beautiful. It’s about giving. It’s about family.
 linkedinId: airika
+functionName: Corporate Team
 
 ---
 

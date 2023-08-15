@@ -6,7 +6,7 @@ third_nav_title: Software Engineering
 id: huiling
 name: Shi, Hui Ling
 joinDate: 1970-01-01
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -14,6 +14,7 @@ accomplishments: ""
 quote: "Blended families: woven together by choice, strengthened together by
   love, tested by everything, and each uniquely ours."
 linkedinId: huiling
+functionName: Software Engineering
 
 ---
 

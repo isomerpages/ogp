@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: enyi
 name: Leong, EnYi
 joinDate: 1970-01-01
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: A happy family is but an earlier heaven.
 linkedinId: enyi
+functionName: Software Engineering
 
 ---
 

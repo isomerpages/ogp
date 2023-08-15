@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: karrui
 name: Lau, Kar Rui
 joinDate: 2020-03-02
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Family is not an important thing. It’s everything.
 linkedinId: karrui
+functionName: Software Engineering
 
 ---
 

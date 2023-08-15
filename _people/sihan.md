@@ -6,7 +6,7 @@ third_nav_title: Software Engineering
 id: sihan
 name: Ding, Si Han
 joinDate: 13/06/2022
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -14,6 +14,7 @@ accomplishments: ""
 quote: "Blended families: woven together by choice, strengthened together by
   love, tested by everything, and each uniquely ours."
 linkedinId: sihan
+functionName: Software Engineering
 
 ---
 

@@ -6,7 +6,7 @@ third_nav_title: Software Engineering
 id: adan
 name: Vielma, Adan
 joinDate: 1970-01-01
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -14,6 +14,7 @@ accomplishments: ""
 quote: Family ties mean that no matter how much you might want to run from your
   family, you can’t.
 linkedinId: adan
+functionName: Software Engineering
 
 ---
 

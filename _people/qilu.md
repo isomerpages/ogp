@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: qilu
 name: Xie, Qilu
 joinDate: 2023-06-02
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: The family is one of nature’s masterpieces.
 linkedinId: qilu
+functionName: Software Engineering
 
 ---
 

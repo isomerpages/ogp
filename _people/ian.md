@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: ian
 name: Chen, Wei Ian
 joinDate: 2018-03-09
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: The family is one of nature’s masterpieces.
 linkedinId: ian
+functionName: Software Engineering
 
 ---
 

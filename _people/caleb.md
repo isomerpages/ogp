@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: caleb
 name: Chiam, Caleb
 joinDate: 1970-01-01
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Treat your family like friends and your friends like family.
 linkedinId: caleb
+functionName: Software Engineering
 
 ---
 

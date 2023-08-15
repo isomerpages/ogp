@@ -6,13 +6,14 @@ third_nav_title: Corporate Team
 id: jiahui
 name: Yap, Jia Hui
 joinDate: 1970-01-01
-function: corporate
+functionId: corporate
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Family and friends are hidden treasures, seek them and enjoy their riches.
 linkedinId: jiahui
+functionName: Corporate Team
 
 ---
 

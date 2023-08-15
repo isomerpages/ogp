@@ -6,13 +6,14 @@ third_nav_title: Product Management
 id: charmaine
 name: Lee, Charmaine
 joinDate: 1970-01-01
-function: pm
+functionId: pm
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: The family is one of nature’s masterpieces.
 linkedinId: charmaine
+functionName: Product Management
 
 ---
 

@@ -96,11 +96,11 @@ let quoteIndex = 0
 const namedRecords = records.map(([name, joinDate, email, func, jobTitle, curProducts, pastProducts, accomplishments, quote, linkedinId]) => {
     const id = email.split('@')[0].toLowerCase();
 
-    return {
+    const record = {
         id,
         name,
         joinDate: joinDate || '1970-01-01',
-        function: functionNameToFunctionId[func] || (functionIdToFunctionName[func] ? func : 'eng'), // stupid default, but to make sure things don't break 🤷
+        functionId: functionNameToFunctionId[func] || (functionIdToFunctionName[func] ? func : 'eng'), // stupid default, but to make sure things don't break 🤷
         jobTitle: jobTitle || 'Job Title',
         curProducts: curProducts || 'currentProducts',
         pastProducts: pastProducts || 'pastProducts',
@@ -108,6 +108,8 @@ const namedRecords = records.map(([name, joinDate, email, func, jobTitle, curPro
         quote: quote || familyQuotes[quoteIndex++%familyQuotes.length],
         linkedinId: linkedinId || id, // warning: using id is NOT correct, this is just to have something there for now
     }
+
+    return record
 })
 
 // order the record by name
@@ -123,10 +125,9 @@ for (const record of namedRecords) {
     console.log(`Writing file for ${record.id} (${record.name})`
     )
 
-    // augment the record with new field
+    // augment the record with new fields
     record.yamlData = YAML.stringify(record)
-    record.functionId = record.function
-    record.functionName = functionIdToFunctionName[record.function]
+    record.functionName = functionIdToFunctionName[record.functionId]
 
     const processed = templateContent.replace(/\{\{([a-z]+)\}\}/gi, (_match, itemId) => {
         if (!(itemId in record)) {

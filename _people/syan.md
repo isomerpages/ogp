@@ -6,7 +6,7 @@ third_nav_title: Product Management
 id: syan
 name: Yan, Sonjia
 joinDate: 2019-04-09
-function: pm
+functionId: pm
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -14,6 +14,7 @@ accomplishments: ""
 quote: It’s all about the quality of life and finding a happy balance between
   work and friends and family.
 linkedinId: syan
+functionName: Product Management
 
 ---
 

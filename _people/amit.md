@@ -6,13 +6,14 @@ third_nav_title: Product Management
 id: amit
 name: Samdarshi, Amit
 joinDate: 1970-01-01
-function: pm
+functionId: pm
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: A happy family is but an earlier heaven.
 linkedinId: amit
+functionName: Product Management
 
 ---
 

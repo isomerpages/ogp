@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: zulhilmi
 name: Icksan, Mohammad Zulhilmi
 joinDate: 1970-01-01
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Nothing is better than going home to family and eating good food and relaxing
 linkedinId: zulhilmi
+functionName: Software Engineering
 
 ---
 

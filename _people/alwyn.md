@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: alwyn
 name: Tan, Alwyn Solomon
 joinDate: 1970-01-01
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Where there is family, there is love.
 linkedinId: alwyn
+functionName: Software Engineering
 
 ---
 

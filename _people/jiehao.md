@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: jiehao
 name: Kwa, Jie Hao
 joinDate: 2019-09-09
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Families are like fudge – mostly sweet with a few nuts.
 linkedinId: jiehao
+functionName: Software Engineering
 
 ---
 

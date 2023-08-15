@@ -6,13 +6,14 @@ third_nav_title: Product Operations
 id: shreyas
 name: Chandrakanth Rao Inna, Shreyas
 joinDate: 22/05/2023
-function: ops
+functionId: ops
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: The memories we make with our family is everything.
 linkedinId: shreyas
+functionName: Product Operations
 
 ---
 

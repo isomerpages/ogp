@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: jiachin
 name: Er, Jia Chin
 joinDate: 2021-04-01
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: I didn’t give you the gift of life, but life gave me the gift of you.
 linkedinId: jiachin
+functionName: Software Engineering
 
 ---
 

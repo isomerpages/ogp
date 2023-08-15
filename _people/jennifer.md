@@ -6,13 +6,14 @@ third_nav_title: Product Management
 id: jennifer
 name: Liu, Jennifer
 joinDate: 1970-01-01
-function: pm
+functionId: pm
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Life is beautiful. It’s about giving. It’s about family.
 linkedinId: jennifer
+functionName: Product Management
 
 ---
 

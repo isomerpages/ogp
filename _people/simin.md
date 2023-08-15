@@ -6,7 +6,7 @@ third_nav_title: Software Engineering
 id: simin
 name: Ong, Si Min
 joinDate: 1970-01-01
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -14,6 +14,7 @@ accomplishments: ""
 quote: The informality of family life is a blessed condition that allows us all
   to become our best while looking our worst.
 linkedinId: simin
+functionName: Software Engineering
 
 ---
 

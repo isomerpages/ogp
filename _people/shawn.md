@@ -6,7 +6,7 @@ third_nav_title: Partnerships & Transformation
 id: shawn
 name: Ten, Shawn
 joinDate: 1970-01-01
-function: transformation
+functionId: transformation
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -14,6 +14,7 @@ accomplishments: ""
 quote: In family life, love is the oil that eases friction, the cement that
   binds closer together, and the music that brings harmony.
 linkedinId: shawn
+functionName: Partnerships & Transformation
 
 ---
 

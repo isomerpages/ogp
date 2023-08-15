@@ -6,7 +6,7 @@ third_nav_title: Software Engineering
 id: kishen
 name: Ashok Kumar, Kishen
 joinDate: 2022-06-06
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -14,6 +14,7 @@ accomplishments: ""
 quote: In family life, love is the oil that eases friction, the cement that
   binds closer together, and the music that brings harmony.
 linkedinId: kishen
+functionName: Software Engineering
 
 ---
 

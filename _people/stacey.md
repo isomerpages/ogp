@@ -6,13 +6,14 @@ third_nav_title: Product Design
 id: stacey
 name: Tan Seok Sim, Stacey
 joinDate: 2022-07-02
-function: design
+functionId: design
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Rejoice with your family in the beautiful land of life.
 linkedinId: stacey
+functionName: Product Design
 
 ---
 

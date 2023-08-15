@@ -6,13 +6,14 @@ third_nav_title: Product Management
 id: pete
 name: Patanapanlert, Pete
 joinDate: 27/03/2023
-function: pm
+functionId: pm
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Being part of a family means smiling for photos.
 linkedinId: pete
+functionName: Product Management
 
 ---
 

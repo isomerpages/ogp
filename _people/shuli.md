@@ -6,7 +6,7 @@ third_nav_title: Software Engineering
 id: shuli
 name: Teo, Shu Li
 joinDate: 20/04/2020
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -14,6 +14,7 @@ accomplishments: ""
 quote: Having somewhere to go is home. Having someone to love is family. And
   having both is a blessing.
 linkedinId: shuli
+functionName: Software Engineering
 
 ---
 

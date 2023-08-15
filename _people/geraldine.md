@@ -6,13 +6,14 @@ third_nav_title: Product Operations
 id: geraldine
 name: Tan, Geraldine
 joinDate: 1970-01-01
-function: ops
+functionId: ops
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Family gives you the roots to stand tall and strong.
 linkedinId: geraldine
+functionName: Product Operations
 
 ---
 

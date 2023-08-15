@@ -6,13 +6,14 @@ third_nav_title: Product Operations
 id: clement
 name: Chia, Clement
 joinDate: 1970-01-01
-function: ops
+functionId: ops
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Family and friendships are two of the greatest facilitators of happiness.
 linkedinId: clement
+functionName: Product Operations
 
 ---
 

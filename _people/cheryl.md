@@ -6,13 +6,14 @@ third_nav_title: Product Management
 id: cheryl
 name: Lee, Cheryl
 joinDate: 1970-01-01
-function: pm
+functionId: pm
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: In time of test, family is best.
 linkedinId: cheryl
+functionName: Product Management
 
 ---
 

@@ -6,7 +6,7 @@ third_nav_title: Software Engineering
 id: latasha
 name: Lenus, Latasha
 joinDate: 1970-01-01
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -14,6 +14,7 @@ accomplishments: ""
 quote: My family is my life, and everything else comes second as far as what’s
   important to me.
 linkedinId: latasha
+functionName: Software Engineering
 
 ---
 

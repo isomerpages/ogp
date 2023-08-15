@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: darren
 name: Ng, Darren
 joinDate: 1970-01-01
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: The most important thing in the world is family and love.
 linkedinId: darren
+functionName: Software Engineering
 
 ---
 

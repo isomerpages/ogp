@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: ziwei
 name: Lim, Zi Wei
 joinDate: 2022-04-07
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Some people are worth melting for.
 linkedinId: ziwei
+functionName: Software Engineering
 
 ---
 

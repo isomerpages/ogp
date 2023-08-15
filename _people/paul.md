@@ -6,13 +6,14 @@ third_nav_title: Product Management
 id: paul
 name: Tay, Paul hong
 joinDate: 1970-01-01
-function: pm
+functionId: pm
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Nothing is better than going home to family and eating good food and relaxing
 linkedinId: paul
+functionName: Product Management
 
 ---
 

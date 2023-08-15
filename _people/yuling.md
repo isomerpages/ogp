@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: yuling
 name: Yu Ling, Tan
 joinDate: 25/09/2023
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: A happy family is but an earlier heaven.
 linkedinId: yuling
+functionName: Software Engineering
 
 ---
 

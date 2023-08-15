@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: rachel
 name: Rachel, Tan Si Ying
 joinDate: 1970-01-01
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: The family is one of nature’s masterpieces.
 linkedinId: rachel
+functionName: Software Engineering
 
 ---
 

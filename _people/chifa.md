@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: chifa
 name: Foo, Chi Fa
 joinDate: 1970-01-01
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: We may have our differences, but nothing’s more important than family.
 linkedinId: chifa
+functionName: Software Engineering
 
 ---
 

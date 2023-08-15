@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: sebastian
 name: Wong Zhi Qian, Sebastian
 joinDate: 1970-01-01
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Family is not an important thing. It’s everything.
 linkedinId: sebastian
+functionName: Software Engineering
 
 ---
 

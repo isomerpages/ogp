@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: kennethchang
 name: Chang, Kenneth
 joinDate: 1970-01-01
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Family is family.
 linkedinId: kennethchang
+functionName: Software Engineering
 
 ---
 

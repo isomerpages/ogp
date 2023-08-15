@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: lynette
 name: Lee, Lynette
 joinDate: 2023-01-08
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Treat your family like friends and your friends like family.
 linkedinId: lynette
+functionName: Software Engineering
 
 ---
 

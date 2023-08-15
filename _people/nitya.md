@@ -6,7 +6,7 @@ third_nav_title: Partnerships & Transformation
 id: nitya
 name: Menon, Nitya
 joinDate: 1970-01-01
-function: transformation
+functionId: transformation
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -14,6 +14,7 @@ accomplishments: ""
 quote: The bond that links your true family is not one of blood, but of respect
   and joy in each other’s life.
 linkedinId: nitya
+functionName: Partnerships & Transformation
 
 ---
 

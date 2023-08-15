@@ -6,7 +6,7 @@ third_nav_title: Product Management
 id: talitha
 name: Chin, Rui Ling Talitha
 joinDate: 15/10/2018
-function: pm
+functionId: pm
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -14,6 +14,7 @@ accomplishments: ""
 quote: Stick to the basics, hold on to your family and friends – they will never
   go out of fashion.
 linkedinId: talitha
+functionName: Product Management
 
 ---
 

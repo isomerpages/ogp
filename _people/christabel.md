@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: christabel
 name: Neo, Xiuwen Christabel
 joinDate: 1970-01-01
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: When trouble comes, it’s your family that supports you.
 linkedinId: christabel
+functionName: Software Engineering
 
 ---
 

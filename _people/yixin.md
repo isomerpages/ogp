@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: yixin
 name: Ang, Yi Xin
 joinDate: 2023-06-03
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: To us, family means putting your arms around each other and being there.
 linkedinId: yixin
+functionName: Software Engineering
 
 ---
 

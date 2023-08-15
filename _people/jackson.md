@@ -6,13 +6,14 @@ third_nav_title: Product Operations
 id: jackson
 name: Yap, Jackson
 joinDate: 31/08/2020
-function: ops
+functionId: ops
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Treat your family like friends and your friends like family.
 linkedinId: jackson
+functionName: Product Operations
 
 ---
 

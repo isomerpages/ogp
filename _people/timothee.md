@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: timothee
 name: Groleau, Timothee
 joinDate: 1970-01-01
-function: eng
+functionId: eng
 jobTitle: Lead Software Engineer
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: It didn’t matter how big our house was; it mattered that there was love in it.
 linkedinId: timothee
+functionName: Software Engineering
 
 ---
 

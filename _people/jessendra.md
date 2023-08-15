@@ -6,13 +6,14 @@ third_nav_title: Product Management
 id: jessendra
 name: Loke Swen, Jessendra
 joinDate: 1970-01-01
-function: pm
+functionId: pm
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Family is the heart of a home.
 linkedinId: jessendra
+functionName: Product Management
 
 ---
 

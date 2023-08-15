@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: kokseng
 name: Chiew, Kok Seng
 joinDate: 1970-01-01
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Family and friends are hidden treasures, seek them and enjoy their riches.
 linkedinId: kokseng
+functionName: Software Engineering
 
 ---
 

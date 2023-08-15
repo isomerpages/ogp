@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: zhongjun
 name: Hsu, Zhong Jun
 joinDate: 2022-08-08
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: When trouble comes, it’s your family that supports you.
 linkedinId: zhongjun
+functionName: Software Engineering
 
 ---
 

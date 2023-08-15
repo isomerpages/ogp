@@ -6,7 +6,7 @@ third_nav_title: Software Engineering
 id: fiona
 name: Pay Si Ying, Fiona
 joinDate: 24/07/2023
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -14,6 +14,7 @@ accomplishments: ""
 quote: Family ties mean that no matter how much you might want to run from your
   family, you can’t.
 linkedinId: fiona
+functionName: Software Engineering
 
 ---
 

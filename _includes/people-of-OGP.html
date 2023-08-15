@@ -49,7 +49,7 @@
 <div class="people">
     {% assign sorted = include.people | sort: 'name' %}
     {% for staff in sorted %}
-    <a class="staff" href="/people/{{ staff.id }}">
+    <a class="staff" href="/aboutus/{{ staff.functionId }}/{{ staff.id }}">
         <div class="staff-pic" style="background-image:url(/images/headshots/{{ staff.id }}.jpg)"></div>
         <div class="staff-info" style="background-color:{{include.color}}">
             <div class="staff-name">{{ staff.name }}</div>

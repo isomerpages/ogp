@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: chinyao
 name: Gan, Chin Yao
 joinDate: 1970-01-01
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Rejoice with your family in the beautiful land of life.
 linkedinId: chinyao
+functionName: Software Engineering
 
 ---
 

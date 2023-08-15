@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: kendra
 name: Wong, Kendra
 joinDate: 1970-01-01
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: The memories we make with our family is everything.
 linkedinId: kendra
+functionName: Software Engineering
 
 ---
 

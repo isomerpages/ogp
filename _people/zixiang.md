@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: zixiang
 name: Tan, Zi Xiang
 joinDate: 2022-10-01
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: When trouble comes, it’s your family that supports you.
 linkedinId: zixiang
+functionName: Software Engineering
 
 ---
 

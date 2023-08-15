@@ -6,7 +6,7 @@ third_nav_title: Product Operations
 id: ajayraj
 name: Singh, Ajayraj
 joinDate: 13/06/2022
-function: ops
+functionId: ops
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -15,6 +15,7 @@ quote: Family isn’t always blood. It’s the people in your life who want you 
   theirs; the ones who accept you for who you are. The ones that would do
   anything to see you smile and who love you no matter what.
 linkedinId: ajayraj
+functionName: Product Operations
 
 ---
 

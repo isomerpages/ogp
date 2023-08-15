@@ -6,7 +6,7 @@ third_nav_title: Product Design
 id: sarahsalim
 name: Salim, Siti Sarah
 joinDate: 1970-01-01
-function: design
+functionId: design
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -14,6 +14,7 @@ accomplishments: ""
 quote: My family is my life, and everything else comes second as far as what’s
   important to me.
 linkedinId: sarahsalim
+functionName: Product Design
 
 ---
 

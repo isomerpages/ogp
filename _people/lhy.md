@@ -6,7 +6,7 @@ third_nav_title: Corporate Team
 id: lhy
 name: Li, Hongyi
 joinDate: 1970-01-01
-function: corporate
+functionId: corporate
 jobTitle: Director OGP
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -14,6 +14,7 @@ accomplishments: ""
 quote: Our family is a circle of strength of love with every birth and every
   union the circle grows.
 linkedinId: lhy
+functionName: Corporate Team
 
 ---
 

@@ -6,7 +6,7 @@ third_nav_title: Software Engineering
 id: malcolm
 name: Hong Malcolm, Ong Guan
 joinDate: 1970-01-01
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -14,6 +14,7 @@ accomplishments: ""
 quote: The only rock I know that stays steady, the only institution I know that
   works, is the family.
 linkedinId: malcolm
+functionName: Software Engineering
 
 ---
 

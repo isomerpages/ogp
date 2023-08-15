@@ -6,7 +6,7 @@ third_nav_title: Software Engineering
 id: nicole
 name: Loh Wan Hua, Nicole
 joinDate: 1970-01-01
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -14,6 +14,7 @@ accomplishments: ""
 quote: "Family: A social unit where the father is concerned with parking space,
   the children with outer space, and the mother with closet space."
 linkedinId: nicole
+functionName: Software Engineering
 
 ---
 

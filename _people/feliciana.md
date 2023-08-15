@@ -6,7 +6,7 @@ third_nav_title: Software Engineering
 id: feliciana
 name: Natali, Feliciana
 joinDate: 1970-01-01
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -14,6 +14,7 @@ accomplishments: ""
 quote: "Call it a clan, call it a network, call it a tribe, call it a family:
   Whatever you call it, whoever you are, you need one."
 linkedinId: feliciana
+functionName: Software Engineering
 
 ---
 

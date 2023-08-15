@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: yongjie
 name: Foo, Yong Jie
 joinDate: 2019-02-12
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Life is beautiful. It’s about giving. It’s about family.
 linkedinId: yongjie
+functionName: Software Engineering
 
 ---
 

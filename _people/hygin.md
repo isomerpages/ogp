@@ -6,7 +6,7 @@ third_nav_title: Partnerships & Transformation
 id: hygin
 name: Fernandez, Hygin
 joinDate: 1970-01-01
-function: transformation
+functionId: transformation
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -14,6 +14,7 @@ accomplishments: ""
 quote: This is my family. I found it all on my own. It’s little, and broken, but
   still good. Yeah. Still good.
 linkedinId: hygin
+functionName: Partnerships & Transformation
 
 ---
 

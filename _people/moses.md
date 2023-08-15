@@ -6,13 +6,14 @@ third_nav_title: Product Management
 id: moses
 name: Soh, Moses
 joinDate: 2022-05-12
-function: pm
+functionId: pm
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Ohana means family and family means nobody gets left behind or forgotten.
 linkedinId: moses
+functionName: Product Management
 
 ---
 

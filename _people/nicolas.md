@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: nicolas
 name: Spano, Nicolas
 joinDate: 1970-01-01
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Some people are worth melting for.
 linkedinId: nicolas
+functionName: Software Engineering
 
 ---
 

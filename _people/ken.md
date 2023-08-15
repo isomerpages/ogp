@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: ken
 name: Lee, Ken
 joinDate: 27/02/2023
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Family and friendships are two of the greatest facilitators of happiness.
 linkedinId: ken
+functionName: Software Engineering
 
 ---
 

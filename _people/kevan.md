@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: kevan
 name: Tan, Kevan
 joinDate: 18/11/2019
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: To us, family means putting your arms around each other and being there.
 linkedinId: kevan
+functionName: Software Engineering
 
 ---
 

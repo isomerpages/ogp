@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: amelia
 name: Tay Li Jia, Amelia
 joinDate: 2023-07-08
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: The most important thing in the world is family and love.
 linkedinId: amelia
+functionName: Software Engineering
 
 ---
 

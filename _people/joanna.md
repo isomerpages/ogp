@@ -6,13 +6,14 @@ third_nav_title: Software Engineering
 id: joanna
 name: Lo Wai Fun, Joanna
 joinDate: 27/03/2023
-function: eng
+functionId: eng
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: Rejoice with your family in the beautiful land of life.
 linkedinId: joanna
+functionName: Software Engineering
 
 ---
 

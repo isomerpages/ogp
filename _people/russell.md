@@ -6,7 +6,7 @@ third_nav_title: Corporate Team
 id: russell
 name: Chan, Russell
 joinDate: 2019-09-02
-function: corporate
+functionId: corporate
 jobTitle: Head of People Team
 curProducts: currentProducts
 pastProducts: pastProducts
@@ -22,6 +22,7 @@ quote: I joined OGP in 2019, and have stayed since then because I think it is
   government organisations to work better, so that we can be a better public
   service.
 linkedinId: russell
+functionName: Corporate Team
 
 ---
 

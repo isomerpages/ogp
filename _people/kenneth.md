@@ -6,13 +6,14 @@ third_nav_title: Product Management
 id: kenneth
 name: Sng, Kenneth
 joinDate: 1970-01-01
-function: pm
+functionId: pm
 jobTitle: Job Title
 curProducts: currentProducts
 pastProducts: pastProducts
 accomplishments: ""
 quote: I didn’t give you the gift of life, but life gave me the gift of you.
 linkedinId: kenneth
+functionName: Product Management
 
 ---
 
