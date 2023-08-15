@@ -44,7 +44,7 @@ S/N,Done?,Batch for sending,Done By,Name,ID (w/o dots),Function,Job Title,Join D
 151,TRUE,,Chien Ling,Danelynn,danelynn@open.gov.sg,Software Engineering,,"July 17, 2023",,,"i'm new, watch this space!",* NLB,,"i'm new, watch this space!"
 154,TRUE,,Chien Ling,Si Min,simin@open.gov.sg,Software Engineering,,"July 17, 2023",,,"i'm new, watch this space!",* ActiveSG,,"i'm new, watch this space!"
 157,TRUE,,Chien Ling,Fiona,fiona@open.gov.sg,Product Design,,"July 24, 2023",,,"i'm new, watch this space!",* UX Research,,"i'm new, watch this space!"
-160,TRUE,,Chien Ling,Mike,mike@open.gov.sg,Product Design,,"August 21, 2023",,,"i'm new, watch this space!",* Product Design Manager,,"i'm new, watch this space!"
+160,TRUE,,Chien Ling,Mike,,Product Design,,"August 21, 2023",,,"i'm new, watch this space!",* Product Design Manager,,"i'm new, watch this space!"
 76,TRUE,,Chien Ling,Clement,clement@open.gov.sg,Product Operations,,"July 4, 2022",,,,* go.gov.sg,"* WizGov
 * Highway
 * HealthTech Sprint
@@ -121,7 +121,7 @@ S/N,Done?,Batch for sending,Done By,Name,ID (w/o dots),Function,Job Title,Join D
 91,TRUE,BATCH 1,Clifford,Jasmine,jasmine@open.gov.sg,Software Engineering,,"October 25, 2022",,,https://docs.google.com/document/d/1xiFd7tPmDphK92XPMz8Acy09pLM50e2jXEfg8nV3OR0/edit#heading=h.q9g0durbss53,* Care360,,"* Contributed to the development of several significant features for Care360 i.e User Management
 * Increased Care360's branding efforts; responsible for reworking the frontend for all key user flows
 * Part of team that built the critical Overlapping Financial Applications feature "
-94,TRUE,BATCH 1,Clifford,Pranu,pranu@open.gov.sg,Product Design,,"November 21, 2022",,,https://docs.google.com/document/d/1W9Fz6Oxr9tGqNf0j17plnTitpGPQ7q3jzrtIQ1HRYus/edit,* Go.gov.sg,,"* Led effort to creat Pouch: a fully secure file sharing platform which enables govt. and non-govt. agencies to collaborate efficiently. 
+94,TRUE,BATCH 1,Clifford,Pranu,,Product Design,,"November 21, 2022",,,https://docs.google.com/document/d/1W9Fz6Oxr9tGqNf0j17plnTitpGPQ7q3jzrtIQ1HRYus/edit,* Go.gov.sg,,"* Led effort to creat Pouch: a fully secure file sharing platform which enables govt. and non-govt. agencies to collaborate efficiently. 
 * Designed the first version of WizGov: a widget which adds multiple functionalities such as booking appointments to query resolution to an agency website.
 * Helped the team with multiple ad hoc design requests for Go, a link shortener for the govt."
 96,TRUE,BATCH 1,Clifford,Keith,keith@open.gov.sg,Software Engineering,,"November 28, 2022",,,https://docs.google.com/document/d/1TwKSkf49YP3vAUucqSi3ika_PSxBtwsYjPQx12kv2QU/edit,* Go.gov.sg,,"* Technical contributions to Pouch; Created file & folder creation components, dashboard & user storage consumption component
@@ -168,7 +168,7 @@ Breadcrumbs navigation
 * improved HAS user experience by setting additional timeslots to continue from the end of the previous selection.
 * Implemented confirmation modals for appointment creation and rescheduling in HAS"
 159,TRUE,,Clifford,Sufyan,sufyan@open.gov.sg,Product Design,,"August 7, 2023",,,"i'm new, watch this space!",,,"i'm new, watch this space!"
-161,TRUE,,Clifford,Pras,prasanth@open.gov.sg,Product Design,,"August 21, 2023",,,https://docs.google.com/document/d/1kithu12Nb6_ErJcaHDqNRpOYDWkfUmbog3fqaEAtZMQ/edit,,"* FormSG
+161,TRUE,,Clifford,Pras,,Product Design,,"August 21, 2023",,,https://docs.google.com/document/d/1kithu12Nb6_ErJcaHDqNRpOYDWkfUmbog3fqaEAtZMQ/edit,,"* FormSG
 * AskGov","i'm new, watch this space!"
 10,TRUE,BATCH 1,Joanna,Arshad,arshad@open.gov.sg,Software Engineering,,"December 13, 2018",,,https://docs.google.com/document/d/1YJjhQ6GJtesAlRHSDuIAT-aw20zRzJ_wISXcD7YVFEQ/edit?usp=drive_link,* AskGov,"* Data.gov
 * eDOT
@@ -516,7 +516,7 @@ Sync","scoped and secured new agencies to AskGov, ironed out bugs, managed onboa
 * IRMS","* Led the scoping, designing, and execution of the Financial Application Approvals feature in Care360, which was a large, complex, and core feature of the product. 
 * Enabled Care360 integrations for Vault and MTSOC, came up with IHIS reconciliation strategies and improved observability
 * Designed and delivered many features in Care360, such as the Rich text editor feature, backend pagination/filter/sort features, and application version mismatch errors. "
-115,FALSE,,Joanna,Bernadette,bernadette@open.gov.sg,Chief Operating Officer,,"March 20, 2023",,,,* Chief Operating Officer,"* Oversees Corporate Operations, People Team, Marketing","* Overhauled OGP management team processes and platforms
+115,FALSE,,Joanna,Bernadette,bernadette@open.gov.sg,People Team,Chief Operating Officer,"March 20, 2023",,,,* Chief Operating Officer,"* Oversees Corporate Operations, People Team, Marketing","* Overhauled OGP management team processes and platforms
 * Launched organisation feedback initiatives to drive a stronger feedback culture across OGP"
 49,TRUE,BATCH 1,Russell,Shanty,shanty@open.gov.sg,Product Design,,"January 4, 2022",,,https://docs.google.com/document/d/1NnTa2Pnv5lWpV9XSW6Uzc0fMopdEOE6WOY_sw18LKLk/edit,* UX Writer,"* ScamShield
 * FormSG

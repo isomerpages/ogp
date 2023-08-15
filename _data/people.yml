@@ -277,8 +277,8 @@
 - staffId: bernadette
   name: Bernadette
   joinDate: March 20, 2023
-  functionId: eng
-  jobTitle: Job Title
+  functionId: corporate
+  jobTitle: Chief Operating Officer
   curProducts:
     - Chief Operating Officer
   pastProducts:
@@ -1668,18 +1668,6 @@
   quote: It’s all about the quality of life and finding a happy balance between
     work and friends and family.
   linkedinId: ""
-- staffId: mike
-  name: Mike
-  joinDate: August 21, 2023
-  functionId: design
-  jobTitle: Job Title
-  curProducts:
-    - Product Design Manager
-  pastProducts:
-    - pastProducts
-  accomplishments: i'm new, watch this space!
-  quote: Family is family.
-  linkedinId: ""
 - staffId: moses
   name: Moses
   joinDate: December 5, 2022
@@ -1911,38 +1899,6 @@
     - currentProducts
   pastProducts:
     - Go
-  accomplishments: i'm new, watch this space!
-  quote: To us, family means putting your arms around each other and being there.
-  linkedinId: ""
-- staffId: pranu
-  name: Pranu
-  joinDate: November 21, 2022
-  functionId: design
-  jobTitle: Job Title
-  curProducts:
-    - Go.gov.sg
-  pastProducts:
-    - pastProducts
-  accomplishments: >-
-    * Led effort to creat Pouch: a fully secure file sharing platform which
-    enables govt. and non-govt. agencies to collaborate efficiently. 
-
-    * Designed the first version of WizGov: a widget which adds multiple functionalities such as booking appointments to query resolution to an agency website.
-
-    * Helped the team with multiple ad hoc design requests for Go, a link shortener for the govt.
-  quote: "Blended families: woven together by choice, strengthened together by
-    love, tested by everything, and each uniquely ours."
-  linkedinId: ""
-- staffId: prasanth
-  name: Pras
-  joinDate: August 21, 2023
-  functionId: design
-  jobTitle: Job Title
-  curProducts:
-    - currentProducts
-  pastProducts:
-    - FormSG
-    - AskGov
   accomplishments: i'm new, watch this space!
   quote: To us, family means putting your arms around each other and being there.
   linkedinId: ""

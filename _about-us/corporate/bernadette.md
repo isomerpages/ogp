@@ -1,13 +1,13 @@
 ---
 title: Bernadette
-permalink: /aboutus/eng/bernadette
-description: "Bernadette - Job Title"
-third_nav_title: Software Engineering
+permalink: /aboutus/corporate/bernadette
+description: "Bernadette - Chief Operating Officer"
+third_nav_title: Corporate Team
 staffId: bernadette
 name: Bernadette
 joinDate: March 20, 2023
-functionId: eng
-jobTitle: Job Title
+functionId: corporate
+jobTitle: Chief Operating Officer
 curProducts:
   - Chief Operating Officer
 pastProducts:
@@ -21,4 +21,4 @@ linkedinId: ""
 
 ---
 
-{% include staff.html staff=page color=site.colors.function-colors.eng %}
+{% include staff.html staff=page color=site.colors.function-colors.corporate %}

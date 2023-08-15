@@ -4,6 +4,7 @@ collections:
     order:
       - About us.md
       - corporate/all.md
+      - corporate/bernadette.md
       - corporate/chienling.md
       - corporate/clifford.md
       - corporate/lhy.md
@@ -23,11 +24,8 @@ collections:
       - design/fiona.md
       - design/jingyi.md
       - design/khaleedah.md
-      - design/mike.md
       - design/natalie.md
       - design/pearly.md
-      - design/pranu.md
-      - design/prasanth.md
       - design/qimmy.md
       - design/rachel.md
       - design/sarahsalim.md
@@ -50,7 +48,6 @@ collections:
       - eng/arshad.md
       - eng/austin.md
       - eng/benjaminloh.md
-      - eng/bernadette.md
       - eng/blake.md
       - eng/caleb.md
       - eng/cheri.md

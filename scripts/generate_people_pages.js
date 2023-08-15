@@ -126,7 +126,7 @@ const namedRecords = records.map(([_sn, _done, _batch, _by, name, email, func, j
 
 
     return record
-})
+}).filter(record => record.staffId)
 
 // order the record by name
 namedRecords.sort((r1, r2) => r1.name.toLowerCase() < r2.name.toLowerCase() ? -1 : 1)
