@@ -9,19 +9,23 @@ joinDate: December 13, 2018
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1YJjhQ6GJtesAlRHSDuIAT-aw20zRzJ_wISXcD7YVFEQ/edit?usp=drive_link
-pastProducts:
   - AskGov
-accomplishments: |-
-  * Data.gov
-  * eDOT
-  * Endemic Ops
-  * FormSG
-  * Okay/Not Okay
-  * Product
-  * ResolveSG
-  * Send
-  * Vault
+pastProducts:
+  - Data.gov
+  - eDOT
+  - Endemic Ops
+  - FormSG
+  - Okay/Not Okay
+  - Product
+  - ResolveSG
+  - Send
+  - Vault
+accomplishments: >
+  * Reduced and streamlined operations workload for Vault team.
+
+  * Sought out solutions that minimized engineering work.
+
+  * Worked with product team gain better insights which allowed better user behaviour analysis to then optimise workflow.
 quote: The bond that links your true family is not one of blood, but of respect
   and joy in each other’s life.
 linkedinId: arshad

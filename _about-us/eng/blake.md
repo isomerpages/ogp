@@ -9,9 +9,9 @@ joinDate: June 13, 2022
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
-pastProducts:
   - Tooling Team
+pastProducts:
+  - pastProducts
 accomplishments: ""
 quote: Think of your family today and every day thereafter, don’t let the busy
   world of today keep you from showing how much you love and appreciate your

@@ -9,12 +9,17 @@ joinDate: July 4, 2022
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1DBaVJJWWi64T1FTSEFWlxcrZzTMbUWnLX0JBcyFfqK8/edit
-pastProducts:
   - Redeem
-accomplishments: |-
-  * ParkingSG
-  * PaySG
+pastProducts:
+  - ParkingSG
+  - PaySG
+accomplishments: >-
+  * Made multiple backend and frontend changes to Redeem to enable the 3rd
+  tranche of the CDC voucher campaign
+
+  * Implemented more comprehensive test cases for critical flows and endpoints for Redeem
+
+  * Implemented an OGP-wide easily adoptable infrastructure tool for handling Cloudflare outages
 quote: Family is not defined by our genes, it is built and maintained through love.
 linkedinId: fabian
 

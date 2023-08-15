@@ -9,10 +9,13 @@ joinDate: March 20, 2023
 functionId: pm
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1b9hrFWRtxFPjQRfT7JF3kJOYNqr5WXwo-gBkLSL8G8U/edit
-pastProducts:
   - NLB
-accomplishments: ""
+pastProducts:
+  - pastProducts
+accomplishments: >-
+  * Built seven prototypes for NLB after aligning on initial problem statements
+
+  * Built relationships with stakeholders in NLB to understand operations and difficulties on the ground
 quote: Having somewhere to go is home. Having someone to love is family. And
   having both is a blessing.
 linkedinId: brianlee

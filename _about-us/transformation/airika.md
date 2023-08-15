@@ -11,8 +11,8 @@ jobTitle: Job Title
 curProducts:
   - currentProducts
 pastProducts:
-  - pastProducts
-accomplishments: "* Policy & Partnerships"
+  - Policy & Partnerships
+accomplishments: i'm new, watch this space!
 quote: The most important thing in the world is family and love.
 linkedinId: airika
 

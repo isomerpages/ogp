@@ -9,10 +9,10 @@ joinDate: August 21, 2023
 functionId: design
 jobTitle: Job Title
 curProducts:
-  - i'm new, watch this space!
-pastProducts:
   - Product Design Manager
-accomplishments: ""
+pastProducts:
+  - pastProducts
+accomplishments: i'm new, watch this space!
 quote: Family is family.
 linkedinId: mike
 

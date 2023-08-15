@@ -9,15 +9,20 @@ joinDate: November 19, 2018
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1bOPHy3IzlL0hzBfxS4Gs-nsi4FNJIBx-thhoUg2djpQ/editt
-pastProducts:
   - Scamtech
-accomplishments: |-
-  * Postman
-  * Covid Ops
-  * Scamshield
-  * Healthcare
-  * Scamtech
+pastProducts:
+  - Postman
+  - Covid Ops
+  - Scamshield
+  - Healthcare
+  - Scamtech
+accomplishments: >-
+  * Onboarded new Scamshield team members by writing a monitoring and on-call
+  runbook as well as developing a crash-course on Scamshield v2 infrastructure
+
+  * Built a generalised rule framework for handling scam message prioritisation, providing a blueprint for implementing other prioritisation rules and allowing other engineers to build upon it.
+
+  * Contributed towards the development and timely delivery of the SPF dashboard frontend for Scamshield, plugging gaps where necessary and spearheading the releases to production prior to the deadline.
 quote: I didn’t give you the gift of life, but life gave me the gift of you.
 linkedinId: chinying
 

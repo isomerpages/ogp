@@ -9,14 +9,20 @@ joinDate: September 13, 2021
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1Kszhv8TzWCmLrq49PYxUovA2IrERB3gUwfvpHZ8KwTo/edit#heading=h.edq0jro3ey47
-pastProducts:
   - Pair
-accomplishments: |-
-  Parking.sg
-  Payments
-  PaySG
-  Redeem
+pastProducts:
+  - |-
+    Parking.sg
+    Payments
+    PaySG
+    Redeem
+accomplishments: >-
+  * CBDC - contributed as a lead by independently researching, defining,
+  designing, and subsequently implementing with minimal guidance. 
+
+  * Mentorship and leadership roles in guiding more junior members of the team for Redeem team. 
+
+  * Migrated Pair into a more production ready setup.
 quote: When trouble comes, it’s your family that supports you.
 linkedinId: sheikh
 

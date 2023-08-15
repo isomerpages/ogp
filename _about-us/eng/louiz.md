@@ -9,13 +9,19 @@ joinDate: July 5, 2021
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/143mKrTuVS3QzCvIq6oV5Dj_JLDUtIwKBSwH7tuZLGk0/edit#heading=h.6brzblxn4oep
-pastProducts:
   - Care360
-accomplishments: |-
-  * Covid Ops
-  * Healthcare
-  * Healthtech
+pastProducts:
+  - Covid Ops
+  - Healthcare
+  - Healthtech
+accomplishments: >+
+  * Took point for VAPT by setting up Pulumi code for Care360.
+
+  * Planned and executed Cure53 evaluation readiness. 
+
+  * Contributed to migration operations by writing a script to migrate the majority of financial form data.
+
+
 quote: The only rock I know that stays steady, the only institution I know that
   works, is the family.
 linkedinId: louiz

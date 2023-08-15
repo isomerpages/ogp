@@ -9,10 +9,16 @@ joinDate: February 6, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - https://www.notion.so/opengov/Qilu-s-Working-Document-87e007f992634275b07b59a6347e5759
+  - Isomer
 pastProducts:
   - Isomer
-accomplishments: "* Isomer"
+accomplishments: >-
+  * Improved scalability and stability of Isomer: created 60 additional tokens
+  aiming to bring up the scalability of the product
+
+  * Contributed to Isomer's security and productivity: delivered PR on integrating with CloudMersive API for virus scanning when uploading files by users
+
+  * Ensured compliance with CSA's requirement and working with OnePA
 quote: I didn’t give you the gift of life, but life gave me the gift of you.
 linkedinId: qilu
 

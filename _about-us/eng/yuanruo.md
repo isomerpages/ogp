@@ -9,16 +9,21 @@ joinDate: July 1, 2019
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/136pdU-Yh0SPzzKQzBSOyCpfVr1Immw67IsfXNUoFC4w/edit#heading=h.67r1vonx6odq
-pastProducts:
   - SGID
   - Plumber
-accomplishments: |-
-  * Temperature
-  * Go.gov.sg
-  * FormSG
-  * CorpTech
-  * Scamtech
+pastProducts:
+  - Temperature
+  - Go.gov.sg
+  - FormSG
+  - CorpTech
+  - Scamtech
+accomplishments: >-
+  * As engineering manager, grew engineering capacity on ScamShield and sgID
+  teams through hiring
+
+  * Worked in cloud-first architecture policies for IM8 to accelerate modern engineering practices across government
+
+  * Provided expertise and consultation to the Digital Intelligence Service on tech hiring
 quote: This is my family. I found it all on my own. It’s little, and broken, but
   still good. Yeah. Still good.
 linkedinId: yuanruo

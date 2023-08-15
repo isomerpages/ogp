@@ -9,10 +9,10 @@ joinDate: July 17, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - i'm new, watch this space!
-pastProducts:
   - SGC
-accomplishments: "* Scamshield"
+pastProducts:
+  - Scamshield
+accomplishments: i'm new, watch this space!
 quote: Being part of a family means smiling for photos.
 linkedinId: kishen
 

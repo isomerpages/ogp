@@ -9,17 +9,22 @@ joinDate: June 29, 2020
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - https://www.notion.so/opengov/Alexis-Working-Document-46583fa1216243e681596872e39e94c6
-pastProducts:
   - go.gov.sg
-accomplishments: |-
-  * Homer
-  * Isomer
-  * CheckFirst
-  * OGP-Singhealth
-  * Healthcare
-  * CheckWho
-  * Pouch
+pastProducts:
+  - Homer
+  - Isomer
+  - CheckFirst
+  - OGP-Singhealth
+  - Healthcare
+  - CheckWho
+  - Pouch
+accomplishments: >-
+  * Designed and built file sharing architecture for Pouch, which supported
+  Highway's use-case. 
+
+  * Pushed for Pouch to adopt to Highway as part of its roadmap to  address significant user groups and gain familiarity with the problem space of file-sharing.
+
+  * Mentored a team-mate to build an asynchronous service to support bulk QR code generation. 
 quote: There is no doubt that it is around the family and the home that all the
   greatest virtues… are created, strengthened and maintained.
 linkedinId: alexis

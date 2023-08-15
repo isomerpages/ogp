@@ -9,18 +9,22 @@ joinDate: August 31, 2020
 functionId: ops
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/150jLoAwQ483583ILejVrW-40adMVIIw0q9QiQHUETlY/edit
-pastProducts:
   - FormSG
   - Isomer
   - Plumber
-accomplishments: |-
-  * Redeem
-  * Postman
-  * CheckFirst
-  * Temperature
-  * Go.gov.sg
-  * CheckWho
+pastProducts:
+  - Redeem
+  - Postman
+  - CheckFirst
+  - Temperature
+  - Go.gov.sg
+  - CheckWho
+accomplishments: >-
+  * Oversaw the migration of all school websites to Isomer
+
+  * Worked with the Head of Product Operations to establish and run product operations hiring processes to double the size of the product operations team
+
+  * Planned and ran various government sharings (>1300 attendees) on OGP products to significantly increase product adoption across the rest of government. 
 quote: Family gives you the roots to stand tall and strong.
 linkedinId: jackson
 

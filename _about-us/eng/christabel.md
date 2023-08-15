@@ -9,15 +9,19 @@ joinDate: September 17, 2018
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1UawiVv9bt7_CHSNbaMOrpHkhjsV3VCRCXcfxY2iTwws/edit
-pastProducts:
   - Armoury
-accomplishments: |-
-  * Homer
-  * Vault
-  * Covid Operations
-  * Scamshield
-  * Healthcare
+pastProducts:
+  - Homer
+  - Vault
+  - Covid Operations
+  - Scamshield
+  - Healthcare
+accomplishments: >-
+  * Launched Scamshield Whatsapp bot in December 2022
+
+  * Launched Scamshield 2.0 SPF dashboard and Scamshield Andriod + iOS App
+
+  * Managed nominal roll processing and SMS campaigns for Covid-19 vaccination appointment operations 
 quote: Family is not defined by our genes, it is built and maintained through love.
 linkedinId: christabel
 

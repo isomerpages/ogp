@@ -9,9 +9,9 @@ joinDate: June 13, 2022
 functionId: pm
 jobTitle: Job Title
 curProducts:
-  - currentProducts
-pastProducts:
   - AskGov
+pastProducts:
+  - pastProducts
 accomplishments: ""
 quote: "Blended families: woven together by choice, strengthened together by
   love, tested by everything, and each uniquely ours."

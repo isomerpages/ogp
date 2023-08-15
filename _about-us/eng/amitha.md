@@ -9,10 +9,10 @@ joinDate: July 17, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - i'm new, watch this space!
+  - currentProducts
 pastProducts:
-  - pastProducts
-accomplishments: "* CorpOps"
+  - CorpOps
+accomplishments: i'm new, watch this space!
 quote: Where there is family, there is love.
 linkedinId: amitha
 

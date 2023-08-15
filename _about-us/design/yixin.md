@@ -9,16 +9,20 @@ joinDate: March 6, 2023
 functionId: design
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1BvruoOLY5jpMvF-YEZI_VVkx1WWZ3XN1KJTuwijH26U/edit#heading=h.q9g0durbss53
+  - currentProducts
 pastProducts:
-  - pastProducts
-accomplishments: |-
-  * Vault 
-  * Isomer
-  * DistributeSG
-  * Redeem
-  * PaySG
-  * DistributeSG
+  - Vault
+  - Isomer
+  - DistributeSG
+  - Redeem
+  - PaySG
+  - DistributeSG
+accomplishments: >
+  * Designed overall visual language for Vaccine Ops
+
+  * Launched NEA Campaign. Redeem Digital Vouchers accepted at various retailers (Sheng Siong, Giant, NTUC, Courts, Gain City) 
+
+  * Launched CDC Trance 2 in Feb using Distribute app for tracking and new feature for tagging of voucher booklets. 
 quote: This is my family. I found it all on my own. It’s little, and broken, but
   still good. Yeah. Still good.
 linkedinId: yixin

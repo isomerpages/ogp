@@ -9,10 +9,10 @@ joinDate: July 4, 2022
 functionId: transformation
 jobTitle: Job Title
 curProducts:
-  - currentProducts
-pastProducts:
   - Policy & Transformation
-accomplishments: "* IM8-CFA"
+pastProducts:
+  - IM8-CFA
+accomplishments: NO WORKING DOC
 quote: Family is the heart of a home.
 linkedinId: huixuan
 

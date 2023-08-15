@@ -11,8 +11,8 @@ jobTitle: Job Title
 curProducts:
   - currentProducts
 pastProducts:
-  - pastProducts
-accomplishments: "* Phonebook"
+  - Phonebook
+accomplishments: i'm new, watch this space!
 quote: Nothing is better than going home to family and eating good food and relaxing
 linkedinId: chinyao
 

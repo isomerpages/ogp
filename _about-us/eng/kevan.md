@@ -9,14 +9,18 @@ joinDate: March 20, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1ZjEgleaD1VulkLv0xP9qkcgaSY-hveXIgX8jLeFhtmg/edit#heading=h.nw26zgu3gwhg
+  - currentProducts
 pastProducts:
-  - pastProducts
-accomplishments: |-
-  * DistributeSG
-  * Redeem
-  * PaySG
-  * Parking.SG
+  - DistributeSG
+  - Redeem
+  - PaySG
+  - Parking.SG
+accomplishments: >-
+  * Prototyped and built out RedeemSG cdc-voucher systems
+
+  * Implemented the PaySG frontend application and was involved in the design of the overall architecture
+
+  * Integrated merchants into RedeemSG
 quote: Some people are worth melting for.
 linkedinId: kevan
 

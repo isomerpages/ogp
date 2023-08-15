@@ -9,10 +9,12 @@ joinDate: August 22, 2022
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - https://www.notion.so/opengov/Latasha-s-Working-Doc-686e0d2de6c3463fadb0e3b874fc453c
-pastProducts:
   - AskGov
-accomplishments: ""
+pastProducts:
+  - pastProducts
+accomplishments: Migrated AskGov, did SEO optimization, set up logging and
+  monitoring, improved scrolling and search, refined topics UIUX, and prepared
+  Checkpoint for launch.
 quote: Happiness is having a large, loving, caring, close-knit family in another city.
 linkedinId: latasha
 

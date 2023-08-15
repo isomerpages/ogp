@@ -9,12 +9,17 @@ joinDate: September 12, 2022
 functionId: design
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1jx4LgBR1gstlcWEJpSF5twRYwKtufBy3usLohOhnYS0/edit
-pastProducts:
   - FormSG
-accomplishments: |-
-  * ScamShield
-  * Plumber
+pastProducts:
+  - ScamShield
+  - Plumber
+accomplishments: >-
+  * Led user testing for ScamShield's WhatsApp bot to validate user experience
+  prior to launch
+
+  * Led accessibility efforts for FormSG
+
+  * Led design and UX research for Plumber
 quote: Some people are worth melting for.
 linkedinId: stacey
 

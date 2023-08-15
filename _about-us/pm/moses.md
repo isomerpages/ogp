@@ -9,11 +9,12 @@ joinDate: December 5, 2022
 functionId: pm
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/11JlBifr_TaZk5b5vZSzzbaucOhiimgV0vO3s3rgkub8/editt
-pastProducts:
   - Pair
   - sgID
-accomplishments: ""
+pastProducts:
+  - pastProducts
+accomplishments: "* Led product visioning and the launch of Pair, including
+  public-service wide rollout of Pair Chat"
 quote: Life is beautiful. It’s about giving. It’s about family.
 linkedinId: moses
 

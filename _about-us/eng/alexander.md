@@ -9,14 +9,20 @@ joinDate: June 15, 2020
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1qRdTgyD6Lae_Tv9NOBlqCOIX5vgqZwyC-hcZ31erxhI/edit#heading=h.xkfgcwsoy2dv
-pastProducts:
   - Isomer
-accomplishments: |-
-  AskGov
-  CheckFirst
-  Go.gov.sg
-  Homer
+pastProducts:
+  - |-
+    AskGov
+    CheckFirst
+    Go.gov.sg
+    Homer
+accomplishments: >-
+  * Handles end-to-end repo privatisation for Isomer, monitored stability, and
+  set up clearer documentation.
+
+  * Worked on migrations of backend infrastructure onto AWS. 
+
+  • Also responsible for monitoring and reviewing security, and resolving vulnerabilities
 quote: Families are the compass that guides us. They are the inspiration to
   reach great heights, and our comfort when we occasionally falter.
 linkedinId: alexander

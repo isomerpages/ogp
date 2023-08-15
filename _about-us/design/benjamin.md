@@ -9,10 +9,16 @@ joinDate: January 4, 2022
 functionId: design
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1k8949dNUC-AfITJ4U4gexavxJBj1W_X9J_L53mygw7E/editt
-pastProducts:
   - Head of Product Design
-accomplishments: ""
+pastProducts:
+  - pastProducts
+accomplishments: >-
+  * Grew the OGP Product Design team, including setting up new UX writing and UX
+  research functions
+
+  * Organised, facilitated, and presented at the Friends of Figma: Inside Design at OGP meet-up
+
+  * Provided product leadership and direction to co-lead Armoury during HFPG'23
 quote: Nothing is better than going home to family and eating good food and relaxing
 linkedinId: benjamin
 

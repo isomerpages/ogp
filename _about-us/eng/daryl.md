@@ -9,13 +9,18 @@ joinDate: January 3, 2022
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1-vjDwIyZiXGNlhFe64rMvCWyjAE0ATvML9Iao6d2eCo/edit
-pastProducts:
   - Pixie
-accomplishments: |-
-  Care360
-  CorpTech
-  Healthtech
+pastProducts:
+  - |-
+    Care360
+    CorpTech
+    Healthtech
+accomplishments: >
+  * Care360 feature work– built the Financial Assistance (FA) application flow. 
+
+  * Care360 frontend infrastructure work by improving Care360’s frontend performance and reliability.
+
+  * Production incidents on-call for Covid-ops.
 quote: The most important thing in the world is family and love.
 linkedinId: daryl
 

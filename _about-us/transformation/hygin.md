@@ -9,12 +9,16 @@ joinDate: August 1, 2022
 functionId: transformation
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1Sb2c5DaSMJXfZbo7JQW5IPd-s7T_VakIp0eeXVi1Ms8/edit
-pastProducts:
   - Policy & Transformation
-accomplishments: |-
-  * Scamshield
-  * Scamtech
+pastProducts:
+  - Scamshield
+  - Scamtech
+accomplishments: >-
+  * Launched IMDA international call blocking pilot
+
+  * Provided product-market fit assessments and recommendations for government tech projects, leading to >S$1M savings
+
+  * Helped simplify government senderID registration processes using Postman.gov.sg
 quote: This is my family. I found it all on my own. It’s little, and broken, but
   still good. Yeah. Still good.
 linkedinId: hygin

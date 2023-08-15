@@ -9,10 +9,12 @@ joinDate: June 6, 2022
 functionId: pm
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1gGh0FzwZnVmBfZt1HOsTOGmMzhc1tc0mEcBj5bvtZ0U/edit?usp=drive_web&ouid=117260676200678954389
-pastProducts:
   - FormSG
-accomplishments: "* Sync"
+pastProducts:
+  - Sync
+accomplishments: FormSG achieved React migration, built payments prototype,
+  improved accessibility, launched in Sri Lanka, won awards, and improved team
+  functioning.
 quote: Other things may change us, but we start and end with the family.
 linkedinId: amit
 

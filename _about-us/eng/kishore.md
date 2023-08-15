@@ -9,10 +9,11 @@ joinDate: July 4, 2022
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - https://www.notion.so/opengov/Kishore-s-Working-Document-8035f5f1dddb47328720dbde50ce5cbc
-pastProducts:
   - Isomer
-accomplishments: ""
+pastProducts:
+  - pastProducts
+accomplishments: Worked on site launches, migrated to Amplify, laid groundwork
+  for Infra repo, investigated 404 errors, and ensured CSA compliance.
 quote: Being a family means you are a part of something very wonderful. It means
   you will love and be loved for the rest of your life.
 linkedinId: kishore

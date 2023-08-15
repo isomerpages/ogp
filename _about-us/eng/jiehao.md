@@ -9,14 +9,19 @@ joinDate: September 9, 2019
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1ydqObkYY0Az-7cPD9mpNsJJm1QcFPV9cbtl6K5wWhto/edit
-pastProducts:
   - SGID
-accomplishments: |-
-  * Homer
-  * Lookback
-  * OGP-Singhealth
-  * Endemic Ops
+pastProducts:
+  - Homer
+  - Lookback
+  - OGP-Singhealth
+  - Endemic Ops
+accomplishments: >-
+  * Set the sgID vision and roadmap after conducting a thorough exploration of
+  the digital identity space
+
+  * Delivered key features for sgID such as the sgID developer portal for self-service sgID client onboarding
+
+  * Created and ran a monthly OGP engineering sharing platform for technical learning and development across the organisation
 quote: We may have our differences, but nothing’s more important than family.
 linkedinId: jiehao
 

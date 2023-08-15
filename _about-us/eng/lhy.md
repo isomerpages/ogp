@@ -9,10 +9,10 @@ joinDate: March 31, 2017
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
-pastProducts:
   - Director of OGP
-accomplishments: ""
+pastProducts:
+  - pastProducts
+accomplishments: "* Set-up, scaled, and led OGP to deliver impact on public good!"
 quote: It’s the most effective way for me to do the most good in the world
 linkedinId: lhy
 

@@ -9,12 +9,16 @@ joinDate: July 5, 2021
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1yQNUv51JKHntG6h1Gm6jKLVU6ON1m8n9ioGLSCa7vpE/edit
-pastProducts:
   - PaySG
-accomplishments: |-
-  * RedeemSG
-  * HAS
+pastProducts:
+  - RedeemSG
+  - HAS
+accomplishments: >-
+  * Decided on the infra and tech stack of PaySG as tech lead
+
+  * Proposed and implemented Datadog for RedeemSG, leading to org-wide implementation
+
+  * Established front-end coding standards for RedeemSG
 quote: To us, family means putting your arms around each other and being there.
 linkedinId: jason
 

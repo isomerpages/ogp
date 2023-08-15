@@ -11,8 +11,8 @@ jobTitle: Job Title
 curProducts:
   - currentProducts
 pastProducts:
-  - pastProducts
-accomplishments: "* Scamtech"
+  - Scamtech
+accomplishments: i'm new, watch this space!
 quote: Having somewhere to go is home. Having someone to love is family. And
   having both is a blessing.
 linkedinId: leyang

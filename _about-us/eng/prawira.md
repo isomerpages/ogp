@@ -9,10 +9,15 @@ joinDate: April 3, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - https://www.notion.so/Wira-s-Working-Document-1a3bfcc8b8a34e7d845a075d216416aa
+  - currentProducts
 pastProducts:
-  - pastProducts
-accomplishments: "* SGID"
+  - SGID
+accomplishments: >-
+  * Created Third-Party Data Source Feature on SGID
+
+  * Established best practices for SGID Integration: Established best practices for the back-end for front-end and web-server integration patterns, ensuring consistent and efficient integration with sgID across different platforms
+
+  * Contributed to sgID's Current Improvements: Implemented a robust rate-limiting strategy for sgID
 quote: We may have our differences, but nothing’s more important than family.
 linkedinId: prawira
 

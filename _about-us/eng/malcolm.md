@@ -9,10 +9,10 @@ joinDate: July 17, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - i'm new, watch this space!
+  - currentProducts
 pastProducts:
-  - pastProducts
-accomplishments: Plumber
+  - Plumber
+accomplishments: i'm new, watch this space!
 quote: Stick to the basics, hold on to your family and friends – they will never
   go out of fashion.
 linkedinId: malcolm

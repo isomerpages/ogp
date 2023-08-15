@@ -9,18 +9,26 @@ joinDate: December 2, 2019
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1gfqxBPjAUB6qBBL6fMvyfrvc6CkDYSijU-051ms3CuI/edit
-pastProducts:
   - Vault
-accomplishments: |-
-  * Temperature
-  * Food Facts
-  * Go.gov.sg
-  * Transparency
-  * FormSG
-  * Endemic Ops
-  * Data.gov
-  * Send
+pastProducts:
+  - Temperature
+  - Food Facts
+  - Go.gov.sg
+  - Transparency
+  - FormSG
+  - Endemic Ops
+  - Data.gov
+  - Send
+accomplishments: >-
+  * Provided technical direction for Vault and data.gov.sg by working on
+  approaches for various epics, including designing the DGS backend around a
+  serverless stack, search as a standalone service, experimentation with
+  CodeBuild Jobs for long-running tasks, seamless traffic redirection, and
+  pre-emptive metadata migration away from DynamoDB.
+
+  * Provided team leadership by setting up on-call and production support rotation model for Vault team to address knowledge silos and maintenance work distribution
+
+  * Diagnosed the root cause of Vault 1.0 admin dashboard inability to load being the rapid expansion of audit logs and automated the transfer of API-generated logs to CloudWatch, reducing the amount of logs by 90% and restoring services back to normal. 
 quote: Life is beautiful. It’s about giving. It’s about family.
 linkedinId: yongjie
 

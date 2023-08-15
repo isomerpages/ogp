@@ -9,9 +9,9 @@ joinDate: February 6, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
-pastProducts:
   - Redeem
+pastProducts:
+  - pastProducts
 accomplishments: ""
 quote: Family and friends are hidden treasures, seek them and enjoy their riches.
 linkedinId: sean

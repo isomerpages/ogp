@@ -9,9 +9,9 @@ joinDate: June 6, 2022
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
-pastProducts:
   - FormSG
+pastProducts:
+  - pastProducts
 accomplishments: ""
 quote: The family is the test of freedom; because the family is the only thing
   that the free man makes for himself and by himself.

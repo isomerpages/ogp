@@ -9,15 +9,19 @@ joinDate: April 18, 2022
 functionId: pm
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1-1XNzpvCx3f71gbsravw26p9UWqOEijfleM4hjex5Xs/edit#heading=h.q9g0durbss53
-pastProducts:
   - SGC
-accomplishments: |-
-  MAS - Orchid
-  Parking.sg
-  Payments
-  PaySG
-  Redeem
+pastProducts:
+  - |-
+    MAS - Orchid
+    Parking.sg
+    Payments
+    PaySG
+    Redeem
+accomplishments: >+
+  Delivered Project Orchid phase 1, Served as a advisor to agencies and banks
+  planning to use Purpose Bound Money (PBM), Scoped out Multi-Bank Payouts for
+  RedeemSG, did a mentorship.
+
 quote: To us, family means putting your arms around each other and being there.
 linkedinId: paul
 

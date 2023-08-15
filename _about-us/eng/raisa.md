@@ -9,10 +9,16 @@ joinDate: November 21, 2022
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1sYO_tcZ_hXRrS5EwKZTMWj9_jQsDmbGMIzUAW-pZJOM/edit
-pastProducts:
   - Vault
-accomplishments: "* PinPoint"
+pastProducts:
+  - PinPoint
+accomplishments: >-
+  * Worked on multiple features for Vault such as migrating from DynamoDB to a
+  Postgres metadata database and various middleware features
+
+  * Leading engineering process improvements on the Vault engineering team such as engineering learning sessions, tech debt trackers, and cleaner log prefix nomenclature
+
+  * Developed initial backend architecture for hackathon project PinPoint 
 quote: We may have our differences, but nothing’s more important than family.
 linkedinId: raisa
 

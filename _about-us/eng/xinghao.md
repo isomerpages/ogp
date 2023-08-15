@@ -9,10 +9,10 @@ joinDate: July 17, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - i'm new, watch this space!
+  - currentProducts
 pastProducts:
   - pastProducts
-accomplishments: ""
+accomplishments: i'm new, watch this space!
 quote: My family is my life, and everything else comes second as far as what’s
   important to me.
 linkedinId: xinghao

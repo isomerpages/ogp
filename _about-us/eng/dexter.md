@@ -9,10 +9,16 @@ joinDate: July 17, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1jUbwgd-c3fF_7bUFYh5AfMwZa8hDthcE0IvteWE_T68/edit
+  - currentProducts
 pastProducts:
-  - pastProducts
-accomplishments: "*HAS"
+  - HAS
+accomplishments: >-
+  * Performed intra- and inter-timeslot validation on change in the schedule
+  management form. 
+
+  * improved HAS user experience by setting additional timeslots to continue from the end of the previous selection.
+
+  * Implemented confirmation modals for appointment creation and rescheduling in HAS
 quote: The family – that dear octopus from whose tentacles we never quite
   escape, nor, in our inmost hearts, ever quite wish to.
 linkedinId: dexter

@@ -9,12 +9,11 @@ joinDate: August 21, 2023
 functionId: design
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1kithu12Nb6_ErJcaHDqNRpOYDWkfUmbog3fqaEAtZMQ/edit
+  - currentProducts
 pastProducts:
-  - pastProducts
-accomplishments: |-
-  * FormSG
-  * AskGov
+  - FormSG
+  - AskGov
+accomplishments: i'm new, watch this space!
 quote: To us, family means putting your arms around each other and being there.
 linkedinId: prasanth
 

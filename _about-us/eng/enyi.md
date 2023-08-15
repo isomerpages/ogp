@@ -9,9 +9,9 @@ joinDate: January 3, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
-pastProducts:
   - Primary Care
+pastProducts:
+  - pastProducts
 accomplishments: ""
 quote: Treat your family like friends and your friends like family.
 linkedinId: enyi

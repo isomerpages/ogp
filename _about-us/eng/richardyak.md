@@ -9,10 +9,10 @@ joinDate: October 3, 2022
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
-pastProducts:
   - Phonebook
-accomplishments: "* Postman"
+pastProducts:
+  - Postman
+accomplishments: ""
 quote: Family and friendships are two of the greatest facilitators of happiness.
 linkedinId: richardyak
 

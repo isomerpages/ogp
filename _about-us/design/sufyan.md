@@ -9,10 +9,10 @@ joinDate: August 7, 2023
 functionId: design
 jobTitle: Job Title
 curProducts:
-  - i'm new, watch this space!
+  - currentProducts
 pastProducts:
   - pastProducts
-accomplishments: ""
+accomplishments: i'm new, watch this space!
 quote: It didn’t matter how big our house was; it mattered that there was love in it.
 linkedinId: sufyan
 

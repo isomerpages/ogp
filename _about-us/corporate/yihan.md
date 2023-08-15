@@ -9,10 +9,10 @@ joinDate: July 18, 2022
 functionId: corporate
 jobTitle: Job Title
 curProducts:
-  - currentProducts
-pastProducts:
   - Marketing
-accomplishments: "* Social media marketing"
+pastProducts:
+  - Social media marketing
+accomplishments: "* "
 quote: Ohana means family and family means nobody gets left behind or forgotten.
 linkedinId: yihan
 

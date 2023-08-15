@@ -9,10 +9,10 @@ joinDate: June 5, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
-pastProducts:
   - ParkingSG
-accomplishments: ""
+pastProducts:
+  - pastProducts
+accomplishments: i'm new, watch this space!
 quote: The informality of family life is a blessed condition that allows us all
   to become our best while looking our worst.
 linkedinId: weilun

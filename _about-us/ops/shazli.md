@@ -9,10 +9,10 @@ joinDate: May 30, 2022
 functionId: ops
 jobTitle: Job Title
 curProducts:
-  - currentProducts
-pastProducts:
   - Marketing
   - Isomer
+pastProducts:
+  - pastProducts
 accomplishments: ""
 quote: A happy family is but an earlier heaven.
 linkedinId: shazli

@@ -9,10 +9,18 @@ joinDate: November 28, 2022
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1TwKSkf49YP3vAUucqSi3ika_PSxBtwsYjPQx12kv2QU/edit
-pastProducts:
   - Go.gov.sg
-accomplishments: ""
+pastProducts:
+  - pastProducts
+accomplishments: >
+  * Technical contributions to Pouch; Created file & folder creation components,
+  dashboard & user storage consumption component
+
+  * Participated in DIS work streams & discussions:  involved in a number of DIS work streams and discussions as part of the organisation's product discovery phase and pathfinding
+
+  * Participated in pair-programming with other engineers for features such as:
+
+  Breadcrumbs navigation
 quote: Family isn’t always blood. It’s the people in your life who want you in
   theirs; the ones who accept you for who you are. The ones that would do
   anything to see you smile and who love you no matter what.

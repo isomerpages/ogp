@@ -9,17 +9,21 @@ joinDate: October 15, 2018
 functionId: pm
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1dHuh_tGCKAziky6Pin_lFsoAZG5R6LeijCjPO-pTABE/edit
-pastProducts:
   - Scamtech
   - Redeem
   - PaySG
-accomplishments: |-
-  * Parking
-  * DistributeSG
-  * Redeem
-  * PaySG
-  * MAS - Orchid
+pastProducts:
+  - Parking
+  - DistributeSG
+  - Redeem
+  - PaySG
+  - MAS - Orchid
+accomplishments: >-
+  * Started several products in OGP including; RedeemSG, PaySG & DistributeSG
+
+  * Part of launch team for CDC Vouchers & scaled the pipeline of campaigns to ~$800M
+
+  * Inaugural product team for ParkingSG; Developed ParkingSG Product roadmap
 quote: The family is the test of freedom; because the family is the only thing
   that the free man makes for himself and by himself.
 linkedinId: talitha

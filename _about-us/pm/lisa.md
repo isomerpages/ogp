@@ -9,19 +9,26 @@ joinDate: November 26, 2018
 functionId: pm
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1R6dWDxY3g-0dc36ud1sTmjf7FZh_qXp-VodkFVGbOQc/edit
-pastProducts:
   - Phonebook
-accomplishments: |-
-  * Postman
-  * Isomer
-  * AskGov
-  * Go.gov.sg
-  * CheckFirst
-  * OGP-Singhealth
-  * SGID
-  * Touchpoint
-  * DigiMC
+pastProducts:
+  - Postman
+  - Isomer
+  - AskGov
+  - Go.gov.sg
+  - CheckFirst
+  - OGP-Singhealth
+  - SGID
+  - Touchpoint
+  - DigiMC
+accomplishments: >-
+  * Onboarded a major ICA project to Postman for up to 146M emails to be sent a
+  year, leading to significant cost savings of at least S$500k 
+
+
+  * Launched Scheduled Sending on Postman, a top-requested feature from users
+
+
+  * Deprecated Touchpoint successfully with minimal disruption to business stakeholders and users
 quote: Ohana means family and family means nobody gets left behind or forgotten.
 linkedinId: lisa
 

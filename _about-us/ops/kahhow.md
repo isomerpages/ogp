@@ -9,12 +9,16 @@ joinDate: January 3, 2023
 functionId: ops
 jobTitle: Job Title
 curProducts:
-  - https://www.notion.so/opengov/Kahhow-s-Working-Document-ea82dd14d2564c00abaef71657e2c5ba
-pastProducts:
   - Care360
-accomplishments: |-
-  *AskGov
-  *Care360
+pastProducts:
+  - AskGov
+  - Care360
+accomplishments: >-
+  * Co-led >10 training sessions for Care360 for ~500 Medical Social Workers
+
+  * Consolidated knowledge management for meetings and engineering self-serviceability under @Care360 meeting notes; actively scribe and consolidate links
+
+  * Planned and filmed marketing campaign for Care360 (ref 5 days of care360). Cumulatively >100 views 
 quote: Family is not defined by our genes, it is built and maintained through love.
 linkedinId: kahhow
 

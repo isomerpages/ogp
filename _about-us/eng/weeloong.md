@@ -11,8 +11,8 @@ jobTitle: Job Title
 curProducts:
   - currentProducts
 pastProducts:
-  - pastProducts
-accomplishments: "* Plumber"
+  - Plumber
+accomplishments: i'm new, watch this space!
 quote: When trouble comes, it’s your family that supports you.
 linkedinId: weeloong
 

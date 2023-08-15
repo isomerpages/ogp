@@ -9,10 +9,10 @@ joinDate: February 27, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1bHzhW76RIe0Z_W467lH19ADjYFp8JOasfG7Lg17yomg/edit
-pastProducts:
   - Phonebook
-accomplishments: ""
+pastProducts:
+  - pastProducts
+accomplishments: i'm new, watch this space!
 quote: Ohana means family and family means nobody gets left behind or forgotten.
 linkedinId: hanu
 

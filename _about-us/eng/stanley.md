@@ -9,14 +9,23 @@ joinDate: January 24, 2022
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1Z2MFrMLz5EgcfxI7S0xo6g2Fop434kgL-HHtShodjyQ/edit
-pastProducts:
   - Postman
-accomplishments: |-
-  DigiMC
-  HAS
-  Sync
-  Touchpoint
+pastProducts:
+  - |-
+    DigiMC
+    HAS
+    Sync
+    Touchpoint
+accomplishments: >-
+  Stabilising Postman codebase and reworking release process
+
+  Improving system observability for the Postman application
+
+  Improving system capacity for Postman in terms of message sending throughput, callback load handling, and report generation
+
+  Campaign management feature for Postman
+
+  Unsubscription enhancement for Postman
 quote: Nothing is better than going home to family and eating good food and relaxing
 linkedinId: stanley
 

@@ -9,10 +9,13 @@ joinDate: June 12, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1PxJtt-pvsDcRN_EDlbfRDy1xwmhKvy415_-T5_sf1y0/edit
+  - currentProducts
 pastProducts:
-  - pastProducts
-accomplishments: "* FormSG"
+  - FormSG
+accomplishments: |
+  * Completed implementation of Cloudflare Turnstile integration
+  * Improved backwards compatibility of Turnstile and Recaptcha integration
+  * Resolved VAPT: WAF bypass via Content-Encoding compression 
 quote: Rejoice with your family in the beautiful land of life.
 linkedinId: sebastian
 

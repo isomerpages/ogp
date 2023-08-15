@@ -9,12 +9,16 @@ joinDate: April 4, 2022
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1t_ZeM7PcKcQqZy1m64Q2cS0zI11hH3ssMKZ7e652DTM/edit
-pastProducts:
   - Care360
-accomplishments: |-
-  * CorpTech
-  * HealthTech
+pastProducts:
+  - CorpTech
+  - HealthTech
+accomplishments: >-
+  * Handled migrations, integrations, and launch schedule for Care360
+
+  * Onboarded new Care360 engineers and PM as the engineering manager of the team
+
+  * Migrated Covid ops databases and improved alarms, monitoring, and query performance for Covid operations
 quote: Family is family.
 linkedinId: jenwei
 

@@ -11,8 +11,8 @@ jobTitle: Job Title
 curProducts:
   - currentProducts
 pastProducts:
-  - pastProducts
-accomplishments: "* CalSG"
+  - CalSG
+accomplishments: i'm new, watch this space!
 quote: Other things may change us, but we start and end with the family.
 linkedinId: zonghan
 

@@ -9,20 +9,22 @@ joinDate: September 3, 2018
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1MjM71Q01yc_DI26DldhkJqz6pYd1N1JQUcIuH7XcenQ/edit
-pastProducts:
   - Tooling team
   - Plumber
+pastProducts:
+  - Postman
+  - SGID
+  - Covid Ops
+  - Healthcare
+  - Sync
+  - OpenDoc
+  - Healthtech
+  - HAS
+  - CorpTech
 accomplishments: |-
-  * Postman
-  * SGID
-  * Covid Ops
-  * Healthcare
-  * Sync
-  * OpenDoc
-  * Healthtech
-  * HAS
-  * CorpTech
+  * Worked on and helped to launch Plumber
+  * Launched OpenSpace
+  * Explored different frameworks and tools, prorotyped and revamp Starter Kit
 quote: Think of your family today and every day thereafter, don’t let the busy
   world of today keep you from showing how much you love and appreciate your
   family.

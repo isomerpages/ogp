@@ -7,7 +7,7 @@
     - currentProducts
   pastProducts:
     - pastProducts
-  accomplishments: ""
+  accomplishments: i'm new, watch this space!
   quote: In time of test, family is best.
   linkedinId: adan
 - staffId: aiko
@@ -16,10 +16,10 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - "-"
+    - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: "* NLB Seed Team"
+    - NLB Seed Team
+  accomplishments: i'm new, watch this space!
   quote: To us, family means putting your arms around each other and being there.
   linkedinId: aiko
 - staffId: airika
@@ -30,8 +30,8 @@
   curProducts:
     - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: "* Policy & Partnerships"
+    - Policy & Partnerships
+  accomplishments: i'm new, watch this space!
   quote: The most important thing in the world is family and love.
   linkedinId: airika
 - staffId: ajayraj
@@ -40,13 +40,14 @@
   functionId: ops
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1KfXqg5ErH994ajuhRKJlLEKaMp3aYJak7ub3ZPhDCr8/edit
-  pastProducts:
     - Armoury
-  accomplishments: |-
-    AskGov
-    Healthtech
-    Sync
+  pastProducts:
+    - |-
+      AskGov
+      Healthtech
+      Sync
+  accomplishments: scoped and secured new agencies to AskGov, ironed out bugs,
+    managed onboarding for new users.
   quote: Having somewhere to go is home. Having someone to love is family. And
     having both is a blessing.
   linkedinId: ajayraj
@@ -56,14 +57,20 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1qRdTgyD6Lae_Tv9NOBlqCOIX5vgqZwyC-hcZ31erxhI/edit#heading=h.xkfgcwsoy2dv
-  pastProducts:
     - Isomer
-  accomplishments: |-
-    AskGov
-    CheckFirst
-    Go.gov.sg
-    Homer
+  pastProducts:
+    - |-
+      AskGov
+      CheckFirst
+      Go.gov.sg
+      Homer
+  accomplishments: >-
+    * Handles end-to-end repo privatisation for Isomer, monitored stability, and
+    set up clearer documentation.
+
+    * Worked on migrations of backend infrastructure onto AWS. 
+
+    • Also responsible for monitoring and reviewing security, and resolving vulnerabilities
   quote: Families are the compass that guides us. They are the inspiration to
     reach great heights, and our comfort when we occasionally falter.
   linkedinId: alexander
@@ -73,17 +80,22 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://www.notion.so/opengov/Alexis-Working-Document-46583fa1216243e681596872e39e94c6
-  pastProducts:
     - go.gov.sg
-  accomplishments: |-
-    * Homer
-    * Isomer
-    * CheckFirst
-    * OGP-Singhealth
-    * Healthcare
-    * CheckWho
-    * Pouch
+  pastProducts:
+    - Homer
+    - Isomer
+    - CheckFirst
+    - OGP-Singhealth
+    - Healthcare
+    - CheckWho
+    - Pouch
+  accomplishments: >-
+    * Designed and built file sharing architecture for Pouch, which supported
+    Highway's use-case. 
+
+    * Pushed for Pouch to adopt to Highway as part of its roadmap to  address significant user groups and gain familiarity with the problem space of file-sharing.
+
+    * Mentored a team-mate to build an asynchronous service to support bulk QR code generation. 
   quote: There is no doubt that it is around the family and the home that all the
     greatest virtues… are created, strengthened and maintained.
   linkedinId: alexis
@@ -93,24 +105,28 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1FjICsIQq9gnmcvXzfQTkvcQOZCN19n_-C0pRmTfC9No/edit
-  pastProducts:
     - Developer Relations
     - Armoury
-  accomplishments: |-
-    * HealthHub
-    * CCRM
-    * Isomer
-    * Go.gov.sg
-    * CheckFirst
-    * SGID
-    * Care 360
-    * AskGov
-    * Postman
-    * Touchpoint
-    * DigiMC
-    * ScamTech
-    * HAS
+  pastProducts:
+    - HealthHub
+    - CCRM
+    - Isomer
+    - Go.gov.sg
+    - CheckFirst
+    - SGID
+    - Care 360
+    - AskGov
+    - Postman
+    - Touchpoint
+    - DigiMC
+    - ScamTech
+    - HAS
+  accomplishments: >-
+    * Made release for Topics in AskGov
+
+    * Rewrote Armoury with focus on generic use cases
+
+    * DevRelations POC for OGP in numerous events including NUS LifeHack, Build for Good & Tech for Public Good
   quote: A happy family is but an earlier heaven.
   linkedinId: alwyn
 - staffId: amit
@@ -119,10 +135,12 @@
   functionId: pm
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1gGh0FzwZnVmBfZt1HOsTOGmMzhc1tc0mEcBj5bvtZ0U/edit?usp=drive_web&ouid=117260676200678954389
-  pastProducts:
     - FormSG
-  accomplishments: "* Sync"
+  pastProducts:
+    - Sync
+  accomplishments: FormSG achieved React migration, built payments prototype,
+    improved accessibility, launched in Sri Lanka, won awards, and improved team
+    functioning.
   quote: Other things may change us, but we start and end with the family.
   linkedinId: amit
 - staffId: amitha
@@ -131,10 +149,10 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - i'm new, watch this space!
+    - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: "* CorpOps"
+    - CorpOps
+  accomplishments: i'm new, watch this space!
   quote: Where there is family, there is love.
   linkedinId: amitha
 - staffId: angel
@@ -143,10 +161,10 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1OXUAmjwg_c7j89fbrTOrMzJP_L3jDDz-rrtghfKApe4/edit
+    - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: HAS
+    - HAS
+  accomplishments: i'm new, watch this space!
   quote: Family is not an important thing. It’s everything.
   linkedinId: angel
 - staffId: antariksh
@@ -155,16 +173,20 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1Iq-mvRK9Nv_GwwHLgKiHlQq1XtKEPyEvhRAlXmwqAzc/edit
-  pastProducts:
     - CalSG
-  accomplishments: |-
-    * FormSG
-    * AskGov
-    * Endemic Ops
-    * CheckFirst
-    * Temperature
-    * SGID
+  pastProducts:
+    - FormSG
+    - AskGov
+    - Endemic Ops
+    - CheckFirst
+    - Temperature
+    - SGID
+  accomplishments: >-
+    * Worked on and launched CalSG. 
+
+    * Managed the CalSG team and oversaw both engineering and design.
+
+    * Led SDK initiative for sgID which was targetted to make the process easier for developers working in common backend languages to implement sgID integrations. 
   quote: Our family is a circle of strength of love with every birth and every
     union the circle grows.
   linkedinId: antariksh
@@ -174,19 +196,23 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1YJjhQ6GJtesAlRHSDuIAT-aw20zRzJ_wISXcD7YVFEQ/edit?usp=drive_link
-  pastProducts:
     - AskGov
-  accomplishments: |-
-    * Data.gov
-    * eDOT
-    * Endemic Ops
-    * FormSG
-    * Okay/Not Okay
-    * Product
-    * ResolveSG
-    * Send
-    * Vault
+  pastProducts:
+    - Data.gov
+    - eDOT
+    - Endemic Ops
+    - FormSG
+    - Okay/Not Okay
+    - Product
+    - ResolveSG
+    - Send
+    - Vault
+  accomplishments: >
+    * Reduced and streamlined operations workload for Vault team.
+
+    * Sought out solutions that minimized engineering work.
+
+    * Worked with product team gain better insights which allowed better user behaviour analysis to then optimise workflow.
   quote: The bond that links your true family is not one of blood, but of respect
     and joy in each other’s life.
   linkedinId: arshad
@@ -196,12 +222,18 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1J4Fbs9kXXGbIYzcABn1pGV6C6Tr9hNW9jQXVz-NgkGw/edit#heading=h.hld65166mry
-  pastProducts:
     - Care360
-  accomplishments: |-
-    * Healthtech
-    * IRMS
+  pastProducts:
+    - Healthtech
+    - IRMS
+  accomplishments: >-
+    * Led the scoping, designing, and execution of the Financial Application
+    Approvals feature in Care360, which was a large, complex, and core feature
+    of the product. 
+
+    * Enabled Care360 integrations for Vault and MTSOC, came up with IHIS reconciliation strategies and improved observability
+
+    * Designed and delivered many features in Care360, such as the Rich text editor feature, backend pagination/filter/sort features, and application version mismatch errors. 
   quote: Being a family means you are a part of something very wonderful. It means
     you will love and be loved for the rest of your life.
   linkedinId: austin
@@ -211,10 +243,16 @@
   functionId: design
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1k8949dNUC-AfITJ4U4gexavxJBj1W_X9J_L53mygw7E/editt
-  pastProducts:
     - Head of Product Design
-  accomplishments: ""
+  pastProducts:
+    - pastProducts
+  accomplishments: >-
+    * Grew the OGP Product Design team, including setting up new UX writing and
+    UX research functions
+
+    * Organised, facilitated, and presented at the Friends of Figma: Inside Design at OGP meet-up
+
+    * Provided product leadership and direction to co-lead Armoury during HFPG'23
   quote: Nothing is better than going home to family and eating good food and relaxing
   linkedinId: benjamin
 - staffId: benjaminloh
@@ -223,10 +261,16 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - Primary Care
-  accomplishments: ""
+  pastProducts:
+    - pastProducts
+  accomplishments: >-
+    * Developed unit tests and an E2E test suite for DigiMC to ensure the
+    quality and functionality of the product
+
+    * Designed and worked on the ORM migration of DigiMC, improving the maintainability of the product
+
+    * Developed AttendGov, a hackathon product, worked on the upload flow and DB structure. 
   quote: In family life, love is the oil that eases friction, the cement that
     binds closer together, and the music that brings harmony.
   linkedinId: benjaminloh
@@ -236,10 +280,13 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - Chief Operating Officer
-  accomplishments: "* Oversees Corporate Operations, People Team, Marketing"
+  pastProducts:
+    - Oversees Corporate Operations, People Team, Marketing
+  accomplishments: >-
+    * Overhauled OGP management team processes and platforms
+
+    * Launched organisation feedback initiatives to drive a stronger feedback culture across OGP
   quote: Happiness is having a large, loving, caring, close-knit family in another
     city.
   linkedinId: bernadette
@@ -249,9 +296,9 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - Tooling Team
+  pastProducts:
+    - pastProducts
   accomplishments: ""
   quote: Think of your family today and every day thereafter, don’t let the busy
     world of today keep you from showing how much you love and appreciate your
@@ -263,10 +310,14 @@
   functionId: pm
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1b9hrFWRtxFPjQRfT7JF3kJOYNqr5WXwo-gBkLSL8G8U/edit
-  pastProducts:
     - NLB
-  accomplishments: ""
+  pastProducts:
+    - pastProducts
+  accomplishments: >-
+    * Built seven prototypes for NLB after aligning on initial problem
+    statements
+
+    * Built relationships with stakeholders in NLB to understand operations and difficulties on the ground
   quote: Having somewhere to go is home. Having someone to love is family. And
     having both is a blessing.
   linkedinId: brianlee
@@ -276,10 +327,15 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1rULm0scq3eFL5oBiV2_d7qsf5KKg1lYVnXcAShHaxv4/edit
-  pastProducts:
     - Care360
-  accomplishments: ""
+  pastProducts:
+    - pastProducts
+  accomplishments: >
+    Improved frontend coding standards by introducing a cleaner frontend
+    component directory structure, worked on data migration efforts from
+    existing healthcare systems, and supported user testing / training sessions
+    at the various healthcare institutions where Care360 will be launched. Also
+    led InternalFunds sprint.
   quote: Families are like fudge – mostly sweet with a few nuts.
   linkedinId: caleb
 - staffId: carina
@@ -288,13 +344,17 @@
   functionId: design
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/16FWXvxh7ICJqKhPciBseR48meRib5Y83tExnLTJLunM/edit
-  pastProducts:
     - Redeem
-  accomplishments: |-
-    * Parking.sg
-    * PaySG
-    * Pair
+  pastProducts:
+    - Parking.sg
+    - PaySG
+    - Pair
+  accomplishments: >-
+    * Led research and design of CDC vouchers 2023 resident digital experience
+
+    * Generalised and scaled RedeemSG beyond CDC campaigns
+
+    * Led discussions leading to the scope of features to prioritise for Pair MVP
   quote: To us, family means putting your arms around each other and being there.
   linkedinId: carina
 - staffId: charmaine
@@ -303,12 +363,17 @@
   functionId: pm
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1CbFXdAjb6YVbEw169Ov5lLvprEcpgXP5KYsigVQBk7k/edit
-  pastProducts:
     - Redeem
-  accomplishments: |-
-    * Parking.sg
-    * PaySG
+  pastProducts:
+    - Parking.sg
+    - PaySG
+  accomplishments: >-
+    * Ensured the successful launch of CDC vouchers for 2023, including the
+    integration of 5 major supermarkets
+
+    * Scoped and defined the whitelisting feature for RedeemSG, and moved closer toward generalising RedeemSG for different use cases
+
+    * Coordinated several initiatives to aid the product management function across OGP, including coordinating Twilio senderID registration across OGP as well as consolidating VAPT master lists and recommendations
   quote: The most important thing in the world is family and love.
   linkedinId: charmaine
 - staffId: cheri
@@ -317,10 +382,13 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1az8s7-K8tGuNvYvU4MAgVx8fjvAJmk2dlnn93vblt3U/edit#heading=h.3im1wk44qk3a
+    - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: "* Queue"
+    - Queue
+  accomplishments: >-
+    * Added end-to-end testing for Queue
+
+    * Worked on multiple features for Queue, including SMS notification settings and the admin notes panel
   quote: "Family: A social unit where the father is concerned with parking space,
     the children with outer space, and the mother with closet space."
   linkedinId: cheri
@@ -330,12 +398,17 @@
   functionId: pm
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1jV5ZqyLZ6WeIr6QUk4kH0tJErBD0Dyc0cGeWyclarco/edit
-  pastProducts:
     - Medipay
-  accomplishments: |-
-    * Marketing
-    * Crackdown
+  pastProducts:
+    - Marketing
+    - Crackdown
+  accomplishments: >-
+    * Worked to get widespread media coverage for Hack for Public Good 2023,
+    with 7 media outlets covering the hackathon
+
+    * Led the product team for Crackdown to provide HDB with a bird's eye view of unauthorised HDB rentals in Singapore
+
+    * Integrated product marketing into the HAS roll-out efforts, leading to widespread media coverage and marketing events to accelerate vaccine appointment booking
   quote: Family ties mean that no matter how much you might want to run from your
     family, you can’t.
   linkedinId: cheryl
@@ -345,10 +418,15 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1lbiTt1wetQIXMfGDAYqGy9k6x_SW1ty3ZXG5ODfXUYo/edit
-  pastProducts:
     - FormSG
-  accomplishments: ""
+  pastProducts:
+    - pastProducts
+  accomplishments: improved the accessibility of Forms for the visually impaired,
+    implemented and removed beta features for Forms Payment feature and sgID
+    integration, and researched and launched a search engine using a framework,
+    which enabled SmartGov’s Open Domain Question and Answer (ODQA) system MVP
+    to be able to make SmartGov understand and answer specific queries relating
+    to AIC
   quote: Being part of a family means smiling for photos.
   linkedinId: chifa
 - staffId: chienling
@@ -357,15 +435,19 @@
   functionId: corporate
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - People Team
-  accomplishments: |-
-    * Covid-19 vaccination operations
-    * OGP hiring
-    * Internship programmes
-    * HR operations and governance
-    * Team communications
+  pastProducts:
+    - Covid-19 vaccination operations
+    - OGP hiring
+    - Internship programmes
+    - HR operations and governance
+    - Team communications
+  accomplishments: >-
+    *   Conceptualised and launched OGP’s referral programme
+
+    *   Set-up and launched OGP’s allocation framework for hiring
+
+    *   Did the bulk of hiring operations and pipeline management to grow OGP by more than 100 people from 2022-2023
   quote: Families are the compass that guides us. They are the inspiration to
     reach great heights, and our comfort when we occasionally falter.
   linkedinId: chienling
@@ -375,10 +457,10 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1yqkQWss1fzmKUA4CfQnqZXdTJ5iyNUH1O9IDJqN5kzg/edit#heading=h.q9g0durbss53
+    - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: Pair
+    - Pair
+  accomplishments: i'm new, watch this space!
   quote: Family is family.
   linkedinId: chinyang
 - staffId: chinying
@@ -387,15 +469,20 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1bOPHy3IzlL0hzBfxS4Gs-nsi4FNJIBx-thhoUg2djpQ/editt
-  pastProducts:
     - Scamtech
-  accomplishments: |-
-    * Postman
-    * Covid Ops
-    * Scamshield
-    * Healthcare
-    * Scamtech
+  pastProducts:
+    - Postman
+    - Covid Ops
+    - Scamshield
+    - Healthcare
+    - Scamtech
+  accomplishments: >-
+    * Onboarded new Scamshield team members by writing a monitoring and on-call
+    runbook as well as developing a crash-course on Scamshield v2 infrastructure
+
+    * Built a generalised rule framework for handling scam message prioritisation, providing a blueprint for implementing other prioritisation rules and allowing other engineers to build upon it.
+
+    * Contributed towards the development and timely delivery of the SPF dashboard frontend for Scamshield, plugging gaps where necessary and spearheading the releases to production prior to the deadline.
   quote: I didn’t give you the gift of life, but life gave me the gift of you.
   linkedinId: chinying
 - staffId: chinyao
@@ -406,8 +493,8 @@
   curProducts:
     - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: "* Phonebook"
+    - Phonebook
+  accomplishments: i'm new, watch this space!
   quote: Nothing is better than going home to family and eating good food and relaxing
   linkedinId: chinyao
 - staffId: christabel
@@ -416,15 +503,19 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1UawiVv9bt7_CHSNbaMOrpHkhjsV3VCRCXcfxY2iTwws/edit
-  pastProducts:
     - Armoury
-  accomplishments: |-
-    * Homer
-    * Vault
-    * Covid Operations
-    * Scamshield
-    * Healthcare
+  pastProducts:
+    - Homer
+    - Vault
+    - Covid Operations
+    - Scamshield
+    - Healthcare
+  accomplishments: >-
+    * Launched Scamshield Whatsapp bot in December 2022
+
+    * Launched Scamshield 2.0 SPF dashboard and Scamshield Andriod + iOS App
+
+    * Managed nominal roll processing and SMS campaigns for Covid-19 vaccination appointment operations 
   quote: Family is not defined by our genes, it is built and maintained through love.
   linkedinId: christabel
 - staffId: christabelpng
@@ -433,17 +524,22 @@
   functionId: design
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1HT4nU19f3DGvdJJG-z0YIH8crT3XN7mbKOO2zVofJA4/edit
-  pastProducts:
     - Vault
-  accomplishments: |-
-    * Scamshield
-    * Covid Ops
-    * AskGov
-    * Data.gov
-    * Send
-    * Go.gov.sg
-    * Folk
+  pastProducts:
+    - Scamshield
+    - Covid Ops
+    - AskGov
+    - Data.gov
+    - Send
+    - Go.gov.sg
+    - Folk
+  accomplishments: >-
+    * Conceptualised and lead the product development of Folk, leading to 273
+    organic registrations and 8.7k page views
+
+    * Led product design for Vault, including conceptualising and executing UI for all features in Vault Workspace
+
+    * Co-organised the 27 April OGP x Singapore Product Design talk to advocate and propagate OGP design practices
   quote: Where there is family, there is love.
   linkedinId: christabelpng
 - staffId: christian
@@ -452,9 +548,9 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1ehqbFDEMyzqTMBRsI9-yOKFhR-1NGdktnnrtvC_luA8/edit#heading=h.q9g0durbss53
-  pastProducts:
     - Scamshield
+  pastProducts:
+    - pastProducts
   accomplishments: ""
   quote: Family ties mean that no matter how much you might want to run from your
     family, you can’t.
@@ -465,15 +561,20 @@
   functionId: ops
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - go.gov.sg
-  accomplishments: |-
-    * WizGov
-    * Highway
-    * HealthTech Sprint
-    * Isomer Project Pancake
-    * MindCraft
+  pastProducts:
+    - WizGov
+    - Highway
+    - HealthTech Sprint
+    - Isomer Project Pancake
+    - MindCraft
+  accomplishments: >
+    * Led product operations for GoGovSG, ForSG, and ForEduSG and increased user
+    base and new URLs steadily.
+
+    * Co-created user research questions and arranged user interviews for hackathon products, MindCraft and WizGov.
+
+    * Monitored user feedback, support flow and worked on the visualisation of product feedback and performance using Grafana dashboards for the Go suite.
   quote: The family is one of nature’s masterpieces.
   linkedinId: clement
 - staffId: clifford
@@ -484,11 +585,10 @@
   curProducts:
     - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: |
-    * techhiring.open.gov.sg 
-    * OGP hiring
-    * Team health dashboards and interventions
+    - techhiring.open.gov.sg
+    - OGP hiring
+    - Team health dashboards and interventions
+  accomplishments: i'm new, watch this space!
   quote: Families are the compass that guides us. They are the inspiration to
     reach great heights, and our comfort when we occasionally falter.
   linkedinId: clifford
@@ -498,10 +598,10 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - i'm new, watch this space!
-  pastProducts:
     - NLB
-  accomplishments: ""
+  pastProducts:
+    - pastProducts
+  accomplishments: i'm new, watch this space!
   quote: Family ties mean that no matter how much you might want to run from your
     family, you can’t.
   linkedinId: danelynn
@@ -511,10 +611,10 @@
   functionId: design
   jobTitle: Job Title
   curProducts:
-    - i'm new, watch this space!
+    - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: "* UX Research"
+    - UX Research
+  accomplishments: i'm new, watch this space!
   quote: A happy family is but an earlier heaven.
   linkedinId: darren
 - staffId: daryl
@@ -523,13 +623,19 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1-vjDwIyZiXGNlhFe64rMvCWyjAE0ATvML9Iao6d2eCo/edit
-  pastProducts:
     - Pixie
-  accomplishments: |-
-    Care360
-    CorpTech
-    Healthtech
+  pastProducts:
+    - |-
+      Care360
+      CorpTech
+      Healthtech
+  accomplishments: >
+    * Care360 feature work– built the Financial Assistance (FA) application
+    flow. 
+
+    * Care360 frontend infrastructure work by improving Care360’s frontend performance and reliability.
+
+    * Production incidents on-call for Covid-ops.
   quote: The most important thing in the world is family and love.
   linkedinId: daryl
 - staffId: dat
@@ -538,10 +644,16 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1e3m66uF9LhBc0PeiLpSUjfQRolrP8B8gkInWJv645GQ/edit
-  pastProducts:
     - go.gov.sg
-  accomplishments: "* Pouch"
+  pastProducts:
+    - Pouch
+  accomplishments: >-
+    * Worked with Go team to deliver several features including bulk upload, Go
+    API, and link tagging, leading to 265% increase in Go usage
+
+    * Implemented tools and processes to make running of experiments and new projects efficient and cost-effective, including monoGo, mono-infra, and an experimental project Kubernetes Cluster
+
+    * Launched Pouch for beta testing
   quote: There is no doubt that it is around the family and the home that all the
     greatest virtues… are created, strengthened and maintained.
   linkedinId: dat
@@ -551,10 +663,16 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1jUbwgd-c3fF_7bUFYh5AfMwZa8hDthcE0IvteWE_T68/edit
+    - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: "*HAS"
+    - HAS
+  accomplishments: >-
+    * Performed intra- and inter-timeslot validation on change in the schedule
+    management form. 
+
+    * improved HAS user experience by setting additional timeslots to continue from the end of the previous selection.
+
+    * Implemented confirmation modals for appointment creation and rescheduling in HAS
   quote: The family – that dear octopus from whose tentacles we never quite
     escape, nor, in our inmost hearts, ever quite wish to.
   linkedinId: dexter
@@ -564,9 +682,9 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - Primary Care
+  pastProducts:
+    - pastProducts
   accomplishments: ""
   quote: Treat your family like friends and your friends like family.
   linkedinId: enyi
@@ -576,12 +694,17 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1DBaVJJWWi64T1FTSEFWlxcrZzTMbUWnLX0JBcyFfqK8/edit
-  pastProducts:
     - Redeem
-  accomplishments: |-
-    * ParkingSG
-    * PaySG
+  pastProducts:
+    - ParkingSG
+    - PaySG
+  accomplishments: >-
+    * Made multiple backend and frontend changes to Redeem to enable the 3rd
+    tranche of the CDC voucher campaign
+
+    * Implemented more comprehensive test cases for critical flows and endpoints for Redeem
+
+    * Implemented an OGP-wide easily adoptable infrastructure tool for handling Cloudflare outages
   quote: Family is not defined by our genes, it is built and maintained through love.
   linkedinId: fabian
 - staffId: feliciana
@@ -590,16 +713,15 @@
   functionId: design
   jobTitle: Job Title
   curProducts:
-    - Can't find working doc
-  pastProducts:
     - PaySG
-  accomplishments: |-
-    * Healthtech 
-    * Redeem
-    * Parking.sg 
-    * PaySG
-    * Queue
-    * Vault
+  pastProducts:
+    - Healthtech
+    - Redeem
+    - Parking.sg
+    - PaySG
+    - Queue
+    - Vault
+  accomplishments: I'm new, watch this space!
   quote: Think of your family today and every day thereafter, don’t let the busy
     world of today keep you from showing how much you love and appreciate your
     family.
@@ -610,10 +732,10 @@
   functionId: design
   jobTitle: Job Title
   curProducts:
-    - i'm new, watch this space!
-  pastProducts:
     - UX Research
-  accomplishments: ""
+  pastProducts:
+    - pastProducts
+  accomplishments: i'm new, watch this space!
   quote: The memories we make with our family is everything.
   linkedinId: fiona
 - staffId: foong
@@ -624,8 +746,8 @@
   curProducts:
     - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: "* Vault"
+    - Vault
+  accomplishments: i'm new, watch this space!
   quote: In family life, love is the oil that eases friction, the cement that
     binds closer together, and the music that brings harmony.
   linkedinId: foong
@@ -635,10 +757,10 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - Armoury
-  accomplishments: ""
+  pastProducts:
+    - pastProducts
+  accomplishments: i'm new, watch this space!
   quote: Families are like fudge – mostly sweet with a few nuts.
   linkedinId: gautam
 - staffId: geraldine
@@ -647,10 +769,16 @@
   functionId: ops
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1R0UwAoC3p73jmTSz_tZoypsPMy8O5mfDZC5pfZp8rvk/edit
-  pastProducts:
     - Vault
-  accomplishments: ""
+  pastProducts:
+    - pastProducts
+  accomplishments: >-
+    * Increased engagement rates through hands on product demo workshop (564
+    attendees in Dec)
+
+    * Implemented user guide & FAQs for Product resulting in reduction of L1 tickets by 85.9%
+
+    * Created FormSG X Workspace pitch deck to highlight Product USPs
   quote: Our family is a circle of strength of love with every birth and every
     union the circle grows.
   linkedinId: geraldine
@@ -660,10 +788,10 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1bHzhW76RIe0Z_W467lH19ADjYFp8JOasfG7Lg17yomg/edit
-  pastProducts:
     - Phonebook
-  accomplishments: ""
+  pastProducts:
+    - pastProducts
+  accomplishments: i'm new, watch this space!
   quote: Ohana means family and family means nobody gets left behind or forgotten.
   linkedinId: hanu
 - staffId: harish
@@ -672,10 +800,10 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1ggybYFe32Cth1HftR-VYQ3OOQixLI-Y417rHSmVLOrA/edit
+    - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: Isomer
+    - Isomer
+  accomplishments: i'm new, watch this space!
   quote: The memories we make with our family is everything.
   linkedinId: harish
 - staffId: hena
@@ -684,9 +812,9 @@
   functionId: pm
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - go.gov.sg
+  pastProducts:
+    - pastProducts
   accomplishments: ""
   quote: Treat your family like friends and your friends like family.
   linkedinId: hena
@@ -696,10 +824,10 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - Director of OGP
-  accomplishments: ""
+  pastProducts:
+    - pastProducts
+  accomplishments: "* Set-up, scaled, and led OGP to deliver impact on public good!"
   quote: It’s the most effective way for me to do the most good in the world
   linkedinId: lhy
 - staffId: huiling
@@ -710,8 +838,8 @@
   curProducts:
     - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: "* Care360"
+    - Care360
+  accomplishments: i'm new, watch this space!
   quote: The bond that links your true family is not one of blood, but of respect
     and joy in each other’s life.
   linkedinId: huiling
@@ -721,10 +849,10 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - FormSG
-  accomplishments: ""
+  pastProducts:
+    - pastProducts
+  accomplishments: i'm new, watch this space!
   quote: Rejoice with your family in the beautiful land of life.
   linkedinId: huiqing
 - staffId: huixuan
@@ -733,10 +861,10 @@
   functionId: transformation
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - Policy & Transformation
-  accomplishments: "* IM8-CFA"
+  pastProducts:
+    - IM8-CFA
+  accomplishments: NO WORKING DOC
   quote: Family is the heart of a home.
   linkedinId: huixuan
 - staffId: hygin
@@ -745,12 +873,16 @@
   functionId: transformation
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1Sb2c5DaSMJXfZbo7JQW5IPd-s7T_VakIp0eeXVi1Ms8/edit
-  pastProducts:
     - Policy & Transformation
-  accomplishments: |-
-    * Scamshield
-    * Scamtech
+  pastProducts:
+    - Scamshield
+    - Scamtech
+  accomplishments: >-
+    * Launched IMDA international call blocking pilot
+
+    * Provided product-market fit assessments and recommendations for government tech projects, leading to >S$1M savings
+
+    * Helped simplify government senderID registration processes using Postman.gov.sg
   quote: This is my family. I found it all on my own. It’s little, and broken, but
     still good. Yeah. Still good.
   linkedinId: hygin
@@ -760,20 +892,22 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1MjM71Q01yc_DI26DldhkJqz6pYd1N1JQUcIuH7XcenQ/edit
-  pastProducts:
     - Tooling team
     - Plumber
+  pastProducts:
+    - Postman
+    - SGID
+    - Covid Ops
+    - Healthcare
+    - Sync
+    - OpenDoc
+    - Healthtech
+    - HAS
+    - CorpTech
   accomplishments: |-
-    * Postman
-    * SGID
-    * Covid Ops
-    * Healthcare
-    * Sync
-    * OpenDoc
-    * Healthtech
-    * HAS
-    * CorpTech
+    * Worked on and helped to launch Plumber
+    * Launched OpenSpace
+    * Explored different frameworks and tools, prorotyped and revamp Starter Kit
   quote: Think of your family today and every day thereafter, don’t let the busy
     world of today keep you from showing how much you love and appreciate your
     family.
@@ -784,12 +918,17 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1UhL1YbVJR6ge_v0qL4p3N1DamqAmNtOlgxGZchGWQSs/edit
-  pastProducts:
     - Parking.sg
-  accomplishments: |-
-    * Redeem
-    * PaySG
+  pastProducts:
+    - Redeem
+    - PaySG
+  accomplishments: >-
+    * Leading successful engineering efforts in Redeem resulting in smooth
+    supermarket onboarding and critical payout code changes.
+
+    * Taking ownership of onboarding new engineers and facilitating discussions and learnings within the team, creating a more collaborative learning environment within Redeem engineering.
+
+    * Taking on the role of product manager and designer for Plague during the hackathon, forming the product vision, conducting user interviews, prioritizing tasks, and conducting pitches.
   quote: Having somewhere to go is home. Having someone to love is family. And
     having both is a blessing.
   linkedinId: ivan
@@ -799,18 +938,22 @@
   functionId: ops
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/150jLoAwQ483583ILejVrW-40adMVIIw0q9QiQHUETlY/edit
-  pastProducts:
     - FormSG
     - Isomer
     - Plumber
-  accomplishments: |-
-    * Redeem
-    * Postman
-    * CheckFirst
-    * Temperature
-    * Go.gov.sg
-    * CheckWho
+  pastProducts:
+    - Redeem
+    - Postman
+    - CheckFirst
+    - Temperature
+    - Go.gov.sg
+    - CheckWho
+  accomplishments: >-
+    * Oversaw the migration of all school websites to Isomer
+
+    * Worked with the Head of Product Operations to establish and run product operations hiring processes to double the size of the product operations team
+
+    * Planned and ran various government sharings (>1300 attendees) on OGP products to significantly increase product adoption across the rest of government. 
   quote: Family gives you the roots to stand tall and strong.
   linkedinId: jackson
 - staffId: james
@@ -819,10 +962,11 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - Head of Software Engineering
-  accomplishments: ""
+  pastProducts:
+    - pastProducts
+  accomplishments: |
+    * Managed a team of 18 software engineers.
   quote: I love technology because of its ability to solve problems, and at OGP I
     get to work on problems that really matter.
   linkedinId: james
@@ -832,9 +976,9 @@
   functionId: pm
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - Isomer
+  pastProducts:
+    - pastProducts
   accomplishments: ""
   quote: Our family is a circle of strength of love with every birth and every
     union the circle grows.
@@ -845,10 +989,16 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1xiFd7tPmDphK92XPMz8Acy09pLM50e2jXEfg8nV3OR0/edit#heading=h.q9g0durbss53
-  pastProducts:
     - Care360
-  accomplishments: ""
+  pastProducts:
+    - pastProducts
+  accomplishments: >-
+    * Contributed to the development of several significant features for Care360
+    i.e User Management
+
+    * Increased Care360's branding efforts; responsible for reworking the frontend for all key user flows
+
+    * Part of team that built the critical Overlapping Financial Applications feature 
   quote: There is no doubt that it is around the family and the home that all the
     greatest virtues… are created, strengthened and maintained.
   linkedinId: jasmine
@@ -858,12 +1008,16 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1yQNUv51JKHntG6h1Gm6jKLVU6ON1m8n9ioGLSCa7vpE/edit
-  pastProducts:
     - PaySG
-  accomplishments: |-
-    * RedeemSG
-    * HAS
+  pastProducts:
+    - RedeemSG
+    - HAS
+  accomplishments: >-
+    * Decided on the infra and tech stack of PaySG as tech lead
+
+    * Proposed and implemented Datadog for RedeemSG, leading to org-wide implementation
+
+    * Established front-end coding standards for RedeemSG
   quote: To us, family means putting your arms around each other and being there.
   linkedinId: jason
 - staffId: jenwei
@@ -872,12 +1026,16 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1t_ZeM7PcKcQqZy1m64Q2cS0zI11hH3ssMKZ7e652DTM/edit
-  pastProducts:
     - Care360
-  accomplishments: |-
-    * CorpTech
-    * HealthTech
+  pastProducts:
+    - CorpTech
+    - HealthTech
+  accomplishments: >-
+    * Handled migrations, integrations, and launch schedule for Care360
+
+    * Onboarded new Care360 engineers and PM as the engineering manager of the team
+
+    * Migrated Covid ops databases and improved alarms, monitoring, and query performance for Covid operations
   quote: Family is family.
   linkedinId: jenwei
 - staffId: jennifer
@@ -886,9 +1044,9 @@
   functionId: pm
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - Scamshield
+  pastProducts:
+    - pastProducts
   accomplishments: ""
   quote: I didn’t give you the gift of life, but life gave me the gift of you.
   linkedinId: jennifer
@@ -898,9 +1056,9 @@
   functionId: pm
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - AskGov
+  pastProducts:
+    - pastProducts
   accomplishments: ""
   quote: "Blended families: woven together by choice, strengthened together by
     love, tested by everything, and each uniquely ours."
@@ -911,10 +1069,17 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1kG_4049xc6lU4HS0m4Fm5iXru4DNVBoExfzaAssR4rg/edit
-  pastProducts:
     - Isomer
-  accomplishments: "* Go.gov.sg"
+  pastProducts:
+    - Go.gov.sg
+  accomplishments: >-
+    * Independently drove processes in Isomer by writing extensive
+    documentation, pushing for greater knowledge retention, and setting up
+    knowledge transfer sessions amongst engineers
+
+    * Provided teammates with technical feedback and suggested frontend best practices to deliver the Identity epic
+
+    * Set up VAPT infrastructure for testing and led bug-fixes and discussions with external parties, resulting in a successful VAPT retest and the major feature (Identity) being able to launch to the public. 
   quote: Families are like fudge – mostly sweet with a few nuts.
   linkedinId: jiachin
 - staffId: jiahui
@@ -923,12 +1088,17 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - Corporate Operations
-  accomplishments: |-
-    * Onboarding experience
-    * Workplace
+  pastProducts:
+    - Onboarding experience
+    - Workplace
+  accomplishments: >-
+    * Office space revamp to keep up with org growth and ensure space
+    utilisation and productivity
+
+    * Improve team experience through onboarding experience revamp and automation
+
+    * HFPG 2023 Venues, Logistics and Merchandise sourcing and execution
   quote: The only rock I know that stays steady, the only institution I know that
     works, is the family.
   linkedinId: jiahui
@@ -938,10 +1108,10 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1OTdc0h_AZlhDBAsRcbzLw03m6yJBVD8DzK_dFSK6DT0/edit#heading=h.q9g0durbss53
+    - currentProducts
   pastProducts:
     - pastProducts
-  accomplishments: ""
+  accomplishments: i'm new, watch this space!
   quote: Family and friendships are two of the greatest facilitators of happiness.
   linkedinId: jiayee
 - staffId: jiehao
@@ -950,14 +1120,19 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1ydqObkYY0Az-7cPD9mpNsJJm1QcFPV9cbtl6K5wWhto/edit
-  pastProducts:
     - SGID
-  accomplishments: |-
-    * Homer
-    * Lookback
-    * OGP-Singhealth
-    * Endemic Ops
+  pastProducts:
+    - Homer
+    - Lookback
+    - OGP-Singhealth
+    - Endemic Ops
+  accomplishments: >-
+    * Set the sgID vision and roadmap after conducting a thorough exploration of
+    the digital identity space
+
+    * Delivered key features for sgID such as the sgID developer portal for self-service sgID client onboarding
+
+    * Created and ran a monthly OGP engineering sharing platform for technical learning and development across the organisation
   quote: We may have our differences, but nothing’s more important than family.
   linkedinId: jiehao
 - staffId: jieyin
@@ -966,10 +1141,10 @@
   functionId: ops
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1O6iSW8eNQF2pUarnitFeOGUWs1k_QwkqFTpSUXUDkkA/edit#heading=h.q9g0durbss53
+    - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: "* Pair"
+    - Pair
+  accomplishments: i'm new, watch this space!
   quote: "Family: A social unit where the father is concerned with parking space,
     the children with outer space, and the mother with closet space."
   linkedinId: jieyin
@@ -979,19 +1154,27 @@
   functionId: design
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1ovFRlaIrxlomC_o4tlBIvVwmn1oPJp5VwWUE3B8vFIQ/edit
-  pastProducts:
     - Pixie
-  accomplishments: |-
-    * Vault
-    * Data.gov
-    * Send
-    * Healthtech
-    * Sync
-    * HAS
-    * CheckWho
-    * Care360
-    * Highway
+  pastProducts:
+    - Vault
+    - Data.gov
+    - Send
+    - Healthtech
+    - Sync
+    - HAS
+    - CheckWho
+    - Care360
+    - Highway
+  accomplishments: >-
+    * Helped to launch Care360, including running 25 alpha/beta tests to iterate
+    at the product to deliver a positive user experience, a well as running a
+    workshop with 20 medical social worker leads on Care360
+
+
+    * Provided mentorship to a design intern by onboarding them to the OGP design team and Care360, as well as guiding their everyday work and planning for their learning and growth
+
+
+    * Built flows and screens for Highway, and worked with engineering to rapidly develop a prototype, leading to interest from 6 government agencies
   quote: In family life, love is the oil that eases friction, the cement that
     binds closer together, and the music that brings harmony.
   linkedinId: jingyi
@@ -1003,10 +1186,15 @@
   curProducts:
     - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: |-
-    * techhiring.open.gov.sg
-    * Onboarding/Offboarding experience
+    - techhiring.open.gov.sg
+    - Onboarding/Offboarding experience
+  accomplishments: >-
+    * Relaunched TFPG CV Bank and Jobs Directory to match candidates to >250
+    government tech jobs
+
+    * Helped to plan and run the TFPG candidate marketing bootcamp to help 13 agencies improve tech hiring efforts
+
+    * Overhauled OGP's employment letter templates for greater operational efficiency and clarity
   quote: It didn’t matter how big our house was; it mattered that there was love
     in it.
   linkedinId: joannalo
@@ -1016,13 +1204,18 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - Corporate Operations
-  accomplishments: |-
-    
-    * Workplace
-    * Procurement and Finance
+  pastProducts:
+    - Workplace
+    - Procurement and Finance
+  accomplishments: >-
+    *   Planned and managed Finance team of 2
+
+    *   Secured funding for expanded OGP team of nearly 200
+
+    *   Backend finance process automations
+
+    *   Finance sprint to consolidate and visualise finance data to track OGP expenditure by team
   quote: When trouble comes, it’s your family that supports you.
   linkedinId: joshua
 - staffId: justyn
@@ -1031,12 +1224,19 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1LORGgDSPbq0sd1UvtmcqFZ6j7nP7FB7L6ihiHjihE4M/editt
-  pastProducts:
     - FormSG
-  accomplishments: |-
-    * CertSG
-    * Checkpoint
+  pastProducts:
+    - CertSG
+    - Checkpoint
+  accomplishments: >-
+    * Contributed to FormSG React migration, including migrating most end-to-end
+    tests for email submissions from Angular and implementing several new
+    features such as dashboard search and filter, sidebar thank you page
+    settings, and return submission times from servers
+
+    * Improved email sending time latency by 10x through leading the investigation into the matter and rectifying the root cause (migrating AWS email sending services from US to SG)
+
+    * Worked on CertSG and Checkpoint as part of HFPG'23
   quote: My family is my life, and everything else comes second as far as what’s
     important to me.
   linkedinId: justyn
@@ -1046,12 +1246,16 @@
   functionId: ops
   jobTitle: Job Title
   curProducts:
-    - https://www.notion.so/opengov/Kahhow-s-Working-Document-ea82dd14d2564c00abaef71657e2c5ba
-  pastProducts:
     - Care360
-  accomplishments: |-
-    *AskGov
-    *Care360
+  pastProducts:
+    - AskGov
+    - Care360
+  accomplishments: >-
+    * Co-led >10 training sessions for Care360 for ~500 Medical Social Workers
+
+    * Consolidated knowledge management for meetings and engineering self-serviceability under @Care360 meeting notes; actively scribe and consolidate links
+
+    * Planned and filmed marketing campaign for Care360 (ref 5 days of care360). Cumulatively >100 views 
   quote: Family is not defined by our genes, it is built and maintained through love.
   linkedinId: kahhow
 - staffId: kaiwen
@@ -1060,14 +1264,18 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1nFexQO--AKJZTnarJrOY_2UIlxMZPyZGf1EYHmsNAzo/edit
-  pastProducts:
     - PaySG
-  accomplishments: |-
-    * Parking.sg
-    * Scamshield
-    * FormSG
-    * Redeem
+  pastProducts:
+    - Parking.sg
+    - Scamshield
+    - FormSG
+    - Redeem
+  accomplishments: >-
+    * Tech lead for Redeem, ParkingSG, and PawsTogether
+
+    * Served as the subject matter expert on mobile app development across OGP, consulting on multiple products and driving discussions with Apple on OGP organisation accounts
+
+    * Worked with the other FinTech team members to drive a strong team culture of user-centricity, iterativeness, and cross-functional collaboration
   quote: Family isn’t always blood. It’s the people in your life who want you in
     theirs; the ones who accept you for who you are. The ones that would do
     anything to see you smile and who love you no matter what.
@@ -1078,17 +1286,22 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://www.notion.so/Kar-Rui-d2ea1d62c3214e6f8688e53cca35c366
-  pastProducts:
     - ActiveSG
-  accomplishments: |-
-    * Care360
-    * CheckFirst
-    * CorpTech
-    * FormSG
-    * Parking.sg
-    * Temperature
-    * Tooling
+  pastProducts:
+    - Care360
+    - CheckFirst
+    - CorpTech
+    - FormSG
+    - Parking.sg
+    - Temperature
+    - Tooling
+  accomplishments: >-
+    * Frontend engineering work done on FormSg React and pushed it into
+    production with hardly any bugs
+
+    * Wrote complex features into FormSG Payments to enable agency's accounts to their FormSG. 
+
+    * Worked on Care360 to optimise user experience by reducing lag and improved frontend application usage.
   quote: "Call it a clan, call it a network, call it a tribe, call it a family:
     Whatever you call it, whoever you are, you need one."
   linkedinId: karrui
@@ -1098,8 +1311,6 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1ncQyhHusLJphkvx8-1-rxoJDmZfStaJa7Vy0eZzv7nk/edit
-  pastProducts:
     - Senior Engineering Manager
     - Armoury
     - ActiveSG
@@ -1109,13 +1320,19 @@
     - Care360
     - Tooling Team
     - Isomer
-  accomplishments: |-
-    * Postman
-    * Covid Ops
-    * CheckFirst
-    * Sync
-    * Zendemic
-    * HAS / Primary Care
+  pastProducts:
+    - Postman
+    - Covid Ops
+    - CheckFirst
+    - Sync
+    - Zendemic
+    - HAS / Primary Care
+  accomplishments: >-
+    * Launched 4 products from scratch.
+
+    * Moved from an IC into a managerial role and has managed more than 15 engineers at once.
+
+    * Built up the HealthTech vertical by hiring engineers and managers into the team.
   quote: Stick to the basics, hold on to your family and friends – they will never
     go out of fashion.
   linkedinId: keewei
@@ -1125,10 +1342,18 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1TwKSkf49YP3vAUucqSi3ika_PSxBtwsYjPQx12kv2QU/edit
-  pastProducts:
     - Go.gov.sg
-  accomplishments: ""
+  pastProducts:
+    - pastProducts
+  accomplishments: >
+    * Technical contributions to Pouch; Created file & folder creation
+    components, dashboard & user storage consumption component
+
+    * Participated in DIS work streams & discussions:  involved in a number of DIS work streams and discussions as part of the organisation's product discovery phase and pathfinding
+
+    * Participated in pair-programming with other engineers for features such as:
+
+    Breadcrumbs navigation
   quote: Family isn’t always blood. It’s the people in your life who want you in
     theirs; the ones who accept you for who you are. The ones that would do
     anything to see you smile and who love you no matter what.
@@ -1139,10 +1364,10 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1L2YRmmvv4D1w8PnNOXJTSfSRAmYBYycFD8jh9bsTm-Q/edit
+    - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: "* FormSG"
+    - FormSG
+  accomplishments: i'm new, watch this space!
   quote: Family gives you the roots to stand tall and strong.
   linkedinId: ken
 - staffId: kendra
@@ -1151,12 +1376,11 @@
   functionId: ops
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/14Asq44EBRaA4BAgXBOSJdUVlfh9SF0L8QDIxMIyYxnM/edit
-  pastProducts:
     - SGC
-  accomplishments: |-
-    * Postman
-    * CertSG
+  pastProducts:
+    - Postman
+    - CertSG
+  accomplishments: ""
   quote: Family isn’t always blood. It’s the people in your life who want you in
     theirs; the ones who accept you for who you are. The ones that would do
     anything to see you smile and who love you no matter what.
@@ -1167,10 +1391,16 @@
   functionId: ops
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1vuibIb7dIixAO3I5DA2uDni4lrb7Hp10/edit?rtpof=true
-  pastProducts:
     - FormSG
-  accomplishments: ""
+  pastProducts:
+    - pastProducts
+  accomplishments: >-
+    * Supported FormSG product ops and users during FormSG React Migration with
+    48,473 reports over 4 months
+
+    * Grew FormSG Office Hours from 15 registrations to 678 registrations, as well as Telegram Form-ally and Formsies to 1035 and 140 subscribers respectively
+
+    * Created and trialled webhook workshop to enable 29 non technical form admins to create their own webhooks, with learnings from this workshop informing FormSG roadmap for webhook simplification
   quote: In time of test, family is best.
   linkedinId: kennethchang
 - staffId: kenneth
@@ -1179,16 +1409,21 @@
   functionId: pm
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1IKUneJq8Lfgw8NgLeIi9yGNSkB5W_wCPooVvU3F_pwI/edit
-  pastProducts:
     - Primary Care
-  accomplishments: |-
-    * Policy
-    * Covid Operations
-    * Healthtech
-    * FormSG
-    * HAS
-    * Crackdown
+  pastProducts:
+    - Policy
+    - Covid Operations
+    - Healthtech
+    - FormSG
+    - HAS
+    - Crackdown
+  accomplishments: >-
+    * Defined a group product strategy for the OGP Healthtech vertical with a
+    5-10 year roadmap for Singapore healthtech
+
+    * Grew the impact of HAS from 30 appointments per week, to 2000 appointments per week
+
+    * Launched Crackdown, a tech solution to help HDB with housing policy enforcement
   quote: "Call it a clan, call it a network, call it a tribe, call it a family:
     Whatever you call it, whoever you are, you need one."
   linkedinId: kenneth
@@ -1198,14 +1433,18 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1ZjEgleaD1VulkLv0xP9qkcgaSY-hveXIgX8jLeFhtmg/edit#heading=h.nw26zgu3gwhg
+    - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: |-
-    * DistributeSG
-    * Redeem
-    * PaySG
-    * Parking.SG
+    - DistributeSG
+    - Redeem
+    - PaySG
+    - Parking.SG
+  accomplishments: >-
+    * Prototyped and built out RedeemSG cdc-voucher systems
+
+    * Implemented the PaySG frontend application and was involved in the design of the overall architecture
+
+    * Integrated merchants into RedeemSG
   quote: Some people are worth melting for.
   linkedinId: kevan
 - staffId: khaleedah
@@ -1214,14 +1453,19 @@
   functionId: design
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1LaBY_m4fg7BMAahQE0tRfIg5mN3uLNkvaZZ5ogg_-2k/edit
-  pastProducts:
     - Scamshield
-  accomplishments: |-
-    * Zendemic comms
-    * AskGov
-    * Petitions
-    * Postman
+  pastProducts:
+    - Zendemic comms
+    - AskGov
+    - Petitions
+    - Postman
+  accomplishments: >-
+    * Worked with the Scamshield team to implement the Scamshield dashboard for
+    public officer users
+
+    * Contributed to the OGP design system to increase design efficiency across the whole of OGP
+
+    * Presented on Scamshield for Android at Friends of Figma
   quote: It didn’t matter how big our house was; it mattered that there was love
     in it.
   linkedinId: khaleedah
@@ -1231,10 +1475,16 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1DXhSZnsF9vtU1XfWxdCtI5aY45XUSalROZjOueut2Uo/edit
-  pastProducts:
     - Vault
-  accomplishments: ""
+  pastProducts:
+    - pastProducts
+  accomplishments: >-
+    * Contributed bulk of the frontend features for the data table as well as
+    the analytics feature for Vault 2.0
+
+    * Re-designed application layer of Vault 2.0 Workspace backend and introduced the Coordinator and error-handling middleware layers
+
+    * Set-up monitoring systems and addresses security vulnerabilities for Vault 1.0
   quote: Family and friendships are two of the greatest facilitators of happiness.
   linkedinId: khant
 - staffId: kishen
@@ -1243,10 +1493,10 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - i'm new, watch this space!
-  pastProducts:
     - SGC
-  accomplishments: "* Scamshield"
+  pastProducts:
+    - Scamshield
+  accomplishments: i'm new, watch this space!
   quote: Being part of a family means smiling for photos.
   linkedinId: kishen
 - staffId: kishore
@@ -1255,10 +1505,11 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://www.notion.so/opengov/Kishore-s-Working-Document-8035f5f1dddb47328720dbde50ce5cbc
-  pastProducts:
     - Isomer
-  accomplishments: ""
+  pastProducts:
+    - pastProducts
+  accomplishments: Worked on site launches, migrated to Amplify, laid groundwork
+    for Infra repo, investigated 404 errors, and ensured CSA compliance.
   quote: Being a family means you are a part of something very wonderful. It means
     you will love and be loved for the rest of your life.
   linkedinId: kishore
@@ -1268,12 +1519,15 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/114d2QB6N3_60EjIwUduTDll-hk9mKmtyk_KcIleSKrA/edit
+    - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: |-
-    * sgID
-    * CalSG
+    - sgID
+    - CalSG
+  accomplishments: >-
+    * Launched the TypeScript SDK major release for sgID, including overseeing
+    the roll-out plan to users
+
+    * Worked on CalSG to improve the functionality of slot booking and onboarding flow
   quote: The family – that dear octopus from whose tentacles we never quite
     escape, nor, in our inmost hearts, ever quite wish to.
   linkedinId: kokseng
@@ -1283,10 +1537,12 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://www.notion.so/opengov/Latasha-s-Working-Doc-686e0d2de6c3463fadb0e3b874fc453c
-  pastProducts:
     - AskGov
-  accomplishments: ""
+  pastProducts:
+    - pastProducts
+  accomplishments: Migrated AskGov, did SEO optimization, set up logging and
+    monitoring, improved scrolling and search, refined topics UIUX, and prepared
+    Checkpoint for launch.
   quote: Happiness is having a large, loving, caring, close-knit family in another
     city.
   linkedinId: latasha
@@ -1298,8 +1554,8 @@
   curProducts:
     - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: "* Scamtech"
+    - Scamtech
+  accomplishments: i'm new, watch this space!
   quote: Having somewhere to go is home. Having someone to love is family. And
     having both is a blessing.
   linkedinId: leyang
@@ -1309,9 +1565,9 @@
   functionId: pm
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - Primary Care
+  pastProducts:
+    - pastProducts
   accomplishments: ""
   quote: In family life, love is the oil that eases friction, the cement that
     binds closer together, and the music that brings harmony.
@@ -1322,19 +1578,26 @@
   functionId: pm
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1R6dWDxY3g-0dc36ud1sTmjf7FZh_qXp-VodkFVGbOQc/edit
-  pastProducts:
     - Phonebook
-  accomplishments: |-
-    * Postman
-    * Isomer
-    * AskGov
-    * Go.gov.sg
-    * CheckFirst
-    * OGP-Singhealth
-    * SGID
-    * Touchpoint
-    * DigiMC
+  pastProducts:
+    - Postman
+    - Isomer
+    - AskGov
+    - Go.gov.sg
+    - CheckFirst
+    - OGP-Singhealth
+    - SGID
+    - Touchpoint
+    - DigiMC
+  accomplishments: >-
+    * Onboarded a major ICA project to Postman for up to 146M emails to be sent
+    a year, leading to significant cost savings of at least S$500k 
+
+
+    * Launched Scheduled Sending on Postman, a top-requested feature from users
+
+
+    * Deprecated Touchpoint successfully with minimal disruption to business stakeholders and users
   quote: Ohana means family and family means nobody gets left behind or forgotten.
   linkedinId: lisa
 - staffId: lorraine
@@ -1345,8 +1608,8 @@
   curProducts:
     - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: "* Workplace"
+    - Workplace
+  accomplishments: i'm new, watch this space!
   quote: The only rock I know that stays steady, the only institution I know that
     works, is the family.
   linkedinId: lorraine
@@ -1356,13 +1619,19 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/143mKrTuVS3QzCvIq6oV5Dj_JLDUtIwKBSwH7tuZLGk0/edit#heading=h.6brzblxn4oep
-  pastProducts:
     - Care360
-  accomplishments: |-
-    * Covid Ops
-    * Healthcare
-    * Healthtech
+  pastProducts:
+    - Covid Ops
+    - Healthcare
+    - Healthtech
+  accomplishments: >+
+    * Took point for VAPT by setting up Pulumi code for Care360.
+
+    * Planned and executed Cure53 evaluation readiness. 
+
+    * Contributed to migration operations by writing a script to migrate the majority of financial form data.
+
+
   quote: The only rock I know that stays steady, the only institution I know that
     works, is the family.
   linkedinId: louiz
@@ -1372,10 +1641,10 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - i'm new, watch this space!
+    - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: Plumber
+    - Plumber
+  accomplishments: i'm new, watch this space!
   quote: Stick to the basics, hold on to your family and friends – they will never
     go out of fashion.
   linkedinId: malcolm
@@ -1387,8 +1656,8 @@
   curProducts:
     - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: "* Social media marketing"
+    - Social media marketing
+  accomplishments: i'm new, watch this space!
   quote: "Call it a clan, call it a network, call it a tribe, call it a family:
     Whatever you call it, whoever you are, you need one."
   linkedinId: sengpoh
@@ -1398,10 +1667,10 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1BvoUahzGsux6wDXg0XV_JBqblURBJF7ZktdBqyxtXVU/edit
+    - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: Forms
+    - Forms
+  accomplishments: i'm new, watch this space!
   quote: It’s all about the quality of life and finding a happy balance between
     work and friends and family.
   linkedinId: mayying
@@ -1411,10 +1680,10 @@
   functionId: design
   jobTitle: Job Title
   curProducts:
-    - i'm new, watch this space!
-  pastProducts:
     - Product Design Manager
-  accomplishments: ""
+  pastProducts:
+    - pastProducts
+  accomplishments: i'm new, watch this space!
   quote: Family is family.
   linkedinId: mike
 - staffId: moses
@@ -1423,11 +1692,12 @@
   functionId: pm
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/11JlBifr_TaZk5b5vZSzzbaucOhiimgV0vO3s3rgkub8/editt
-  pastProducts:
     - Pair
     - sgID
-  accomplishments: ""
+  pastProducts:
+    - pastProducts
+  accomplishments: "* Led product visioning and the launch of Pair, including
+    public-service wide rollout of Pair Chat"
   quote: Life is beautiful. It’s about giving. It’s about family.
   linkedinId: moses
 - staffId: natalie
@@ -1436,17 +1706,22 @@
   functionId: design
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1NCm4-ulze9U_rrPwk4G5UUMsag_m5yz_Ub5C98YTgrw/edit
-  pastProducts:
     - NLB Seed Team
-  accomplishments: |-
-    * Go.gov.sg
-    * Isomer
-    * Postman
-    * Phisherman
-    * CheckFirst
-    * Covid Endemic Comms
-    * CheckWho
+  pastProducts:
+    - Go.gov.sg
+    - Isomer
+    - Postman
+    - Phisherman
+    - CheckFirst
+    - Covid Endemic Comms
+    - CheckWho
+  accomplishments: >-
+    * Led design for Isomer CMS, including the user research on school website
+    use cases
+
+    * Planned and facilitated ideation methods workshop for Hack for Public Good 2023
+
+    * Conducted user research on Covid-19 endemic comms measures and presented findings to senior government leadership to accelerate change in the government communication approach
   quote: Rejoice with your family in the beautiful land of life.
   linkedinId: natalie
 - staffId: nicholasng
@@ -1455,11 +1730,11 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1IC0wqYwJygzE7LbNOkRp6ChLuqrFxOOKRkStFXlD6dw/edit#heading=h.q9g0durbss53
-  pastProducts:
     - Senior Engineering Manager
     - Primary Care
     - Care360
+  pastProducts:
+    - pastProducts
   accomplishments: ""
   quote: The informality of family life is a blessed condition that allows us all
     to become our best while looking our worst.
@@ -1470,11 +1745,11 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - i'm new, watch this space!
-  pastProducts:
     - Primary Care
     - Care360
-  accomplishments: ""
+  pastProducts:
+    - pastProducts
+  accomplishments: i'm new, watch this space!
   quote: My family is my life, and everything else comes second as far as what’s
     important to me.
   linkedinId: nicolas
@@ -1486,8 +1761,8 @@
   curProducts:
     - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: "* Marketing"
+    - Marketing
+  accomplishments: i'm new, watch this space!
   quote: Being a family means you are a part of something very wonderful. It means
     you will love and be loved for the rest of your life.
   linkedinId: nicole
@@ -1497,12 +1772,17 @@
   functionId: transformation
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - Policy & Transformation
-  accomplishments: |-
-    * OGP-DIS collaboration
-    * OGP Board of Advisors
+  pastProducts:
+    - OGP-DIS collaboration
+    - OGP Board of Advisors
+  accomplishments: >-
+    * Integrate Whole-of-Government participation in Hack for Public Good to
+    inspire more hand-raisers across government to what is possible
+
+    * Launched OGP's inaugural board of advisors
+
+    * Collaborated with MINDEF/DIS to accelerate the formation and development of tech teams and capabilities
   quote: Family is not an important thing. It’s everything.
   linkedinId: nitya
 - staffId: oliver
@@ -1511,14 +1791,20 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1J5TQ6ZoHbZqJvg2vZ-ggUOXAHtTPFRjgW3hGOpBVJ_c/edit
-  pastProducts:
     - Primary Care
-  accomplishments: |-
-    * HealthTech
-    * CheckWho
-    * CalSG
-    * Queue
+  pastProducts:
+    - HealthTech
+    - CheckWho
+    - CalSG
+    - Queue
+  accomplishments: >-
+    * Shipped multiple high-impact features for Primary Care, including unifying
+    settings pages across the admin console, enabling search by tags, building a
+    notes-only view, and releasing the general consultation feature
+
+    * Onboarded new engineers to mc.gov.sg to reduce bus factor
+
+    * Migrated CalSG to new infrastructure
   quote: Other things may change us, but we start and end with the family.
   linkedinId: oliver
 - staffId: pallani
@@ -1527,22 +1813,28 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1ZKqxiPuLLtLDj9DjXdatNPKODVPHnRihdeBH7IdFIqA/edit
-  pastProducts:
     - Senior Engineering Manager
     - Scamtech
     - Redeem
     - PaySG
-  accomplishments: |-
-    * Vault
-    * DistributeSG
-    * Redeem
-    * Covid Ops
-    * PaySG
-    * Parking.sg
-    * CorpTech
-    * Payments
-    * Project Orchid
+  pastProducts:
+    - Vault
+    - DistributeSG
+    - Redeem
+    - Covid Ops
+    - PaySG
+    - Parking.sg
+    - CorpTech
+    - Payments
+    - Project Orchid
+  accomplishments: >-
+    * Provided engineering management support to engineers across multiple
+    product teams on career development and growth as well as expertise on
+    technical architecture and feature prioritisation 
+
+    * Worked with the Lead PM on product team vision, goals, and resourcing, as well as building a strong team culture of cross-functional collaboration and mission-focus.
+
+    * Provided guidance on critical product and engineering decisions for Redeem.gov.sg, Data.gov.sg, Project Orchid, Pair, Plague, and Parking.sg.
   quote: "Blended families: woven together by choice, strengthened together by
     love, tested by everything, and each uniquely ours."
   linkedinId: pallani
@@ -1552,15 +1844,19 @@
   functionId: pm
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1-1XNzpvCx3f71gbsravw26p9UWqOEijfleM4hjex5Xs/edit#heading=h.q9g0durbss53
-  pastProducts:
     - SGC
-  accomplishments: |-
-    MAS - Orchid
-    Parking.sg
-    Payments
-    PaySG
-    Redeem
+  pastProducts:
+    - |-
+      MAS - Orchid
+      Parking.sg
+      Payments
+      PaySG
+      Redeem
+  accomplishments: >+
+    Delivered Project Orchid phase 1, Served as a advisor to agencies and banks
+    planning to use Purpose Bound Money (PBM), Scoped out Multi-Bank Payouts for
+    RedeemSG, did a mentorship.
+
   quote: To us, family means putting your arms around each other and being there.
   linkedinId: paul
 - staffId: pearly
@@ -1569,30 +1865,35 @@
   functionId: design
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1Ak1uw8O5JuL3HxC1Py2ShsysmU_NbI8ZaG5YKCImEVo/edit
-  pastProducts:
     - IRMS
-  accomplishments: |-
-    * Trashy
-    * ParkingSG
-    * Forms
-    * sgID
-    * Okay/ Not
-    * Medicard
-    * CCRM
-    * Go
-    * HealthHub
-    * Homer
-    * Lookback
-    * Queue
-    * Sanbaiqian
-    * Handsy
-    * Redeem
-    * Scamshield
-    * CalSG
-    * IRMS
-    * Build Your Own Singaporean
-    * OGP Design System
+  pastProducts:
+    - Trashy
+    - ParkingSG
+    - Forms
+    - sgID
+    - Okay/ Not
+    - Medicard
+    - CCRM
+    - Go
+    - HealthHub
+    - Homer
+    - Lookback
+    - Queue
+    - Sanbaiqian
+    - Handsy
+    - Redeem
+    - Scamshield
+    - CalSG
+    - IRMS
+    - Build Your Own Singaporean
+    - OGP Design System
+  accomplishments: >-
+    * Researched and solutioned for a multii-brand design system that all OGP
+    products can use
+
+    * Redesigned the UI of Forms, reviewed PRs and did QAs a designer as well
+
+    * Worked on and went through the interview process to hire our first ever Product Design Manager!
   quote: The most important thing in the world is family and love.
   linkedinId: pearly
 - staffId: pete
@@ -1601,10 +1902,10 @@
   functionId: pm
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - PaySG
-  accomplishments: ""
+  pastProducts:
+    - pastProducts
+  accomplishments: i'm new, watch this space!
   quote: Being a family means you are a part of something very wonderful. It means
     you will love and be loved for the rest of your life.
   linkedinId: pete
@@ -1616,8 +1917,8 @@
   curProducts:
     - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: "* Go"
+    - Go
+  accomplishments: i'm new, watch this space!
   quote: To us, family means putting your arms around each other and being there.
   linkedinId: prakriti
 - staffId: pranu
@@ -1626,10 +1927,16 @@
   functionId: design
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1W9Fz6Oxr9tGqNf0j17plnTitpGPQ7q3jzrtIQ1HRYus/edit
-  pastProducts:
     - Go.gov.sg
-  accomplishments: ""
+  pastProducts:
+    - pastProducts
+  accomplishments: >-
+    * Led effort to creat Pouch: a fully secure file sharing platform which
+    enables govt. and non-govt. agencies to collaborate efficiently. 
+
+    * Designed the first version of WizGov: a widget which adds multiple functionalities such as booking appointments to query resolution to an agency website.
+
+    * Helped the team with multiple ad hoc design requests for Go, a link shortener for the govt.
   quote: "Blended families: woven together by choice, strengthened together by
     love, tested by everything, and each uniquely ours."
   linkedinId: pranu
@@ -1639,12 +1946,11 @@
   functionId: design
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1kithu12Nb6_ErJcaHDqNRpOYDWkfUmbog3fqaEAtZMQ/edit
+    - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: |-
-    * FormSG
-    * AskGov
+    - FormSG
+    - AskGov
+  accomplishments: i'm new, watch this space!
   quote: To us, family means putting your arms around each other and being there.
   linkedinId: prasanth
 - staffId: praveen
@@ -1653,10 +1959,15 @@
   functionId: transformation
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - Head of Policy & Transformation
-  accomplishments: "* Healthtech"
+  pastProducts:
+    - Healthtech
+  accomplishments: >-
+    * Worked with Care360 team to launch in March 2023
+
+    * Worked with Primary Care team to launch Health Appointment System
+
+    * Expanded the use of HealthTech products with stakeholders and users (e.g. Queue with SAF and MediPay/IRMS with MOH)
   quote: knowing that every day we change government one happy interaction, one
     line of code, one $ saved at a time
   linkedinId: praveen
@@ -1666,10 +1977,15 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://www.notion.so/Wira-s-Working-Document-1a3bfcc8b8a34e7d845a075d216416aa
+    - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: "* SGID"
+    - SGID
+  accomplishments: >-
+    * Created Third-Party Data Source Feature on SGID
+
+    * Established best practices for SGID Integration: Established best practices for the back-end for front-end and web-server integration patterns, ensuring consistent and efficient integration with sgID across different platforms
+
+    * Contributed to sgID's Current Improvements: Implemented a robust rate-limiting strategy for sgID
   quote: We may have our differences, but nothing’s more important than family.
   linkedinId: prawira
 - staffId: qilu
@@ -1678,10 +1994,16 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://www.notion.so/opengov/Qilu-s-Working-Document-87e007f992634275b07b59a6347e5759
+    - Isomer
   pastProducts:
     - Isomer
-  accomplishments: "* Isomer"
+  accomplishments: >-
+    * Improved scalability and stability of Isomer: created 60 additional tokens
+    aiming to bring up the scalability of the product
+
+    * Contributed to Isomer's security and productivity: delivered PR on integrating with CloudMersive API for virus scanning when uploading files by users
+
+    * Ensured compliance with CSA's requirement and working with OnePA
   quote: I didn’t give you the gift of life, but life gave me the gift of you.
   linkedinId: qilu
 - staffId: qimmy
@@ -1690,10 +2012,10 @@
   functionId: design
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1x8O3ASR-3-CZM_hog6ny3ZBPZOYwXCz6L3ngVIIM9-U/edit
+    - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: SkillsFuture
+    - SkillsFuture
+  accomplishments: i'm new, watch this space!
   quote: The family is one of nature’s masterpieces.
   linkedinId: qimmy
 - staffId: rachel
@@ -1702,10 +2024,16 @@
   functionId: design
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - AskGov
-  accomplishments: "* Build Your Own Singaporean"
+  pastProducts:
+    - Build Your Own Singaporean
+  accomplishments: >-
+    * Designed and developed Ask.gov 2.0, a platform for citizen-and-agency
+    engagement by conducting user research, ideation workshops, and prototypes.
+
+    * Repurposed the HAS flow for HealthierSG, created a new visual style and adding moments of delight with custom illustrations and animated gifs.
+
+    * Created BYOS, a modular illustration system of Singaporean characters and scenes for OGP colleagues to use for their hackathon products and decks.
   quote: Nothing is better than going home to family and eating good food and relaxing
   linkedinId: rachel
 - staffId: raisa
@@ -1714,10 +2042,16 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1sYO_tcZ_hXRrS5EwKZTMWj9_jQsDmbGMIzUAW-pZJOM/edit
-  pastProducts:
     - Vault
-  accomplishments: "* PinPoint"
+  pastProducts:
+    - PinPoint
+  accomplishments: >-
+    * Worked on multiple features for Vault such as migrating from DynamoDB to a
+    Postgres metadata database and various middleware features
+
+    * Leading engineering process improvements on the Vault engineering team such as engineering learning sessions, tech debt trackers, and cleaner log prefix nomenclature
+
+    * Developed initial backend architecture for hackathon project PinPoint 
   quote: We may have our differences, but nothing’s more important than family.
   linkedinId: raisa
 - staffId: reshma
@@ -1726,10 +2060,10 @@
   functionId: pm
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/10P_Oyg5pRjPRpYI8jWV2uGq896hcQAj0odDa_mRFa2I/edit#heading=h.q9g0durbss53
-  pastProducts:
     - DistributeSG
-  accomplishments: "* RedeemSG"
+  pastProducts:
+    - RedeemSG
+  accomplishments: ""
   quote: The family is one of nature’s masterpieces.
   linkedinId: reshma
 - staffId: richardyak
@@ -1738,10 +2072,10 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - Phonebook
-  accomplishments: "* Postman"
+  pastProducts:
+    - Postman
+  accomplishments: ""
   quote: Family and friendships are two of the greatest facilitators of happiness.
   linkedinId: richardyak
 - staffId: russell
@@ -1750,10 +2084,16 @@
   functionId: corporate
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - Head of People Team
-  accomplishments: ""
+  pastProducts:
+    - pastProducts
+  accomplishments: >-
+    * Grew the People team from an individual contributor practice to a team of
+    4 today
+
+    * Helped to scale OGP from 25 (2019) to >170 (2023)
+
+    * Worked on organisation design shifts and levers (e.g. compensation schemes, performance management, management practices, resource allocation) to adapt to OGP's shifting organisation size and context
   quote: I joined OGP in 2019, and have stayed since then because I think it is
     the government’s best shot today at breaking the mould on trying new ways
     for government organisations to work better, so that we can be a better
@@ -1765,21 +2105,25 @@
   functionId: ops
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/19EmT0ljXaGUgcSw0i5_jn0nodYB57VRL8FcJJuQUTc0/edit
-  pastProducts:
     - Head of Product Operations
-  accomplishments: |-
-    
-    * Endemic Ops
-    * Postman
-    * Healthtech
-    * Isomer
-    * Go.gov.sg
-    * Scamtech
-    * Sync
-    * CorpTech
-    * sgID
-    * Scamshield
+  pastProducts:
+    - Endemic Ops
+    - Postman
+    - Healthtech
+    - Isomer
+    - Go.gov.sg
+    - Scamtech
+    - Sync
+    - CorpTech
+    - sgID
+    - Scamshield
+  accomplishments: >-
+    * Co-led HealthTech Sprint 2 to promote and train healthcare users in OGP's
+    suite of products to address workflows in the healthcare domain
+
+    * Led product operations for ScamShield and sgID
+
+    * Doubled the product operations team and established team processes for updates, sharings, and learning coordination
   quote: It’s all about the quality of life and finding a happy balance between
     work and friends and family.
   linkedinId: samuel
@@ -1789,10 +2133,16 @@
   functionId: corporate
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - Head of Marketing
-  accomplishments: "* Corporate Operations"
+  pastProducts:
+    - Corporate Operations
+  accomplishments: >-
+    * Worked on OGP branding and awareness to significantly increase candidate
+    branding presence.
+
+    * Facilitated multiple exchanges and collaborations between OGP and international government partners.
+
+    * Grew the Marketing team from an individual contributor practice to a team of 5 today.
   quote: Being surrounded by some of the best minds in Singapore who are
     passionate about making a difference and who I continue to learn from
     everyday motivates me to do my best at OGP to make Singapore and the rest of
@@ -1804,9 +2154,9 @@
   functionId: design
   jobTitle: Job Title
   curProducts:
-    - "-"
-  pastProducts:
     - Tooling Team
+  pastProducts:
+    - pastProducts
   accomplishments: ""
   quote: Family and friends are hidden treasures, seek them and enjoy their riches.
   linkedinId: iamsarahsalim
@@ -1816,10 +2166,10 @@
   functionId: design
   jobTitle: Job Title
   curProducts:
-    - i'm new, watch this space!
+    - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: "-"
+    - "-"
+  accomplishments: i'm new, watch this space!
   quote: Family and friends are hidden treasures, seek them and enjoy their riches.
   linkedinId: sehyun
 - staffId: sean
@@ -1828,9 +2178,9 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - Redeem
+  pastProducts:
+    - pastProducts
   accomplishments: ""
   quote: Family and friends are hidden treasures, seek them and enjoy their riches.
   linkedinId: sean
@@ -1840,10 +2190,13 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1PxJtt-pvsDcRN_EDlbfRDy1xwmhKvy415_-T5_sf1y0/edit
+    - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: "* FormSG"
+    - FormSG
+  accomplishments: |
+    * Completed implementation of Cloudflare Turnstile integration
+    * Improved backwards compatibility of Turnstile and Recaptcha integration
+    * Resolved VAPT: WAF bypass via Content-Encoding compression 
   quote: Rejoice with your family in the beautiful land of life.
   linkedinId: sebastian
 - staffId: shannen
@@ -1852,10 +2205,16 @@
   functionId: corporate
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - Marketing
-  accomplishments: "* Build for Good 2023"
+  pastProducts:
+    - Build for Good 2023
+  accomplishments: >-
+    * Led OGP’s inaugural Build for Good, with almost 700 members of the public
+    volunteering to make Singapore better.
+
+    * Led product marketing launches for products such as Scamshield, For.sg, OGP healthcare product suite.
+
+    * Built presence and reputation of OGP in the local tech community through outreach events and collaborations, leading to OGP exceeding our hiring goals.
   quote: To us, family means putting your arms around each other and being there.
   linkedinId: shannen
 - staffId: shanty
@@ -1864,17 +2223,23 @@
   functionId: design
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1NnTa2Pnv5lWpV9XSW6Uzc0fMopdEOE6WOY_sw18LKLk/edit
-  pastProducts:
     - UX Writer
-  accomplishments: |-
-    * ScamShield
-    * FormSG
-    * Isomer
-    * Redeem
-    * AskGov
-    * CheckWho
-    * Healthtech
+  pastProducts:
+    - ScamShield
+    - FormSG
+    - Isomer
+    - Redeem
+    - AskGov
+    - CheckWho
+    - Healthtech
+  accomplishments: >-
+    * Equipped teammates with more practical, effective tools to write their own
+    UX copy by running office hours, workshops, and UX writing jam sessions with
+    other designers
+
+    * Launched multiple features with high quality, reusable UX copy such as for HAS Pneumococcal vaccine campaigns and copy components for Care360
+
+    * Invested in my learning and growth of becoming a better writer
   quote: The informality of family life is a blessed condition that allows us all
     to become our best while looking our worst.
   linkedinId: shanty
@@ -1884,14 +2249,19 @@
   functionId: transformation
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1pwzwol3H-yW8LzZEaj628MRGA-3ibqQ-04CMjdDeHBQ/edit
-  pastProducts:
     - Policy & Transformation
-  accomplishments: |-
-    * Care360
-    * Healthtech
-    * Policy
-    * Partnerships
+  pastProducts:
+    - Care360
+    - Healthtech
+    - Policy
+    - Partnerships
+  accomplishments: >-
+    * Planned launch phase for Hack for Public Good 2023 culminating in the
+    HFPG'23 demo day with >700 attendees and >90 concrete project follow-ups
+
+    * Provided policy support to Care360, including contributing toward establishing a new legal precedent for the mechanism of consent-taking from patients in healthcare institutions
+
+    * Ran HealthTech sprint to enable users from 6 healthcare clusters to initiate new tech workflows in their agencies with OGP products
   quote: The bond that links your true family is not one of blood, but of respect
     and joy in each other’s life.
   linkedinId: shawn
@@ -1901,10 +2271,10 @@
   functionId: ops
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - Marketing
     - Isomer
+  pastProducts:
+    - pastProducts
   accomplishments: ""
   quote: A happy family is but an earlier heaven.
   linkedinId: shazli
@@ -1914,14 +2284,20 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1Kszhv8TzWCmLrq49PYxUovA2IrERB3gUwfvpHZ8KwTo/edit#heading=h.edq0jro3ey47
-  pastProducts:
     - Pair
-  accomplishments: |-
-    Parking.sg
-    Payments
-    PaySG
-    Redeem
+  pastProducts:
+    - |-
+      Parking.sg
+      Payments
+      PaySG
+      Redeem
+  accomplishments: >-
+    * CBDC - contributed as a lead by independently researching, defining,
+    designing, and subsequently implementing with minimal guidance. 
+
+    * Mentorship and leadership roles in guiding more junior members of the team for Redeem team. 
+
+    * Migrated Pair into a more production ready setup.
   quote: When trouble comes, it’s your family that supports you.
   linkedinId: sheikh
 - staffId: shuli
@@ -1930,14 +2306,22 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/11H-_C3FpGGSGZkdNCEz7se82jfPwXo1rgHcjjyJXjMQ/edit
+    - FormSG
   pastProducts:
     - FormSG
-  accomplishments: |-
-    * FormSG
-    * CheckFirst
-    * Temperature
-    * Signify
+    - CheckFirst
+    - Temperature
+    - Signify
+  accomplishments: >-
+    * Independently made a number of FormSG infrastructure improvements to
+    increase reliability and performance. These include building an end-to-end
+    production-ready backup for Cloudflare DNS + CDN using AWS Route53 and
+    Cloudfront, designing and setting up infrastructure to host and serve static
+    assets for React app, and setting up bastion host infrastructure
+
+    * Led the integration of FormSG with SingPass/CorpPass/MyInfo, including completing the migration of CorpPass to OIDC and decommissioning SingPass/CorpPass SAML support with no downtime.
+
+    * Built up engineeringg features for Signify from scratch, including integration with the Sign with SingPass API
   quote: "Family: A social unit where the father is concerned with parking space,
     the children with outer space, and the mother with closet space."
   linkedinId: shuli
@@ -1947,10 +2331,16 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - Data Gov
-  accomplishments: "* Vault"
+  pastProducts:
+    - Vault
+  accomplishments: >-
+    * Spearheaded the migration of Data Gov's charts through a quick prototyping
+    process.
+
+    * Built and optimised a feature for a folder view on Data Gov, enabling users to toggle between different resources. 
+
+    * Optimized the performance of the new site, implemented load testing, optimized page load and reduced render time to less than 20% of the original load time for large datasets.
   quote: Other things may change us, but we start and end with the family.
   linkedinId: sihan
 - staffId: simin
@@ -1959,10 +2349,10 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - i'm new, watch this space!
-  pastProducts:
     - ActiveSG
-  accomplishments: ""
+  pastProducts:
+    - pastProducts
+  accomplishments: i'm new, watch this space!
   quote: Family is not an important thing. It’s everything.
   linkedinId: simin
 - staffId: simun
@@ -1971,10 +2361,10 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1pS5sWUjLV6JNWBZmG-elfs4sSF0A2TW98jgHaYUdSmU/edit#heading=h.q9g0durbss53
+    - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: Go
+    - Go
+  accomplishments: i'm new, watch this space!
   quote: Treat your family like friends and your friends like family.
   linkedinId: simun
 - staffId: siddarth
@@ -1983,10 +2373,10 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - i'm new, watch this space!
+    - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: "-"
+    - "-"
+  accomplishments: i'm new, watch this space!
   quote: The family is the test of freedom; because the family is the only thing
     that the free man makes for himself and by himself.
   linkedinId: siddarth
@@ -1996,22 +2386,27 @@
   functionId: pm
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1UW3RVfGlaaO0Y4Qr-SjPA9xfjmy7woHRI2LMPOELA-0/edit
-  pastProducts:
     - AskGov
     - FormSG
     - Go.gov.sg
     - Vault
-  accomplishments: |-
-    * CCRM
-    * Food Facts
-    * OGP Finance
-    * Postman
-    * Covid Endemic Ops
-    * CheckFirst
-    * TemperatureSG
-    * Healthtech
-    * SGID
+  pastProducts:
+    - CCRM
+    - Food Facts
+    - OGP Finance
+    - Postman
+    - Covid Endemic Ops
+    - CheckFirst
+    - TemperatureSG
+    - Healthtech
+    - SGID
+  accomplishments: >-
+    * Ran SG2030 visioning exercise to ideate on ambitious product ideas for the
+    OGP product organisation
+
+    * Provided PM people management and coaching over >10 OGP products
+
+    * Worked with the TFPG team to assess >12 agencies for incubating satellite tech teams
   quote: Some people are worth melting for.
   linkedinId: syan
 - staffId: stacey
@@ -2020,12 +2415,17 @@
   functionId: design
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1jx4LgBR1gstlcWEJpSF5twRYwKtufBy3usLohOhnYS0/edit
-  pastProducts:
     - FormSG
-  accomplishments: |-
-    * ScamShield
-    * Plumber
+  pastProducts:
+    - ScamShield
+    - Plumber
+  accomplishments: >-
+    * Led user testing for ScamShield's WhatsApp bot to validate user experience
+    prior to launch
+
+    * Led accessibility efforts for FormSG
+
+    * Led design and UX research for Plumber
   quote: Some people are worth melting for.
   linkedinId: stacey
 - staffId: stanley
@@ -2034,14 +2434,23 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1Z2MFrMLz5EgcfxI7S0xo6g2Fop434kgL-HHtShodjyQ/edit
-  pastProducts:
     - Postman
-  accomplishments: |-
-    DigiMC
-    HAS
-    Sync
-    Touchpoint
+  pastProducts:
+    - |-
+      DigiMC
+      HAS
+      Sync
+      Touchpoint
+  accomplishments: >-
+    Stabilising Postman codebase and reworking release process
+
+    Improving system observability for the Postman application
+
+    Improving system capacity for Postman in terms of message sending throughput, callback load handling, and report generation
+
+    Campaign management feature for Postman
+
+    Unsubscription enhancement for Postman
   quote: Nothing is better than going home to family and eating good food and relaxing
   linkedinId: stanley
 - staffId: stephanie
@@ -2050,10 +2459,16 @@
   functionId: transformation
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - Policy & Transformation
-  accomplishments: "* HealthTech Sprint"
+  pastProducts:
+    - HealthTech Sprint
+  accomplishments: >-
+    * Propagate and support other govt agencies to adapt OGP policies and
+    practices so they become more high performing
+
+    * Help rest of OGP gain exposure to and integrate with the rest of Government e.g. Public Service learning journeys and onboarding
+
+    * Closer integration of policy, ops and technology via vertically integrated teams e.g. ScamTech team
   quote: The memories we make with our family is everything.
   linkedinId: stephanie
 - staffId: sufyan
@@ -2062,10 +2477,10 @@
   functionId: design
   jobTitle: Job Title
   curProducts:
-    - i'm new, watch this space!
+    - currentProducts
   pastProducts:
     - pastProducts
-  accomplishments: ""
+  accomplishments: i'm new, watch this space!
   quote: It didn’t matter how big our house was; it mattered that there was love
     in it.
   linkedinId: sufyan
@@ -2075,16 +2490,21 @@
   functionId: ops
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1ZO3Ixlom49gIdBEWEVFAhUCGWfdPJhZmNt3gVdx3X_8/edit
-  pastProducts:
     - Primary Care
-  accomplishments: |-
-    * Healthcare
-    * Parking.sg
-    * Covid Ops
-    * Healthtech
-    * PaySG
-    * Queue
+  pastProducts:
+    - Healthcare
+    - Parking.sg
+    - Covid Ops
+    - Healthtech
+    - PaySG
+    - Queue
+  accomplishments: >-
+    * Conducted user training and education for HAS to onboard cliincs for HPV
+    and inflluenza vaccination, leading to >700 clinics onboardee
+
+    * Established clearer HAS incident management proceures with AIC and HPB, leading to a sharp drop in negative clinic user feedback arising from incidents\\
+
+    * Established HAS product operations task process workflows including metric monitoring via Vault, clinic whitelisting, and user support escalation processes
   quote: Family is the heart of a home.
   linkedinId: suhaila
 - staffId: talitha
@@ -2093,17 +2513,21 @@
   functionId: pm
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1dHuh_tGCKAziky6Pin_lFsoAZG5R6LeijCjPO-pTABE/edit
-  pastProducts:
     - Scamtech
     - Redeem
     - PaySG
-  accomplishments: |-
-    * Parking
-    * DistributeSG
-    * Redeem
-    * PaySG
-    * MAS - Orchid
+  pastProducts:
+    - Parking
+    - DistributeSG
+    - Redeem
+    - PaySG
+    - MAS - Orchid
+  accomplishments: >-
+    * Started several products in OGP including; RedeemSG, PaySG & DistributeSG
+
+    * Part of launch team for CDC Vouchers & scaled the pipeline of campaigns to ~$800M
+
+    * Inaugural product team for ParkingSG; Developed ParkingSG Product roadmap
   quote: The family is the test of freedom; because the family is the only thing
     that the free man makes for himself and by himself.
   linkedinId: talitha
@@ -2113,9 +2537,9 @@
   functionId: design
   jobTitle: Job Title
   curProducts:
-    - No working doc
+    - currentProducts
   pastProducts:
-    - pastProducts
+    - i'm new, watch this space!
   accomplishments: i'm new, watch this space!
   quote: Life is beautiful. It’s about giving. It’s about family.
   linkedinId: tiffany
@@ -2125,17 +2549,23 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1Ore8xd8uASLhixI0PAsSHYf6OTwvtMjnD8tyvsdJ714/edit
-  pastProducts:
     - FormSG
     - Tooling Team
-  accomplishments: |-
-    * Endemic Ops
-    * CheckFirst
-    * Temperature
-    * QuizSG
-    * Armoury
-    * Signify
+  pastProducts:
+    - Endemic Ops
+    - CheckFirst
+    - Temperature
+    - QuizSG
+    - Armoury
+    - Signify
+  accomplishments: >-
+    * Introduced team and engineering practices to a growing Forms team
+    including sprints, team charters/roles, and higher standards for monitoring
+    and observability
+
+    * Led the FormSG engineering team to deliver on payments feature, React migration, SES migration, infrastructure upgrades and internal product operations administration tools
+
+    * Reorganised the Forms team to pursue 3 concurrent products: FormSG, Signify, and CheckPoint
   quote: The family – that dear octopus from whose tentacles we never quite
     escape, nor, in our inmost hearts, ever quite wish to.
   linkedinId: timothee
@@ -2145,11 +2575,17 @@
   functionId: pm
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/11-91oqltcmFQ479cx99BzhmlBPv_NgaDuyH3gHJO7n8/edit
-  pastProducts:
     - NLB Seed Team
     - SGID
-  accomplishments: "* CorpTech"
+  pastProducts:
+    - CorpTech
+  accomplishments: >-
+    
+    * Scaled sgID use cases across multiple potential partners in Singapore
+
+    * Planned and ran learning month courses and programmes for Product Manager upskilling
+
+    * Worked with a team of PMs to design and run ProductUp, a product management 101 workshop for senior government leaders
   quote: Stick to the basics, hold on to your family and friends – they will never
     go out of fashion.
   linkedinId: veena
@@ -2159,9 +2595,9 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - FormSG
+  pastProducts:
+    - pastProducts
   accomplishments: ""
   quote: The family is the test of freedom; because the family is the only thing
     that the free man makes for himself and by himself.
@@ -2174,8 +2610,8 @@
   curProducts:
     - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: "* Plumber"
+    - Plumber
+  accomplishments: i'm new, watch this space!
   quote: When trouble comes, it’s your family that supports you.
   linkedinId: weeloong
 - staffId: weilun
@@ -2184,10 +2620,10 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - ParkingSG
-  accomplishments: ""
+  pastProducts:
+    - pastProducts
+  accomplishments: i'm new, watch this space!
   quote: The informality of family life is a blessed condition that allows us all
     to become our best while looking our worst.
   linkedinId: weilun
@@ -2197,10 +2633,10 @@
   functionId: design
   jobTitle: Job Title
   curProducts:
-    - i'm new, watch this space!
+    - currentProducts
   pastProducts:
     - pastProducts
-  accomplishments: ""
+  accomplishments: i'm new, watch this space!
   quote: Family gives you the roots to stand tall and strong.
   linkedinId: wenjia
 - staffId: xinghao
@@ -2209,10 +2645,10 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - i'm new, watch this space!
+    - currentProducts
   pastProducts:
     - pastProducts
-  accomplishments: ""
+  accomplishments: i'm new, watch this space!
   quote: My family is my life, and everything else comes second as far as what’s
     important to me.
   linkedinId: xinghao
@@ -2222,10 +2658,10 @@
   functionId: corporate
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - Marketing
-  accomplishments: "* Social media marketing"
+  pastProducts:
+    - Social media marketing
+  accomplishments: "* "
   quote: Ohana means family and family means nobody gets left behind or forgotten.
   linkedinId: yihan
 - staffId: yixin
@@ -2234,16 +2670,20 @@
   functionId: design
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1BvruoOLY5jpMvF-YEZI_VVkx1WWZ3XN1KJTuwijH26U/edit#heading=h.q9g0durbss53
+    - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: |-
-    * Vault 
-    * Isomer
-    * DistributeSG
-    * Redeem
-    * PaySG
-    * DistributeSG
+    - Vault
+    - Isomer
+    - DistributeSG
+    - Redeem
+    - PaySG
+    - DistributeSG
+  accomplishments: >
+    * Designed overall visual language for Vaccine Ops
+
+    * Launched NEA Campaign. Redeem Digital Vouchers accepted at various retailers (Sheng Siong, Giant, NTUC, Courts, Gain City) 
+
+    * Launched CDC Trance 2 in Feb using Distribute app for tracking and new feature for tagging of voucher booklets. 
   quote: This is my family. I found it all on my own. It’s little, and broken, but
     still good. Yeah. Still good.
   linkedinId: yixin
@@ -2253,18 +2693,26 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1gfqxBPjAUB6qBBL6fMvyfrvc6CkDYSijU-051ms3CuI/edit
-  pastProducts:
     - Vault
-  accomplishments: |-
-    * Temperature
-    * Food Facts
-    * Go.gov.sg
-    * Transparency
-    * FormSG
-    * Endemic Ops
-    * Data.gov
-    * Send
+  pastProducts:
+    - Temperature
+    - Food Facts
+    - Go.gov.sg
+    - Transparency
+    - FormSG
+    - Endemic Ops
+    - Data.gov
+    - Send
+  accomplishments: >-
+    * Provided technical direction for Vault and data.gov.sg by working on
+    approaches for various epics, including designing the DGS backend around a
+    serverless stack, search as a standalone service, experimentation with
+    CodeBuild Jobs for long-running tasks, seamless traffic redirection, and
+    pre-emptive metadata migration away from DynamoDB.
+
+    * Provided team leadership by setting up on-call and production support rotation model for Vault team to address knowledge silos and maintenance work distribution
+
+    * Diagnosed the root cause of Vault 1.0 admin dashboard inability to load being the rapid expansion of audit logs and automated the transfer of API-generated logs to CloudWatch, reducing the amount of logs by 90% and restoring services back to normal. 
   quote: Life is beautiful. It’s about giving. It’s about family.
   linkedinId: yongjie
 - staffId: yuanruo
@@ -2273,16 +2721,21 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/136pdU-Yh0SPzzKQzBSOyCpfVr1Immw67IsfXNUoFC4w/edit#heading=h.67r1vonx6odq
-  pastProducts:
     - SGID
     - Plumber
-  accomplishments: |-
-    * Temperature
-    * Go.gov.sg
-    * FormSG
-    * CorpTech
-    * Scamtech
+  pastProducts:
+    - Temperature
+    - Go.gov.sg
+    - FormSG
+    - CorpTech
+    - Scamtech
+  accomplishments: >-
+    * As engineering manager, grew engineering capacity on ScamShield and sgID
+    teams through hiring
+
+    * Worked in cloud-first architecture policies for IM8 to accelerate modern engineering practices across government
+
+    * Provided expertise and consultation to the Digital Intelligence Service on tech hiring
   quote: This is my family. I found it all on my own. It’s little, and broken, but
     still good. Yeah. Still good.
   linkedinId: yuanruo
@@ -2292,10 +2745,10 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - PaySG
-  accomplishments: ""
+  pastProducts:
+    - pastProducts
+  accomplishments: i'm new, watch this space!
   quote: Happiness is having a large, loving, caring, close-knit family in another
     city.
   linkedinId: zeke
@@ -2305,10 +2758,10 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1WFrcc8e8EV5i1SraUPcwLzeKQxepSlkYEPNNB1vFXoY/edit#heading=h.q9g0durbss53
+    - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: "* Isomer"
+    - Isomer
+  accomplishments: i'm new, watch this space!
   quote: Family is the heart of a home.
   linkedinId: zhongjun
 - staffId: ziwei
@@ -2317,15 +2770,21 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1p-ZEgil71-p9ovlDsLd2Metv1d2VheRWw2QAml4Afrc/edit
-  pastProducts:
     - go.gov.sg
-  accomplishments: |-
-    * Pouch
-    * MediPay
-    * Highway
-    * Letters
-    * Engage
+  pastProducts:
+    - Pouch
+    - MediPay
+    - Highway
+    - Letters
+    - Engage
+  accomplishments: >-
+    * Wrote the external API endpoints for Go, which facilitated the creation of
+    over 3000 links, and allowed for integrations with other institutions'
+    systems. 
+
+    * Worked on the frontend and backend of Pouch, and also implemented security classifications for files and folders.
+
+    * Implemented the appointment flow and landing page for MediPay, during hackathon.
   quote: In time of test, family is best.
   linkedinId: ziwei
 - staffId: zixiang
@@ -2334,12 +2793,18 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1cEZ3IMWOanFqYeNN0c0EuQcPt8Ma2uu60N0ImMtSpAY/edit
-  pastProducts:
     - CheckWho
-  accomplishments: |-
-    * AskGov
-    * Postman
+  pastProducts:
+    - AskGov
+    - Postman
+  accomplishments: >-
+    * Implemented foundational transactional email API features for Postman to
+    enable the sending of programmatic emails, leading to more than 53 API users
+    sending more than 1.2M emails
+
+    * Wrote the code for CheckWho to enable the sending of verifiable messages, leading to more than 10,000 man-hours saved from initial agency users
+
+    * Improved team processes on Postman such as shared engineering context for decision-making and greater structure in engineering practices
   quote: Being part of a family means smiling for photos.
   linkedinId: zixiang
 - staffId: ziyang
@@ -2348,10 +2813,17 @@
   functionId: eng
   jobTitle: Job Title
   curProducts:
-    - https://docs.google.com/document/d/1qvm-aRjeNIjLg-RMy93W1FmGvY_oHaLSx-0X1tp-6NE/edit
+    - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: "*AskGov"
+    - AskGov
+  accomplishments: >-
+    * Implemented various features for AskGov, including answer feedback, mobile
+    layouts, question topics, search functionality, rich text functionality, and
+    admin portal functionalities
+
+    * Improved the search functionality and revamped the admin portal, empowering admins to do more on their agency page and allowing product operations to be conducted more efficiently
+
+    * Took charge and addressed various security and privacy issues raised during vulnerability assessments/penetration testing to ensure that AskGov is secure and compliant with regulations.
   quote: Where there is family, there is love.
   linkedinId: ziyang
 - staffId: zonghan
@@ -2362,8 +2834,8 @@
   curProducts:
     - currentProducts
   pastProducts:
-    - pastProducts
-  accomplishments: "* CalSG"
+    - CalSG
+  accomplishments: i'm new, watch this space!
   quote: Other things may change us, but we start and end with the family.
   linkedinId: zonghan
 - staffId: zulhilmi
@@ -2372,10 +2844,16 @@
   functionId: design
   jobTitle: Job Title
   curProducts:
-    - currentProducts
-  pastProducts:
     - ActiveSG
-  accomplishments: "* Primary Care"
+  pastProducts:
+    - Primary Care
+  accomplishments: >-
+    * Designed the new Referral/Case Assignment flows for Care360, leading to
+    less engineering work and increased efficiency of case assignments. 
+
+    * Facilitated a one-week design sprint which led to the birth of Queue, Diverter, and Patient Tracker, and also pushed for the product to be used live by clinics. 
+
+    * Strategised the long term vision for HealthTech design, and acceleated the speed of design and development for the consolidated patient and clinic experience.
   quote: It’s all about the quality of life and finding a happy balance between
     work and friends and family.
   linkedinId: zulhilmi

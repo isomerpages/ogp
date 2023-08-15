@@ -9,9 +9,9 @@ joinDate: June 13, 2022
 functionId: pm
 jobTitle: Job Title
 curProducts:
-  - currentProducts
-pastProducts:
   - Isomer
+pastProducts:
+  - pastProducts
 accomplishments: ""
 quote: Our family is a circle of strength of love with every birth and every
   union the circle grows.

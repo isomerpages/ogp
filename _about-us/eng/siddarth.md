@@ -9,10 +9,10 @@ joinDate: December 4, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - i'm new, watch this space!
+  - currentProducts
 pastProducts:
-  - pastProducts
-accomplishments: "-"
+  - "-"
+accomplishments: i'm new, watch this space!
 quote: The family is the test of freedom; because the family is the only thing
   that the free man makes for himself and by himself.
 linkedinId: siddarth

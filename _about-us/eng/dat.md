@@ -9,10 +9,16 @@ joinDate: June 20, 2022
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1e3m66uF9LhBc0PeiLpSUjfQRolrP8B8gkInWJv645GQ/edit
-pastProducts:
   - go.gov.sg
-accomplishments: "* Pouch"
+pastProducts:
+  - Pouch
+accomplishments: >-
+  * Worked with Go team to deliver several features including bulk upload, Go
+  API, and link tagging, leading to 265% increase in Go usage
+
+  * Implemented tools and processes to make running of experiments and new projects efficient and cost-effective, including monoGo, mono-infra, and an experimental project Kubernetes Cluster
+
+  * Launched Pouch for beta testing
 quote: There is no doubt that it is around the family and the home that all the
   greatest virtues… are created, strengthened and maintained.
 linkedinId: dat

@@ -9,10 +9,10 @@ joinDate: July 17, 2023
 functionId: design
 jobTitle: Job Title
 curProducts:
-  - i'm new, watch this space!
+  - currentProducts
 pastProducts:
   - pastProducts
-accomplishments: ""
+accomplishments: i'm new, watch this space!
 quote: Family gives you the roots to stand tall and strong.
 linkedinId: wenjia
 

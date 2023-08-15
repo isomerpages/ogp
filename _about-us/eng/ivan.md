@@ -9,12 +9,17 @@ joinDate: January 3, 2022
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1UhL1YbVJR6ge_v0qL4p3N1DamqAmNtOlgxGZchGWQSs/edit
-pastProducts:
   - Parking.sg
-accomplishments: |-
-  * Redeem
-  * PaySG
+pastProducts:
+  - Redeem
+  - PaySG
+accomplishments: >-
+  * Leading successful engineering efforts in Redeem resulting in smooth
+  supermarket onboarding and critical payout code changes.
+
+  * Taking ownership of onboarding new engineers and facilitating discussions and learnings within the team, creating a more collaborative learning environment within Redeem engineering.
+
+  * Taking on the role of product manager and designer for Plague during the hackathon, forming the product vision, conducting user interviews, prioritizing tasks, and conducting pitches.
 quote: Having somewhere to go is home. Having someone to love is family. And
   having both is a blessing.
 linkedinId: ivan

@@ -9,9 +9,9 @@ joinDate: May 4, 2022
 functionId: design
 jobTitle: Job Title
 curProducts:
-  - "-"
-pastProducts:
   - Tooling Team
+pastProducts:
+  - pastProducts
 accomplishments: ""
 quote: Family and friends are hidden treasures, seek them and enjoy their riches.
 linkedinId: iamsarahsalim

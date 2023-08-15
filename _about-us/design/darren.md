@@ -9,10 +9,10 @@ joinDate: July 24, 2023
 functionId: design
 jobTitle: Job Title
 curProducts:
-  - i'm new, watch this space!
+  - currentProducts
 pastProducts:
-  - pastProducts
-accomplishments: "* UX Research"
+  - UX Research
+accomplishments: i'm new, watch this space!
 quote: A happy family is but an earlier heaven.
 linkedinId: darren
 

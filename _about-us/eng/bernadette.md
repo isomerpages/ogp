@@ -9,10 +9,13 @@ joinDate: March 20, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
-pastProducts:
   - Chief Operating Officer
-accomplishments: "* Oversees Corporate Operations, People Team, Marketing"
+pastProducts:
+  - Oversees Corporate Operations, People Team, Marketing
+accomplishments: >-
+  * Overhauled OGP management team processes and platforms
+
+  * Launched organisation feedback initiatives to drive a stronger feedback culture across OGP
 quote: Happiness is having a large, loving, caring, close-knit family in another city.
 linkedinId: bernadette
 

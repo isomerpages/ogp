@@ -9,10 +9,10 @@ joinDate: July 17, 2023
 functionId: design
 jobTitle: Job Title
 curProducts:
-  - i'm new, watch this space!
+  - currentProducts
 pastProducts:
-  - pastProducts
-accomplishments: "-"
+  - "-"
+accomplishments: i'm new, watch this space!
 quote: Family and friends are hidden treasures, seek them and enjoy their riches.
 linkedinId: sehyun
 

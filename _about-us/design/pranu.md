@@ -9,10 +9,16 @@ joinDate: November 21, 2022
 functionId: design
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1W9Fz6Oxr9tGqNf0j17plnTitpGPQ7q3jzrtIQ1HRYus/edit
-pastProducts:
   - Go.gov.sg
-accomplishments: ""
+pastProducts:
+  - pastProducts
+accomplishments: >-
+  * Led effort to creat Pouch: a fully secure file sharing platform which
+  enables govt. and non-govt. agencies to collaborate efficiently. 
+
+  * Designed the first version of WizGov: a widget which adds multiple functionalities such as booking appointments to query resolution to an agency website.
+
+  * Helped the team with multiple ad hoc design requests for Go, a link shortener for the govt.
 quote: "Blended families: woven together by choice, strengthened together by
   love, tested by everything, and each uniquely ours."
 linkedinId: pranu

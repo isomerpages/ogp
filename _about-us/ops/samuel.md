@@ -9,21 +9,25 @@ joinDate: October 4, 2021
 functionId: ops
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/19EmT0ljXaGUgcSw0i5_jn0nodYB57VRL8FcJJuQUTc0/edit
-pastProducts:
   - Head of Product Operations
-accomplishments: |-
-  
-  * Endemic Ops
-  * Postman
-  * Healthtech
-  * Isomer
-  * Go.gov.sg
-  * Scamtech
-  * Sync
-  * CorpTech
-  * sgID
-  * Scamshield
+pastProducts:
+  - Endemic Ops
+  - Postman
+  - Healthtech
+  - Isomer
+  - Go.gov.sg
+  - Scamtech
+  - Sync
+  - CorpTech
+  - sgID
+  - Scamshield
+accomplishments: >-
+  * Co-led HealthTech Sprint 2 to promote and train healthcare users in OGP's
+  suite of products to address workflows in the healthcare domain
+
+  * Led product operations for ScamShield and sgID
+
+  * Doubled the product operations team and established team processes for updates, sharings, and learning coordination
 quote: It’s all about the quality of life and finding a happy balance between
   work and friends and family.
 linkedinId: samuel

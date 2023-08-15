@@ -9,10 +9,10 @@ joinDate: May 8, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
-pastProducts:
   - PaySG
-accomplishments: ""
+pastProducts:
+  - pastProducts
+accomplishments: i'm new, watch this space!
 quote: Happiness is having a large, loving, caring, close-knit family in another city.
 linkedinId: zeke
 

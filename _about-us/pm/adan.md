@@ -12,7 +12,7 @@ curProducts:
   - currentProducts
 pastProducts:
   - pastProducts
-accomplishments: ""
+accomplishments: i'm new, watch this space!
 quote: In time of test, family is best.
 linkedinId: adan
 

@@ -9,15 +9,21 @@ joinDate: July 4, 2022
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1p-ZEgil71-p9ovlDsLd2Metv1d2VheRWw2QAml4Afrc/edit
-pastProducts:
   - go.gov.sg
-accomplishments: |-
-  * Pouch
-  * MediPay
-  * Highway
-  * Letters
-  * Engage
+pastProducts:
+  - Pouch
+  - MediPay
+  - Highway
+  - Letters
+  - Engage
+accomplishments: >-
+  * Wrote the external API endpoints for Go, which facilitated the creation of
+  over 3000 links, and allowed for integrations with other institutions'
+  systems. 
+
+  * Worked on the frontend and backend of Pouch, and also implemented security classifications for files and folders.
+
+  * Implemented the appointment flow and landing page for MediPay, during hackathon.
 quote: In time of test, family is best.
 linkedinId: ziwei
 

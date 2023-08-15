@@ -9,12 +9,17 @@ joinDate: February 28, 2022
 functionId: transformation
 jobTitle: Job Title
 curProducts:
-  - currentProducts
-pastProducts:
   - Policy & Transformation
-accomplishments: |-
-  * OGP-DIS collaboration
-  * OGP Board of Advisors
+pastProducts:
+  - OGP-DIS collaboration
+  - OGP Board of Advisors
+accomplishments: >-
+  * Integrate Whole-of-Government participation in Hack for Public Good to
+  inspire more hand-raisers across government to what is possible
+
+  * Launched OGP's inaugural board of advisors
+
+  * Collaborated with MINDEF/DIS to accelerate the formation and development of tech teams and capabilities
 quote: Family is not an important thing. It’s everything.
 linkedinId: nitya
 

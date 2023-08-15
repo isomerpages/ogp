@@ -9,10 +9,10 @@ joinDate: July 17, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - i'm new, watch this space!
-pastProducts:
   - ActiveSG
-accomplishments: ""
+pastProducts:
+  - pastProducts
+accomplishments: i'm new, watch this space!
 quote: Family is not an important thing. It’s everything.
 linkedinId: simin
 

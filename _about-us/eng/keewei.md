@@ -9,8 +9,6 @@ joinDate: June 1, 2020
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1ncQyhHusLJphkvx8-1-rxoJDmZfStaJa7Vy0eZzv7nk/edit
-pastProducts:
   - Senior Engineering Manager
   - Armoury
   - ActiveSG
@@ -20,13 +18,19 @@ pastProducts:
   - Care360
   - Tooling Team
   - Isomer
-accomplishments: |-
-  * Postman
-  * Covid Ops
-  * CheckFirst
-  * Sync
-  * Zendemic
-  * HAS / Primary Care
+pastProducts:
+  - Postman
+  - Covid Ops
+  - CheckFirst
+  - Sync
+  - Zendemic
+  - HAS / Primary Care
+accomplishments: >-
+  * Launched 4 products from scratch.
+
+  * Moved from an IC into a managerial role and has managed more than 15 engineers at once.
+
+  * Built up the HealthTech vertical by hiring engineers and managers into the team.
 quote: Stick to the basics, hold on to your family and friends – they will never
   go out of fashion.
 linkedinId: keewei

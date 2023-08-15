@@ -9,10 +9,15 @@ joinDate: October 25, 2022
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1rULm0scq3eFL5oBiV2_d7qsf5KKg1lYVnXcAShHaxv4/edit
-pastProducts:
   - Care360
-accomplishments: ""
+pastProducts:
+  - pastProducts
+accomplishments: >
+  Improved frontend coding standards by introducing a cleaner frontend component
+  directory structure, worked on data migration efforts from existing healthcare
+  systems, and supported user testing / training sessions at the various
+  healthcare institutions where Care360 will be launched. Also led InternalFunds
+  sprint.
 quote: Families are like fudge – mostly sweet with a few nuts.
 linkedinId: caleb
 

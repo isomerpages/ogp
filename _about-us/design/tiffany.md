@@ -9,9 +9,9 @@ joinDate: May 15, 2023
 functionId: design
 jobTitle: Job Title
 curProducts:
-  - No working doc
+  - currentProducts
 pastProducts:
-  - pastProducts
+  - i'm new, watch this space!
 accomplishments: i'm new, watch this space!
 quote: Life is beautiful. It’s about giving. It’s about family.
 linkedinId: tiffany

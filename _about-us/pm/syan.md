@@ -9,22 +9,27 @@ joinDate: September 4, 2019
 functionId: pm
 jobTitle: Job Title
 curProducts:
-  - https://docs.google.com/document/d/1UW3RVfGlaaO0Y4Qr-SjPA9xfjmy7woHRI2LMPOELA-0/edit
-pastProducts:
   - AskGov
   - FormSG
   - Go.gov.sg
   - Vault
-accomplishments: |-
-  * CCRM
-  * Food Facts
-  * OGP Finance
-  * Postman
-  * Covid Endemic Ops
-  * CheckFirst
-  * TemperatureSG
-  * Healthtech
-  * SGID
+pastProducts:
+  - CCRM
+  - Food Facts
+  - OGP Finance
+  - Postman
+  - Covid Endemic Ops
+  - CheckFirst
+  - TemperatureSG
+  - Healthtech
+  - SGID
+accomplishments: >-
+  * Ran SG2030 visioning exercise to ideate on ambitious product ideas for the
+  OGP product organisation
+
+  * Provided PM people management and coaching over >10 OGP products
+
+  * Worked with the TFPG team to assess >12 agencies for incubating satellite tech teams
 quote: Some people are worth melting for.
 linkedinId: syan
 

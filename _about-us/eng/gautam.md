@@ -9,10 +9,10 @@ joinDate: June 5, 2023
 functionId: eng
 jobTitle: Job Title
 curProducts:
-  - currentProducts
-pastProducts:
   - Armoury
-accomplishments: ""
+pastProducts:
+  - pastProducts
+accomplishments: i'm new, watch this space!
 quote: Families are like fudge – mostly sweet with a few nuts.
 linkedinId: gautam
 
