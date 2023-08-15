@@ -1,9 +1,9 @@
 ---
 title: Joanna
-permalink: /aboutus/corporate/joannalo
+permalink: /aboutus/corporate/joanna
 description: "Joanna - Job Title"
 third_nav_title: Corporate Team
-staffId: joannalo
+staffId: joanna
 name: Joanna
 joinDate: March 27, 2023
 functionId: corporate
@@ -21,7 +21,7 @@ accomplishments: >-
 
   * Overhauled OGP's employment letter templates for greater operational efficiency and clarity
 quote: It didn’t matter how big our house was; it mattered that there was love in it.
-linkedinId: joannalo
+linkedinId: joanna
 
 ---
 

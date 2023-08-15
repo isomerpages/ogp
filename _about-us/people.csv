@@ -570,7 +570,7 @@ Sync","scoped and secured new agencies to AskGov, ironed out bugs, managed onboa
 * Re-designed application layer of Vault 2.0 Workspace backend and introduced the Coordinator and error-handling middleware layers
 * Set-up monitoring systems and addresses security vulnerabilities for Vault 1.0"
 57,FALSE,,Russell,Hena,hena@open.gov.sg,Product Management,,"April 18, 2022",,,,* go.gov.sg,,
-60,FALSE,,Russell,Sarah Salim,iamsarahsalim@gmail.com,Product Design,,"May 4, 2022",,,-,* Tooling Team,,
+60,FALSE,,Russell,Sarah Salim,sarahsalim@open.gov.sg,Product Design,,"May 4, 2022",,,-,* Tooling Team,,
 66,TRUE,BATCH 1,Russell,Veena,veena@open.gov.sg,Product Management,,"June 6, 2022",,,https://docs.google.com/document/d/11-91oqltcmFQ479cx99BzhmlBPv_NgaDuyH3gHJO7n8/edit,"* NLB Seed Team
 * SGID",* CorpTech,"
 * Scaled sgID use cases across multiple potential partners in Singapore
@@ -621,7 +621,7 @@ Sync","scoped and secured new agencies to AskGov, ironed out bugs, managed onboa
 117,TRUE,,Russell,Kok Seng,kokseng@open.gov.sg,Software Engineering,,"March 20, 2023",,,https://docs.google.com/document/d/114d2QB6N3_60EjIwUduTDll-hk9mKmtyk_KcIleSKrA/edit,,"* sgID
 * CalSG","* Launched the TypeScript SDK major release for sgID, including overseeing the roll-out plan to users
 * Worked on CalSG to improve the functionality of slot booking and onboarding flow"
-119,TRUE,,Russell,Joanna,joannalo@open.gov.sg,People Team,,"March 27, 2023",,,,,"* techhiring.open.gov.sg
+119,TRUE,,Russell,Joanna,joanna@open.gov.sg,People Team,,"March 27, 2023",,,,,"* techhiring.open.gov.sg
 * Onboarding/Offboarding experience","* Relaunched TFPG CV Bank and Jobs Directory to match candidates to >250 government tech jobs
 * Helped to plan and run the TFPG candidate marketing bootcamp to help 13 agencies improve tech hiring efforts
 * Overhauled OGP's employment letter templates for greater operational efficiency and clarity"

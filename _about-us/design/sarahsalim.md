@@ -1,9 +1,9 @@
 ---
 title: Sarah Salim
-permalink: /aboutus/design/iamsarahsalim
+permalink: /aboutus/design/sarahsalim
 description: "Sarah Salim - Job Title"
 third_nav_title: Product Design
-staffId: iamsarahsalim
+staffId: sarahsalim
 name: Sarah Salim
 joinDate: May 4, 2022
 functionId: design
@@ -14,7 +14,7 @@ pastProducts:
   - pastProducts
 accomplishments: ""
 quote: Family and friends are hidden treasures, seek them and enjoy their riches.
-linkedinId: iamsarahsalim
+linkedinId: sarahsalim
 
 ---
 
