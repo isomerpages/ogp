@@ -8,8 +8,10 @@ name: Chan, Russell
 joinDate: 2019-09-02
 functionId: corporate
 jobTitle: Head of People Team
-curProducts: currentProducts
-pastProducts: pastProducts
+curProducts:
+  - currentProducts
+pastProducts:
+  - pastProducts
 accomplishments: >-
   * Grew the People team from an individual contributor practice to a team of 4
   today
@@ -25,12 +27,4 @@ linkedinId: russell
 
 ---
 
-{%- assign staff = site.data.people | find: "id", "russell" -%}
-{% include staff_heading.html staff=staff color=site.colors.function-colors.corporate %}
-
-<p>I joined since {{page.joinDate}} and I am currently working on {{page.curProducts}}.</p>
-
-<p>Products I worked on before include {{page.pastProducts}}</p>
-
-<p>Three things I've done recently which I'm proud of are...</p>
-{{page.accomplishments}}
+{% include staff.html staff=page color=site.colors.function-colors.corporate %}

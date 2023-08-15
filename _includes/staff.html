@@ -96,9 +96,9 @@
     <q>{{ include.staff.quote }}</q>
 </div>
 
-<p>I joined since {{include.staff.joinDate}} and I am currently working on {{include.staff.curProducts}}.</p>
+<p>I joined since {{include.staff.joinDate}} and I am currently working on {{include.staff.curProducts | join: ', '}}.</p>
 
-<p>Products I worked on before include {{include.staff.pastProducts}}</p>
+<p>Products I worked on before include {{include.staff.pastProducts | join: ', '}}</p>
 
 <p>Three things I've done recently which I'm proud of are...</p>
 {{include.staff.accomplishments}}

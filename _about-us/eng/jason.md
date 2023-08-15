@@ -8,20 +8,14 @@ name: Chong, Jason
 joinDate: 2020-11-05
 functionId: eng
 jobTitle: Job Title
-curProducts: currentProducts
-pastProducts: pastProducts
+curProducts:
+  - currentProducts
+pastProducts:
+  - pastProducts
 accomplishments: ""
 quote: A happy family is but an earlier heaven.
 linkedinId: jason
 
 ---
 
-{%- assign staff = site.data.people | find: "id", "jason" -%}
-{% include staff_heading.html staff=staff color=site.colors.function-colors.eng %}
-
-<p>I joined since {{page.joinDate}} and I am currently working on {{page.curProducts}}.</p>
-
-<p>Products I worked on before include {{page.pastProducts}}</p>
-
-<p>Three things I've done recently which I'm proud of are...</p>
-{{page.accomplishments}}
+{% include staff.html staff=page color=site.colors.function-colors.eng %}
