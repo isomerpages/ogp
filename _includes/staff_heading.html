@@ -13,6 +13,8 @@
     .info {
         border-radius: 9px 0 0 9px;
         width: 329px;
+        height: 160px;
+        overflow: hidden;
         padding: 20px;
         text-align: left;
         color: white;
@@ -31,6 +33,7 @@
     }
 
     .staff-linkedin {
+        display: none; /* remove when linkedin ids are provided */
         margin-top: 20px;
     }
 
@@ -92,3 +95,10 @@
     </div>
     <q>{{ include.staff.quote }}</q>
 </div>
+
+<p>I joined since {{include.staff.joinDate}} and I am currently working on {{include.staff.curProducts}}.</p>
+
+<p>Products I worked on before include {{include.staff.pastProducts}}</p>
+
+<p>Three things I've done recently which I'm proud of are...</p>
+{{include.staff.accomplishments}}

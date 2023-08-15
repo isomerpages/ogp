@@ -547,12 +547,8 @@
   joinDate: 2016-04-07
   functionId: eng
   jobTitle: Senior Software Engineer
-  curProducts: "* PaySG"
-  pastProducts: |-
-    * Parking.sg
-    * Scamshield
-    * FormSG
-    * Redeem
+  curProducts: PaySG
+  pastProducts: Parking.sg, Scamshield, FormSG, Redeem
   accomplishments: >-
     * Tech lead for Redeem, ParkingSG, and PawsTogether
 

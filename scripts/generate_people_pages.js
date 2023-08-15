@@ -112,6 +112,9 @@ const namedRecords = records.map(([name, joinDate, email, func, jobTitle, curPro
         linkedinId: linkedinId || id, // warning: using id is NOT correct, this is just to have something there for now
     }
 
+    record.curProducts = record.curProducts.trim().split(/\s*\*\s*/).filter(v => v)
+    record.pastProducts = record.pastProducts.trim().split(/\s*\*\s*/).filter(v => v)
+
     return record
 })
 
@@ -125,8 +128,6 @@ await writeFile(TARGET_PEOPLE_DATA_FILE_YML, YAML.stringify(namedRecords))
 const templateContent = (await readFile(STAFF_TEMPLATE_MD)).toString() // assumes UTF-8
 
 for (const record of namedRecords) {
-    console.log(`Writing file for ${record.id} (${record.name})`)
-
     // augment the record with new fields
     record.yamlData = YAML.stringify(record)
     record.functionName = functionIdToFunctionName[record.functionId]
@@ -140,9 +141,12 @@ for (const record of namedRecords) {
     });
 
     const functionDir = `${TARGET_ABOUT_US_COLLECTION_DIR}${record.functionId}`
+    const staffPageFile = `${functionDir}/${record.id}.md`
+
+    console.log(`Writing file for ${record.name} into ${staffPageFile}`);
 
     try {
-        await unlink(`${functionDir}/${record.id}.md`);
+        await unlink(staffPageFile);
     }
     catch(err) {
         // console.log(err)
@@ -153,7 +157,7 @@ for (const record of namedRecords) {
     catch(err) {
         // console.log(err)
     }
-    await writeFile(`${functionDir}/${record.id}.md`, processed);
+    await writeFile(staffPageFile, processed);
 }
 
 
