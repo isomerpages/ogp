@@ -3,7 +3,6 @@ title: LetterSG
 permalink: /products/lettersg/
 description: ""
 ---
-
 ![](/images/lettersg.png)
 
 ### Trusted e-letters from the Singapore Government
@@ -25,12 +24,36 @@ With LetterSG:
 
 
 #### Impact
-
-* 
+* Over 39 agencies piloting use of LetterSG for various letter/certificate templates across government
 
 
 #### Team
 
+Aiko Klostermann <a href="https://github.com/AikoPath" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a> | Alexis Goh <a href="https://github.com/gweiying" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a> | Clement Chia <a href="https://github.com/clementcht" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a> |  Dat Le Thanh <a href="https://github.com/thanhdatle" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a> | Danelynn Ding <a href="https://github.com/ddanelynn" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a> | Hena Shah <a href="" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a> | Keith Chew <a href="https://github.com/disKeith" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a> | Nicholas Ong <a href="https://github.com/oversparkling" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a> | Pranu Sarna<a href="" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a> | Prakriti Bansal<a href="https://github.com/PikkaPikkachu" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a> | Xing Hao Yang<a href="https://github.com/YangXingHao96" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a> | Zi Wei Lim<a href="https://github.com/halfwhole" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
+    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
+</a> 
 
 
 
