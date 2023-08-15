@@ -1,6 +1,7 @@
 ---
 title: Software Engineering
 permalink: /about-us/eng
+third_nav_title: Software Engineering
 ---
 
 ## **Software Engineering**

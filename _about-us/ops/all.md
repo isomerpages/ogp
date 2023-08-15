@@ -1,6 +1,7 @@
 ---
 title: Product Operations
 permalink: /about-us/ops
+third_nav_title: Product Operations
 ---
 
 ## **Product Operations**

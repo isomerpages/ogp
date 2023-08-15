@@ -1,6 +1,7 @@
 ---
 title: Product Design
 permalink: /about-us/design
+third_nav_title: Product Design
 ---
 
 ## **Product Design**

@@ -1,6 +1,7 @@
 ---
 title: Product Management
 permalink: /about-us/pm
+third_nav_title: Product Management
 ---
 
 ## **Product Management**
