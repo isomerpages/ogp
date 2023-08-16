@@ -20,18 +20,6 @@
             display: block;
         }
 
-        .staff-pic-border {
-            top: 0;
-            left: 0;
-            position: absolute;
-            display: none;
-            width: 190px;
-            height: 162px;
-            border: solid 2px {{include.color}};
-            border-radius: 6px 6px 0 0;
-            border-bottom: 0;
-        }
-
         a.staff:hover {
             text-decoration: none;
         }
@@ -49,12 +37,24 @@
             display: block;
         }
 
-        .staff-pic {
+        .staff-pic, .staff-pic-border {
             width: 190px;
             height: 162px;
             border-radius: 6px 6px 0 0;
+        }
+
+        .staff-pic {
             background-repeat: no-repeat;
             background-size: cover;
+        }
+
+        .staff-pic-border {
+            top: 0;
+            left: 0;
+            position: absolute;
+            display: none;
+            border: solid 2px {{include.color}};
+            border-bottom: 0;
         }
 
         .staff-info {
@@ -69,12 +69,24 @@
         }
 
         .staff-name {
+            text-overflow: clip;
             font-weight: 600;
         }
 
         @media only screen and (max-width: 600px) {
             .people {
                 grid-template-columns: 100%;
+            }
+
+            .staff-pic, .staff-pic-border {
+                width: 120px;
+                height: 120px;
+                border-radius: 6px 0 0 6px;
+            }
+
+            .staff {
+                display: flex;
+                gap: 0;
             }
         }
 
