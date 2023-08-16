@@ -96,6 +96,7 @@
             .staff-info {
                 width: unset;
                 min-width: 190px;
+                display: flex;
                 flex-grow: 1;
                 align-items: center;
                 border-radius: 0 6px 6px 0;
@@ -110,8 +111,10 @@
         <div class="staff-pic" style="background-image:url(/images/headshots/{{ staff.staffId }}.jpg)"></div>
         <div class="staff-pic-border"></div>
         <div class="staff-info">
-            <div class="staff-name">{{ staff.name }}</div>
-            <div class="staff-title">{{ staff.jobTitle }}</div>
+            <div>
+                <div class="staff-name">{{ staff.name }}</div>
+                <div class="staff-title">{{ staff.jobTitle }}</div>
+            </div>
         </div>
     </a>
     {% endfor %}
