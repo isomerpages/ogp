@@ -10,7 +10,7 @@
             grid-template-columns: repeat(auto-fill,minmax(190px, 1fr));
         }
 
-        a.staff {
+        .staff {
             display: block;
             position: relative;
             margin-bottom: 0;
@@ -20,20 +20,20 @@
             text-decoration: none;
         }
 
-        a.staff:hover {
+        .staff:hover {
             text-decoration: none;
         }
 
-        a.staff:hover .staff-info {
+        .staff:hover .staff-info {
             color: white;
             background-color:{{include.color}};
         }
 
-        a.staff:hover .staff-pic {
+        .staff:hover .staff-pic {
             opacity: 0.8;
         }
 
-        a.staff:hover .staff-pic-border {
+        .staff:hover .staff-pic-border {
             display: block;
         }
 
@@ -54,7 +54,7 @@
             position: absolute;
             display: none;
             border: solid 2px {{include.color}};
-            border-bottom: 0;
+            border-width: 2px 2px 0 2px;
         }
 
         .staff-info {
@@ -85,12 +85,20 @@
             }
 
             .staff-pic-border {
-                border-width: 2px 0 2px 2px
+                border-width: 2px 0 2px 2px;
             }
 
-            a.staff {
+            .staff {
                 display: flex;
                 gap: 0;
+            }
+
+            .staff-info {
+                width: unset;
+                min-width: 190px;
+                flex-grow: 1;
+                align-items: center;
+                border-radius: 0 6px 6px 0;
             }
         }
 
