@@ -21,7 +21,7 @@
 
         a.staff:hover {
             text-decoration: none;
-            border-color: solid 1.5px {{include.color}};
+            border: solid 1.5px {{include.color}};
         }
 
         a.staff:hover .staff-info {
@@ -66,13 +66,13 @@
 <div class="people">
     {% assign sorted = include.people | sort: 'name' %}
     {% for staff in sorted %}
-    <a class="staff" href="/people/{{ staff.staffId }}">
+    <div><a class="staff" href="/people/{{ staff.staffId }}">
         <div class="staff-pic" style="background-image:url(/images/headshots/{{ staff.staffId }}.jpg)"></div>
         <div class="staff-info">
             <div class="staff-name">{{ staff.name }}</div>
             <div class="staff-title">{{ staff.jobTitle }}</div>
         </div>
-    </a>
+    </a></div>
     {% endfor %}
 </div>
 
