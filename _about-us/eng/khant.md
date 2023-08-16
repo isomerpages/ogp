@@ -1,6 +1,6 @@
 ---
 title: Khant
-permalink: /aboutus/eng/khant
+permalink: /people/khant
 description: "Khant - Job Title"
 third_nav_title: Software Engineering
 staffId: khant

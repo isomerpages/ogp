@@ -1,6 +1,6 @@
 ---
 title: Ivan
-permalink: /aboutus/eng/ivan
+permalink: /people/ivan
 description: "Ivan - Job Title"
 third_nav_title: Software Engineering
 staffId: ivan

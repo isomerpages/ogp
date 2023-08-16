@@ -1,6 +1,6 @@
 ---
 title: Sarah Salim
-permalink: /aboutus/design/sarahsalim
+permalink: /people/sarahsalim
 description: "Sarah Salim - Job Title"
 third_nav_title: Product Design
 staffId: sarahsalim

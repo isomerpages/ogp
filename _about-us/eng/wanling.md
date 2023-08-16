@@ -1,6 +1,6 @@
 ---
 title: Wan Ling
-permalink: /aboutus/eng/wanling
+permalink: /people/wanling
 description: "Wan Ling - Job Title"
 third_nav_title: Software Engineering
 staffId: wanling

@@ -1,6 +1,6 @@
 ---
 title: Veena
-permalink: /aboutus/pm/veena
+permalink: /people/veena
 description: "Veena - Job Title"
 third_nav_title: Product Management
 staffId: veena

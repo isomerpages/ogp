@@ -1,6 +1,6 @@
 ---
 title: Sufyan
-permalink: /aboutus/design/sufyan
+permalink: /people/sufyan
 description: "Sufyan - Job Title"
 third_nav_title: Product Design
 staffId: sufyan

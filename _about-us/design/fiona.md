@@ -1,6 +1,6 @@
 ---
 title: Fiona
-permalink: /aboutus/design/fiona
+permalink: /people/fiona
 description: "Fiona - Job Title"
 third_nav_title: Product Design
 staffId: fiona

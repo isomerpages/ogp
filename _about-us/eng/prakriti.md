@@ -1,6 +1,6 @@
 ---
 title: Prakriti
-permalink: /aboutus/eng/prakriti
+permalink: /people/prakriti
 description: "Prakriti - Job Title"
 third_nav_title: Software Engineering
 staffId: prakriti

@@ -1,6 +1,6 @@
 ---
 title: Keith
-permalink: /aboutus/eng/keith
+permalink: /people/keith
 description: "Keith - Job Title"
 third_nav_title: Software Engineering
 staffId: keith

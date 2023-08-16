@@ -1,6 +1,6 @@
 ---
 title: Chin Yang
-permalink: /aboutus/eng/chinyang
+permalink: /people/chinyang
 description: "Chin Yang - Job Title"
 third_nav_title: Software Engineering
 staffId: chinyang

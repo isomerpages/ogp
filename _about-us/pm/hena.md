@@ -1,6 +1,6 @@
 ---
 title: Hena
-permalink: /aboutus/pm/hena
+permalink: /people/hena
 description: "Hena - Job Title"
 third_nav_title: Product Management
 staffId: hena

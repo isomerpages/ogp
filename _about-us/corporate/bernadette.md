@@ -1,6 +1,6 @@
 ---
 title: Bernadette
-permalink: /aboutus/corporate/bernadette
+permalink: /people/bernadette
 description: "Bernadette - Chief Operating Officer"
 third_nav_title: Corporate Team
 staffId: bernadette

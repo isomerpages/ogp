@@ -1,6 +1,6 @@
 ---
 title: Russell
-permalink: /aboutus/corporate/russell
+permalink: /people/russell
 description: "Russell - Job Title"
 third_nav_title: Corporate Team
 staffId: russell

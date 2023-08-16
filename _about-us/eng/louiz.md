@@ -1,6 +1,6 @@
 ---
 title: Louiz
-permalink: /aboutus/eng/louiz
+permalink: /people/louiz
 description: "Louiz - Job Title"
 third_nav_title: Software Engineering
 staffId: louiz

@@ -1,6 +1,6 @@
 ---
 title: Lennard
-permalink: /aboutus/pm/lennard
+permalink: /people/lennard
 description: "Lennard - Job Title"
 third_nav_title: Product Management
 staffId: lennard

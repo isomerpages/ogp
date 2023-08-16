@@ -1,6 +1,6 @@
 ---
 title: Praveen
-permalink: /aboutus/transformation/praveen
+permalink: /people/praveen
 description: "Praveen - Job Title"
 third_nav_title: Partnerships & Transformation
 staffId: praveen

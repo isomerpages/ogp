@@ -1,6 +1,6 @@
 ---
 title: Sarah Espaldon
-permalink: /aboutus/corporate/sarahespaldon
+permalink: /people/sarahespaldon
 description: "Sarah Espaldon - Job Title"
 third_nav_title: Corporate Team
 staffId: sarahespaldon

@@ -1,6 +1,6 @@
 ---
 title: Jie Yin
-permalink: /aboutus/ops/jieyin
+permalink: /people/jieyin
 description: "Jie Yin - Job Title"
 third_nav_title: Product Operations
 staffId: jieyin

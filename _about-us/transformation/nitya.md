@@ -1,6 +1,6 @@
 ---
 title: Nitya
-permalink: /aboutus/transformation/nitya
+permalink: /people/nitya
 description: "Nitya - Job Title"
 third_nav_title: Partnerships & Transformation
 staffId: nitya

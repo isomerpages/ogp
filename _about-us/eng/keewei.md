@@ -1,6 +1,6 @@
 ---
 title: Kee Wei
-permalink: /aboutus/eng/keewei
+permalink: /people/keewei
 description: "Kee Wei - Job Title"
 third_nav_title: Software Engineering
 staffId: keewei

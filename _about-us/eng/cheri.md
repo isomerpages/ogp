@@ -1,6 +1,6 @@
 ---
 title: Cheri
-permalink: /aboutus/eng/cheri
+permalink: /people/cheri
 description: "Cheri - Job Title"
 third_nav_title: Software Engineering
 staffId: cheri

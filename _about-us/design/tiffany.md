@@ -1,6 +1,6 @@
 ---
 title: Tiffany
-permalink: /aboutus/design/tiffany
+permalink: /people/tiffany
 description: "Tiffany - Job Title"
 third_nav_title: Product Design
 staffId: tiffany

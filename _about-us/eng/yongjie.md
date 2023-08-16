@@ -1,6 +1,6 @@
 ---
 title: Yong Jie
-permalink: /aboutus/eng/yongjie
+permalink: /people/yongjie
 description: "Yong Jie - Job Title"
 third_nav_title: Software Engineering
 staffId: yongjie

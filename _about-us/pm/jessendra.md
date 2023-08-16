@@ -1,6 +1,6 @@
 ---
 title: Jess
-permalink: /aboutus/pm/jessendra
+permalink: /people/jessendra
 description: "Jess - Job Title"
 third_nav_title: Product Management
 staffId: jessendra

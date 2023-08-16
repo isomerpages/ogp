@@ -1,6 +1,6 @@
 ---
 title: Hygin
-permalink: /aboutus/transformation/hygin
+permalink: /people/hygin
 description: "Hygin - Job Title"
 third_nav_title: Partnerships & Transformation
 staffId: hygin

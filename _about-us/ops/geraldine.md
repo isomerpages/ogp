@@ -1,6 +1,6 @@
 ---
 title: Geraldine
-permalink: /aboutus/ops/geraldine
+permalink: /people/geraldine
 description: "Geraldine - Job Title"
 third_nav_title: Product Operations
 staffId: geraldine

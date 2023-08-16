@@ -1,6 +1,6 @@
 ---
 title: Zul
-permalink: /aboutus/design/zulhilmi
+permalink: /people/zulhilmi
 description: "Zul - Job Title"
 third_nav_title: Product Design
 staffId: zulhilmi

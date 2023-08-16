@@ -1,6 +1,6 @@
 ---
 title: Yi Han
-permalink: /aboutus/corporate/yihan
+permalink: /people/yihan
 description: "Yi Han - Job Title"
 third_nav_title: Corporate Team
 staffId: yihan

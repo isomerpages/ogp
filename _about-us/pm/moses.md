@@ -1,6 +1,6 @@
 ---
 title: Moses
-permalink: /aboutus/pm/moses
+permalink: /people/moses
 description: "Moses - Job Title"
 third_nav_title: Product Management
 staffId: moses

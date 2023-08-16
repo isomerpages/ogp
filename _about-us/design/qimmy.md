@@ -1,6 +1,6 @@
 ---
 title: Qimmy
-permalink: /aboutus/design/qimmy
+permalink: /people/qimmy
 description: "Qimmy - Job Title"
 third_nav_title: Product Design
 staffId: qimmy

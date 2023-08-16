@@ -1,6 +1,6 @@
 ---
 title: James
-permalink: /aboutus/eng/james
+permalink: /people/james
 description: "James - Job Title"
 third_nav_title: Software Engineering
 staffId: james

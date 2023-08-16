@@ -1,6 +1,6 @@
 ---
 title: Natalie
-permalink: /aboutus/design/natalie
+permalink: /people/natalie
 description: "Natalie - Job Title"
 third_nav_title: Product Design
 staffId: natalie

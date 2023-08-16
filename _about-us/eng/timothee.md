@@ -1,6 +1,6 @@
 ---
 title: Tim
-permalink: /aboutus/eng/timothee
+permalink: /people/timothee
 description: "Tim - Lead Software Engineer"
 third_nav_title: Software Engineering
 staffId: timothee

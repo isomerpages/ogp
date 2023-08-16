@@ -1,6 +1,6 @@
 ---
 title: Zong Han
-permalink: /aboutus/eng/zonghan
+permalink: /people/zonghan
 description: "Zong Han - Job Title"
 third_nav_title: Software Engineering
 staffId: zonghan

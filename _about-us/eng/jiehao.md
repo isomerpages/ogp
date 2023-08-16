@@ -1,6 +1,6 @@
 ---
 title: Jie Hao
-permalink: /aboutus/eng/jiehao
+permalink: /people/jiehao
 description: "Jie Hao - Job Title"
 third_nav_title: Software Engineering
 staffId: jiehao

@@ -1,6 +1,6 @@
 ---
 title: Ken
-permalink: /aboutus/eng/ken
+permalink: /people/ken
 description: "Ken - Job Title"
 third_nav_title: Software Engineering
 staffId: ken

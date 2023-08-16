@@ -1,6 +1,6 @@
 ---
 title: Jackson
-permalink: /aboutus/ops/jackson
+permalink: /people/jackson
 description: "Jackson - Job Title"
 third_nav_title: Product Operations
 staffId: jackson

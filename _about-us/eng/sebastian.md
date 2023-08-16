@@ -1,6 +1,6 @@
 ---
 title: Sebastian
-permalink: /aboutus/eng/sebastian
+permalink: /people/sebastian
 description: "Sebastian - Job Title"
 third_nav_title: Software Engineering
 staffId: sebastian

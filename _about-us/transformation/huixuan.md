@@ -1,6 +1,6 @@
 ---
 title: Hui Xuan
-permalink: /aboutus/transformation/huixuan
+permalink: /people/huixuan
 description: "Hui Xuan - Job Title"
 third_nav_title: Partnerships & Transformation
 staffId: huixuan

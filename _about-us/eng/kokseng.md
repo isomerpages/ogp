@@ -1,6 +1,6 @@
 ---
 title: Kok Seng
-permalink: /aboutus/eng/kokseng
+permalink: /people/kokseng
 description: "Kok Seng - Job Title"
 third_nav_title: Software Engineering
 staffId: kokseng

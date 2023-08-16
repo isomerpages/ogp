@@ -1,6 +1,6 @@
 ---
 title: Gautam
-permalink: /aboutus/eng/gautam
+permalink: /people/gautam
 description: "Gautam - Job Title"
 third_nav_title: Software Engineering
 staffId: gautam

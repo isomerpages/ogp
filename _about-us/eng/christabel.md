@@ -1,6 +1,6 @@
 ---
 title: Christabel N.
-permalink: /aboutus/eng/christabel
+permalink: /people/christabel
 description: "Christabel N. - Job Title"
 third_nav_title: Software Engineering
 staffId: christabel

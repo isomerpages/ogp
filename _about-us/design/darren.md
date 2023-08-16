@@ -1,6 +1,6 @@
 ---
 title: Darren
-permalink: /aboutus/design/darren
+permalink: /people/darren
 description: "Darren - Job Title"
 third_nav_title: Product Design
 staffId: darren

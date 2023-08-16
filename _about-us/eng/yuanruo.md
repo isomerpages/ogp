@@ -1,6 +1,6 @@
 ---
 title: Yuanruo
-permalink: /aboutus/eng/yuanruo
+permalink: /people/yuanruo
 description: "Yuanruo - Job Title"
 third_nav_title: Software Engineering
 staffId: yuanruo

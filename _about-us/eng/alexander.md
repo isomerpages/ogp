@@ -1,6 +1,6 @@
 ---
 title: Alex
-permalink: /aboutus/eng/alexander
+permalink: /people/alexander
 description: "Alex - Job Title"
 third_nav_title: Software Engineering
 staffId: alexander

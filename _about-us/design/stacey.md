@@ -1,6 +1,6 @@
 ---
 title: Stacey
-permalink: /aboutus/design/stacey
+permalink: /people/stacey
 description: "Stacey - Job Title"
 third_nav_title: Product Design
 staffId: stacey

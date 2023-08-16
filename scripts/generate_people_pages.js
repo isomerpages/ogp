@@ -124,7 +124,6 @@ const namedRecords = records.map(([_sn, _done, _batch, _by, name, email, func, j
     record.curProducts = record.curProducts.trim().split(/\s*\*\s*/).filter(v => v)
     record.pastProducts = record.pastProducts.trim().split(/\s*\*\s*/).filter(v => v)
 
-
     return record
 }).filter(record => record.staffId)
 
@@ -204,4 +203,5 @@ const aboutUsCollectionStruct = {
     }
 }
 
-await writeFile(TARGET_ABOUT_US_COLLECTION_YML, YAML.stringify(aboutUsCollectionStruct))
+// 4. Generate a data-only collection for all staff
+// await writeFile(TARGET_ABOUT_US_COLLECTION_YML, YAML.stringify(aboutUsCollectionStruct))

@@ -1,6 +1,6 @@
 ---
 title: Latasha
-permalink: /aboutus/eng/latasha
+permalink: /people/latasha
 description: "Latasha - Job Title"
 third_nav_title: Software Engineering
 staffId: latasha

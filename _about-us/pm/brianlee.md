@@ -1,6 +1,6 @@
 ---
 title: Brian
-permalink: /aboutus/pm/brianlee
+permalink: /people/brianlee
 description: "Brian - Job Title"
 third_nav_title: Product Management
 staffId: brianlee

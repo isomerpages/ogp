@@ -1,6 +1,6 @@
 ---
 title: Zeke
-permalink: /aboutus/eng/zeke
+permalink: /people/zeke
 description: "Zeke - Job Title"
 third_nav_title: Software Engineering
 staffId: zeke

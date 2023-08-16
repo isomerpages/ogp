@@ -1,6 +1,6 @@
 ---
 title: Wen Jia
-permalink: /aboutus/design/wenjia
+permalink: /people/wenjia
 description: "Wen Jia - Job Title"
 third_nav_title: Product Design
 staffId: wenjia

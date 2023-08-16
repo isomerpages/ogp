@@ -1,6 +1,6 @@
 ---
 title: Christabel Png
-permalink: /aboutus/design/christabelpng
+permalink: /people/christabelpng
 description: "Christabel Png - Job Title"
 third_nav_title: Product Design
 staffId: christabelpng

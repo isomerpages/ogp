@@ -1,6 +1,6 @@
 ---
 title: Nicholas
-permalink: /aboutus/eng/nicholasng
+permalink: /people/nicholasng
 description: "Nicholas - Job Title"
 third_nav_title: Software Engineering
 staffId: nicholasng

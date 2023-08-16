@@ -1,6 +1,6 @@
 ---
 title: Zhong Jun
-permalink: /aboutus/eng/zhongjun
+permalink: /people/zhongjun
 description: "Zhong Jun - Job Title"
 third_nav_title: Software Engineering
 staffId: zhongjun

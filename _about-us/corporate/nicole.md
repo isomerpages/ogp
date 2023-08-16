@@ -1,6 +1,6 @@
 ---
 title: Nicole
-permalink: /aboutus/corporate/nicole
+permalink: /people/nicole
 description: "Nicole - Job Title"
 third_nav_title: Corporate Team
 staffId: nicole

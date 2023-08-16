@@ -1,6 +1,6 @@
 ---
 title: Kar Rui
-permalink: /aboutus/eng/karrui
+permalink: /people/karrui
 description: "Kar Rui - Job Title"
 third_nav_title: Software Engineering
 staffId: karrui

@@ -1,6 +1,6 @@
 ---
 title: Stanley
-permalink: /aboutus/eng/stanley
+permalink: /people/stanley
 description: "Stanley - Job Title"
 third_nav_title: Software Engineering
 staffId: stanley

@@ -1,6 +1,6 @@
 ---
 title: Clifford
-permalink: /aboutus/corporate/clifford
+permalink: /people/clifford
 description: "Clifford - Job Title"
 third_nav_title: Corporate Team
 staffId: clifford

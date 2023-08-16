@@ -1,6 +1,6 @@
 ---
 title: Kendra
-permalink: /aboutus/ops/kendra
+permalink: /people/kendra
 description: "Kendra - Job Title"
 third_nav_title: Product Operations
 staffId: kendra

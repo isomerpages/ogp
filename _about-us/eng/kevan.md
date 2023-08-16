@@ -1,6 +1,6 @@
 ---
 title: Kevan
-permalink: /aboutus/eng/kevan
+permalink: /people/kevan
 description: "Kevan - Job Title"
 third_nav_title: Software Engineering
 staffId: kevan

@@ -1,6 +1,6 @@
 ---
 title: Jasmine
-permalink: /aboutus/eng/jasmine
+permalink: /people/jasmine
 description: "Jasmine - Job Title"
 third_nav_title: Software Engineering
 staffId: jasmine

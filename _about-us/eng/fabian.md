@@ -1,6 +1,6 @@
 ---
 title: Fabian
-permalink: /aboutus/eng/fabian
+permalink: /people/fabian
 description: "Fabian - Job Title"
 third_nav_title: Software Engineering
 staffId: fabian

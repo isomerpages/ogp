@@ -1,6 +1,6 @@
 ---
 title: Malcolm
-permalink: /aboutus/eng/malcolm
+permalink: /people/malcolm
 description: "Malcolm - Job Title"
 third_nav_title: Software Engineering
 staffId: malcolm

@@ -1,6 +1,6 @@
 ---
 title: May Ying
-permalink: /aboutus/eng/mayying
+permalink: /people/mayying
 description: "May Ying - Job Title"
 third_nav_title: Software Engineering
 staffId: mayying

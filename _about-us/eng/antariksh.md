@@ -1,6 +1,6 @@
 ---
 title: Antariksh
-permalink: /aboutus/eng/antariksh
+permalink: /people/antariksh
 description: "Antariksh - Job Title"
 third_nav_title: Software Engineering
 staffId: antariksh

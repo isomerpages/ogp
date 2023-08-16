@@ -1,6 +1,6 @@
 ---
 title: Xing Hao
-permalink: /aboutus/eng/xinghao
+permalink: /people/xinghao
 description: "Xing Hao - Job Title"
 third_nav_title: Software Engineering
 staffId: xinghao

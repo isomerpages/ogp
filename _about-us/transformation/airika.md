@@ -1,6 +1,6 @@
 ---
 title: Airika
-permalink: /aboutus/transformation/airika
+permalink: /people/airika
 description: "Airika - Job Title"
 third_nav_title: Partnerships & Transformation
 staffId: airika

@@ -1,6 +1,6 @@
 ---
 title: Shanty
-permalink: /aboutus/design/shanty
+permalink: /people/shanty
 description: "Shanty - Job Title"
 third_nav_title: Product Design
 staffId: shanty

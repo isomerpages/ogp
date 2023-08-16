@@ -1,6 +1,6 @@
 ---
 title: Justyn
-permalink: /aboutus/eng/justyn
+permalink: /people/justyn
 description: "Justyn - Job Title"
 third_nav_title: Software Engineering
 staffId: justyn

@@ -1,6 +1,6 @@
 ---
 title: Danelynn
-permalink: /aboutus/eng/danelynn
+permalink: /people/danelynn
 description: "Danelynn - Job Title"
 third_nav_title: Software Engineering
 staffId: danelynn

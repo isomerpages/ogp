@@ -1,6 +1,6 @@
 ---
 title: Raisa
-permalink: /aboutus/eng/raisa
+permalink: /people/raisa
 description: "Raisa - Job Title"
 third_nav_title: Software Engineering
 staffId: raisa

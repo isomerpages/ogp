@@ -1,6 +1,6 @@
 ---
 title: Angel
-permalink: /aboutus/eng/angel
+permalink: /people/angel
 description: "Angel - Job Title"
 third_nav_title: Software Engineering
 staffId: angel

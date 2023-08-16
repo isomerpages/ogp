@@ -1,6 +1,6 @@
 ---
 title: Zi Wei
-permalink: /aboutus/eng/ziwei
+permalink: /people/ziwei
 description: "Zi Wei - Job Title"
 third_nav_title: Software Engineering
 staffId: ziwei

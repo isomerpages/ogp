@@ -1,6 +1,6 @@
 ---
 title: Ben
-permalink: /aboutus/design/benjamin
+permalink: /people/benjamin
 description: "Ben - Job Title"
 third_nav_title: Product Design
 staffId: benjamin

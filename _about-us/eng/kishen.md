@@ -1,6 +1,6 @@
 ---
 title: Kishen
-permalink: /aboutus/eng/kishen
+permalink: /people/kishen
 description: "Kishen - Job Title"
 third_nav_title: Software Engineering
 staffId: kishen

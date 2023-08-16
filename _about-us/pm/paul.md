@@ -1,6 +1,6 @@
 ---
 title: Paul
-permalink: /aboutus/pm/paul
+permalink: /people/paul
 description: "Paul - Job Title"
 third_nav_title: Product Management
 staffId: paul

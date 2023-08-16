@@ -1,6 +1,6 @@
 ---
 title: Siddarth
-permalink: /aboutus/eng/siddarth
+permalink: /people/siddarth
 description: "Siddarth - Job Title"
 third_nav_title: Software Engineering
 staffId: siddarth

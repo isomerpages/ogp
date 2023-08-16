@@ -1,6 +1,6 @@
 ---
 title: Si Han
-permalink: /aboutus/eng/sihan
+permalink: /people/sihan
 description: "Si Han - Job Title"
 third_nav_title: Software Engineering
 staffId: sihan

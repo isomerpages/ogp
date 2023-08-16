@@ -1,6 +1,6 @@
 ---
 title: Nicolas Spano
-permalink: /aboutus/eng/nicolas
+permalink: /people/nicolas
 description: "Nicolas Spano - Job Title"
 third_nav_title: Software Engineering
 staffId: nicolas

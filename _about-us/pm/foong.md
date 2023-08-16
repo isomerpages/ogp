@@ -1,6 +1,6 @@
 ---
 title: Foong Yi Zhuan
-permalink: /aboutus/pm/foong
+permalink: /people/foong
 description: "Foong Yi Zhuan - Job Title"
 third_nav_title: Product Management
 staffId: foong

@@ -1,6 +1,6 @@
 ---
 title: Dexter
-permalink: /aboutus/eng/dexter
+permalink: /people/dexter
 description: "Dexter - Job Title"
 third_nav_title: Software Engineering
 staffId: dexter

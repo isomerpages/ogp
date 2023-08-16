@@ -1,6 +1,6 @@
 ---
 title: Jing Yi
-permalink: /aboutus/design/jingyi
+permalink: /people/jingyi
 description: "Jing Yi - Job Title"
 third_nav_title: Product Design
 staffId: jingyi

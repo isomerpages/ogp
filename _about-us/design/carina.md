@@ -1,6 +1,6 @@
 ---
 title: Carina
-permalink: /aboutus/design/carina
+permalink: /people/carina
 description: "Carina - Job Title"
 third_nav_title: Product Design
 staffId: carina

@@ -1,6 +1,6 @@
 ---
 title: Austin
-permalink: /aboutus/eng/austin
+permalink: /people/austin
 description: "Austin - Job Title"
 third_nav_title: Software Engineering
 staffId: austin

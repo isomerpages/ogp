@@ -1,6 +1,6 @@
 ---
 title: Feli
-permalink: /aboutus/design/feliciana
+permalink: /people/feliciana
 description: "Feli - Job Title"
 third_nav_title: Product Design
 staffId: feliciana

@@ -1,6 +1,6 @@
 ---
 title: Amit
-permalink: /aboutus/pm/amit
+permalink: /people/amit
 description: "Amit - Job Title"
 third_nav_title: Product Management
 staffId: amit

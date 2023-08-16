@@ -1,6 +1,6 @@
 ---
 title: Si Min
-permalink: /aboutus/eng/simin
+permalink: /people/simin
 description: "Si Min - Job Title"
 third_nav_title: Software Engineering
 staffId: simin

@@ -1,6 +1,6 @@
 ---
 title: Cheryl
-permalink: /aboutus/pm/cheryl
+permalink: /people/cheryl
 description: "Cheryl - Job Title"
 third_nav_title: Product Management
 staffId: cheryl

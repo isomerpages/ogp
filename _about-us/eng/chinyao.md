@@ -1,6 +1,6 @@
 ---
 title: Chinyao
-permalink: /aboutus/eng/chinyao
+permalink: /people/chinyao
 description: "Chinyao - Job Title"
 third_nav_title: Software Engineering
 staffId: chinyao

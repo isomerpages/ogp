@@ -1,6 +1,6 @@
 ---
 title: Enyi
-permalink: /aboutus/eng/enyi
+permalink: /people/enyi
 description: "Enyi - Job Title"
 third_nav_title: Software Engineering
 staffId: enyi

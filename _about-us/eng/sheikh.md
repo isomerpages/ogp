@@ -1,6 +1,6 @@
 ---
 title: Sheikh
-permalink: /aboutus/eng/sheikh
+permalink: /people/sheikh
 description: "Sheikh - Job Title"
 third_nav_title: Software Engineering
 staffId: sheikh

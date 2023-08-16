@@ -1,6 +1,6 @@
 ---
 title: Lorraine
-permalink: /aboutus/eng/lorraine
+permalink: /people/lorraine
 description: "Lorraine - Job Title"
 third_nav_title: Software Engineering
 staffId: lorraine

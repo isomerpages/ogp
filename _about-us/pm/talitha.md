@@ -1,6 +1,6 @@
 ---
 title: Talitha
-permalink: /aboutus/pm/talitha
+permalink: /people/talitha
 description: "Talitha - Job Title"
 third_nav_title: Product Management
 staffId: talitha

@@ -1,6 +1,6 @@
 ---
 title: Reshma
-permalink: /aboutus/pm/reshma
+permalink: /people/reshma
 description: "Reshma - Job Title"
 third_nav_title: Product Management
 staffId: reshma

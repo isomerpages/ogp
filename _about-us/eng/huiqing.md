@@ -1,6 +1,6 @@
 ---
 title: Hui Qing
-permalink: /aboutus/eng/huiqing
+permalink: /people/huiqing
 description: "Hui Qing - Job Title"
 third_nav_title: Software Engineering
 staffId: huiqing

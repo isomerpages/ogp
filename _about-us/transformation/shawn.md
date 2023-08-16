@@ -1,6 +1,6 @@
 ---
 title: Shawn
-permalink: /aboutus/transformation/shawn
+permalink: /people/shawn
 description: "Shawn - Job Title"
 third_nav_title: Partnerships & Transformation
 staffId: shawn

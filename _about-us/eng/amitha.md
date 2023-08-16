@@ -1,6 +1,6 @@
 ---
 title: Amitha
-permalink: /aboutus/eng/amitha
+permalink: /people/amitha
 description: "Amitha - Job Title"
 third_nav_title: Software Engineering
 staffId: amitha

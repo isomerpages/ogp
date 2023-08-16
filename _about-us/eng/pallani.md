@@ -1,6 +1,6 @@
 ---
 title: Pallani
-permalink: /aboutus/eng/pallani
+permalink: /people/pallani
 description: "Pallani - Job Title"
 third_nav_title: Software Engineering
 staffId: pallani

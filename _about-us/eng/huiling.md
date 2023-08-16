@@ -1,6 +1,6 @@
 ---
 title: Hui Ling
-permalink: /aboutus/eng/huiling
+permalink: /people/huiling
 description: "Hui Ling - Job Title"
 third_nav_title: Software Engineering
 staffId: huiling

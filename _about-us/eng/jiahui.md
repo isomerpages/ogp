@@ -1,6 +1,6 @@
 ---
 title: Jia Hui
-permalink: /aboutus/eng/jiahui
+permalink: /people/jiahui
 description: "Jia Hui - Job Title"
 third_nav_title: Software Engineering
 staffId: jiahui

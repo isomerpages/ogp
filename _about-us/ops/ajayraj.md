@@ -1,6 +1,6 @@
 ---
 title: Ajay
-permalink: /aboutus/ops/ajayraj
+permalink: /people/ajayraj
 description: "Ajay - Job Title"
 third_nav_title: Product Operations
 staffId: ajayraj

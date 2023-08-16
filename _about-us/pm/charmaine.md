@@ -1,6 +1,6 @@
 ---
 title: Charmaine
-permalink: /aboutus/pm/charmaine
+permalink: /people/charmaine
 description: "Charmaine - Job Title"
 third_nav_title: Product Management
 staffId: charmaine

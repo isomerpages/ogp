@@ -1,6 +1,6 @@
 ---
 title: Zi Yang
-permalink: /aboutus/eng/ziyang
+permalink: /people/ziyang
 description: "Zi Yang - Job Title"
 third_nav_title: Software Engineering
 staffId: ziyang

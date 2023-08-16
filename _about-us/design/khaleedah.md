@@ -1,6 +1,6 @@
 ---
 title: Khaleedah
-permalink: /aboutus/design/khaleedah
+permalink: /people/khaleedah
 description: "Khaleedah - Job Title"
 third_nav_title: Product Design
 staffId: khaleedah

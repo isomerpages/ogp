@@ -1,6 +1,6 @@
 ---
 title: Harish
-permalink: /aboutus/eng/harish
+permalink: /people/harish
 description: "Harish - Job Title"
 third_nav_title: Software Engineering
 staffId: harish

@@ -1,6 +1,6 @@
 ---
 title: Kishore
-permalink: /aboutus/eng/kishore
+permalink: /people/kishore
 description: "Kishore - Job Title"
 third_nav_title: Software Engineering
 staffId: kishore

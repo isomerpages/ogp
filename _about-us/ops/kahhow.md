@@ -1,6 +1,6 @@
 ---
 title: Kahhow
-permalink: /aboutus/ops/kahhow
+permalink: /people/kahhow
 description: "Kahhow - Job Title"
 third_nav_title: Product Operations
 staffId: kahhow

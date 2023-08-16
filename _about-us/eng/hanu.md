@@ -1,6 +1,6 @@
 ---
 title: Hanu
-permalink: /aboutus/eng/hanu
+permalink: /people/hanu
 description: "Hanu - Job Title"
 third_nav_title: Software Engineering
 staffId: hanu

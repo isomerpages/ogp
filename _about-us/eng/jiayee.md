@@ -1,6 +1,6 @@
 ---
 title: Jiayee
-permalink: /aboutus/eng/jiayee
+permalink: /people/jiayee
 description: "Jiayee - Job Title"
 third_nav_title: Software Engineering
 staffId: jiayee

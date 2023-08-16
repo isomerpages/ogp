@@ -1,6 +1,6 @@
 ---
 title: Se Hyun
-permalink: /aboutus/design/sehyun
+permalink: /people/sehyun
 description: "Se Hyun - Job Title"
 third_nav_title: Product Design
 staffId: sehyun

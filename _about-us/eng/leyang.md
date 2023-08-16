@@ -1,6 +1,6 @@
 ---
 title: Le Yang
-permalink: /aboutus/eng/leyang
+permalink: /people/leyang
 description: "Le Yang - Job Title"
 third_nav_title: Software Engineering
 staffId: leyang

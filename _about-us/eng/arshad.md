@@ -1,6 +1,6 @@
 ---
 title: Arshad
-permalink: /aboutus/eng/arshad
+permalink: /people/arshad
 description: "Arshad - Job Title"
 third_nav_title: Software Engineering
 staffId: arshad

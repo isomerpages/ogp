@@ -1,6 +1,6 @@
 ---
 title: Adan
-permalink: /aboutus/pm/adan
+permalink: /people/adan
 description: "Adan - Job Title"
 third_nav_title: Product Management
 staffId: adan

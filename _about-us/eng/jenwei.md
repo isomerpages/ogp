@@ -1,6 +1,6 @@
 ---
 title: Jen Wei
-permalink: /aboutus/eng/jenwei
+permalink: /people/jenwei
 description: "Jen Wei - Job Title"
 third_nav_title: Software Engineering
 staffId: jenwei

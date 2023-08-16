@@ -1,6 +1,6 @@
 ---
 title: Dat
-permalink: /aboutus/eng/dat
+permalink: /people/dat
 description: "Dat - Job Title"
 third_nav_title: Software Engineering
 staffId: dat

@@ -1,6 +1,6 @@
 ---
 title: Caleb
-permalink: /aboutus/eng/caleb
+permalink: /people/caleb
 description: "Caleb - Job Title"
 third_nav_title: Software Engineering
 staffId: caleb

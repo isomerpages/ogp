@@ -1,6 +1,6 @@
 ---
 title: Shazli
-permalink: /aboutus/ops/shazli
+permalink: /people/shazli
 description: "Shazli - Job Title"
 third_nav_title: Product Operations
 staffId: shazli

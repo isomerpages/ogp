@@ -1,6 +1,6 @@
 ---
 title: Shannen
-permalink: /aboutus/corporate/shannen
+permalink: /people/shannen
 description: "Shannen - Job Title"
 third_nav_title: Corporate Team
 staffId: shannen

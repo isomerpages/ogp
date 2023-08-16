@@ -1,6 +1,6 @@
 ---
 title: Pearly
-permalink: /aboutus/design/pearly
+permalink: /people/pearly
 description: "Pearly - Job Title"
 third_nav_title: Product Design
 staffId: pearly

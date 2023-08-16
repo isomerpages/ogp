@@ -1,6 +1,6 @@
 ---
 title: Yi Xin
-permalink: /aboutus/design/yixin
+permalink: /people/yixin
 description: "Yi Xin - Job Title"
 third_nav_title: Product Design
 staffId: yixin

@@ -1,6 +1,6 @@
 ---
 title: Wee Loong
-permalink: /aboutus/eng/weeloong
+permalink: /people/weeloong
 description: "Wee Loong - Job Title"
 third_nav_title: Software Engineering
 staffId: weeloong

@@ -1,6 +1,6 @@
 ---
 title: Blake
-permalink: /aboutus/eng/blake
+permalink: /people/blake
 description: "Blake - Job Title"
 third_nav_title: Software Engineering
 staffId: blake

@@ -1,6 +1,6 @@
 ---
 title: Zi Xiang
-permalink: /aboutus/eng/zixiang
+permalink: /people/zixiang
 description: "Zi Xiang - Job Title"
 third_nav_title: Software Engineering
 staffId: zixiang

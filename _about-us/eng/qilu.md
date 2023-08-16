@@ -1,6 +1,6 @@
 ---
 title: Qilu
-permalink: /aboutus/eng/qilu
+permalink: /people/qilu
 description: "Qilu - Job Title"
 third_nav_title: Software Engineering
 staffId: qilu

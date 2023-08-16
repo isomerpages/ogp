@@ -1,6 +1,6 @@
 ---
 title: Samuel
-permalink: /aboutus/ops/samuel
+permalink: /people/samuel
 description: "Samuel - Job Title"
 third_nav_title: Product Operations
 staffId: samuel

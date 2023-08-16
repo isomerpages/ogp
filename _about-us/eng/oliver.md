@@ -1,6 +1,6 @@
 ---
 title: Oliver
-permalink: /aboutus/eng/oliver
+permalink: /people/oliver
 description: "Oliver - Job Title"
 third_nav_title: Software Engineering
 staffId: oliver

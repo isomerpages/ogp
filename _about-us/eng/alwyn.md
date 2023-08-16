@@ -1,6 +1,6 @@
 ---
 title: Alwyn
-permalink: /aboutus/eng/alwyn
+permalink: /people/alwyn
 description: "Alwyn - Job Title"
 third_nav_title: Software Engineering
 staffId: alwyn

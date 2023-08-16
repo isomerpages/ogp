@@ -1,6 +1,6 @@
 ---
 title: Chien Ling
-permalink: /aboutus/corporate/chienling
+permalink: /people/chienling
 description: "Chien Ling - Job Title"
 third_nav_title: Corporate Team
 staffId: chienling

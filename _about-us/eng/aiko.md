@@ -1,6 +1,6 @@
 ---
 title: Aiko
-permalink: /aboutus/eng/aiko
+permalink: /people/aiko
 description: "Aiko - Job Title"
 third_nav_title: Software Engineering
 staffId: aiko

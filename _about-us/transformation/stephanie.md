@@ -1,6 +1,6 @@
 ---
 title: Steph
-permalink: /aboutus/transformation/stephanie
+permalink: /people/stephanie
 description: "Steph - Job Title"
 third_nav_title: Partnerships & Transformation
 staffId: stephanie

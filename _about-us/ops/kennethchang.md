@@ -1,6 +1,6 @@
 ---
 title: Kenneth Chang
-permalink: /aboutus/ops/kennethchang
+permalink: /people/kennethchang
 description: "Kenneth Chang - Job Title"
 third_nav_title: Product Operations
 staffId: kennethchang

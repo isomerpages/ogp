@@ -1,6 +1,6 @@
 ---
 title: Rachel
-permalink: /aboutus/design/rachel
+permalink: /people/rachel
 description: "Rachel - Job Title"
 third_nav_title: Product Design
 staffId: rachel

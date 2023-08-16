@@ -1,6 +1,6 @@
 ---
 title: Kaiwen
-permalink: /aboutus/eng/kaiwen
+permalink: /people/kaiwen
 description: "Kaiwen - Job Title"
 third_nav_title: Software Engineering
 staffId: kaiwen

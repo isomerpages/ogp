@@ -1,6 +1,6 @@
 ---
 title: Hongyi
-permalink: /aboutus/corporate/lhy
+permalink: /people/lhy
 description: "Hongyi - Director of OGP"
 third_nav_title: Corporate Team
 staffId: lhy

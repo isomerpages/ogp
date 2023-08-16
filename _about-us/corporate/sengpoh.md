@@ -1,6 +1,6 @@
 ---
 title: Marcus
-permalink: /aboutus/corporate/sengpoh
+permalink: /people/sengpoh
 description: "Marcus - Job Title"
 third_nav_title: Corporate Team
 staffId: sengpoh

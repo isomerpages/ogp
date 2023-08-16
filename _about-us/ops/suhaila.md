@@ -1,6 +1,6 @@
 ---
 title: Suhaila
-permalink: /aboutus/ops/suhaila
+permalink: /people/suhaila
 description: "Suhaila - Job Title"
 third_nav_title: Product Operations
 staffId: suhaila

@@ -1,6 +1,6 @@
 ---
 title: Prawira
-permalink: /aboutus/eng/prawira
+permalink: /people/prawira
 description: "Prawira - Job Title"
 third_nav_title: Software Engineering
 staffId: prawira

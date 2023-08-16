@@ -1,6 +1,6 @@
 ---
 title: Shu Li
-permalink: /aboutus/eng/shuli
+permalink: /people/shuli
 description: "Shu Li - Job Title"
 third_nav_title: Software Engineering
 staffId: shuli

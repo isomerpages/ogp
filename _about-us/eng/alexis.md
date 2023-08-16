@@ -1,6 +1,6 @@
 ---
 title: Alexis
-permalink: /aboutus/eng/alexis
+permalink: /people/alexis
 description: "Alexis - Job Title"
 third_nav_title: Software Engineering
 staffId: alexis

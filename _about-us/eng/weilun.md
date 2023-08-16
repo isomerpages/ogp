@@ -1,6 +1,6 @@
 ---
 title: Wei Lun
-permalink: /aboutus/eng/weilun
+permalink: /people/weilun
 description: "Wei Lun - Job Title"
 third_nav_title: Software Engineering
 staffId: weilun

@@ -1,6 +1,6 @@
 ---
 title: Christian
-permalink: /aboutus/eng/christian
+permalink: /people/christian
 description: "Christian - Job Title"
 third_nav_title: Software Engineering
 staffId: christian

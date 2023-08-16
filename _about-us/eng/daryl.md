@@ -1,6 +1,6 @@
 ---
 title: Daryl
-permalink: /aboutus/eng/daryl
+permalink: /people/daryl
 description: "Daryl - Job Title"
 third_nav_title: Software Engineering
 staffId: daryl

@@ -1,6 +1,6 @@
 ---
 title: Clement
-permalink: /aboutus/ops/clement
+permalink: /people/clement
 description: "Clement - Job Title"
 third_nav_title: Product Operations
 staffId: clement
