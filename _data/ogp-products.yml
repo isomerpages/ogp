@@ -13,7 +13,7 @@
     - title: CheckFirst
       image: https://www.checkfirst.gov.sg/assets/logo.svg
       sum: Calculator and eligibility builder for the government
-      link: /products/checkfirst
+      link: https://products.open.gov.sg/checkfirst
 
     - title: Data.gov.sg
       image: https://file.go.gov.sg/datagovsg-logo.png
@@ -85,3 +85,7 @@
       image: https://file.go.gov.sg/has-logo.png
       sum: Find and book vaccine appointments near you
       link:  https://products.open.gov.sg/has
+    - title: Care360
+      image: https://file.go.gov.sg/care360-logo.png
+      sum: Patient management system for medical social workers.
+      link: https://products.open.gov.sg/care360
