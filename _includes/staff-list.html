@@ -3,108 +3,107 @@
 <style>
     @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
 
+    .people {
+        display: grid;
+        justify-content: space-around;
+        grid-gap: 24px;
+        grid-template-columns: repeat(auto-fill,minmax(190px, 1fr));
+    }
+
+    a.staff {
+        display: block;
+        position: relative;
+        margin-bottom: 0;
+        padding: 0px;
+        font-size: 16px;
+        cursor: pointer;
+        text-decoration: none;
+    }
+
+    a.staff:hover {
+        text-decoration: none;
+    }
+
+    a.staff:hover .staff-info {
+        color: white;
+        background-color:{{include.color}};
+    }
+
+    a.staff:hover .staff-pic {
+        opacity: 0.8;
+    }
+
+    a.staff:hover .staff-pic-border {
+        display: block;
+    }
+
+    .staff-pic, .staff-pic-border {
+        width: 190px;
+        height: 162px;
+        border-radius: 6px 6px 0 0;
+    }
+
+    .staff-pic {
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .staff-pic-border {
+        top: 0;
+        left: 0;
+        position: absolute;
+        display: none;
+        border: solid 2px {{include.color}};
+        border-width: 2px 2px 0 2px;
+    }
+
+    .staff-info {
+        width: 190px;
+        border-radius: 0 0 6px 6px;
+        padding: 16px;
+        text-align: left;
+        color: black;
+        line-height: 1.5;
+        background-color:#E9EAEE;
+        font-weight: 400;
+    }
+
+    .staff-name {
+        text-overflow: clip;
+        font-weight: 600;
+    }
+
+    @media only screen and (max-width: 600px) {
         .people {
-            display: grid;
-            justify-content: space-around;
-            grid-gap: 24px;
-            grid-template-columns: repeat(auto-fill,minmax(190px, 1fr));
+            grid-template-columns: 100%;
         }
 
         a.staff {
-            display: block;
-            position: relative;
-            margin-bottom: 0;
-            padding: 0px;
-            font-size: 16px;
-            cursor: pointer;
-            text-decoration: none;
-        }
-
-        a.staff:hover {
-            text-decoration: none;
-        }
-
-        a.staff:hover .staff-info {
-            color: white;
-            background-color:{{include.color}};
-        }
-
-        a.staff:hover .staff-pic {
-            opacity: 0.8;
-        }
-
-        a.staff:hover .staff-pic-border {
-            display: block;
+            display: flex;
+            gap: 0;
         }
 
         .staff-pic, .staff-pic-border {
-            width: 190px;
-            height: 162px;
-            border-radius: 6px 6px 0 0;
-        }
-
-        .staff-pic {
-            background-repeat: no-repeat;
-            background-size: cover;
+            width: 120px;
+            height: 120px;
+            border-radius: 6px 0 0 6px;
         }
 
         .staff-pic-border {
-            top: 0;
-            left: 0;
-            position: absolute;
-            display: none;
-            border: solid 2px {{include.color}};
-            border-width: 2px 2px 0 2px;
+            border-width: 2px 0 2px 2px;
         }
 
         .staff-info {
-            width: 190px;
-            border-radius: 0 0 6px 6px;
-            padding: 16px;
-            text-align: left;
-            color: black;
-            line-height: 1.5;
-            background-color:#E9EAEE;
-            font-weight: 400;
+            width: unset;
+            min-width: 190px;
+            display: flex;
+            flex-grow: 1;
+            align-items: center;
+            border-radius: 0 6px 6px 0;
+            padding-left: 24px;
+            padding-right: 12px;
         }
-
-        .staff-name {
-            text-overflow: clip;
-            font-weight: 600;
-        }
-
-        @media only screen and (max-width: 600px) {
-            .people {
-                grid-template-columns: 100%;
-            }
-
-            a.staff {
-                display: flex;
-                gap: 0;
-            }
-
-            .staff-pic, .staff-pic-border {
-                width: 120px;
-                height: 120px;
-                border-radius: 6px 0 0 6px;
-            }
-
-            .staff-pic-border {
-                border-width: 2px 0 2px 2px;
-            }
-
-            .staff-info {
-                width: unset;
-                min-width: 190px;
-                display: flex;
-                flex-grow: 1;
-                align-items: center;
-                border-radius: 0 6px 6px 0;
-                padding-left: 24px;
-                padding-right: 12px;
-            }
-        }
-
+    }
 </style>
 <div class="people">
     {% assign sorted = include.people | sort: 'name' %}
