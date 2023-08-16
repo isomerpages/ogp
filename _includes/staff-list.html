@@ -10,7 +10,7 @@
             grid-template-columns: repeat(auto-fill,minmax(190px, 1fr));
         }
 
-        .staff {
+        a.staff {
             display: block;
             position: relative;
             margin-bottom: 0;
@@ -20,20 +20,20 @@
             text-decoration: none;
         }
 
-        .staff:hover {
+        a.staff:hover {
             text-decoration: none;
         }
 
-        .staff:hover .staff-info {
+        a.staff:hover .staff-info {
             color: white;
             background-color:{{include.color}};
         }
 
-        .staff:hover .staff-pic {
+        a.staff:hover .staff-pic {
             opacity: 0.8;
         }
 
-        .staff:hover .staff-pic-border {
+        a.staff:hover .staff-pic-border {
             display: block;
         }
 
@@ -78,6 +78,11 @@
                 grid-template-columns: 100%;
             }
 
+            a.staff {
+                display: flex;
+                gap: 0;
+            }
+
             .staff-pic, .staff-pic-border {
                 width: 120px;
                 height: 120px;
@@ -86,11 +91,6 @@
 
             .staff-pic-border {
                 border-width: 2px 0 2px 2px;
-            }
-
-            .staff {
-                display: flex;
-                gap: 0;
             }
 
             .staff-info {
