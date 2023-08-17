@@ -20,8 +20,7 @@ accomplishments: >-
   * Shaped design and engineering on EngageSG following Hackathon, and has since prepared a roadmap for product iteration.
 
   * Pursued the idea of file sharing within government, and prototyped Pouch.
-quote: The family is the test of freedom; because the family is the only thing
-  that the free man makes for himself and by himself.
+quote: ""
 linkedinId: ""
 
 ---

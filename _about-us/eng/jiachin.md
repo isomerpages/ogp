@@ -20,7 +20,7 @@ accomplishments: >-
   * Provided teammates with technical feedback and suggested frontend best practices to deliver the Identity epic
 
   * Set up VAPT infrastructure for testing and led bug-fixes and discussions with external parties, resulting in a successful VAPT retest and the major feature (Identity) being able to launch to the public. 
-quote: Other things may change us, but we start and end with the family.
+quote: ""
 linkedinId: ""
 
 ---

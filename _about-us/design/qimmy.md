@@ -8,12 +8,11 @@ name: Qimmy Lim
 joinDate: April 3, 2023
 functionId: design
 jobTitle: Product Designer
-curProducts:
-  - currentProducts
+curProducts: []
 pastProducts:
   - SkillsFuture
 accomplishments: i'm new, watch this space!
-quote: Family is not an important thing. It’s everything.
+quote: ""
 linkedinId: ""
 
 ---

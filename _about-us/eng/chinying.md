@@ -23,8 +23,7 @@ accomplishments: >-
   * Built a generalised rule framework for handling scam message prioritisation, providing a blueprint for implementing other prioritisation rules and allowing other engineers to build upon it.
 
   * Contributed towards the development and timely delivery of the SPF dashboard frontend for Scamshield, plugging gaps where necessary and spearheading the releases to production prior to the deadline.
-quote: "Blended families: woven together by choice, strengthened together by
-  love, tested by everything, and each uniquely ours."
+quote: ""
 linkedinId: ""
 
 ---

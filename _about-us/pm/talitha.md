@@ -24,8 +24,7 @@ accomplishments: >-
   * Part of launch team for CDC Vouchers & scaled the pipeline of campaigns to ~$800M
 
   * Inaugural product team for ParkingSG; Developed ParkingSG Product roadmap
-quote: In family life, love is the oil that eases friction, the cement that
-  binds closer together, and the music that brings harmony.
+quote: ""
 linkedinId: ""
 
 ---

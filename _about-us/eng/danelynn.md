@@ -10,10 +10,9 @@ functionId: eng
 jobTitle: Software Engineer
 curProducts:
   - NLB
-pastProducts:
-  - pastProducts
+pastProducts: []
 accomplishments: i'm new, watch this space!
-quote: I didn’t give you the gift of life, but life gave me the gift of you.
+quote: ""
 linkedinId: ""
 
 ---

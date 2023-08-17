@@ -22,7 +22,7 @@ accomplishments: >-
   * Delivered key features for sgID such as the sgID developer portal for self-service sgID client onboarding
 
   * Created and ran a monthly OGP engineering sharing platform for technical learning and development across the organisation
-quote: Ohana means family and family means nobody gets left behind or forgotten.
+quote: ""
 linkedinId: ""
 
 ---

@@ -10,10 +10,9 @@ functionId: pm
 jobTitle: Product Manager
 curProducts:
   - AskGov
-pastProducts:
-  - pastProducts
+pastProducts: []
 accomplishments: ""
-quote: Family is not defined by our genes, it is built and maintained through love.
+quote: ""
 linkedinId: ""
 
 ---

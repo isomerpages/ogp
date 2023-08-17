@@ -18,8 +18,7 @@ accomplishments: >
   * Scamshield: Implemented overlay to notify users on old versions of the app to update the app
 
   * Experimented with sentence similarity for classifying incoming free text responses that describe scams
-quote: The informality of family life is a blessed condition that allows us all
-  to become our best while looking our worst.
+quote: ""
 linkedinId: ""
 
 ---

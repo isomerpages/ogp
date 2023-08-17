@@ -19,8 +19,7 @@ accomplishments: >-
   * Repurposed the HAS flow for HealthierSG, created a new visual style and adding moments of delight with custom illustrations and animated gifs.
 
   * Created BYOS, a modular illustration system of Singaporean characters and scenes for OGP colleagues to use for their hackathon products and decks.
-quote: My family is my life, and everything else comes second as far as what’s
-  important to me.
+quote: ""
 linkedinId: ""
 
 ---

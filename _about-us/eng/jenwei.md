@@ -19,7 +19,7 @@ accomplishments: >-
   * Onboarded new Care360 engineers and PM as the engineering manager of the team
 
   * Migrated Covid ops databases and improved alarms, monitoring, and query performance for Covid operations
-quote: Families are like fudge – mostly sweet with a few nuts.
+quote: ""
 linkedinId: ""
 
 ---

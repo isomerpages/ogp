@@ -8,8 +8,7 @@ name: Dexter Tan
 joinDate: July 17, 2023
 functionId: eng
 jobTitle: Software Engineer
-curProducts:
-  - currentProducts
+curProducts: []
 pastProducts:
   - HAS
 accomplishments: >-
@@ -19,8 +18,7 @@ accomplishments: >-
   * improved HAS user experience by setting additional timeslots to continue from the end of the previous selection.
 
   * Implemented confirmation modals for appointment creation and rescheduling in HAS
-quote: In family life, love is the oil that eases friction, the cement that
-  binds closer together, and the music that brings harmony.
+quote: ""
 linkedinId: ""
 
 ---

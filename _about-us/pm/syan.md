@@ -30,7 +30,7 @@ accomplishments: >-
   * Provided PM people management and coaching over >10 OGP products
 
   * Worked with the TFPG team to assess >12 agencies for incubating satellite tech teams
-quote: I didn’t give you the gift of life, but life gave me the gift of you.
+quote: ""
 linkedinId: ""
 
 ---

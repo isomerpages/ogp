@@ -10,11 +10,9 @@ functionId: eng
 jobTitle: Software Engineer
 curProducts:
   - FormSG
-pastProducts:
-  - pastProducts
+pastProducts: []
 accomplishments: i'm new, watch this space!
-quote: Stick to the basics, hold on to your family and friends – they will never
-  go out of fashion.
+quote: ""
 linkedinId: ""
 
 ---

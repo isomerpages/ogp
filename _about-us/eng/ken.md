@@ -8,12 +8,11 @@ name: Ken Lee
 joinDate: February 27, 2023
 functionId: eng
 jobTitle: Senior Software Engineer
-curProducts:
-  - currentProducts
+curProducts: []
 pastProducts:
   - FormSG
 accomplishments: i'm new, watch this space!
-quote: We may have our differences, but nothing’s more important than family.
+quote: ""
 linkedinId: ""
 
 ---

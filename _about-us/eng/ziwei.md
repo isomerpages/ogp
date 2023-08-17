@@ -24,7 +24,7 @@ accomplishments: >-
   * Worked on the frontend and backend of Pouch, and also implemented security classifications for files and folders.
 
   * Implemented the appointment flow and landing page for MediPay, during hackathon.
-quote: Life is beautiful. It’s about giving. It’s about family.
+quote: ""
 linkedinId: ""
 
 ---

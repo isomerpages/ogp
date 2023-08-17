@@ -10,8 +10,7 @@ functionId: eng
 jobTitle: Software Engineer
 curProducts:
   - Care360
-pastProducts:
-  - pastProducts
+pastProducts: []
 accomplishments: >-
   * Contributed to the development of several significant features for Care360
   i.e User Management
@@ -19,8 +18,7 @@ accomplishments: >-
   * Increased Care360's branding efforts; responsible for reworking the frontend for all key user flows
 
   * Part of team that built the critical Overlapping Financial Applications feature 
-quote: Being a family means you are a part of something very wonderful. It means
-  you will love and be loved for the rest of your life.
+quote: ""
 linkedinId: ""
 
 ---

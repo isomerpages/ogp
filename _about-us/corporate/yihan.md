@@ -23,7 +23,7 @@ accomplishments: >-
   * Supported major OGP projects such as Tech for Public Good hiring and Hack for Public Good by creating hiring content, running highly customized targeted ads, and promoting demo day livestream to the general public. Social media contributed to 56% of the tech hiring microsite traffic and 40% of the interest form submissions. Social media also contributed to 51% of the demo day interest form traffic, while 20% of the sign-ups were from the general public.
 
   * Marketing POC of RedeemSG and ensured representation of OGP and RedeemSG on CDC materials, increased awareness of Redeem and association with OGP through social media, and strategized a marketing plan for future growth of RedeemSG. This helped increase OGP’s credibility among the general public as the team behind the successful CDC campaign.
-quote: In time of test, family is best.
+quote: ""
 linkedinId: ""
 
 ---

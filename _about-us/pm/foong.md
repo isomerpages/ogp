@@ -8,13 +8,11 @@ name: Foong Yi Zhuan
 joinDate: July 17, 2023
 functionId: pm
 jobTitle: Senior Product Manager
-curProducts:
-  - currentProducts
+curProducts: []
 pastProducts:
   - Vault
 accomplishments: i'm new, watch this space!
-quote: The only rock I know that stays steady, the only institution I know that
-  works, is the family.
+quote: ""
 linkedinId: ""
 
 ---

@@ -20,7 +20,7 @@ accomplishments: >-
   * Implemented more comprehensive test cases for critical flows and endpoints for Redeem
 
   * Implemented an OGP-wide easily adoptable infrastructure tool for handling Cloudflare outages
-quote: The family is one of nature’s masterpieces.
+quote: ""
 linkedinId: ""
 
 ---

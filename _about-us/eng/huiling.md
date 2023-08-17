@@ -8,12 +8,11 @@ name: Hui Ling Shi
 joinDate: April 24, 2023
 functionId: eng
 jobTitle: Software Engineer
-curProducts:
-  - currentProducts
+curProducts: []
 pastProducts:
   - Care360
 accomplishments: i'm new, watch this space!
-quote: Family gives you the roots to stand tall and strong.
+quote: ""
 linkedinId: ""
 
 ---

@@ -10,11 +10,9 @@ functionId: design
 jobTitle: Senior Product Designer
 curProducts:
   - UX Research
-pastProducts:
-  - pastProducts
+pastProducts: []
 accomplishments: i'm new, watch this space!
-quote: This is my family. I found it all on my own. It’s little, and broken, but
-  still good. Yeah. Still good.
+quote: ""
 linkedinId: ""
 
 ---

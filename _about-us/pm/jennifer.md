@@ -19,7 +19,7 @@ accomplishments: >-
   * Built up team practices for alignment within the Scamshield team, leading to sharper prioritisation of work and speedy onboarding of new joiners to the team.
 
   * Led the development of CertSG, a hackathon product, from zero to one by conceptualising the problem statement, product vision, and pitching to potential use cases. 
-quote: Ohana means family and family means nobody gets left behind or forgotten.
+quote: ""
 linkedinId: ""
 
 ---

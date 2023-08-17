@@ -21,7 +21,7 @@ accomplishments: >-
   * Enabled Care360 integrations for Vault and MTSOC, came up with IHIS reconciliation strategies and improved observability
 
   * Designed and delivered many features in Care360, such as the Rich text editor feature, backend pagination/filter/sort features, and application version mismatch errors. 
-quote: To us, family means putting your arms around each other and being there.
+quote: ""
 linkedinId: ""
 
 ---

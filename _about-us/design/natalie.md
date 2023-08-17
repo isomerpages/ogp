@@ -25,7 +25,7 @@ accomplishments: >-
   * Planned and facilitated ideation methods workshop for Hack for Public Good 2023
 
   * Conducted user research on Covid-19 endemic comms measures and presented findings to senior government leadership to accelerate change in the government communication approach
-quote: Some people are worth melting for.
+quote: ""
 linkedinId: ""
 
 ---

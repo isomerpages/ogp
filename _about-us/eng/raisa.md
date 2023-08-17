@@ -19,7 +19,7 @@ accomplishments: >-
   * Leading engineering process improvements on the Vault engineering team such as engineering learning sessions, tech debt trackers, and cleaner log prefix nomenclature
 
   * Developed initial backend architecture for hackathon project PinPoint 
-quote: Treat your family like friends and your friends like family.
+quote: ""
 linkedinId: ""
 
 ---

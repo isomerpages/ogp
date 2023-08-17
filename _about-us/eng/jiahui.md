@@ -20,8 +20,7 @@ accomplishments: >-
   * Improve team experience through onboarding experience revamp and automation
 
   * HFPG 2023 Venues, Logistics and Merchandise sourcing and execution
-quote: The bond that links your true family is not one of blood, but of respect
-  and joy in each other’s life.
+quote: ""
 linkedinId: ""
 
 ---

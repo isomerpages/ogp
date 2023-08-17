@@ -20,7 +20,7 @@ accomplishments: >-
   * Planned and ran learning month courses and programmes for Product Manager upskilling
 
   * Worked with a team of PMs to design and run ProductUp, a product management 101 workshop for senior government leaders
-quote: Family is not an important thing. It’s everything.
+quote: ""
 linkedinId: ""
 
 ---

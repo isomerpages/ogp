@@ -10,8 +10,7 @@ functionId: design
 jobTitle: Product Design Manager
 curProducts:
   - Head of Product Design
-pastProducts:
-  - pastProducts
+pastProducts: []
 accomplishments: >-
   * Grew the OGP Product Design team, including setting up new UX writing and UX
   research functions

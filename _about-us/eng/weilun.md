@@ -10,11 +10,9 @@ functionId: eng
 jobTitle: Software Engineer
 curProducts:
   - ParkingSG
-pastProducts:
-  - pastProducts
+pastProducts: []
 accomplishments: i'm new, watch this space!
-quote: "Blended families: woven together by choice, strengthened together by
-  love, tested by everything, and each uniquely ours."
+quote: ""
 linkedinId: ""
 
 ---

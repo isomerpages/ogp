@@ -18,7 +18,7 @@ accomplishments: |-
   * Led research and design of CDC vouchers 2023 resident digital experience
   * Generalised and scaled RedeemSG beyond CDC campaigns
   * Led discussions leading to the scope of features to prioritise for Pair MVP
-quote: Family is the heart of a home.
+quote: ""
 linkedinId: ""
 
 ---

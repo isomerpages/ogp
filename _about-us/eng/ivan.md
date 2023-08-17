@@ -20,7 +20,7 @@ accomplishments: >-
   * Taking ownership of onboarding new engineers and facilitating discussions and learnings within the team, creating a more collaborative learning environment within Redeem engineering.
 
   * Taking on the role of product manager and designer for Plague during the hackathon, forming the product vision, conducting user interviews, prioritizing tasks, and conducting pitches.
-quote: Nothing is better than going home to family and eating good food and relaxing
+quote: ""
 linkedinId: ""
 
 ---

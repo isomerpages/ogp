@@ -29,8 +29,7 @@ accomplishments: >-
   * Provided team leadership by setting up on-call and production support rotation model for Vault team to address knowledge silos and maintenance work distribution
 
   * Diagnosed the root cause of Vault 1.0 admin dashboard inability to load being the rapid expansion of audit logs and automated the transfer of API-generated logs to CloudWatch, reducing the amount of logs by 90% and restoring services back to normal. 
-quote: This is my family. I found it all on my own. It’s little, and broken, but
-  still good. Yeah. Still good.
+quote: ""
 linkedinId: ""
 
 ---

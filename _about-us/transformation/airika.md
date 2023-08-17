@@ -8,13 +8,11 @@ name: Airika Takeguchi
 joinDate: June 12, 2023
 functionId: transformation
 jobTitle: Senior Manager (Policy)
-curProducts:
-  - currentProducts
+curProducts: []
 pastProducts:
   - Policy & Partnerships
 accomplishments: i'm new, watch this space!
-quote: The bond that links your true family is not one of blood, but of respect
-  and joy in each other’s life.
+quote: ""
 linkedinId: ""
 
 ---

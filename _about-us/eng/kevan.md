@@ -8,8 +8,7 @@ name: Kevan Tan
 joinDate: March 20, 2023
 functionId: eng
 jobTitle: Senior Software Engineer
-curProducts:
-  - currentProducts
+curProducts: []
 pastProducts:
   - DistributeSG
   - Redeem
@@ -21,8 +20,7 @@ accomplishments: >-
   * Implemented the PaySG frontend application and was involved in the design of the overall architecture
 
   * Integrated merchants into RedeemSG
-quote: The bond that links your true family is not one of blood, but of respect
-  and joy in each other’s life.
+quote: ""
 linkedinId: ""
 
 ---

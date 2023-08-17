@@ -19,8 +19,7 @@ accomplishments: >-
   * Help rest of OGP gain exposure to and integrate with the rest of Government e.g. Public Service learning journeys and onboarding
 
   * Closer integration of policy, ops and technology via vertically integrated teams e.g. ScamTech team
-quote: The informality of family life is a blessed condition that allows us all
-  to become our best while looking our worst.
+quote: ""
 linkedinId: ""
 
 ---

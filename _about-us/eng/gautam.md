@@ -10,12 +10,9 @@ functionId: eng
 jobTitle: Software Engineer
 curProducts:
   - Armoury
-pastProducts:
-  - pastProducts
+pastProducts: []
 accomplishments: i'm new, watch this space!
-quote: Family isn’t always blood. It’s the people in your life who want you in
-  theirs; the ones who accept you for who you are. The ones that would do
-  anything to see you smile and who love you no matter what.
+quote: ""
 linkedinId: ""
 
 ---

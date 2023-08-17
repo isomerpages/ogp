@@ -10,10 +10,9 @@ functionId: eng
 jobTitle: Lead Software Engineer
 curProducts:
   - Phonebook
-pastProducts:
-  - pastProducts
+pastProducts: []
 accomplishments: i'm new, watch this space!
-quote: It didn’t matter how big our house was; it mattered that there was love in it.
+quote: ""
 linkedinId: ""
 
 ---

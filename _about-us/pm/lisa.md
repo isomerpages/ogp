@@ -27,9 +27,7 @@ accomplishments: >-
   * Launched Scheduled Sending on Postman, a top-requested feature from users
 
   * Deprecated Touchpoint successfully with minimal disruption to business stakeholders and users
-quote: Family isn’t always blood. It’s the people in your life who want you in
-  theirs; the ones who accept you for who you are. The ones that would do
-  anything to see you smile and who love you no matter what.
+quote: ""
 linkedinId: ""
 
 ---

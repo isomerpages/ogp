@@ -13,7 +13,7 @@ curProducts:
 pastProducts:
   - Scamshield
 accomplishments: i'm new, watch this space!
-quote: Family is not defined by our genes, it is built and maintained through love.
+quote: ""
 linkedinId: ""
 
 ---

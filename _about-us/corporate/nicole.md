@@ -8,12 +8,11 @@ name: Nicole Loh
 joinDate: August 1, 2023
 functionId: corporate
 jobTitle: Senior Manager (Marketing)
-curProducts:
-  - currentProducts
+curProducts: []
 pastProducts:
   - Marketing
 accomplishments: i'm new, watch this space!
-quote: Nothing is better than going home to family and eating good food and relaxing
+quote: ""
 linkedinId: ""
 
 ---

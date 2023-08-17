@@ -26,7 +26,7 @@ accomplishments: >
   * Sought out solutions that minimized engineering work.
 
   * Worked with product team gain better insights which allowed better user behaviour analysis to then optimise workflow.
-quote: Families are like fudge – mostly sweet with a few nuts.
+quote: ""
 linkedinId: ""
 
 ---

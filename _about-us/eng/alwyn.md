@@ -31,7 +31,7 @@ accomplishments: >-
   * Rewrote Armoury with focus on generic use cases
 
   * DevRelations POC for OGP in numerous events including NUS LifeHack, Build for Good & Tech for Public Good
-quote: To us, family means putting your arms around each other and being there.
+quote: ""
 linkedinId: ""
 
 ---

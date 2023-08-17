@@ -22,7 +22,7 @@ accomplishments: >-
   * Improved email sending time latency by 10x through leading the investigation into the matter and rectifying the root cause (migrating AWS email sending services from US to SG)
 
   * Worked on CertSG and Checkpoint as part of HFPG'23
-quote: The memories we make with our family is everything.
+quote: ""
 linkedinId: ""
 
 ---

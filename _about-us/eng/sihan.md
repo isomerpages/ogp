@@ -19,8 +19,7 @@ accomplishments: >-
   * Built and optimised a feature for a folder view on Data Gov, enabling users to toggle between different resources. 
 
   * Optimized the performance of the new site, implemented load testing, optimized page load and reduced render time to less than 20% of the original load time for large datasets.
-quote: The family is the test of freedom; because the family is the only thing
-  that the free man makes for himself and by himself.
+quote: ""
 linkedinId: ""
 
 ---

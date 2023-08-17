@@ -8,8 +8,7 @@ name: Kok Seng Chiew
 joinDate: March 20, 2023
 functionId: eng
 jobTitle: Software Engineer
-curProducts:
-  - currentProducts
+curProducts: []
 pastProducts:
   - sgID
   - CalSG
@@ -18,7 +17,7 @@ accomplishments: >-
   roll-out plan to users
 
   * Worked on CalSG to improve the functionality of slot booking and onboarding flow
-quote: Rejoice with your family in the beautiful land of life.
+quote: ""
 linkedinId: ""
 
 ---

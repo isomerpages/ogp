@@ -20,8 +20,7 @@ accomplishments: >-
   * Scoped and defined the whitelisting feature for RedeemSG, and moved closer toward generalising RedeemSG for different use cases
 
   * Coordinated several initiatives to aid the product management function across OGP, including coordinating Twilio senderID registration across OGP as well as consolidating VAPT master lists and recommendations
-quote: Families are the compass that guides us. They are the inspiration to
-  reach great heights, and our comfort when we occasionally falter.
+quote: ""
 linkedinId: ""
 
 ---

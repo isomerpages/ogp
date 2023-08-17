@@ -25,7 +25,7 @@ accomplishments: >-
   * Wrote complex features into FormSG Payments to enable agency's accounts to their FormSG. 
 
   * Worked on Care360 to optimise user experience by reducing lag and improved frontend application usage.
-quote: Being part of a family means smiling for photos.
+quote: ""
 linkedinId: ""
 
 ---

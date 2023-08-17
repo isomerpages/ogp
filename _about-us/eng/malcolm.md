@@ -8,12 +8,11 @@ name: Malcolm Ong
 joinDate: July 17, 2023
 functionId: eng
 jobTitle: Software Engineer
-curProducts:
-  - currentProducts
+curProducts: []
 pastProducts:
   - Plumber
 accomplishments: i'm new, watch this space!
-quote: Family and friendships are two of the greatest facilitators of happiness.
+quote: ""
 linkedinId: ""
 
 ---

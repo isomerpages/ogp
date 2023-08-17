@@ -8,12 +8,11 @@ name: Si Mun Tham
 joinDate: June 12, 2023
 functionId: eng
 jobTitle: Software Engineer
-curProducts:
-  - currentProducts
+curProducts: []
 pastProducts:
   - Go
 accomplishments: i'm new, watch this space!
-quote: In time of test, family is best.
+quote: ""
 linkedinId: ""
 
 ---

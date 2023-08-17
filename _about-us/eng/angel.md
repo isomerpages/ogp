@@ -8,12 +8,11 @@ name: Angel Suhardi
 joinDate: January 3, 2023
 functionId: eng
 jobTitle: Lead Software Engineer
-curProducts:
-  - currentProducts
+curProducts: []
 pastProducts:
   - HAS
 accomplishments: i'm new, watch this space!
-quote: Families are like fudge – mostly sweet with a few nuts.
+quote: ""
 linkedinId: ""
 
 ---

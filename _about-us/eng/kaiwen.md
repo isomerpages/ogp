@@ -21,8 +21,7 @@ accomplishments: >-
   * Served as the subject matter expert on mobile app development across OGP, consulting on multiple products and driving discussions with Apple on OGP organisation accounts
 
   * Worked with the other FinTech team members to drive a strong team culture of user-centricity, iterativeness, and cross-functional collaboration
-quote: Our family is a circle of strength of love with every birth and every
-  union the circle grows.
+quote: ""
 linkedinId: ""
 
 ---

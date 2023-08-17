@@ -20,8 +20,7 @@ accomplishments: >-
   * Created Python scripts to generate recipients for post-incident communication, improving team efficiency and reducing time taken to get in touch with affected users. 
 
   * Made significant contributions to Build Your Own Singaporean, broke down engineering tasks, implemented the scenes and spots feature, and also explored new technologies for the database. 
-quote: There is no doubt that it is around the family and the home that all the
-  greatest virtues… are created, strengthened and maintained.
+quote: ""
 linkedinId: ""
 
 ---

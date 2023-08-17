@@ -8,13 +8,11 @@ name: Tiffany Chan
 joinDate: May 15, 2023
 functionId: design
 jobTitle: Product Designer
-curProducts:
-  - currentProducts
+curProducts: []
 pastProducts:
   - i'm new, watch this space!
 accomplishments: i'm new, watch this space!
-quote: Families are the compass that guides us. They are the inspiration to
-  reach great heights, and our comfort when we occasionally falter.
+quote: ""
 linkedinId: ""
 
 ---

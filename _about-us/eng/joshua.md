@@ -21,8 +21,7 @@ accomplishments: >-
   *   Backend finance process automations
 
   *   Finance sprint to consolidate and visualise finance data to track OGP expenditure by team
-quote: "Call it a clan, call it a network, call it a tribe, call it a family:
-  Whatever you call it, whoever you are, you need one."
+quote: ""
 linkedinId: ""
 
 ---

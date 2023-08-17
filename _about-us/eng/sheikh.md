@@ -23,7 +23,7 @@ accomplishments: >-
   * Mentorship and leadership roles in guiding more junior members of the team for Redeem team. 
 
   * Migrated Pair into a more production ready setup.
-quote: The memories we make with our family is everything.
+quote: ""
 linkedinId: ""
 
 ---

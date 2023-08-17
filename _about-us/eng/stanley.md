@@ -23,7 +23,7 @@ accomplishments: >
   * Improved system capacity for Postman in terms of message sending throughput, callback load handling, and report generation
 
   * Campaign management feature for Postman
-quote: The family is one of nature’s masterpieces.
+quote: ""
 linkedinId: ""
 
 ---

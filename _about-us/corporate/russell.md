@@ -10,8 +10,7 @@ functionId: corporate
 jobTitle: Head of People
 curProducts:
   - Head of People Team
-pastProducts:
-  - pastProducts
+pastProducts: []
 accomplishments: >-
   * Grew the People team from an individual contributor practice to a team of 4
   today

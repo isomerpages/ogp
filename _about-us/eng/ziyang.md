@@ -8,8 +8,7 @@ name: Zi Yang See
 joinDate: January 16, 2023
 functionId: eng
 jobTitle: Software Engineer
-curProducts:
-  - currentProducts
+curProducts: []
 pastProducts:
   - AskGov
 accomplishments: >-
@@ -20,7 +19,7 @@ accomplishments: >-
   * Improved the search functionality and revamped the admin portal, empowering admins to do more on their agency page and allowing product operations to be conducted more efficiently
 
   * Took charge and addressed various security and privacy issues raised during vulnerability assessments/penetration testing to ensure that AskGov is secure and compliant with regulations.
-quote: Some people are worth melting for.
+quote: ""
 linkedinId: ""
 
 ---

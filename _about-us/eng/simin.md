@@ -10,10 +10,9 @@ functionId: eng
 jobTitle: Software Engineer
 curProducts:
   - ActiveSG
-pastProducts:
-  - pastProducts
+pastProducts: []
 accomplishments: i'm new, watch this space!
-quote: Ohana means family and family means nobody gets left behind or forgotten.
+quote: ""
 linkedinId: ""
 
 ---

@@ -21,9 +21,7 @@ accomplishments: >-
   * Convinced health institutions to pilot products that help with diverting non-emergency cases away from emergency departments and towards GPs.
 
   * Led the product management team through an SG2030 sprint / visioning workshop.
-quote: Family isn’t always blood. It’s the people in your life who want you in
-  theirs; the ones who accept you for who you are. The ones that would do
-  anything to see you smile and who love you no matter what.
+quote: ""
 linkedinId: ""
 
 ---

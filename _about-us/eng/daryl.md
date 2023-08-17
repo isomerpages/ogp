@@ -21,7 +21,7 @@ accomplishments: >
   * Care360 frontend infrastructure work by improving Care360’s frontend performance and reliability.
 
   * Production incidents on-call for Covid-ops.
-quote: Family is family.
+quote: ""
 linkedinId: ""
 
 ---

@@ -8,12 +8,10 @@ name: Sufyan Bin Selamet
 joinDate: August 7, 2023
 functionId: design
 jobTitle: Senior Product Desginer
-curProducts:
-  - currentProducts
-pastProducts:
-  - pastProducts
+curProducts: []
+pastProducts: []
 accomplishments: i'm new, watch this space!
-quote: Other things may change us, but we start and end with the family.
+quote: ""
 linkedinId: ""
 
 ---

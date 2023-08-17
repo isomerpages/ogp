@@ -25,7 +25,7 @@ accomplishments: |-
   * Worked on and helped to launch Plumber
   * Launched OpenSpace
   * Explored different frameworks and tools, prorotyped and revamp Starter Kit
-quote: A happy family is but an earlier heaven.
+quote: ""
 linkedinId: ""
 
 ---

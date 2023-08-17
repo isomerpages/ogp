@@ -8,12 +8,11 @@ name: Darren Ng
 joinDate: July 24, 2023
 functionId: design
 jobTitle: Lead Product Manager
-curProducts:
-  - currentProducts
+curProducts: []
 pastProducts:
   - UX Research
 accomplishments: i'm new, watch this space!
-quote: Family and friends are hidden treasures, seek them and enjoy their riches.
+quote: ""
 linkedinId: ""
 
 ---

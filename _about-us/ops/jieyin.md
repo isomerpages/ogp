@@ -8,12 +8,11 @@ name: Jie Yin Tan
 joinDate: June 26, 2023
 functionId: ops
 jobTitle: Product Operations Specialist
-curProducts:
-  - currentProducts
+curProducts: []
 pastProducts:
   - Pair
 accomplishments: i'm new, watch this space!
-quote: When trouble comes, it’s your family that supports you.
+quote: ""
 linkedinId: ""
 
 ---

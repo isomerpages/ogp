@@ -22,7 +22,7 @@ accomplishments: >-
   * Contributed to the OGP design system to increase design efficiency across the whole of OGP
 
   * Presented on Scamshield for Android at Friends of Figma
-quote: Family gives you the roots to stand tall and strong.
+quote: ""
 linkedinId: ""
 
 ---

@@ -24,7 +24,7 @@ accomplishments: >-
   * Worked in cloud-first architecture policies for IM8 to accelerate modern engineering practices across government
 
   * Provided expertise and consultation to the Digital Intelligence Service on tech hiring
-quote: Family is not defined by our genes, it is built and maintained through love.
+quote: ""
 linkedinId: ""
 
 ---

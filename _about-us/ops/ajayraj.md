@@ -19,7 +19,7 @@ accomplishments: |-
   * Scoped and secured new agencies to AskGov
   * Debugged AskGov and managed onboarding for new users
   * Migrated AskGov Portal 1.0 to Portal 2.0
-quote: Family and friendships are two of the greatest facilitators of happiness.
+quote: ""
 linkedinId: ""
 
 ---

@@ -10,8 +10,7 @@ functionId: eng
 jobTitle: Software Engineer
 curProducts:
   - Go.gov.sg
-pastProducts:
-  - pastProducts
+pastProducts: []
 accomplishments: >
   * Technical contributions to Pouch; Created file & folder creation components,
   dashboard & user storage consumption component
@@ -21,8 +20,7 @@ accomplishments: >
   * Participated in pair-programming with other engineers for features such as:
 
   Breadcrumbs navigation
-quote: The informality of family life is a blessed condition that allows us all
-  to become our best while looking our worst.
+quote: ""
 linkedinId: ""
 
 ---

@@ -23,7 +23,7 @@ accomplishments: >-
   * Onboarded new engineers to mc.gov.sg to reduce bus factor
 
   * Migrated CalSG to new infrastructure
-quote: The most important thing in the world is family and love.
+quote: ""
 linkedinId: ""
 
 ---

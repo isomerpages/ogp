@@ -12,15 +12,14 @@ curProducts:
   - Senior Engineering Manager
   - Primary Care
   - Care360
-pastProducts:
-  - pastProducts
+pastProducts: []
 accomplishments: >
   * Migrated Care360
 
   * Served as feature captain for this entire Epic to manage the entire project, and also integrated HSAR and SmartCMS which impacts transparency in the healthcare sector
 
   * Served as the main person of contact for VAPT
-quote: Happiness is having a large, loving, caring, close-knit family in another city.
+quote: ""
 linkedinId: ""
 
 ---

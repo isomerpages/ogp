@@ -8,15 +8,13 @@ name: Clifford Teo
 joinDate: May 29, 2023
 functionId: corporate
 jobTitle: Senior Manager (People)
-curProducts:
-  - currentProducts
+curProducts: []
 pastProducts:
   - techhiring.open.gov.sg
   - OGP hiring
   - Team health dashboards and interventions
 accomplishments: i'm new, watch this space!
-quote: The family – that dear octopus from whose tentacles we never quite
-  escape, nor, in our inmost hearts, ever quite wish to.
+quote: ""
 linkedinId: ""
 
 ---

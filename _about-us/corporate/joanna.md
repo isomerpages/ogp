@@ -8,8 +8,7 @@ name: Joanna Lo
 joinDate: March 27, 2023
 functionId: corporate
 jobTitle: Manager (People)
-curProducts:
-  - currentProducts
+curProducts: []
 pastProducts:
   - techhiring.open.gov.sg
   - Onboarding/Offboarding experience
@@ -20,8 +19,7 @@ accomplishments: >-
   * Helped to plan and run the TFPG candidate marketing bootcamp to help 13 agencies improve tech hiring efforts
 
   * Overhauled OGP's employment letter templates for greater operational efficiency and clarity
-quote: "Family: A social unit where the father is concerned with parking space,
-  the children with outer space, and the mother with closet space."
+quote: ""
 linkedinId: ""
 
 ---

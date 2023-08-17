@@ -19,8 +19,7 @@ accomplishments: >-
   * Contributed to Isomer's security and productivity: delivered PR on integrating with CloudMersive API for virus scanning when uploading files by users
 
   * Ensured compliance with CSA's requirement and working with OnePA
-quote: The family – that dear octopus from whose tentacles we never quite
-  escape, nor, in our inmost hearts, ever quite wish to.
+quote: ""
 linkedinId: ""
 
 ---

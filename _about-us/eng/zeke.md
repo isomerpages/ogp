@@ -10,11 +10,9 @@ functionId: eng
 jobTitle: Software Engineer
 curProducts:
   - PaySG
-pastProducts:
-  - pastProducts
+pastProducts: []
 accomplishments: i'm new, watch this space!
-quote: There is no doubt that it is around the family and the home that all the
-  greatest virtues… are created, strengthened and maintained.
+quote: ""
 linkedinId: ""
 
 ---

@@ -19,7 +19,7 @@ accomplishments: >-
   * Proposed and implemented Datadog for RedeemSG, leading to org-wide implementation
 
   * Established front-end coding standards for RedeemSG
-quote: Nothing is better than going home to family and eating good food and relaxing
+quote: ""
 linkedinId: ""
 
 ---

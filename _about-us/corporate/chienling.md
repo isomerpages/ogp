@@ -22,7 +22,7 @@ accomplishments: >-
   *   Set-up and launched OGP’s allocation framework for hiring
 
   *   Did the bulk of hiring operations and pipeline management to grow OGP by more than 100 people from 2022-2023
-quote: To us, family means putting your arms around each other and being there.
+quote: ""
 linkedinId: ""
 
 ---

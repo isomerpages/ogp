@@ -10,11 +10,9 @@ functionId: pm
 jobTitle: Senior Product Manager
 curProducts:
   - PaySG
-pastProducts:
-  - pastProducts
+pastProducts: []
 accomplishments: i'm new, watch this space!
-quote: Our family is a circle of strength of love with every birth and every
-  union the circle grows.
+quote: ""
 linkedinId: ""
 
 ---

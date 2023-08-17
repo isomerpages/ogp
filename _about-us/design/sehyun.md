@@ -8,13 +8,11 @@ name: Se Hyun Park
 joinDate: July 17, 2023
 functionId: design
 jobTitle: Product Designer
-curProducts:
-  - currentProducts
+curProducts: []
 pastProducts:
   - "-"
 accomplishments: i'm new, watch this space!
-quote: It’s all about the quality of life and finding a happy balance between
-  work and friends and family.
+quote: ""
 linkedinId: ""
 
 ---

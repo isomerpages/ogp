@@ -20,7 +20,7 @@ accomplishments: >-
   * Led accessibility efforts for FormSG
 
   * Led design and UX research for Plumber
-quote: Family and friendships are two of the greatest facilitators of happiness.
+quote: ""
 linkedinId: ""
 
 ---

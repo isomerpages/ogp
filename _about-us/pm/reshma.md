@@ -19,8 +19,7 @@ accomplishments: >-
   * Successfully trained the supermarket chief cashiers, CA/DAs, and PA staff for CDC Tranche 3, and coordinated with PA, IMDA, and supermarkets on training sessions.
 
   * Led the product vision and MVP scoping Hackathon projectPaws Together
-quote: My family is my life, and everything else comes second as far as what’s
-  important to me.
+quote: ""
 linkedinId: ""
 
 ---

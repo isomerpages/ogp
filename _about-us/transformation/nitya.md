@@ -20,7 +20,7 @@ accomplishments: >-
   * Launched OGP's inaugural board of advisors
 
   * Collaborated with MINDEF/DIS to accelerate the formation and development of tech teams and capabilities
-quote: Happiness is having a large, loving, caring, close-knit family in another city.
+quote: ""
 linkedinId: ""
 
 ---

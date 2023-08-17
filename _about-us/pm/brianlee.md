@@ -10,15 +10,12 @@ functionId: pm
 jobTitle: Senior Product Manager
 curProducts:
   - NLB
-pastProducts:
-  - pastProducts
+pastProducts: []
 accomplishments: >-
   * Built seven prototypes for NLB after aligning on initial problem statements
 
   * Built relationships with stakeholders in NLB to understand operations and difficulties on the ground
-quote: Think of your family today and every day thereafter, don’t let the busy
-  world of today keep you from showing how much you love and appreciate your
-  family.
+quote: ""
 linkedinId: ""
 
 ---

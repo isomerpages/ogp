@@ -8,12 +8,10 @@ name: Wen Jia Dong
 joinDate: July 17, 2023
 functionId: design
 jobTitle: Product Designer
-curProducts:
-  - currentProducts
-pastProducts:
-  - pastProducts
+curProducts: []
+pastProducts: []
 accomplishments: i'm new, watch this space!
-quote: Nothing is better than going home to family and eating good food and relaxing
+quote: ""
 linkedinId: ""
 
 ---

@@ -19,7 +19,7 @@ accomplishments: >-
   * Consolidated knowledge management for meetings and engineering self-serviceability under @Care360 meeting notes; actively scribe and consolidate links
 
   * Planned and filmed marketing campaign for Care360 (ref 5 days of care360). Cumulatively >100 views 
-quote: Family is the heart of a home.
+quote: ""
 linkedinId: ""
 
 ---

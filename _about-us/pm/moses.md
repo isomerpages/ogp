@@ -11,11 +11,10 @@ jobTitle: Senior Product Manager
 curProducts:
   - Pair
   - sgID
-pastProducts:
-  - pastProducts
+pastProducts: []
 accomplishments: "* Led product visioning and the launch of Pair, including
   public-service wide rollout of Pair Chat"
-quote: Family and friends are hidden treasures, seek them and enjoy their riches.
+quote: ""
 linkedinId: ""
 
 ---

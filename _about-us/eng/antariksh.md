@@ -23,8 +23,7 @@ accomplishments: >-
   * Managed the CalSG team and oversaw both engineering and design.
 
   * Led SDK initiative for sgID which was targetted to make the process easier for developers working in common backend languages to implement sgID integrations. 
-quote: The family is the test of freedom; because the family is the only thing
-  that the free man makes for himself and by himself.
+quote: ""
 linkedinId: ""
 
 ---

@@ -19,7 +19,7 @@ accomplishments: >-
   * Implemented tools and processes to make running of experiments and new projects efficient and cost-effective, including monoGo, mono-infra, and an experimental project Kubernetes Cluster
 
   * Launched Pouch for beta testing
-quote: Family is family.
+quote: ""
 linkedinId: ""
 
 ---

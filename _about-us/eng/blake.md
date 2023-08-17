@@ -19,8 +19,7 @@ accomplishments: >-
   * Built, maintained, and owned the infrastructure components of Starter Kit, which allows for anyone to set up a new application easily and quickly. 
 
   * Used his technical expertise to run workshops for hackathon teams regarding infrastructure, and also provided technical guidance to the core HealthTech teams on more complicated technical topics. 
-quote: "Blended families: woven together by choice, strengthened together by
-  love, tested by everything, and each uniquely ours."
+quote: ""
 linkedinId: ""
 
 ---

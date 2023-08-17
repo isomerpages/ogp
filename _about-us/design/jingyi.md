@@ -28,7 +28,7 @@ accomplishments: >-
   * Provided mentorship to a design intern by onboarding them to the OGP design team and Care360, as well as guiding their everyday work and planning for their learning and growth
 
   * Built flows and screens for Highway, and worked with engineering to rapidly develop a prototype, leading to interest from 6 government agencies
-quote: When trouble comes, it’s your family that supports you.
+quote: ""
 linkedinId: ""
 
 ---

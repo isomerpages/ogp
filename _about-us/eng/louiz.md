@@ -20,7 +20,7 @@ accomplishments: >
   * Planned and executed Cure53 evaluation readiness. 
 
   * Contributed to migration operations by writing a script to migrate the majority of financial form data.
-quote: Family is not an important thing. It’s everything.
+quote: ""
 linkedinId: ""
 
 ---

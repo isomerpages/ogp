@@ -22,8 +22,7 @@ accomplishments: >-
   * Provided policy support to Care360, including contributing toward establishing a new legal precedent for the mechanism of consent-taking from patients in healthcare institutions
 
   * Ran HealthTech sprint to enable users from 6 healthcare clusters to initiate new tech workflows in their agencies with OGP products
-quote: The family – that dear octopus from whose tentacles we never quite
-  escape, nor, in our inmost hearts, ever quite wish to.
+quote: ""
 linkedinId: ""
 
 ---

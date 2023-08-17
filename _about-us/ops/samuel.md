@@ -28,7 +28,7 @@ accomplishments: >-
   * Led product operations for ScamShield and sgID
 
   * Doubled the product operations team and established team processes for updates, sharings, and learning coordination
-quote: A happy family is but an earlier heaven.
+quote: ""
 linkedinId: ""
 
 ---

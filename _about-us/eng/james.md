@@ -10,8 +10,7 @@ functionId: eng
 jobTitle: Senior Engineering Manager
 curProducts:
   - Head of Software Engineering
-pastProducts:
-  - pastProducts
+pastProducts: []
 accomplishments: |
   * Managed a team of 18 software engineers.
 quote: I love technology because of its ability to solve problems, and at OGP I

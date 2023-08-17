@@ -22,8 +22,7 @@ accomplishments: >-
   * Launched Scamshield 2.0 SPF dashboard and Scamshield Andriod + iOS App
 
   * Managed nominal roll processing and SMS campaigns for Covid-19 vaccination appointment operations 
-quote: There is no doubt that it is around the family and the home that all the
-  greatest virtues… are created, strengthened and maintained.
+quote: ""
 linkedinId: ""
 
 ---

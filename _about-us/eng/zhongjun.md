@@ -8,12 +8,11 @@ name: Zhong Jun Hsu
 joinDate: July 17, 2023
 functionId: eng
 jobTitle: Software Engineer
-curProducts:
-  - currentProducts
+curProducts: []
 pastProducts:
   - Isomer
 accomplishments: i'm new, watch this space!
-quote: To us, family means putting your arms around each other and being there.
+quote: ""
 linkedinId: ""
 
 ---

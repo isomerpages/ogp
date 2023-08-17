@@ -23,7 +23,7 @@ accomplishments: >
   * Served as an advisor to agencies and banks planning to use Purpose Bound Money (PBM)
 
   * Scoped out Multi-Bank Payouts for RedeemSG
-quote: In time of test, family is best.
+quote: ""
 linkedinId: ""
 
 ---

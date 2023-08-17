@@ -19,8 +19,7 @@ accomplishments: >-
   * Led product marketing launches for products such as Scamshield, For.sg, OGP healthcare product suite.
 
   * Built presence and reputation of OGP in the local tech community through outreach events and collaborations, leading to OGP exceeding our hiring goals.
-quote: The only rock I know that stays steady, the only institution I know that
-  works, is the family.
+quote: ""
 linkedinId: ""
 
 ---

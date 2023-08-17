@@ -8,12 +8,11 @@ name: Lorraine Choo
 joinDate: June 5, 2023
 functionId: eng
 jobTitle: Executive (Corporate Operations)
-curProducts:
-  - currentProducts
+curProducts: []
 pastProducts:
   - Workplace
 accomplishments: i'm new, watch this space!
-quote: It didn’t matter how big our house was; it mattered that there was love in it.
+quote: ""
 linkedinId: ""
 
 ---

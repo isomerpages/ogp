@@ -38,7 +38,7 @@ accomplishments: >-
   * Redesigned the UI of Forms, reviewed PRs and did QAs a designer as well
 
   * Worked on and went through the interview process to hire our first ever Product Design Manager!
-quote: The most important thing in the world is family and love.
+quote: ""
 linkedinId: ""
 
 ---

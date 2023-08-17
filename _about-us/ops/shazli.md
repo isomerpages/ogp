@@ -21,8 +21,7 @@ accomplishments: >-
   * Planned out Project Shipposting, which aims to homgenise the Isomer site infrastructure with the roll-out of the full-fledged CMS.
 
   * Maintained product operations by focusing on corrective support, in order to support a user base  that scaled 4-fold since joining.
-quote: Our family is a circle of strength of love with every birth and every
-  union the circle grows.
+quote: ""
 linkedinId: ""
 
 ---

@@ -19,8 +19,7 @@ accomplishments: >-
   * Tech Lead for hackathon project 'Folk', Folk won the “break the internet” award
 
   * Incorporated Scrum master & agile methodologies to help provide clearer visibility of the engineering progress and workload allocation of the engineers to the product and product operations team
-quote: "Family: A social unit where the father is concerned with parking space,
-  the children with outer space, and the mother with closet space."
+quote: ""
 linkedinId: ""
 
 ---

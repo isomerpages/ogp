@@ -23,8 +23,7 @@ accomplishments: >-
   * Worked on migrations of backend infrastructure onto AWS. 
 
   • Also responsible for monitoring and reviewing security, and resolving vulnerabilities
-quote: Family ties mean that no matter how much you might want to run from your
-  family, you can’t.
+quote: ""
 linkedinId: ""
 
 ---

@@ -23,7 +23,7 @@ accomplishments: >
   * Co-created user research questions and arranged user interviews for hackathon products, MindCraft and WizGov.
 
   * Monitored user feedback, support flow and worked on the visualisation of product feedback and performance using Grafana dashboards for the Go suite.
-quote: We may have our differences, but nothing’s more important than family.
+quote: ""
 linkedinId: ""
 
 ---

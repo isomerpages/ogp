@@ -8,12 +8,11 @@ name: Amitha Fernando
 joinDate: July 17, 2023
 functionId: eng
 jobTitle: Manager (Finance Operations)
-curProducts:
-  - currentProducts
+curProducts: []
 pastProducts:
   - CorpOps
 accomplishments: i'm new, watch this space!
-quote: The most important thing in the world is family and love.
+quote: ""
 linkedinId: ""
 
 ---

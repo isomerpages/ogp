@@ -10,8 +10,7 @@ functionId: ops
 jobTitle: Product Operations Specialist
 curProducts:
   - Vault
-pastProducts:
-  - pastProducts
+pastProducts: []
 accomplishments: >-
   * Increased engagement rates through hands on product demo workshop (564
   attendees in Dec)
@@ -19,8 +18,7 @@ accomplishments: >-
   * Implemented user guide & FAQs for Product resulting in reduction of L1 tickets by 85.9%
 
   * Created FormSG X Workspace pitch deck to highlight Product USPs
-quote: Having somewhere to go is home. Having someone to love is family. And
-  having both is a blessing.
+quote: ""
 linkedinId: ""
 
 ---

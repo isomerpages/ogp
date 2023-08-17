@@ -24,7 +24,7 @@ accomplishments: >-
   * Grew the impact of HAS from 30 appointments per week, to 2000 appointments per week
 
   * Launched Crackdown, a tech solution to help HDB with housing policy enforcement
-quote: It didn’t matter how big our house was; it mattered that there was love in it.
+quote: ""
 linkedinId: ""
 
 ---

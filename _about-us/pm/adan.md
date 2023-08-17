@@ -13,7 +13,7 @@ curProducts:
 pastProducts:
   - Care360
 accomplishments: i'm new, watch this space!
-quote: The memories we make with our family is everything.
+quote: ""
 linkedinId: ""
 
 ---

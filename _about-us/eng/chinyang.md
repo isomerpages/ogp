@@ -8,13 +8,11 @@ name: Chin Yang Oh
 joinDate: March 6, 2023
 functionId: eng
 jobTitle: Senior Software Engineer
-curProducts:
-  - currentProducts
+curProducts: []
 pastProducts:
   - Pair
 accomplishments: i'm new, watch this space!
-quote: Family ties mean that no matter how much you might want to run from your
-  family, you can’t.
+quote: ""
 linkedinId: ""
 
 ---
