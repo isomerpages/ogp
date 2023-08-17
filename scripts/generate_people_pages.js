@@ -24,6 +24,7 @@ const functionNameToFunctionId = {
     'Product Design': 'design',
     'Product Operations': 'ops',
     'Partnerships & Transformation': 'transformation',
+    'Policy & Transformation': 'transformation',
 }
 
 const functionIdToFunctionName = {
@@ -32,7 +33,7 @@ const functionIdToFunctionName = {
     pm: 'Product Management',
     design: 'Product Design',
     ops: 'Product Operations',
-    transformation: 'Partnerships & Transformation',
+    transformation: 'Policy & Transformation',
 }
 
 
