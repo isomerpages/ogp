@@ -6,12 +6,13 @@
     h5.product-category {
       color: #323232;
       font-weight: 600;
+      margin-bottom: 1.25rem;
     }
 
     .products {
-        display: flex;
-        gap: 20px;
-        flex-wrap: wrap;
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
     }
     
     a.product {
@@ -28,13 +29,19 @@
     }
 
     a.product:hover {
-      background-color: #fafafb;
+      border: 1px solid #005DEA;
       text-decoration: none;
     }
 
+    a.product:active {
+      background: rgba(19, 97, 240, 0.12);
+    }
+
     img.product-icon {
-      height: 24px;
-      width: 24px;
+      height: auto;
+      width: auto;
+      max-height: 24px;
+      max-width: 24px;
       margin-top: 0;
       margin-bottom: 0;
       margin-left: 0;
