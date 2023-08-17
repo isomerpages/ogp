@@ -1,13 +1,13 @@
 ---
 title: Benjamin Loh
 permalink: /people/benjaminloh
-description: "Benjamin Loh - Job Title"
+description: "Benjamin Loh - Software Developer"
 third_nav_title: Software Engineering
 staffId: benjaminloh
 name: Benjamin Loh
 joinDate: November 28, 2022
 functionId: eng
-jobTitle: Job Title
+jobTitle: Software Developer
 curProducts:
   - Primary Care
 pastProducts:
@@ -19,8 +19,7 @@ accomplishments: >-
   * Designed and worked on the ORM migration of DigiMC, improving the maintainability of the product
 
   * Developed AttendGov, a hackathon product, worked on the upload flow and DB structure. 
-quote: In family life, love is the oil that eases friction, the cement that
-  binds closer together, and the music that brings harmony.
+quote: A happy family is but an earlier heaven.
 linkedinId: ""
 
 ---

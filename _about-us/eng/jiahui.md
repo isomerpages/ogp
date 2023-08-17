@@ -1,13 +1,13 @@
 ---
-title: Jia Hui
+title: Jia Hui Yap
 permalink: /people/jiahui
-description: "Jia Hui - Job Title"
+description: "Jia Hui Yap - Manager (Corporate Operations)"
 third_nav_title: Software Engineering
 staffId: jiahui
-name: Jia Hui
+name: Jia Hui Yap
 joinDate: September 6, 2021
 functionId: eng
-jobTitle: Job Title
+jobTitle: Manager (Corporate Operations)
 curProducts:
   - Corporate Operations
 pastProducts:
@@ -20,8 +20,8 @@ accomplishments: >-
   * Improve team experience through onboarding experience revamp and automation
 
   * HFPG 2023 Venues, Logistics and Merchandise sourcing and execution
-quote: The only rock I know that stays steady, the only institution I know that
-  works, is the family.
+quote: The bond that links your true family is not one of blood, but of respect
+  and joy in each other’s life.
 linkedinId: ""
 
 ---

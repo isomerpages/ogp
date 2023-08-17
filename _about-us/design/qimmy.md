@@ -1,19 +1,19 @@
 ---
-title: Qimmy
+title: Qimmy Lim
 permalink: /people/qimmy
-description: "Qimmy - Job Title"
+description: "Qimmy Lim - Product Designer"
 third_nav_title: Product Design
 staffId: qimmy
-name: Qimmy
+name: Qimmy Lim
 joinDate: April 3, 2023
 functionId: design
-jobTitle: Job Title
+jobTitle: Product Designer
 curProducts:
   - currentProducts
 pastProducts:
   - SkillsFuture
 accomplishments: i'm new, watch this space!
-quote: The family is one of nature’s masterpieces.
+quote: Family is not an important thing. It’s everything.
 linkedinId: ""
 
 ---

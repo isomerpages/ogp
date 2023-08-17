@@ -1,13 +1,13 @@
 ---
-title: Hygin
+title: Hygin Fernandez
 permalink: /people/hygin
-description: "Hygin - Job Title"
-third_nav_title: Partnerships & Transformation
+description: "Hygin Fernandez - Assistant Director (Policy)"
+third_nav_title: Policy & Transformation
 staffId: hygin
-name: Hygin
+name: Hygin Fernandez
 joinDate: August 1, 2022
 functionId: transformation
-jobTitle: Job Title
+jobTitle: Assistant Director (Policy)
 curProducts:
   - Policy & Transformation
 pastProducts:
@@ -19,8 +19,8 @@ accomplishments: >-
   * Provided product-market fit assessments and recommendations for government tech projects, leading to >S$1M savings
 
   * Helped simplify government senderID registration processes using Postman.gov.sg
-quote: This is my family. I found it all on my own. It’s little, and broken, but
-  still good. Yeah. Still good.
+quote: It’s all about the quality of life and finding a happy balance between
+  work and friends and family.
 linkedinId: ""
 
 ---

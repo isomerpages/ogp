@@ -1,13 +1,13 @@
 ---
-title: Zul
+title: Zul Icksan
 permalink: /people/zulhilmi
-description: "Zul - Job Title"
+description: "Zul Icksan - Senior Product Desginer"
 third_nav_title: Product Design
 staffId: zulhilmi
-name: Zul
+name: Zul Icksan
 joinDate: August 1, 2022
 functionId: design
-jobTitle: Job Title
+jobTitle: Senior Product Desginer
 curProducts:
   - ActiveSG
 pastProducts:
@@ -19,8 +19,7 @@ accomplishments: >-
   * Facilitated a one-week design sprint which led to the birth of Queue, Diverter, and Patient Tracker, and also pushed for the product to be used live by clinics. 
 
   * Strategised the long term vision for HealthTech design, and acceleated the speed of design and development for the consolidated patient and clinic experience.
-quote: It’s all about the quality of life and finding a happy balance between
-  work and friends and family.
+quote: Rejoice with your family in the beautiful land of life.
 linkedinId: ""
 
 ---

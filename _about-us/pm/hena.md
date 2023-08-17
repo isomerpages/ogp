@@ -1,19 +1,27 @@
 ---
-title: Hena
+title: Hena Shah
 permalink: /people/hena
-description: "Hena - Job Title"
+description: "Hena Shah - Product Manager"
 third_nav_title: Product Management
 staffId: hena
-name: Hena
+name: Hena Shah
 joinDate: April 18, 2022
 functionId: pm
-jobTitle: Job Title
+jobTitle: Product Manager
 curProducts:
   - go.gov.sg
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: Treat your family like friends and your friends like family.
+  - EngageSG
+  - Pouch
+accomplishments: >-
+  * Led the GoGov suite expansion into the health sector via ForSG and education
+  sector via ForEduSG.
+
+  * Shaped design and engineering on EngageSG following Hackathon, and has since prepared a roadmap for product iteration.
+
+  * Pursued the idea of file sharing within government, and prototyped Pouch.
+quote: The family is the test of freedom; because the family is the only thing
+  that the free man makes for himself and by himself.
 linkedinId: ""
 
 ---

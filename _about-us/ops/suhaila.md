@@ -1,13 +1,13 @@
 ---
-title: Suhaila
+title: Suhaila Roslan
 permalink: /people/suhaila
-description: "Suhaila - Job Title"
+description: "Suhaila Roslan - Senior Product Operations Specialist"
 third_nav_title: Product Operations
 staffId: suhaila
-name: Suhaila
+name: Suhaila Roslan
 joinDate: April 5, 2021
 functionId: ops
-jobTitle: Job Title
+jobTitle: Senior Product Operations Specialist
 curProducts:
   - Primary Care
 pastProducts:
@@ -24,7 +24,8 @@ accomplishments: >-
   * Established clearer HAS incident management proceures with AIC and HPB, leading to a sharp drop in negative clinic user feedback arising from incidents\\
 
   * Established HAS product operations task process workflows including metric monitoring via Vault, clinic whitelisting, and user support escalation processes
-quote: Family is the heart of a home.
+quote: "Family: A social unit where the father is concerned with parking space,
+  the children with outer space, and the mother with closet space."
 linkedinId: ""
 
 ---

@@ -1,13 +1,13 @@
 ---
-title: Kok Seng
+title: Kok Seng Chiew
 permalink: /people/kokseng
-description: "Kok Seng - Job Title"
+description: "Kok Seng Chiew - Software Engineer"
 third_nav_title: Software Engineering
 staffId: kokseng
-name: Kok Seng
+name: Kok Seng Chiew
 joinDate: March 20, 2023
 functionId: eng
-jobTitle: Job Title
+jobTitle: Software Engineer
 curProducts:
   - currentProducts
 pastProducts:
@@ -18,8 +18,7 @@ accomplishments: >-
   roll-out plan to users
 
   * Worked on CalSG to improve the functionality of slot booking and onboarding flow
-quote: The family – that dear octopus from whose tentacles we never quite
-  escape, nor, in our inmost hearts, ever quite wish to.
+quote: Rejoice with your family in the beautiful land of life.
 linkedinId: ""
 
 ---

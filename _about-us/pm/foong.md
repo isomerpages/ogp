@@ -1,20 +1,20 @@
 ---
 title: Foong Yi Zhuan
 permalink: /people/foong
-description: "Foong Yi Zhuan - Job Title"
+description: "Foong Yi Zhuan - Senior Product Manager"
 third_nav_title: Product Management
 staffId: foong
 name: Foong Yi Zhuan
 joinDate: July 17, 2023
 functionId: pm
-jobTitle: Job Title
+jobTitle: Senior Product Manager
 curProducts:
   - currentProducts
 pastProducts:
   - Vault
 accomplishments: i'm new, watch this space!
-quote: In family life, love is the oil that eases friction, the cement that
-  binds closer together, and the music that brings harmony.
+quote: The only rock I know that stays steady, the only institution I know that
+  works, is the family.
 linkedinId: ""
 
 ---

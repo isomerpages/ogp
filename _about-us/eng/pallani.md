@@ -1,13 +1,13 @@
 ---
-title: Pallani
+title: Pallani s/o Selvan
 permalink: /people/pallani
-description: "Pallani - Job Title"
+description: "Pallani s/o Selvan - Lead Software Engineer"
 third_nav_title: Software Engineering
 staffId: pallani
-name: Pallani
+name: Pallani s/o Selvan
 joinDate: May 11, 2015
 functionId: eng
-jobTitle: Job Title
+jobTitle: Lead Software Engineer
 curProducts:
   - Senior Engineering Manager
   - Scamtech
@@ -31,8 +31,8 @@ accomplishments: >-
   * Worked with the Lead PM on product team vision, goals, and resourcing, as well as building a strong team culture of cross-functional collaboration and mission-focus.
 
   * Provided guidance on critical product and engineering decisions for Redeem.gov.sg, Data.gov.sg, Project Orchid, Pair, Plague, and Parking.sg.
-quote: "Blended families: woven together by choice, strengthened together by
-  love, tested by everything, and each uniquely ours."
+quote: At OGP, I have the space and autonomy to build any product that will
+  improve the lives of people in Singapore
 linkedinId: ""
 
 ---

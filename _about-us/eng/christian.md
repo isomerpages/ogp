@@ -1,20 +1,25 @@
 ---
-title: Christian
+title: Christian Chow
 permalink: /people/christian
-description: "Christian - Job Title"
+description: "Christian Chow - Software Engineer"
 third_nav_title: Software Engineering
 staffId: christian
-name: Christian
+name: Christian Chow
 joinDate: November 28, 2022
 functionId: eng
-jobTitle: Job Title
+jobTitle: Software Engineer
 curProducts:
   - Scamshield
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: Family ties mean that no matter how much you might want to run from your
-  family, you can’t.
+  - Scamshield
+accomplishments: >
+  * Created a Telegram bot tool for checking scam tactics
+
+  * Scamshield: Implemented overlay to notify users on old versions of the app to update the app
+
+  * Experimented with sentence similarity for classifying incoming free text responses that describe scams
+quote: The informality of family life is a blessed condition that allows us all
+  to become our best while looking our worst.
 linkedinId: ""
 
 ---

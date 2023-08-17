@@ -1,19 +1,19 @@
 ---
-title: Adan
+title: Adan Vielma
 permalink: /people/adan
-description: "Adan - Job Title"
+description: "Adan Vielma - Lead Product Manager"
 third_nav_title: Product Management
 staffId: adan
-name: Adan
+name: Adan Vielma
 joinDate: May 2, 2023
 functionId: pm
-jobTitle: Job Title
+jobTitle: Lead Product Manager
 curProducts:
-  - currentProducts
+  - Care360
 pastProducts:
-  - pastProducts
+  - Care360
 accomplishments: i'm new, watch this space!
-quote: In time of test, family is best.
+quote: The memories we make with our family is everything.
 linkedinId: ""
 
 ---

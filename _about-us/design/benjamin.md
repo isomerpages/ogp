@@ -1,13 +1,13 @@
 ---
-title: Ben
+title: Ben Bowes
 permalink: /people/benjamin
-description: "Ben - Job Title"
+description: "Ben Bowes - Product Design Manager"
 third_nav_title: Product Design
 staffId: benjamin
-name: Ben
+name: Ben Bowes
 joinDate: January 4, 2022
 functionId: design
-jobTitle: Job Title
+jobTitle: Product Design Manager
 curProducts:
   - Head of Product Design
 pastProducts:
@@ -19,7 +19,8 @@ accomplishments: >-
   * Organised, facilitated, and presented at the Friends of Figma: Inside Design at OGP meet-up
 
   * Provided product leadership and direction to co-lead Armoury during HFPG'23
-quote: Nothing is better than going home to family and eating good food and relaxing
+quote: Knowing that the work we do has an impact on our friends, neighbours, and
+  family.
 linkedinId: ""
 
 ---

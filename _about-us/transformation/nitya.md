@@ -1,13 +1,13 @@
 ---
-title: Nitya
+title: Nitya Menon
 permalink: /people/nitya
-description: "Nitya - Job Title"
-third_nav_title: Partnerships & Transformation
+description: "Nitya Menon - Assist Director (Policy & Transformation)"
+third_nav_title: Policy & Transformation
 staffId: nitya
-name: Nitya
+name: Nitya Menon
 joinDate: February 28, 2022
 functionId: transformation
-jobTitle: Job Title
+jobTitle: Assist Director (Policy & Transformation)
 curProducts:
   - Policy & Transformation
 pastProducts:
@@ -20,7 +20,7 @@ accomplishments: >-
   * Launched OGP's inaugural board of advisors
 
   * Collaborated with MINDEF/DIS to accelerate the formation and development of tech teams and capabilities
-quote: Family is not an important thing. It’s everything.
+quote: Happiness is having a large, loving, caring, close-knit family in another city.
 linkedinId: ""
 
 ---

@@ -1,20 +1,19 @@
 ---
-title: Lorraine
+title: Lorraine Choo
 permalink: /people/lorraine
-description: "Lorraine - Job Title"
+description: "Lorraine Choo - Executive (Corporate Operations)"
 third_nav_title: Software Engineering
 staffId: lorraine
-name: Lorraine
+name: Lorraine Choo
 joinDate: June 5, 2023
 functionId: eng
-jobTitle: Job Title
+jobTitle: Executive (Corporate Operations)
 curProducts:
   - currentProducts
 pastProducts:
   - Workplace
 accomplishments: i'm new, watch this space!
-quote: The only rock I know that stays steady, the only institution I know that
-  works, is the family.
+quote: It didn’t matter how big our house was; it mattered that there was love in it.
 linkedinId: ""
 
 ---

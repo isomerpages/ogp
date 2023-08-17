@@ -1,19 +1,19 @@
 ---
-title: Kishen
+title: Kishen Ashok Kumar
 permalink: /people/kishen
-description: "Kishen - Job Title"
+description: "Kishen Ashok Kumar - Software Engineer"
 third_nav_title: Software Engineering
 staffId: kishen
-name: Kishen
+name: Kishen Ashok Kumar
 joinDate: July 17, 2023
 functionId: eng
-jobTitle: Job Title
+jobTitle: Software Engineer
 curProducts:
   - SGC
 pastProducts:
   - Scamshield
 accomplishments: i'm new, watch this space!
-quote: Being part of a family means smiling for photos.
+quote: Family is not defined by our genes, it is built and maintained through love.
 linkedinId: ""
 
 ---

@@ -1,20 +1,19 @@
 ---
-title: Xing Hao
+title: XingHao Yang
 permalink: /people/xinghao
-description: "Xing Hao - Job Title"
+description: "XingHao Yang - Software Engineer"
 third_nav_title: Software Engineering
 staffId: xinghao
-name: Xing Hao
+name: XingHao Yang
 joinDate: July 17, 2023
 functionId: eng
-jobTitle: Job Title
+jobTitle: Software Engineer
 curProducts:
   - currentProducts
 pastProducts:
   - pastProducts
 accomplishments: i'm new, watch this space!
-quote: My family is my life, and everything else comes second as far as what’s
-  important to me.
+quote: Treat your family like friends and your friends like family.
 linkedinId: ""
 
 ---

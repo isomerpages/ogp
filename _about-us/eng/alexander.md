@@ -1,13 +1,13 @@
 ---
-title: Alex
+title: Alex Lee
 permalink: /people/alexander
-description: "Alex - Job Title"
+description: "Alex Lee - Senior Software Engineer"
 third_nav_title: Software Engineering
 staffId: alexander
-name: Alex
+name: Alex Lee
 joinDate: June 15, 2020
 functionId: eng
-jobTitle: Job Title
+jobTitle: Senior Software Engineer
 curProducts:
   - Isomer
 pastProducts:
@@ -23,8 +23,8 @@ accomplishments: >-
   * Worked on migrations of backend infrastructure onto AWS. 
 
   • Also responsible for monitoring and reviewing security, and resolving vulnerabilities
-quote: Families are the compass that guides us. They are the inspiration to
-  reach great heights, and our comfort when we occasionally falter.
+quote: Family ties mean that no matter how much you might want to run from your
+  family, you can’t.
 linkedinId: ""
 
 ---

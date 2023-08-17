@@ -1,13 +1,13 @@
 ---
-title: Christabel N.
+title: Christabel Neo
 permalink: /people/christabel
-description: "Christabel N. - Job Title"
+description: "Christabel Neo - Senior Software Engineer"
 third_nav_title: Software Engineering
 staffId: christabel
-name: Christabel N.
+name: Christabel Neo
 joinDate: September 17, 2018
 functionId: eng
-jobTitle: Job Title
+jobTitle: Senior Software Engineer
 curProducts:
   - Armoury
 pastProducts:
@@ -22,7 +22,8 @@ accomplishments: >-
   * Launched Scamshield 2.0 SPF dashboard and Scamshield Andriod + iOS App
 
   * Managed nominal roll processing and SMS campaigns for Covid-19 vaccination appointment operations 
-quote: Family is not defined by our genes, it is built and maintained through love.
+quote: There is no doubt that it is around the family and the home that all the
+  greatest virtues… are created, strengthened and maintained.
 linkedinId: ""
 
 ---

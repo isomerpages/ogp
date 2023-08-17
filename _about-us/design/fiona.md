@@ -1,19 +1,20 @@
 ---
-title: Fiona
+title: Fiona Pay
 permalink: /people/fiona
-description: "Fiona - Job Title"
+description: "Fiona Pay - Senior Product Designer"
 third_nav_title: Product Design
 staffId: fiona
-name: Fiona
+name: Fiona Pay
 joinDate: July 24, 2023
 functionId: design
-jobTitle: Job Title
+jobTitle: Senior Product Designer
 curProducts:
   - UX Research
 pastProducts:
   - pastProducts
 accomplishments: i'm new, watch this space!
-quote: The memories we make with our family is everything.
+quote: This is my family. I found it all on my own. It’s little, and broken, but
+  still good. Yeah. Still good.
 linkedinId: ""
 
 ---

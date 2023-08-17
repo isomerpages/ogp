@@ -1,13 +1,13 @@
 ---
-title: Stacey
+title: Stacey Tan
 permalink: /people/stacey
-description: "Stacey - Job Title"
+description: "Stacey Tan - Product Desginer"
 third_nav_title: Product Design
 staffId: stacey
-name: Stacey
+name: Stacey Tan
 joinDate: September 12, 2022
 functionId: design
-jobTitle: Job Title
+jobTitle: Product Desginer
 curProducts:
   - FormSG
 pastProducts:
@@ -20,7 +20,7 @@ accomplishments: >-
   * Led accessibility efforts for FormSG
 
   * Led design and UX research for Plumber
-quote: Some people are worth melting for.
+quote: Family and friendships are two of the greatest facilitators of happiness.
 linkedinId: ""
 
 ---

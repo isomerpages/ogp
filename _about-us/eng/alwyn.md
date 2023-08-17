@@ -1,13 +1,13 @@
 ---
-title: Alwyn
+title: Alwyn Tan
 permalink: /people/alwyn
-description: "Alwyn - Job Title"
+description: "Alwyn Tan - Senior Software Engineer"
 third_nav_title: Software Engineering
 staffId: alwyn
-name: Alwyn
+name: Alwyn Tan
 joinDate: February 6, 2017
 functionId: eng
-jobTitle: Job Title
+jobTitle: Senior Software Engineer
 curProducts:
   - Developer Relations
   - Armoury
@@ -31,7 +31,7 @@ accomplishments: >-
   * Rewrote Armoury with focus on generic use cases
 
   * DevRelations POC for OGP in numerous events including NUS LifeHack, Build for Good & Tech for Public Good
-quote: A happy family is but an earlier heaven.
+quote: To us, family means putting your arms around each other and being there.
 linkedinId: ""
 
 ---

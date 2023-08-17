@@ -1,13 +1,13 @@
 ---
-title: Fabian
+title: Fabian Chia
 permalink: /people/fabian
-description: "Fabian - Job Title"
+description: "Fabian Chia - Software Engineer"
 third_nav_title: Software Engineering
 staffId: fabian
-name: Fabian
+name: Fabian Chia
 joinDate: July 4, 2022
 functionId: eng
-jobTitle: Job Title
+jobTitle: Software Engineer
 curProducts:
   - Redeem
 pastProducts:
@@ -20,7 +20,7 @@ accomplishments: >-
   * Implemented more comprehensive test cases for critical flows and endpoints for Redeem
 
   * Implemented an OGP-wide easily adoptable infrastructure tool for handling Cloudflare outages
-quote: Family is not defined by our genes, it is built and maintained through love.
+quote: The family is one of nature’s masterpieces.
 linkedinId: ""
 
 ---

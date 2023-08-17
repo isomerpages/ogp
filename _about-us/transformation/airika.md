@@ -1,19 +1,20 @@
 ---
-title: Airika
+title: Airika Takeguchi
 permalink: /people/airika
-description: "Airika - Job Title"
-third_nav_title: Partnerships & Transformation
+description: "Airika Takeguchi - Senior Manager (Policy)"
+third_nav_title: Policy & Transformation
 staffId: airika
-name: Airika
+name: Airika Takeguchi
 joinDate: June 12, 2023
 functionId: transformation
-jobTitle: Job Title
+jobTitle: Senior Manager (Policy)
 curProducts:
   - currentProducts
 pastProducts:
   - Policy & Partnerships
 accomplishments: i'm new, watch this space!
-quote: The most important thing in the world is family and love.
+quote: The bond that links your true family is not one of blood, but of respect
+  and joy in each other’s life.
 linkedinId: ""
 
 ---

@@ -1,13 +1,13 @@
 ---
-title: Kevan
+title: Kevan Tan
 permalink: /people/kevan
-description: "Kevan - Job Title"
+description: "Kevan Tan - Senior Software Engineer"
 third_nav_title: Software Engineering
 staffId: kevan
-name: Kevan
+name: Kevan Tan
 joinDate: March 20, 2023
 functionId: eng
-jobTitle: Job Title
+jobTitle: Senior Software Engineer
 curProducts:
   - currentProducts
 pastProducts:
@@ -21,7 +21,8 @@ accomplishments: >-
   * Implemented the PaySG frontend application and was involved in the design of the overall architecture
 
   * Integrated merchants into RedeemSG
-quote: Some people are worth melting for.
+quote: The bond that links your true family is not one of blood, but of respect
+  and joy in each other’s life.
 linkedinId: ""
 
 ---

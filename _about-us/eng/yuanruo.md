@@ -1,13 +1,13 @@
 ---
-title: Yuanruo
+title: Yuanruo Liang
 permalink: /people/yuanruo
-description: "Yuanruo - Job Title"
+description: "Yuanruo Liang - Lead Software Engineer"
 third_nav_title: Software Engineering
 staffId: yuanruo
-name: Yuanruo
+name: Yuanruo Liang
 joinDate: July 1, 2019
 functionId: eng
-jobTitle: Job Title
+jobTitle: Lead Software Engineer
 curProducts:
   - SGID
   - Plumber
@@ -24,8 +24,7 @@ accomplishments: >-
   * Worked in cloud-first architecture policies for IM8 to accelerate modern engineering practices across government
 
   * Provided expertise and consultation to the Digital Intelligence Service on tech hiring
-quote: This is my family. I found it all on my own. It’s little, and broken, but
-  still good. Yeah. Still good.
+quote: Family is not defined by our genes, it is built and maintained through love.
 linkedinId: ""
 
 ---

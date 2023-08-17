@@ -1,13 +1,13 @@
 ---
-title: Cheryl
+title: Cheryl Lee
 permalink: /people/cheryl
-description: "Cheryl - Job Title"
+description: "Cheryl Lee - Senior Manager"
 third_nav_title: Product Management
 staffId: cheryl
-name: Cheryl
+name: Cheryl Lee
 joinDate: February 14, 2022
 functionId: pm
-jobTitle: Job Title
+jobTitle: Senior Manager
 curProducts:
   - Medipay
 pastProducts:
@@ -20,8 +20,8 @@ accomplishments: >-
   * Led the product team for Crackdown to provide HDB with a bird's eye view of unauthorised HDB rentals in Singapore
 
   * Integrated product marketing into the HAS roll-out efforts, leading to widespread media coverage and marketing events to accelerate vaccine appointment booking
-quote: Family ties mean that no matter how much you might want to run from your
-  family, you can’t.
+quote: Being a family means you are a part of something very wonderful. It means
+  you will love and be loved for the rest of your life.
 linkedinId: ""
 
 ---

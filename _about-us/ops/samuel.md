@@ -1,13 +1,13 @@
 ---
-title: Samuel
+title: Samuel Koh
 permalink: /people/samuel
-description: "Samuel - Job Title"
+description: "Samuel Koh - Product Operations Manager"
 third_nav_title: Product Operations
 staffId: samuel
-name: Samuel
+name: Samuel Koh
 joinDate: October 4, 2021
 functionId: ops
-jobTitle: Job Title
+jobTitle: Product Operations Manager
 curProducts:
   - Head of Product Operations
 pastProducts:
@@ -28,8 +28,7 @@ accomplishments: >-
   * Led product operations for ScamShield and sgID
 
   * Doubled the product operations team and established team processes for updates, sharings, and learning coordination
-quote: It’s all about the quality of life and finding a happy balance between
-  work and friends and family.
+quote: A happy family is but an earlier heaven.
 linkedinId: ""
 
 ---

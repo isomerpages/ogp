@@ -1,13 +1,13 @@
 ---
-title: Feli
+title: Feliciana Natali
 permalink: /people/feliciana
-description: "Feli - Job Title"
+description: "Feliciana Natali - Product Desginer"
 third_nav_title: Product Design
 staffId: feliciana
-name: Feli
+name: Feliciana Natali
 joinDate: July 4, 2022
 functionId: design
-jobTitle: Job Title
+jobTitle: Product Desginer
 curProducts:
   - PaySG
 pastProducts:
@@ -18,9 +18,7 @@ pastProducts:
   - Queue
   - Vault
 accomplishments: I'm new, watch this space!
-quote: Think of your family today and every day thereafter, don’t let the busy
-  world of today keep you from showing how much you love and appreciate your
-  family.
+quote: Other things may change us, but we start and end with the family.
 linkedinId: ""
 
 ---

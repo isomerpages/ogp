@@ -1,19 +1,20 @@
 ---
-title: Se Hyun
+title: Se Hyun Park
 permalink: /people/sehyun
-description: "Se Hyun - Job Title"
+description: "Se Hyun Park - Product Designer"
 third_nav_title: Product Design
 staffId: sehyun
-name: Se Hyun
+name: Se Hyun Park
 joinDate: July 17, 2023
 functionId: design
-jobTitle: Job Title
+jobTitle: Product Designer
 curProducts:
   - currentProducts
 pastProducts:
   - "-"
 accomplishments: i'm new, watch this space!
-quote: Family and friends are hidden treasures, seek them and enjoy their riches.
+quote: It’s all about the quality of life and finding a happy balance between
+  work and friends and family.
 linkedinId: ""
 
 ---

@@ -1,19 +1,19 @@
 ---
-title: Jiayee
+title: Jiayee Lim 
 permalink: /people/jiayee
-description: "Jiayee - Job Title"
+description: "Jiayee Lim  - Software Engineer"
 third_nav_title: Software Engineering
 staffId: jiayee
-name: Jiayee
+name: "Jiayee Lim "
 joinDate: June 5, 2023
 functionId: eng
-jobTitle: Job Title
+jobTitle: Software Engineer
 curProducts:
-  - currentProducts
+  - Secure Government Comms
 pastProducts:
-  - pastProducts
+  - Secure Government Comms
 accomplishments: i'm new, watch this space!
-quote: Family and friendships are two of the greatest facilitators of happiness.
+quote: The family is one of nature’s masterpieces.
 linkedinId: ""
 
 ---

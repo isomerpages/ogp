@@ -1,20 +1,20 @@
 ---
-title: Pete
+title: Pete Patanapanlert
 permalink: /people/pete
-description: "Pete - Job Title"
+description: "Pete Patanapanlert - Senior Product Manager"
 third_nav_title: Product Management
 staffId: pete
-name: Pete
+name: Pete Patanapanlert
 joinDate: March 27, 2023
 functionId: pm
-jobTitle: Job Title
+jobTitle: Senior Product Manager
 curProducts:
   - PaySG
 pastProducts:
   - pastProducts
 accomplishments: i'm new, watch this space!
-quote: Being a family means you are a part of something very wonderful. It means
-  you will love and be loved for the rest of your life.
+quote: Our family is a circle of strength of love with every birth and every
+  union the circle grows.
 linkedinId: ""
 
 ---

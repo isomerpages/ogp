@@ -1,10 +1,10 @@
 ---
-title: Tim
+title: Tim Groleau
 permalink: /people/timothee
-description: "Tim - Lead Software Engineer"
+description: "Tim Groleau - Lead Software Engineer"
 third_nav_title: Software Engineering
 staffId: timothee
-name: Tim
+name: Tim Groleau
 joinDate: July 5, 2021
 functionId: eng
 jobTitle: Lead Software Engineer
@@ -26,8 +26,7 @@ accomplishments: >-
   * Led the FormSG engineering team to deliver on payments feature, React migration, SES migration, infrastructure upgrades and internal product operations administration tools
 
   * Reorganised the Forms team to pursue 3 concurrent products: FormSG, Signify, and CheckPoint
-quote: The family – that dear octopus from whose tentacles we never quite
-  escape, nor, in our inmost hearts, ever quite wish to.
+quote: Where there is family, there is love.
 linkedinId: timotheegroleau
 
 ---

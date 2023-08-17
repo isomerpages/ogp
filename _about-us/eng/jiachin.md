@@ -1,13 +1,13 @@
 ---
-title: Jia Chin
+title: Jia Chin Er
 permalink: /people/jiachin
-description: "Jia Chin - Job Title"
+description: "Jia Chin Er - Software Engineer"
 third_nav_title: Software Engineering
 staffId: jiachin
-name: Jia Chin
+name: Jia Chin Er
 joinDate: January 10, 2022
 functionId: eng
-jobTitle: Job Title
+jobTitle: Software Engineer
 curProducts:
   - Isomer
 pastProducts:
@@ -20,7 +20,7 @@ accomplishments: >-
   * Provided teammates with technical feedback and suggested frontend best practices to deliver the Identity epic
 
   * Set up VAPT infrastructure for testing and led bug-fixes and discussions with external parties, resulting in a successful VAPT retest and the major feature (Identity) being able to launch to the public. 
-quote: Families are like fudge – mostly sweet with a few nuts.
+quote: Other things may change us, but we start and end with the family.
 linkedinId: ""
 
 ---

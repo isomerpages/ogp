@@ -1,20 +1,19 @@
 ---
-title: Jess
+title: Jessendra Loke
 permalink: /people/jessendra
-description: "Jess - Job Title"
+description: "Jessendra Loke - Product Manager"
 third_nav_title: Product Management
 staffId: jessendra
-name: Jess
+name: Jessendra Loke
 joinDate: June 13, 2022
 functionId: pm
-jobTitle: Job Title
+jobTitle: Product Manager
 curProducts:
   - AskGov
 pastProducts:
   - pastProducts
 accomplishments: ""
-quote: "Blended families: woven together by choice, strengthened together by
-  love, tested by everything, and each uniquely ours."
+quote: Family is not defined by our genes, it is built and maintained through love.
 linkedinId: ""
 
 ---

@@ -1,20 +1,19 @@
 ---
-title: Nicole
+title: Nicole Loh
 permalink: /people/nicole
-description: "Nicole - Job Title"
+description: "Nicole Loh - Senior Manager (Marketing)"
 third_nav_title: Corporate Team
 staffId: nicole
-name: Nicole
+name: Nicole Loh
 joinDate: August 1, 2023
 functionId: corporate
-jobTitle: Job Title
+jobTitle: Senior Manager (Marketing)
 curProducts:
   - currentProducts
 pastProducts:
   - Marketing
 accomplishments: i'm new, watch this space!
-quote: Being a family means you are a part of something very wonderful. It means
-  you will love and be loved for the rest of your life.
+quote: Nothing is better than going home to family and eating good food and relaxing
 linkedinId: ""
 
 ---

@@ -1,13 +1,13 @@
 ---
-title: Sheikh
+title: Sheikh Bin Mohamed Aneess Alrragi
 permalink: /people/sheikh
-description: "Sheikh - Job Title"
+description: "Sheikh Bin Mohamed Aneess Alrragi - Software Engineer"
 third_nav_title: Software Engineering
 staffId: sheikh
-name: Sheikh
+name: Sheikh Bin Mohamed Aneess Alrragi
 joinDate: September 13, 2021
 functionId: eng
-jobTitle: Job Title
+jobTitle: Software Engineer
 curProducts:
   - Pair
 pastProducts:
@@ -23,7 +23,7 @@ accomplishments: >-
   * Mentorship and leadership roles in guiding more junior members of the team for Redeem team. 
 
   * Migrated Pair into a more production ready setup.
-quote: When trouble comes, it’s your family that supports you.
+quote: The memories we make with our family is everything.
 linkedinId: ""
 
 ---

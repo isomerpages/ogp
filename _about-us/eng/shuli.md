@@ -1,13 +1,13 @@
 ---
-title: Shu Li
+title: Shu Li Teo
 permalink: /people/shuli
-description: "Shu Li - Job Title"
+description: "Shu Li Teo - Software Engineer"
 third_nav_title: Software Engineering
 staffId: shuli
-name: Shu Li
+name: Shu Li Teo
 joinDate: April 20, 2020
 functionId: eng
-jobTitle: Job Title
+jobTitle: Software Engineer
 curProducts:
   - FormSG
 pastProducts:
@@ -25,8 +25,7 @@ accomplishments: >-
   * Led the integration of FormSG with SingPass/CorpPass/MyInfo, including completing the migration of CorpPass to OIDC and decommissioning SingPass/CorpPass SAML support with no downtime.
 
   * Built up engineeringg features for Signify from scratch, including integration with the Sign with SingPass API
-quote: "Family: A social unit where the father is concerned with parking space,
-  the children with outer space, and the mother with closet space."
+quote: We may have our differences, but nothing’s more important than family.
 linkedinId: ""
 
 ---

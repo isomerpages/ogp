@@ -1,13 +1,13 @@
 ---
-title: Steph
+title: Steph Siow
 permalink: /people/stephanie
-description: "Steph - Job Title"
-third_nav_title: Partnerships & Transformation
+description: "Steph Siow - Assist Director (Policy & Transformation)"
+third_nav_title: Policy & Transformation
 staffId: stephanie
-name: Steph
+name: Steph Siow
 joinDate: April 4, 2022
 functionId: transformation
-jobTitle: Job Title
+jobTitle: Assist Director (Policy & Transformation)
 curProducts:
   - Policy & Transformation
 pastProducts:
@@ -19,7 +19,8 @@ accomplishments: >-
   * Help rest of OGP gain exposure to and integrate with the rest of Government e.g. Public Service learning journeys and onboarding
 
   * Closer integration of policy, ops and technology via vertically integrated teams e.g. ScamTech team
-quote: The memories we make with our family is everything.
+quote: The informality of family life is a blessed condition that allows us all
+  to become our best while looking our worst.
 linkedinId: ""
 
 ---

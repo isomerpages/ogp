@@ -1,13 +1,13 @@
 ---
-title: Dat
+title: Dat Le Thanh
 permalink: /people/dat
-description: "Dat - Job Title"
+description: "Dat Le Thanh - Lead Software Engineer"
 third_nav_title: Software Engineering
 staffId: dat
-name: Dat
+name: Dat Le Thanh
 joinDate: June 20, 2022
 functionId: eng
-jobTitle: Job Title
+jobTitle: Lead Software Engineer
 curProducts:
   - go.gov.sg
 pastProducts:
@@ -19,8 +19,7 @@ accomplishments: >-
   * Implemented tools and processes to make running of experiments and new projects efficient and cost-effective, including monoGo, mono-infra, and an experimental project Kubernetes Cluster
 
   * Launched Pouch for beta testing
-quote: There is no doubt that it is around the family and the home that all the
-  greatest virtues… are created, strengthened and maintained.
+quote: Family is family.
 linkedinId: ""
 
 ---

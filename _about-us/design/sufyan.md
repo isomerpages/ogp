@@ -1,19 +1,19 @@
 ---
-title: Sufyan
+title: Sufyan Bin Selamet
 permalink: /people/sufyan
-description: "Sufyan - Job Title"
+description: "Sufyan Bin Selamet - Senior Product Desginer"
 third_nav_title: Product Design
 staffId: sufyan
-name: Sufyan
+name: Sufyan Bin Selamet
 joinDate: August 7, 2023
 functionId: design
-jobTitle: Job Title
+jobTitle: Senior Product Desginer
 curProducts:
   - currentProducts
 pastProducts:
   - pastProducts
 accomplishments: i'm new, watch this space!
-quote: It didn’t matter how big our house was; it mattered that there was love in it.
+quote: Other things may change us, but we start and end with the family.
 linkedinId: ""
 
 ---

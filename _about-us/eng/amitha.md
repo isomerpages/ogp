@@ -1,19 +1,19 @@
 ---
-title: Amitha
+title: Amitha Fernando
 permalink: /people/amitha
-description: "Amitha - Job Title"
+description: "Amitha Fernando - Manager (Finance Operations)"
 third_nav_title: Software Engineering
 staffId: amitha
-name: Amitha
+name: Amitha Fernando
 joinDate: July 17, 2023
 functionId: eng
-jobTitle: Job Title
+jobTitle: Manager (Finance Operations)
 curProducts:
   - currentProducts
 pastProducts:
   - CorpOps
 accomplishments: i'm new, watch this space!
-quote: Where there is family, there is love.
+quote: The most important thing in the world is family and love.
 linkedinId: ""
 
 ---

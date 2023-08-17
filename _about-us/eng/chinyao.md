@@ -1,19 +1,20 @@
 ---
-title: Chinyao
+title: Chinyao Gan
 permalink: /people/chinyao
-description: "Chinyao - Job Title"
+description: "Chinyao Gan - Software Engineer"
 third_nav_title: Software Engineering
 staffId: chinyao
-name: Chinyao
+name: Chinyao Gan
 joinDate: June 19, 2023
 functionId: eng
-jobTitle: Job Title
+jobTitle: Software Engineer
 curProducts:
   - currentProducts
 pastProducts:
   - Phonebook
 accomplishments: i'm new, watch this space!
-quote: Nothing is better than going home to family and eating good food and relaxing
+quote: "Call it a clan, call it a network, call it a tribe, call it a family:
+  Whatever you call it, whoever you are, you need one."
 linkedinId: ""
 
 ---

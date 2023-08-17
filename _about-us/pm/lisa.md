@@ -1,13 +1,13 @@
 ---
-title: Lisa
+title: Lisa Tjide
 permalink: /people/lisa
-description: "Lisa - Job Title"
+description: "Lisa Tjide - Senior Product Manager"
 third_nav_title: Product Management
 staffId: lisa
-name: Lisa
+name: Lisa Tjide
 joinDate: November 26, 2018
 functionId: pm
-jobTitle: Job Title
+jobTitle: Senior Product Manager
 curProducts:
   - Phonebook
 pastProducts:
@@ -27,7 +27,9 @@ accomplishments: >-
   * Launched Scheduled Sending on Postman, a top-requested feature from users
 
   * Deprecated Touchpoint successfully with minimal disruption to business stakeholders and users
-quote: Ohana means family and family means nobody gets left behind or forgotten.
+quote: Family isn’t always blood. It’s the people in your life who want you in
+  theirs; the ones who accept you for who you are. The ones that would do
+  anything to see you smile and who love you no matter what.
 linkedinId: ""
 
 ---

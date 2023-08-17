@@ -1,20 +1,19 @@
 ---
-title: Danelynn
+title: Danelynn Ding
 permalink: /people/danelynn
-description: "Danelynn - Job Title"
+description: "Danelynn Ding - Software Engineer"
 third_nav_title: Software Engineering
 staffId: danelynn
-name: Danelynn
+name: Danelynn Ding
 joinDate: July 17, 2023
 functionId: eng
-jobTitle: Job Title
+jobTitle: Software Engineer
 curProducts:
   - NLB
 pastProducts:
   - pastProducts
 accomplishments: i'm new, watch this space!
-quote: Family ties mean that no matter how much you might want to run from your
-  family, you can’t.
+quote: I didn’t give you the gift of life, but life gave me the gift of you.
 linkedinId: ""
 
 ---

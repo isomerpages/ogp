@@ -1,13 +1,13 @@
 ---
-title: Kar Rui
+title: Kar Rui Lau
 permalink: /people/karrui
-description: "Kar Rui - Job Title"
+description: "Kar Rui Lau - Senior Software Engineer"
 third_nav_title: Software Engineering
 staffId: karrui
-name: Kar Rui
+name: Kar Rui Lau
 joinDate: February 3, 2020
 functionId: eng
-jobTitle: Job Title
+jobTitle: Senior Software Engineer
 curProducts:
   - ActiveSG
 pastProducts:
@@ -25,8 +25,7 @@ accomplishments: >-
   * Wrote complex features into FormSG Payments to enable agency's accounts to their FormSG. 
 
   * Worked on Care360 to optimise user experience by reducing lag and improved frontend application usage.
-quote: "Call it a clan, call it a network, call it a tribe, call it a family:
-  Whatever you call it, whoever you are, you need one."
+quote: Being part of a family means smiling for photos.
 linkedinId: ""
 
 ---

@@ -1,13 +1,13 @@
 ---
-title: Si Han
+title: Si Han Ding
 permalink: /people/sihan
-description: "Si Han - Job Title"
+description: "Si Han Ding - Software Engineer"
 third_nav_title: Software Engineering
 staffId: sihan
-name: Si Han
+name: Si Han Ding
 joinDate: February 27, 2023
 functionId: eng
-jobTitle: Job Title
+jobTitle: Software Engineer
 curProducts:
   - Data Gov
 pastProducts:
@@ -19,7 +19,8 @@ accomplishments: >-
   * Built and optimised a feature for a folder view on Data Gov, enabling users to toggle between different resources. 
 
   * Optimized the performance of the new site, implemented load testing, optimized page load and reduced render time to less than 20% of the original load time for large datasets.
-quote: Other things may change us, but we start and end with the family.
+quote: The family is the test of freedom; because the family is the only thing
+  that the free man makes for himself and by himself.
 linkedinId: ""
 
 ---

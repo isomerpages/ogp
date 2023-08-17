@@ -1,13 +1,13 @@
 ---
-title: Arshad
+title: Arshad s/o Abdul Samad
 permalink: /people/arshad
-description: "Arshad - Job Title"
+description: "Arshad s/o Abdul Samad - Senior Software Engineer"
 third_nav_title: Software Engineering
 staffId: arshad
-name: Arshad
+name: Arshad s/o Abdul Samad
 joinDate: December 13, 2018
 functionId: eng
-jobTitle: Job Title
+jobTitle: Senior Software Engineer
 curProducts:
   - AskGov
 pastProducts:
@@ -26,8 +26,7 @@ accomplishments: >
   * Sought out solutions that minimized engineering work.
 
   * Worked with product team gain better insights which allowed better user behaviour analysis to then optimise workflow.
-quote: The bond that links your true family is not one of blood, but of respect
-  and joy in each other’s life.
+quote: Families are like fudge – mostly sweet with a few nuts.
 linkedinId: ""
 
 ---

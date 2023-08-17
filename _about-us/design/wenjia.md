@@ -1,19 +1,19 @@
 ---
-title: Wen Jia
+title: Wen Jia Dong
 permalink: /people/wenjia
-description: "Wen Jia - Job Title"
+description: "Wen Jia Dong - Product Designer"
 third_nav_title: Product Design
 staffId: wenjia
-name: Wen Jia
+name: Wen Jia Dong
 joinDate: July 17, 2023
 functionId: design
-jobTitle: Job Title
+jobTitle: Product Designer
 curProducts:
   - currentProducts
 pastProducts:
   - pastProducts
 accomplishments: i'm new, watch this space!
-quote: Family gives you the roots to stand tall and strong.
+quote: Nothing is better than going home to family and eating good food and relaxing
 linkedinId: ""
 
 ---

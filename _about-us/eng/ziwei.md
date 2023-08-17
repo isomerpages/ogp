@@ -1,13 +1,13 @@
 ---
-title: Zi Wei
+title: Zi Wei Lim
 permalink: /people/ziwei
-description: "Zi Wei - Job Title"
+description: "Zi Wei Lim - Software Engineer"
 third_nav_title: Software Engineering
 staffId: ziwei
-name: Zi Wei
+name: Zi Wei Lim
 joinDate: July 4, 2022
 functionId: eng
-jobTitle: Job Title
+jobTitle: Software Engineer
 curProducts:
   - go.gov.sg
 pastProducts:
@@ -24,7 +24,7 @@ accomplishments: >-
   * Worked on the frontend and backend of Pouch, and also implemented security classifications for files and folders.
 
   * Implemented the appointment flow and landing page for MediPay, during hackathon.
-quote: In time of test, family is best.
+quote: Life is beautiful. It’s about giving. It’s about family.
 linkedinId: ""
 
 ---

@@ -1,13 +1,13 @@
 ---
-title: Austin
+title: Austin Woon Quan
 permalink: /people/austin
-description: "Austin - Job Title"
+description: "Austin Woon Quan - Software Engineer"
 third_nav_title: Software Engineering
 staffId: austin
-name: Austin
+name: Austin Woon Quan
 joinDate: January 3, 2022
 functionId: eng
-jobTitle: Job Title
+jobTitle: Software Engineer
 curProducts:
   - Care360
 pastProducts:
@@ -21,8 +21,7 @@ accomplishments: >-
   * Enabled Care360 integrations for Vault and MTSOC, came up with IHIS reconciliation strategies and improved observability
 
   * Designed and delivered many features in Care360, such as the Rich text editor feature, backend pagination/filter/sort features, and application version mismatch errors. 
-quote: Being a family means you are a part of something very wonderful. It means
-  you will love and be loved for the rest of your life.
+quote: To us, family means putting your arms around each other and being there.
 linkedinId: ""
 
 ---

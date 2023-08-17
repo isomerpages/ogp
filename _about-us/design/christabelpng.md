@@ -1,13 +1,13 @@
 ---
 title: Christabel Png
 permalink: /people/christabelpng
-description: "Christabel Png - Job Title"
+description: "Christabel Png - Senior Product Designer"
 third_nav_title: Product Design
 staffId: christabelpng
 name: Christabel Png
 joinDate: June 1, 2020
 functionId: design
-jobTitle: Job Title
+jobTitle: Senior Product Designer
 curProducts:
   - Vault
 pastProducts:
@@ -25,7 +25,7 @@ accomplishments: >-
   * Led product design for Vault, including conceptualising and executing UI for all features in Vault Workspace
 
   * Co-organised the 27 April OGP x Singapore Product Design talk to advocate and propagate OGP design practices
-quote: Where there is family, there is love.
+quote: Life is beautiful. It’s about giving. It’s about family.
 linkedinId: ""
 
 ---

@@ -1,21 +1,25 @@
 ---
-title: Amit
+title: Amit Samdarshi
 permalink: /people/amit
-description: "Amit - Job Title"
+description: "Amit Samdarshi - Product Manager"
 third_nav_title: Product Management
 staffId: amit
-name: Amit
+name: Amit Samdarshi
 joinDate: June 6, 2022
 functionId: pm
-jobTitle: Job Title
+jobTitle: Product Manager
 curProducts:
   - FormSG
 pastProducts:
   - Sync
-accomplishments: FormSG achieved React migration, built payments prototype,
-  improved accessibility, launched in Sri Lanka, won awards, and improved team
-  functioning.
-quote: Other things may change us, but we start and end with the family.
+accomplishments: >-
+  * Worked on FormSG and successfully orchestrated React migration
+
+  * Built a FormSG Payments prototype in test mode within 4 days and an MVP capable of real $ transactions within 14 days 
+
+  * Represented the team as keynote speaker at MongoDB day (300+ attendees)
+quote: It’s all about the quality of life and finding a happy balance between
+  work and friends and family.
 linkedinId: ""
 
 ---

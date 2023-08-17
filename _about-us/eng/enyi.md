@@ -1,19 +1,25 @@
 ---
-title: Enyi
+title: Enyi Leong
 permalink: /people/enyi
-description: "Enyi - Job Title"
+description: "Enyi Leong - Software Engineer"
 third_nav_title: Software Engineering
 staffId: enyi
-name: Enyi
+name: Enyi Leong
 joinDate: January 3, 2023
 functionId: eng
-jobTitle: Job Title
+jobTitle: Software Engineer
 curProducts:
   - Primary Care
 pastProducts:
   - pastProducts
-accomplishments: ""
-quote: Treat your family like friends and your friends like family.
+accomplishments: >
+  * Created technical design doc for the SMS preview and
+  rescheduling/cancellation reasons features
+
+  * Implemented landing and booking pages for Screen for life campaign
+
+  * Built the Healthier SG landing page for Health Appointment System
+quote: Where there is family, there is love.
 linkedinId: ""
 
 ---

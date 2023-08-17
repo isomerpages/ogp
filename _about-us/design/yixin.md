@@ -1,13 +1,13 @@
 ---
-title: Yi Xin
+title: Yi Xin Ang
 permalink: /people/yixin
-description: "Yi Xin - Job Title"
+description: "Yi Xin Ang - Lead Product Designer"
 third_nav_title: Product Design
 staffId: yixin
-name: Yi Xin
+name: Yi Xin Ang
 joinDate: March 6, 2023
 functionId: design
-jobTitle: Job Title
+jobTitle: Lead Product Designer
 curProducts:
   - currentProducts
 pastProducts:
@@ -23,8 +23,7 @@ accomplishments: >
   * Launched NEA Campaign. Redeem Digital Vouchers accepted at various retailers (Sheng Siong, Giant, NTUC, Courts, Gain City) 
 
   * Launched CDC Trance 2 in Feb using Distribute app for tracking and new feature for tagging of voucher booklets. 
-quote: This is my family. I found it all on my own. It’s little, and broken, but
-  still good. Yeah. Still good.
+quote: To us, family means putting your arms around each other and being there.
 linkedinId: ""
 
 ---

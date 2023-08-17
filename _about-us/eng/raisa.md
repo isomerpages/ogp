@@ -1,13 +1,13 @@
 ---
-title: Raisa
+title: Raisa Kabir
 permalink: /people/raisa
-description: "Raisa - Job Title"
+description: "Raisa Kabir - Senior Software Engineer"
 third_nav_title: Software Engineering
 staffId: raisa
-name: Raisa
+name: Raisa Kabir
 joinDate: November 21, 2022
 functionId: eng
-jobTitle: Job Title
+jobTitle: Senior Software Engineer
 curProducts:
   - Vault
 pastProducts:
@@ -19,7 +19,7 @@ accomplishments: >-
   * Leading engineering process improvements on the Vault engineering team such as engineering learning sessions, tech debt trackers, and cleaner log prefix nomenclature
 
   * Developed initial backend architecture for hackathon project PinPoint 
-quote: We may have our differences, but nothing’s more important than family.
+quote: Treat your family like friends and your friends like family.
 linkedinId: ""
 
 ---

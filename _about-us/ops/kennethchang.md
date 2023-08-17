@@ -1,13 +1,13 @@
 ---
 title: Kenneth Chang
 permalink: /people/kennethchang
-description: "Kenneth Chang - Job Title"
+description: "Kenneth Chang - Product Operations Specialist"
 third_nav_title: Product Operations
 staffId: kennethchang
 name: Kenneth Chang
 joinDate: April 18, 2022
 functionId: ops
-jobTitle: Job Title
+jobTitle: Product Operations Specialist
 curProducts:
   - FormSG
 pastProducts:
@@ -19,7 +19,7 @@ accomplishments: >-
   * Grew FormSG Office Hours from 15 registrations to 678 registrations, as well as Telegram Form-ally and Formsies to 1035 and 140 subscribers respectively
 
   * Created and trialled webhook workshop to enable 29 non technical form admins to create their own webhooks, with learnings from this workshop informing FormSG roadmap for webhook simplification
-quote: In time of test, family is best.
+quote: Being part of a family means smiling for photos.
 linkedinId: ""
 
 ---

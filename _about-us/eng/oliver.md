@@ -1,13 +1,13 @@
 ---
-title: Oliver
+title: Oliver Chan
 permalink: /people/oliver
-description: "Oliver - Job Title"
+description: "Oliver Chan - Senior Software Engineer"
 third_nav_title: Software Engineering
 staffId: oliver
-name: Oliver
+name: Oliver Chan
 joinDate: December 13, 2021
 functionId: eng
-jobTitle: Job Title
+jobTitle: Senior Software Engineer
 curProducts:
   - Primary Care
 pastProducts:
@@ -23,7 +23,7 @@ accomplishments: >-
   * Onboarded new engineers to mc.gov.sg to reduce bus factor
 
   * Migrated CalSG to new infrastructure
-quote: Other things may change us, but we start and end with the family.
+quote: The most important thing in the world is family and love.
 linkedinId: ""
 
 ---

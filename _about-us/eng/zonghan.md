@@ -1,19 +1,19 @@
 ---
-title: Zong Han
+title: Zong Han Ho
 permalink: /people/zonghan
-description: "Zong Han - Job Title"
+description: "Zong Han Ho - Software Engineer"
 third_nav_title: Software Engineering
 staffId: zonghan
-name: Zong Han
+name: Zong Han Ho
 joinDate: July 17, 2023
 functionId: eng
-jobTitle: Job Title
+jobTitle: Software Engineer
 curProducts:
   - currentProducts
 pastProducts:
   - CalSG
 accomplishments: i'm new, watch this space!
-quote: Other things may change us, but we start and end with the family.
+quote: When trouble comes, it’s your family that supports you.
 linkedinId: ""
 
 ---

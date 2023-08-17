@@ -1,13 +1,13 @@
 ---
-title: Jing Yi
+title: Jing Yi Lai
 permalink: /people/jingyi
-description: "Jing Yi - Job Title"
+description: "Jing Yi Lai - Senior Product Designer"
 third_nav_title: Product Design
 staffId: jingyi
-name: Jing Yi
+name: Jing Yi Lai
 joinDate: November 1, 2021
 functionId: design
-jobTitle: Job Title
+jobTitle: Senior Product Designer
 curProducts:
   - Pixie
 pastProducts:
@@ -28,8 +28,7 @@ accomplishments: >-
   * Provided mentorship to a design intern by onboarding them to the OGP design team and Care360, as well as guiding their everyday work and planning for their learning and growth
 
   * Built flows and screens for Highway, and worked with engineering to rapidly develop a prototype, leading to interest from 6 government agencies
-quote: In family life, love is the oil that eases friction, the cement that
-  binds closer together, and the music that brings harmony.
+quote: When trouble comes, it’s your family that supports you.
 linkedinId: ""
 
 ---

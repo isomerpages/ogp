@@ -1,13 +1,13 @@
 ---
-title: Pearly
+title: Pearly Ong
 permalink: /people/pearly
-description: "Pearly - Job Title"
+description: "Pearly Ong - Senior Product Desginer"
 third_nav_title: Product Design
 staffId: pearly
-name: Pearly
+name: Pearly Ong
 joinDate: October 21, 2019
 functionId: design
-jobTitle: Job Title
+jobTitle: Senior Product Desginer
 curProducts:
   - IRMS
 pastProducts:

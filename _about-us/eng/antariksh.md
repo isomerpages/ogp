@@ -1,13 +1,13 @@
 ---
-title: Antariksh
+title: Antariksh Mahajan
 permalink: /people/antariksh
-description: "Antariksh - Job Title"
+description: "Antariksh Mahajan - Senior Software Engineer"
 third_nav_title: Software Engineering
 staffId: antariksh
-name: Antariksh
+name: Antariksh Mahajan
 joinDate: March 2, 2020
 functionId: eng
-jobTitle: Job Title
+jobTitle: Senior Software Engineer
 curProducts:
   - CalSG
 pastProducts:
@@ -23,8 +23,8 @@ accomplishments: >-
   * Managed the CalSG team and oversaw both engineering and design.
 
   * Led SDK initiative for sgID which was targetted to make the process easier for developers working in common backend languages to implement sgID integrations. 
-quote: Our family is a circle of strength of love with every birth and every
-  union the circle grows.
+quote: The family is the test of freedom; because the family is the only thing
+  that the free man makes for himself and by himself.
 linkedinId: ""
 
 ---

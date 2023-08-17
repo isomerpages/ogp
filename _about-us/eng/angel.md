@@ -1,19 +1,19 @@
 ---
-title: Angel
+title: Angel Suhardi
 permalink: /people/angel
-description: "Angel - Job Title"
+description: "Angel Suhardi - Lead Software Engineer"
 third_nav_title: Software Engineering
 staffId: angel
-name: Angel
+name: Angel Suhardi
 joinDate: January 3, 2023
 functionId: eng
-jobTitle: Job Title
+jobTitle: Lead Software Engineer
 curProducts:
   - currentProducts
 pastProducts:
   - HAS
 accomplishments: i'm new, watch this space!
-quote: Family is not an important thing. It’s everything.
+quote: Families are like fudge – mostly sweet with a few nuts.
 linkedinId: ""
 
 ---

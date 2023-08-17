@@ -1,19 +1,25 @@
 ---
-title: Jennifer
+title: Jennifer Liu
 permalink: /people/jennifer
-description: "Jennifer - Job Title"
+description: "Jennifer Liu - Product Manager"
 third_nav_title: Product Management
 staffId: jennifer
-name: Jennifer
+name: Jennifer Liu
 joinDate: June 20, 2022
 functionId: pm
-jobTitle: Job Title
+jobTitle: Product Manager
 curProducts:
   - Scamshield
 pastProducts:
-  - pastProducts
-accomplishments: ""
-quote: I didn’t give you the gift of life, but life gave me the gift of you.
+  - CertSG
+accomplishments: >-
+  * Successfully launched the ScamShield 2.0 bot after multiple rounds of
+  testing and analysing of key metrics. 
+
+  * Built up team practices for alignment within the Scamshield team, leading to sharper prioritisation of work and speedy onboarding of new joiners to the team.
+
+  * Led the development of CertSG, a hackathon product, from zero to one by conceptualising the problem statement, product vision, and pitching to potential use cases. 
+quote: Ohana means family and family means nobody gets left behind or forgotten.
 linkedinId: ""
 
 ---

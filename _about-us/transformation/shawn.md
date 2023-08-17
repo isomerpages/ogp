@@ -1,13 +1,13 @@
 ---
-title: Shawn
+title: Shawn Ten
 permalink: /people/shawn
-description: "Shawn - Job Title"
-third_nav_title: Partnerships & Transformation
+description: "Shawn Ten - Manager (Policy & Transformation)"
+third_nav_title: Policy & Transformation
 staffId: shawn
-name: Shawn
+name: Shawn Ten
 joinDate: July 29, 2021
 functionId: transformation
-jobTitle: Job Title
+jobTitle: Manager (Policy & Transformation)
 curProducts:
   - Policy & Transformation
 pastProducts:
@@ -22,8 +22,8 @@ accomplishments: >-
   * Provided policy support to Care360, including contributing toward establishing a new legal precedent for the mechanism of consent-taking from patients in healthcare institutions
 
   * Ran HealthTech sprint to enable users from 6 healthcare clusters to initiate new tech workflows in their agencies with OGP products
-quote: The bond that links your true family is not one of blood, but of respect
-  and joy in each other’s life.
+quote: The family – that dear octopus from whose tentacles we never quite
+  escape, nor, in our inmost hearts, ever quite wish to.
 linkedinId: ""
 
 ---

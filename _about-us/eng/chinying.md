@@ -1,13 +1,13 @@
 ---
-title: Chin Ying
+title: Chin Ying Seah
 permalink: /people/chinying
-description: "Chin Ying - Job Title"
+description: "Chin Ying Seah - Senior Software Engineer"
 third_nav_title: Software Engineering
 staffId: chinying
-name: Chin Ying
+name: Chin Ying Seah
 joinDate: November 19, 2018
 functionId: eng
-jobTitle: Job Title
+jobTitle: Senior Software Engineer
 curProducts:
   - Scamtech
 pastProducts:
@@ -23,7 +23,8 @@ accomplishments: >-
   * Built a generalised rule framework for handling scam message prioritisation, providing a blueprint for implementing other prioritisation rules and allowing other engineers to build upon it.
 
   * Contributed towards the development and timely delivery of the SPF dashboard frontend for Scamshield, plugging gaps where necessary and spearheading the releases to production prior to the deadline.
-quote: I didn’t give you the gift of life, but life gave me the gift of you.
+quote: "Blended families: woven together by choice, strengthened together by
+  love, tested by everything, and each uniquely ours."
 linkedinId: ""
 
 ---

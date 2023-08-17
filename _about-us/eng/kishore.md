@@ -1,21 +1,24 @@
 ---
-title: Kishore
+title: Kishore R
 permalink: /people/kishore
-description: "Kishore - Job Title"
+description: "Kishore R - Software Engineer"
 third_nav_title: Software Engineering
 staffId: kishore
-name: Kishore
+name: Kishore R
 joinDate: July 4, 2022
 functionId: eng
-jobTitle: Job Title
+jobTitle: Software Engineer
 curProducts:
   - Isomer
 pastProducts:
   - pastProducts
-accomplishments: Worked on site launches, migrated to Amplify, laid groundwork
-  for Infra repo, investigated 404 errors, and ensured CSA compliance.
-quote: Being a family means you are a part of something very wonderful. It means
-  you will love and be loved for the rest of your life.
+accomplishments: >-
+  • Worked on Isomer site launches
+
+  * Migrated Netlify to Amplify and converted [existing bash scripts to typescript]to increase developer speed
+
+  * Laid the groundwork for Infra repo and Indirection layer in Pulumi, following best practices advice
+quote: Treat your family like friends and your friends like family.
 linkedinId: ""
 
 ---

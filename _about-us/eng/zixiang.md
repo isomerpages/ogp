@@ -1,13 +1,13 @@
 ---
-title: Zi Xiang
+title: Zi Xiang Tan
 permalink: /people/zixiang
-description: "Zi Xiang - Job Title"
+description: "Zi Xiang Tan - Software Developer"
 third_nav_title: Software Engineering
 staffId: zixiang
-name: Zi Xiang
+name: Zi Xiang Tan
 joinDate: January 10, 2022
 functionId: eng
-jobTitle: Job Title
+jobTitle: Software Developer
 curProducts:
   - CheckWho
 pastProducts:
@@ -21,7 +21,8 @@ accomplishments: >-
   * Wrote the code for CheckWho to enable the sending of verifiable messages, leading to more than 10,000 man-hours saved from initial agency users
 
   * Improved team processes on Postman such as shared engineering context for decision-making and greater structure in engineering practices
-quote: Being part of a family means smiling for photos.
+quote: Having somewhere to go is home. Having someone to love is family. And
+  having both is a blessing.
 linkedinId: ""
 
 ---

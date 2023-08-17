@@ -1,13 +1,13 @@
 ---
-title: James
+title: James Hibberd
 permalink: /people/james
-description: "James - Job Title"
+description: "James Hibberd - Senior Engineering Manager"
 third_nav_title: Software Engineering
 staffId: james
-name: James
+name: James Hibberd
 joinDate: February 6, 2023
 functionId: eng
-jobTitle: Job Title
+jobTitle: Senior Engineering Manager
 curProducts:
   - Head of Software Engineering
 pastProducts:

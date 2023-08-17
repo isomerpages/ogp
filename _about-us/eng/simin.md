@@ -1,19 +1,19 @@
 ---
-title: Si Min
+title: Si Min Ong
 permalink: /people/simin
-description: "Si Min - Job Title"
+description: "Si Min Ong - Software Engineer"
 third_nav_title: Software Engineering
 staffId: simin
-name: Si Min
+name: Si Min Ong
 joinDate: July 17, 2023
 functionId: eng
-jobTitle: Job Title
+jobTitle: Software Engineer
 curProducts:
   - ActiveSG
 pastProducts:
   - pastProducts
 accomplishments: i'm new, watch this space!
-quote: Family is not an important thing. It’s everything.
+quote: Ohana means family and family means nobody gets left behind or forgotten.
 linkedinId: ""
 
 ---

@@ -1,19 +1,19 @@
 ---
-title: Zhong Jun
+title: Zhong Jun Hsu
 permalink: /people/zhongjun
-description: "Zhong Jun - Job Title"
+description: "Zhong Jun Hsu - Software Engineer"
 third_nav_title: Software Engineering
 staffId: zhongjun
-name: Zhong Jun
+name: Zhong Jun Hsu
 joinDate: July 17, 2023
 functionId: eng
-jobTitle: Job Title
+jobTitle: Software Engineer
 curProducts:
   - currentProducts
 pastProducts:
   - Isomer
 accomplishments: i'm new, watch this space!
-quote: Family is the heart of a home.
+quote: To us, family means putting your arms around each other and being there.
 linkedinId: ""
 
 ---

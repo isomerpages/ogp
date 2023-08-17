@@ -1,13 +1,13 @@
 ---
-title: Chien Ling
+title: Chien Ling Ang
 permalink: /people/chienling
-description: "Chien Ling - Job Title"
+description: "Chien Ling Ang - Manager (People)"
 third_nav_title: Corporate Team
 staffId: chienling
-name: Chien Ling
+name: Chien Ling Ang
 joinDate: August 10, 2021
 functionId: corporate
-jobTitle: Job Title
+jobTitle: Manager (People)
 curProducts:
   - People Team
 pastProducts:
@@ -22,8 +22,7 @@ accomplishments: >-
   *   Set-up and launched OGP’s allocation framework for hiring
 
   *   Did the bulk of hiring operations and pipeline management to grow OGP by more than 100 people from 2022-2023
-quote: Families are the compass that guides us. They are the inspiration to
-  reach great heights, and our comfort when we occasionally falter.
+quote: To us, family means putting your arms around each other and being there.
 linkedinId: ""
 
 ---

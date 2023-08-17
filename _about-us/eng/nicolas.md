@@ -1,21 +1,21 @@
 ---
 title: Nicolas Spano
 permalink: /people/nicolas
-description: "Nicolas Spano - Job Title"
+description: "Nicolas Spano - Senior Engineering Manager"
 third_nav_title: Software Engineering
 staffId: nicolas
 name: Nicolas Spano
 joinDate: June 26, 2023
 functionId: eng
-jobTitle: Job Title
+jobTitle: Senior Engineering Manager
 curProducts:
   - Primary Care
   - Care360
 pastProducts:
   - pastProducts
 accomplishments: i'm new, watch this space!
-quote: My family is my life, and everything else comes second as far as what’s
-  important to me.
+quote: Building high-quality systems to empower medical professionals and
+  facilitate accessible healthcare, I get to unite passion and purpose everyday.
 linkedinId: ""
 
 ---

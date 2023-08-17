@@ -1,13 +1,13 @@
 ---
-title: Shannen
+title: Shannen Ho
 permalink: /people/shannen
-description: "Shannen - Job Title"
+description: "Shannen Ho - Senior Manager (Marketing)"
 third_nav_title: Corporate Team
 staffId: shannen
-name: Shannen
+name: Shannen Ho
 joinDate: October 25, 2021
 functionId: corporate
-jobTitle: Job Title
+jobTitle: Senior Manager (Marketing)
 curProducts:
   - Marketing
 pastProducts:
@@ -19,7 +19,8 @@ accomplishments: >-
   * Led product marketing launches for products such as Scamshield, For.sg, OGP healthcare product suite.
 
   * Built presence and reputation of OGP in the local tech community through outreach events and collaborations, leading to OGP exceeding our hiring goals.
-quote: To us, family means putting your arms around each other and being there.
+quote: The only rock I know that stays steady, the only institution I know that
+  works, is the family.
 linkedinId: ""
 
 ---

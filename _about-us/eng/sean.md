@@ -1,19 +1,19 @@
 ---
-title: Sean
+title: Sean Lum
 permalink: /people/sean
-description: "Sean - Job Title"
+description: "Sean Lum - Software Engineer"
 third_nav_title: Software Engineering
 staffId: sean
-name: Sean
+name: Sean Lum
 joinDate: February 6, 2023
 functionId: eng
-jobTitle: Job Title
+jobTitle: Software Engineer
 curProducts:
   - Redeem
 pastProducts:
   - pastProducts
-accomplishments: ""
-quote: Family and friends are hidden treasures, seek them and enjoy their riches.
+accomplishments: i'm new, watch this space!
+quote: Family gives you the roots to stand tall and strong.
 linkedinId: ""
 
 ---

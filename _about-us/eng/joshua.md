@@ -1,13 +1,13 @@
 ---
-title: Joshua
+title: Joshua Tan
 permalink: /people/joshua
-description: "Joshua - Job Title"
+description: "Joshua Tan - Senior Manager (Finance Operations)"
 third_nav_title: Software Engineering
 staffId: joshua
-name: Joshua
+name: Joshua Tan
 joinDate: September 6, 2021
 functionId: eng
-jobTitle: Job Title
+jobTitle: Senior Manager (Finance Operations)
 curProducts:
   - Corporate Operations
 pastProducts:
@@ -21,7 +21,8 @@ accomplishments: >-
   *   Backend finance process automations
 
   *   Finance sprint to consolidate and visualise finance data to track OGP expenditure by team
-quote: When trouble comes, it’s your family that supports you.
+quote: "Call it a clan, call it a network, call it a tribe, call it a family:
+  Whatever you call it, whoever you are, you need one."
 linkedinId: ""
 
 ---

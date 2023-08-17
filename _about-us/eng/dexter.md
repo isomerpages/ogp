@@ -1,13 +1,13 @@
 ---
-title: Dexter
+title: Dexter Tan
 permalink: /people/dexter
-description: "Dexter - Job Title"
+description: "Dexter Tan - Software Engineer"
 third_nav_title: Software Engineering
 staffId: dexter
-name: Dexter
+name: Dexter Tan
 joinDate: July 17, 2023
 functionId: eng
-jobTitle: Job Title
+jobTitle: Software Engineer
 curProducts:
   - currentProducts
 pastProducts:
@@ -19,8 +19,8 @@ accomplishments: >-
   * improved HAS user experience by setting additional timeslots to continue from the end of the previous selection.
 
   * Implemented confirmation modals for appointment creation and rescheduling in HAS
-quote: The family – that dear octopus from whose tentacles we never quite
-  escape, nor, in our inmost hearts, ever quite wish to.
+quote: In family life, love is the oil that eases friction, the cement that
+  binds closer together, and the music that brings harmony.
 linkedinId: ""
 
 ---

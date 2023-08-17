@@ -1,13 +1,13 @@
 ---
-title: Alexis
+title: Alexis Goh
 permalink: /people/alexis
-description: "Alexis - Job Title"
+description: "Alexis Goh - Senior Software Engineer"
 third_nav_title: Software Engineering
 staffId: alexis
-name: Alexis
+name: Alexis Goh
 joinDate: June 29, 2020
 functionId: eng
-jobTitle: Job Title
+jobTitle: Senior Software Engineer
 curProducts:
   - go.gov.sg
 pastProducts:
@@ -25,8 +25,9 @@ accomplishments: >-
   * Pushed for Pouch to adopt to Highway as part of its roadmap to  address significant user groups and gain familiarity with the problem space of file-sharing.
 
   * Mentored a team-mate to build an asynchronous service to support bulk QR code generation. 
-quote: There is no doubt that it is around the family and the home that all the
-  greatest virtues… are created, strengthened and maintained.
+quote: Think of your family today and every day thereafter, don’t let the busy
+  world of today keep you from showing how much you love and appreciate your
+  family.
 linkedinId: ""
 
 ---

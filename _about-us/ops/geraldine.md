@@ -1,13 +1,13 @@
 ---
-title: Geraldine
+title: Geraldine Tan
 permalink: /people/geraldine
-description: "Geraldine - Job Title"
+description: "Geraldine Tan - Product Operations Specialist"
 third_nav_title: Product Operations
 staffId: geraldine
-name: Geraldine
+name: Geraldine Tan
 joinDate: August 22, 2022
 functionId: ops
-jobTitle: Job Title
+jobTitle: Product Operations Specialist
 curProducts:
   - Vault
 pastProducts:
@@ -19,8 +19,8 @@ accomplishments: >-
   * Implemented user guide & FAQs for Product resulting in reduction of L1 tickets by 85.9%
 
   * Created FormSG X Workspace pitch deck to highlight Product USPs
-quote: Our family is a circle of strength of love with every birth and every
-  union the circle grows.
+quote: Having somewhere to go is home. Having someone to love is family. And
+  having both is a blessing.
 linkedinId: ""
 
 ---

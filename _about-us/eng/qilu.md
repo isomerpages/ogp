@@ -1,13 +1,13 @@
 ---
-title: Qilu
+title: Qilu Xie
 permalink: /people/qilu
-description: "Qilu - Job Title"
+description: "Qilu Xie - Lead Software Engineer"
 third_nav_title: Software Engineering
 staffId: qilu
-name: Qilu
+name: Qilu Xie
 joinDate: February 6, 2023
 functionId: eng
-jobTitle: Job Title
+jobTitle: Lead Software Engineer
 curProducts:
   - Isomer
 pastProducts:
@@ -19,7 +19,8 @@ accomplishments: >-
   * Contributed to Isomer's security and productivity: delivered PR on integrating with CloudMersive API for virus scanning when uploading files by users
 
   * Ensured compliance with CSA's requirement and working with OnePA
-quote: I didn’t give you the gift of life, but life gave me the gift of you.
+quote: The family – that dear octopus from whose tentacles we never quite
+  escape, nor, in our inmost hearts, ever quite wish to.
 linkedinId: ""
 
 ---

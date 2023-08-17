@@ -1,13 +1,13 @@
 ---
-title: Veena
+title: Veena Rao
 permalink: /people/veena
-description: "Veena - Job Title"
+description: "Veena Rao - Senior Product Manager"
 third_nav_title: Product Management
 staffId: veena
-name: Veena
+name: Veena Rao
 joinDate: June 6, 2022
 functionId: pm
-jobTitle: Job Title
+jobTitle: Senior Product Manager
 curProducts:
   - NLB Seed Team
   - SGID
@@ -20,8 +20,7 @@ accomplishments: >-
   * Planned and ran learning month courses and programmes for Product Manager upskilling
 
   * Worked with a team of PMs to design and run ProductUp, a product management 101 workshop for senior government leaders
-quote: Stick to the basics, hold on to your family and friends – they will never
-  go out of fashion.
+quote: Family is not an important thing. It’s everything.
 linkedinId: ""
 
 ---

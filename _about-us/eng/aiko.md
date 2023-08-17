@@ -1,19 +1,19 @@
 ---
-title: Aiko
+title: Aiko Klostermann
 permalink: /people/aiko
-description: "Aiko - Job Title"
+description: "Aiko Klostermann - Lead Software Engineer"
 third_nav_title: Software Engineering
 staffId: aiko
-name: Aiko
+name: Aiko Klostermann
 joinDate: April 24, 2023
 functionId: eng
-jobTitle: Job Title
+jobTitle: Lead Software Engineer
 curProducts:
   - currentProducts
 pastProducts:
   - NLB Seed Team
 accomplishments: i'm new, watch this space!
-quote: To us, family means putting your arms around each other and being there.
+quote: Where there is family, there is love.
 linkedinId: ""
 
 ---

@@ -1,13 +1,13 @@
 ---
-title: Rachel
+title: Rachel Tan
 permalink: /people/rachel
-description: "Rachel - Job Title"
+description: "Rachel Tan - Senior Product Designer"
 third_nav_title: Product Design
 staffId: rachel
-name: Rachel
+name: Rachel Tan
 joinDate: October 10, 2022
 functionId: design
-jobTitle: Job Title
+jobTitle: Senior Product Designer
 curProducts:
   - AskGov
 pastProducts:
@@ -19,7 +19,8 @@ accomplishments: >-
   * Repurposed the HAS flow for HealthierSG, created a new visual style and adding moments of delight with custom illustrations and animated gifs.
 
   * Created BYOS, a modular illustration system of Singaporean characters and scenes for OGP colleagues to use for their hackathon products and decks.
-quote: Nothing is better than going home to family and eating good food and relaxing
+quote: My family is my life, and everything else comes second as far as what’s
+  important to me.
 linkedinId: ""
 
 ---

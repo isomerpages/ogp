@@ -1,13 +1,13 @@
 ---
-title: Stanley
+title: Stanley Nguyen
 permalink: /people/stanley
-description: "Stanley - Job Title"
+description: "Stanley Nguyen - Senior Software Engineer"
 third_nav_title: Software Engineering
 staffId: stanley
-name: Stanley
+name: Stanley Nguyen
 joinDate: January 24, 2022
 functionId: eng
-jobTitle: Job Title
+jobTitle: Senior Software Engineer
 curProducts:
   - Postman
 pastProducts:
@@ -16,17 +16,14 @@ pastProducts:
     HAS
     Sync
     Touchpoint
-accomplishments: >-
-  Stabilising Postman codebase and reworking release process
+accomplishments: >
+  * Worked to stabilise Postman codebase and reworked release process to
+  improving system observability for the Postman application
 
-  Improving system observability for the Postman application
+  * Improved system capacity for Postman in terms of message sending throughput, callback load handling, and report generation
 
-  Improving system capacity for Postman in terms of message sending throughput, callback load handling, and report generation
-
-  Campaign management feature for Postman
-
-  Unsubscription enhancement for Postman
-quote: Nothing is better than going home to family and eating good food and relaxing
+  * Campaign management feature for Postman
+quote: The family is one of nature’s masterpieces.
 linkedinId: ""
 
 ---

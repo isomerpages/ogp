@@ -1,13 +1,13 @@
 ---
-title: Jie Hao
+title: Jie Hao Kwa
 permalink: /people/jiehao
-description: "Jie Hao - Job Title"
+description: "Jie Hao Kwa - Senior Software Engineer"
 third_nav_title: Software Engineering
 staffId: jiehao
-name: Jie Hao
+name: Jie Hao Kwa
 joinDate: September 9, 2019
 functionId: eng
-jobTitle: Job Title
+jobTitle: Senior Software Engineer
 curProducts:
   - SGID
 pastProducts:
@@ -22,7 +22,7 @@ accomplishments: >-
   * Delivered key features for sgID such as the sgID developer portal for self-service sgID client onboarding
 
   * Created and ran a monthly OGP engineering sharing platform for technical learning and development across the organisation
-quote: We may have our differences, but nothing’s more important than family.
+quote: Ohana means family and family means nobody gets left behind or forgotten.
 linkedinId: ""
 
 ---

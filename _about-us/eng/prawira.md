@@ -1,13 +1,13 @@
 ---
-title: Prawira
+title: Prawira Genestonlia
 permalink: /people/prawira
-description: "Prawira - Job Title"
+description: "Prawira Genestonlia - Senior Software Engineer"
 third_nav_title: Software Engineering
 staffId: prawira
-name: Prawira
+name: Prawira Genestonlia
 joinDate: April 3, 2023
 functionId: eng
-jobTitle: Job Title
+jobTitle: Senior Software Engineer
 curProducts:
   - currentProducts
 pastProducts:
@@ -18,7 +18,8 @@ accomplishments: >-
   * Established best practices for SGID Integration: Established best practices for the back-end for front-end and web-server integration patterns, ensuring consistent and efficient integration with sgID across different platforms
 
   * Contributed to sgID's Current Improvements: Implemented a robust rate-limiting strategy for sgID
-quote: We may have our differences, but nothing’s more important than family.
+quote: "Call it a clan, call it a network, call it a tribe, call it a family:
+  Whatever you call it, whoever you are, you need one."
 linkedinId: ""
 
 ---

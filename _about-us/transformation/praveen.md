@@ -1,13 +1,13 @@
 ---
-title: Praveen
+title: Praveen Raj Kumar
 permalink: /people/praveen
-description: "Praveen - Job Title"
-third_nav_title: Partnerships & Transformation
+description: "Praveen Raj Kumar - Head of Policy & Transformation"
+third_nav_title: Policy & Transformation
 staffId: praveen
-name: Praveen
+name: Praveen Raj Kumar
 joinDate: July 18, 2022
 functionId: transformation
-jobTitle: Job Title
+jobTitle: Head of Policy & Transformation
 curProducts:
   - Head of Policy & Transformation
 pastProducts:

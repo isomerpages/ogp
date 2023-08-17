@@ -1,13 +1,13 @@
 ---
-title: Ajay
+title: Ajayraj Singh
 permalink: /people/ajayraj
-description: "Ajay - Job Title"
+description: "Ajayraj Singh - Product Operations Specialist"
 third_nav_title: Product Operations
 staffId: ajayraj
-name: Ajay
+name: Ajayraj Singh
 joinDate: June 13, 2022
 functionId: ops
-jobTitle: Job Title
+jobTitle: Product Operations Specialist
 curProducts:
   - Armoury
 pastProducts:
@@ -15,10 +15,11 @@ pastProducts:
     AskGov
     Healthtech
     Sync
-accomplishments: scoped and secured new agencies to AskGov, ironed out bugs,
-  managed onboarding for new users.
-quote: Having somewhere to go is home. Having someone to love is family. And
-  having both is a blessing.
+accomplishments: |-
+  * Scoped and secured new agencies to AskGov
+  * Debugged AskGov and managed onboarding for new users
+  * Migrated AskGov Portal 1.0 to Portal 2.0
+quote: Family and friendships are two of the greatest facilitators of happiness.
 linkedinId: ""
 
 ---

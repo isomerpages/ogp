@@ -1,13 +1,13 @@
 ---
-title: Daryl
+title: Daryl Chan
 permalink: /people/daryl
-description: "Daryl - Job Title"
+description: "Daryl Chan - Software Engineer"
 third_nav_title: Software Engineering
 staffId: daryl
-name: Daryl
+name: Daryl Chan
 joinDate: January 3, 2022
 functionId: eng
-jobTitle: Job Title
+jobTitle: Software Engineer
 curProducts:
   - Pixie
 pastProducts:
@@ -21,7 +21,7 @@ accomplishments: >
   * Care360 frontend infrastructure work by improving Care360’s frontend performance and reliability.
 
   * Production incidents on-call for Covid-ops.
-quote: The most important thing in the world is family and love.
+quote: Family is family.
 linkedinId: ""
 
 ---

@@ -1,13 +1,13 @@
 ---
-title: Clement
+title: Clement Chia
 permalink: /people/clement
-description: "Clement - Job Title"
+description: "Clement Chia - Product Operations Specialist"
 third_nav_title: Product Operations
 staffId: clement
-name: Clement
+name: Clement Chia
 joinDate: July 4, 2022
 functionId: ops
-jobTitle: Job Title
+jobTitle: Product Operations Specialist
 curProducts:
   - go.gov.sg
 pastProducts:
@@ -23,7 +23,7 @@ accomplishments: >
   * Co-created user research questions and arranged user interviews for hackathon products, MindCraft and WizGov.
 
   * Monitored user feedback, support flow and worked on the visualisation of product feedback and performance using Grafana dashboards for the Go suite.
-quote: The family is one of nature’s masterpieces.
+quote: We may have our differences, but nothing’s more important than family.
 linkedinId: ""
 
 ---

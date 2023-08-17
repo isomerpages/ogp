@@ -1,19 +1,20 @@
 ---
-title: Chin Yang
+title: Chin Yang Oh
 permalink: /people/chinyang
-description: "Chin Yang - Job Title"
+description: "Chin Yang Oh - Senior Software Engineer"
 third_nav_title: Software Engineering
 staffId: chinyang
-name: Chin Yang
+name: Chin Yang Oh
 joinDate: March 6, 2023
 functionId: eng
-jobTitle: Job Title
+jobTitle: Senior Software Engineer
 curProducts:
   - currentProducts
 pastProducts:
   - Pair
 accomplishments: i'm new, watch this space!
-quote: Family is family.
+quote: Family ties mean that no matter how much you might want to run from your
+  family, you can’t.
 linkedinId: ""
 
 ---

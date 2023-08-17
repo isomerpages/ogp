@@ -1,13 +1,13 @@
 ---
 title: Sarah Espaldon
 permalink: /people/sarahespaldon
-description: "Sarah Espaldon - Job Title"
+description: "Sarah Espaldon - Head of Marketing"
 third_nav_title: Corporate Team
 staffId: sarahespaldon
 name: Sarah Espaldon
 joinDate: November 4, 2019
 functionId: corporate
-jobTitle: Job Title
+jobTitle: Head of Marketing
 curProducts:
   - Head of Marketing
 pastProducts:

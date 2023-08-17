@@ -1,13 +1,13 @@
 ---
-title: Jason
+title: Jason Chong
 permalink: /people/jason
-description: "Jason - Job Title"
+description: "Jason Chong - Senior Software Engineer"
 third_nav_title: Software Engineering
 staffId: jason
-name: Jason
+name: Jason Chong
 joinDate: July 5, 2021
 functionId: eng
-jobTitle: Job Title
+jobTitle: Senior Software Engineer
 curProducts:
   - PaySG
 pastProducts:
@@ -19,7 +19,7 @@ accomplishments: >-
   * Proposed and implemented Datadog for RedeemSG, leading to org-wide implementation
 
   * Established front-end coding standards for RedeemSG
-quote: To us, family means putting your arms around each other and being there.
+quote: Nothing is better than going home to family and eating good food and relaxing
 linkedinId: ""
 
 ---

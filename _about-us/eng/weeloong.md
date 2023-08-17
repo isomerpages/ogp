@@ -1,19 +1,19 @@
 ---
-title: Wee Loong
+title: Wee Loong Kuan
 permalink: /people/weeloong
-description: "Wee Loong - Job Title"
+description: "Wee Loong Kuan - Senior Software Engineer"
 third_nav_title: Software Engineering
 staffId: weeloong
-name: Wee Loong
+name: Wee Loong Kuan
 joinDate: June 5, 2023
 functionId: eng
-jobTitle: Job Title
+jobTitle: Senior Software Engineer
 curProducts:
   - currentProducts
 pastProducts:
   - Plumber
 accomplishments: i'm new, watch this space!
-quote: When trouble comes, it’s your family that supports you.
+quote: To us, family means putting your arms around each other and being there.
 linkedinId: ""
 
 ---

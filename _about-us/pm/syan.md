@@ -1,13 +1,13 @@
 ---
-title: Sonjia
+title: Sonjia Yan
 permalink: /people/syan
-description: "Sonjia - Job Title"
+description: "Sonjia Yan - Senior Product Manager"
 third_nav_title: Product Management
 staffId: syan
-name: Sonjia
+name: Sonjia Yan
 joinDate: September 4, 2019
 functionId: pm
-jobTitle: Job Title
+jobTitle: Senior Product Manager
 curProducts:
   - AskGov
   - FormSG
@@ -30,7 +30,7 @@ accomplishments: >-
   * Provided PM people management and coaching over >10 OGP products
 
   * Worked with the TFPG team to assess >12 agencies for incubating satellite tech teams
-quote: Some people are worth melting for.
+quote: I didn’t give you the gift of life, but life gave me the gift of you.
 linkedinId: ""
 
 ---

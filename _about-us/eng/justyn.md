@@ -1,13 +1,13 @@
 ---
-title: Justyn
+title: Justyn Oh
 permalink: /people/justyn
-description: "Justyn - Job Title"
+description: "Justyn Oh - Software Engineer"
 third_nav_title: Software Engineering
 staffId: justyn
-name: Justyn
+name: Justyn Oh
 joinDate: June 13, 2022
 functionId: eng
-jobTitle: Job Title
+jobTitle: Software Engineer
 curProducts:
   - FormSG
 pastProducts:
@@ -22,8 +22,7 @@ accomplishments: >-
   * Improved email sending time latency by 10x through leading the investigation into the matter and rectifying the root cause (migrating AWS email sending services from US to SG)
 
   * Worked on CertSG and Checkpoint as part of HFPG'23
-quote: My family is my life, and everything else comes second as far as what’s
-  important to me.
+quote: The memories we make with our family is everything.
 linkedinId: ""
 
 ---

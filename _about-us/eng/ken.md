@@ -1,19 +1,19 @@
 ---
-title: Ken
+title: Ken Lee
 permalink: /people/ken
-description: "Ken - Job Title"
+description: "Ken Lee - Senior Software Engineer"
 third_nav_title: Software Engineering
 staffId: ken
-name: Ken
+name: Ken Lee
 joinDate: February 27, 2023
 functionId: eng
-jobTitle: Job Title
+jobTitle: Senior Software Engineer
 curProducts:
   - currentProducts
 pastProducts:
   - FormSG
 accomplishments: i'm new, watch this space!
-quote: Family gives you the roots to stand tall and strong.
+quote: We may have our differences, but nothing’s more important than family.
 linkedinId: ""
 
 ---

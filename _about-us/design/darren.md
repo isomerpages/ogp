@@ -1,19 +1,19 @@
 ---
-title: Darren
+title: Darren Ng
 permalink: /people/darren
-description: "Darren - Job Title"
+description: "Darren Ng - Lead Product Manager"
 third_nav_title: Product Design
 staffId: darren
-name: Darren
+name: Darren Ng
 joinDate: July 24, 2023
 functionId: design
-jobTitle: Job Title
+jobTitle: Lead Product Manager
 curProducts:
   - currentProducts
 pastProducts:
   - UX Research
 accomplishments: i'm new, watch this space!
-quote: A happy family is but an earlier heaven.
+quote: Family and friends are hidden treasures, seek them and enjoy their riches.
 linkedinId: ""
 
 ---

@@ -1,13 +1,13 @@
 ---
-title: Carina
+title: Carina Lim
 permalink: /people/carina
-description: "Carina - Job Title"
+description: "Carina Lim - Product Designer"
 third_nav_title: Product Design
 staffId: carina
-name: Carina
+name: Carina Lim
 joinDate: July 26, 2021
 functionId: design
-jobTitle: Job Title
+jobTitle: Product Designer
 curProducts:
   - Redeem
 pastProducts:
@@ -18,7 +18,7 @@ accomplishments: |-
   * Led research and design of CDC vouchers 2023 resident digital experience
   * Generalised and scaled RedeemSG beyond CDC campaigns
   * Led discussions leading to the scope of features to prioritise for Pair MVP
-quote: To us, family means putting your arms around each other and being there.
+quote: Family is the heart of a home.
 linkedinId: ""
 
 ---

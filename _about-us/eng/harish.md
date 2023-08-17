@@ -1,19 +1,19 @@
 ---
-title: Harish
+title: Harish Venkatesan
 permalink: /people/harish
-description: "Harish - Job Title"
+description: "Harish Venkatesan - Senior Software Engineer"
 third_nav_title: Software Engineering
 staffId: harish
-name: Harish
+name: Harish Venkatesan
 joinDate: February 6, 2023
 functionId: eng
-jobTitle: Job Title
+jobTitle: Senior Software Engineer
 curProducts:
   - currentProducts
 pastProducts:
   - Isomer
 accomplishments: i'm new, watch this space!
-quote: The memories we make with our family is everything.
+quote: Being part of a family means smiling for photos.
 linkedinId: ""
 
 ---

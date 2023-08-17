@@ -1,13 +1,13 @@
 ---
-title: Joanna
+title: Joanna Lo
 permalink: /people/joanna
-description: "Joanna - Job Title"
+description: "Joanna Lo - Manager (People)"
 third_nav_title: Corporate Team
 staffId: joanna
-name: Joanna
+name: Joanna Lo
 joinDate: March 27, 2023
 functionId: corporate
-jobTitle: Job Title
+jobTitle: Manager (People)
 curProducts:
   - currentProducts
 pastProducts:
@@ -20,7 +20,8 @@ accomplishments: >-
   * Helped to plan and run the TFPG candidate marketing bootcamp to help 13 agencies improve tech hiring efforts
 
   * Overhauled OGP's employment letter templates for greater operational efficiency and clarity
-quote: It didn’t matter how big our house was; it mattered that there was love in it.
+quote: "Family: A social unit where the father is concerned with parking space,
+  the children with outer space, and the mother with closet space."
 linkedinId: ""
 
 ---

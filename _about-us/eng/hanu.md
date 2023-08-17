@@ -1,19 +1,19 @@
 ---
-title: Hanu
+title: Hanu Damodaran
 permalink: /people/hanu
-description: "Hanu - Job Title"
+description: "Hanu Damodaran - Lead Software Engineer"
 third_nav_title: Software Engineering
 staffId: hanu
-name: Hanu
+name: Hanu Damodaran
 joinDate: February 27, 2023
 functionId: eng
-jobTitle: Job Title
+jobTitle: Lead Software Engineer
 curProducts:
   - Phonebook
 pastProducts:
   - pastProducts
 accomplishments: i'm new, watch this space!
-quote: Ohana means family and family means nobody gets left behind or forgotten.
+quote: It didn’t matter how big our house was; it mattered that there was love in it.
 linkedinId: ""
 
 ---

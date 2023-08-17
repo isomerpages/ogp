@@ -1,21 +1,24 @@
 ---
-title: Latasha
+title: Latasha Lenus
 permalink: /people/latasha
-description: "Latasha - Job Title"
+description: "Latasha Lenus - Software Engineer"
 third_nav_title: Software Engineering
 staffId: latasha
-name: Latasha
+name: Latasha Lenus
 joinDate: August 22, 2022
 functionId: eng
-jobTitle: Job Title
+jobTitle: Software Engineer
 curProducts:
   - AskGov
 pastProducts:
   - pastProducts
-accomplishments: Migrated AskGov, did SEO optimization, set up logging and
-  monitoring, improved scrolling and search, refined topics UIUX, and prepared
-  Checkpoint for launch.
-quote: Happiness is having a large, loving, caring, close-knit family in another city.
+accomplishments: >-
+  • Migrated AskGov Portal 1.0 to Portal 2.0
+
+  * Contributed to the development of AskGov as an IC which led to the project being deployed in time for a small use case (OGPcareers).
+
+  * Worked on SEO optimization, set up logging and monitoring, improved scrolling and search, refined topics UIUX, and prepared Checkpoint for launch.
+quote: Family and friends are hidden treasures, seek them and enjoy their riches.
 linkedinId: ""
 
 ---

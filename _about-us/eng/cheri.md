@@ -1,13 +1,13 @@
 ---
-title: Cheri
+title: Cheri ong
 permalink: /people/cheri
-description: "Cheri - Job Title"
+description: "Cheri ong - Software Engineer"
 third_nav_title: Software Engineering
 staffId: cheri
-name: Cheri
+name: Cheri ong
 joinDate: January 9, 2023
 functionId: eng
-jobTitle: Job Title
+jobTitle: Software Engineer
 curProducts:
   - currentProducts
 pastProducts:
@@ -16,8 +16,8 @@ accomplishments: >-
   * Added end-to-end testing for Queue
 
   * Worked on multiple features for Queue, including SMS notification settings and the admin notes panel
-quote: "Family: A social unit where the father is concerned with parking space,
-  the children with outer space, and the mother with closet space."
+quote: This is my family. I found it all on my own. It’s little, and broken, but
+  still good. Yeah. Still good.
 linkedinId: ""
 
 ---

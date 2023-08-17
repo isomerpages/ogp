@@ -1,13 +1,13 @@
 ---
-title: Natalie
+title: Natalie Tan
 permalink: /people/natalie
-description: "Natalie - Job Title"
+description: "Natalie Tan - Product Designer"
 third_nav_title: Product Design
 staffId: natalie
-name: Natalie
+name: Natalie Tan
 joinDate: April 6, 2020
 functionId: design
-jobTitle: Job Title
+jobTitle: Product Designer
 curProducts:
   - NLB Seed Team
 pastProducts:
@@ -25,7 +25,7 @@ accomplishments: >-
   * Planned and facilitated ideation methods workshop for Hack for Public Good 2023
 
   * Conducted user research on Covid-19 endemic comms measures and presented findings to senior government leadership to accelerate change in the government communication approach
-quote: Rejoice with your family in the beautiful land of life.
+quote: Some people are worth melting for.
 linkedinId: ""
 
 ---

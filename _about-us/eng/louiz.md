@@ -1,13 +1,13 @@
 ---
-title: Louiz
+title: Louiz Kim-Chan
 permalink: /people/louiz
-description: "Louiz - Job Title"
+description: "Louiz Kim-Chan - Software Engineer"
 third_nav_title: Software Engineering
 staffId: louiz
-name: Louiz
+name: Louiz Kim-Chan
 joinDate: July 5, 2021
 functionId: eng
-jobTitle: Job Title
+jobTitle: Software Engineer
 curProducts:
   - Care360
 pastProducts:
@@ -20,8 +20,7 @@ accomplishments: >
   * Planned and executed Cure53 evaluation readiness. 
 
   * Contributed to migration operations by writing a script to migrate the majority of financial form data.
-quote: The only rock I know that stays steady, the only institution I know that
-  works, is the family.
+quote: Family is not an important thing. It’s everything.
 linkedinId: ""
 
 ---

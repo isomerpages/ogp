@@ -1,13 +1,13 @@
 ---
-title: Khant
+title: Khant Zaw
 permalink: /people/khant
-description: "Khant - Job Title"
+description: "Khant Zaw - Senior Software Engineer"
 third_nav_title: Software Engineering
 staffId: khant
-name: Khant
+name: Khant Zaw
 joinDate: May 9, 2022
 functionId: eng
-jobTitle: Job Title
+jobTitle: Senior Software Engineer
 curProducts:
   - Vault
 pastProducts:
@@ -19,7 +19,8 @@ accomplishments: >-
   * Re-designed application layer of Vault 2.0 Workspace backend and introduced the Coordinator and error-handling middleware layers
 
   * Set-up monitoring systems and addresses security vulnerabilities for Vault 1.0
-quote: Family and friendships are two of the greatest facilitators of happiness.
+quote: Family ties mean that no matter how much you might want to run from your
+  family, you can’t.
 linkedinId: ""
 
 ---

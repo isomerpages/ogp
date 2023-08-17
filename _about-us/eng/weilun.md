@@ -1,20 +1,20 @@
 ---
-title: Wei Lun
+title: Wei Lun Tan
 permalink: /people/weilun
-description: "Wei Lun - Job Title"
+description: "Wei Lun Tan - Software Engineer"
 third_nav_title: Software Engineering
 staffId: weilun
-name: Wei Lun
+name: Wei Lun Tan
 joinDate: June 5, 2023
 functionId: eng
-jobTitle: Job Title
+jobTitle: Software Engineer
 curProducts:
   - ParkingSG
 pastProducts:
   - pastProducts
 accomplishments: i'm new, watch this space!
-quote: The informality of family life is a blessed condition that allows us all
-  to become our best while looking our worst.
+quote: "Blended families: woven together by choice, strengthened together by
+  love, tested by everything, and each uniquely ours."
 linkedinId: ""
 
 ---

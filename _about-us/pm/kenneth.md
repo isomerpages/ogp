@@ -1,13 +1,13 @@
 ---
 title: Kenneth Sng
 permalink: /people/kenneth
-description: "Kenneth Sng - Job Title"
+description: "Kenneth Sng - Senior Product Manager"
 third_nav_title: Product Management
 staffId: kenneth
 name: Kenneth Sng
 joinDate: August 2, 2021
 functionId: pm
-jobTitle: Job Title
+jobTitle: Senior Product Manager
 curProducts:
   - Primary Care
 pastProducts:
@@ -24,8 +24,7 @@ accomplishments: >-
   * Grew the impact of HAS from 30 appointments per week, to 2000 appointments per week
 
   * Launched Crackdown, a tech solution to help HDB with housing policy enforcement
-quote: "Call it a clan, call it a network, call it a tribe, call it a family:
-  Whatever you call it, whoever you are, you need one."
+quote: It didn’t matter how big our house was; it mattered that there was love in it.
 linkedinId: ""
 
 ---

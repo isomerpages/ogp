@@ -1,20 +1,19 @@
 ---
-title: Jie Yin
+title: Jie Yin Tan
 permalink: /people/jieyin
-description: "Jie Yin - Job Title"
+description: "Jie Yin Tan - Product Operations Specialist"
 third_nav_title: Product Operations
 staffId: jieyin
-name: Jie Yin
+name: Jie Yin Tan
 joinDate: June 26, 2023
 functionId: ops
-jobTitle: Job Title
+jobTitle: Product Operations Specialist
 curProducts:
   - currentProducts
 pastProducts:
   - Pair
 accomplishments: i'm new, watch this space!
-quote: "Family: A social unit where the father is concerned with parking space,
-  the children with outer space, and the mother with closet space."
+quote: When trouble comes, it’s your family that supports you.
 linkedinId: ""
 
 ---

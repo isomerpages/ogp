@@ -1,13 +1,13 @@
 ---
-title: Clifford
+title: Clifford Teo
 permalink: /people/clifford
-description: "Clifford - Job Title"
+description: "Clifford Teo - Senior Manager (People)"
 third_nav_title: Corporate Team
 staffId: clifford
-name: Clifford
+name: Clifford Teo
 joinDate: May 29, 2023
 functionId: corporate
-jobTitle: Job Title
+jobTitle: Senior Manager (People)
 curProducts:
   - currentProducts
 pastProducts:
@@ -15,8 +15,8 @@ pastProducts:
   - OGP hiring
   - Team health dashboards and interventions
 accomplishments: i'm new, watch this space!
-quote: Families are the compass that guides us. They are the inspiration to
-  reach great heights, and our comfort when we occasionally falter.
+quote: The family – that dear octopus from whose tentacles we never quite
+  escape, nor, in our inmost hearts, ever quite wish to.
 linkedinId: ""
 
 ---

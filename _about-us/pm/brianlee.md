@@ -1,13 +1,13 @@
 ---
-title: Brian
+title: Brian Lee
 permalink: /people/brianlee
-description: "Brian - Job Title"
+description: "Brian Lee - Senior Product Manager"
 third_nav_title: Product Management
 staffId: brianlee
-name: Brian
+name: Brian Lee
 joinDate: March 20, 2023
 functionId: pm
-jobTitle: Job Title
+jobTitle: Senior Product Manager
 curProducts:
   - NLB
 pastProducts:
@@ -16,8 +16,9 @@ accomplishments: >-
   * Built seven prototypes for NLB after aligning on initial problem statements
 
   * Built relationships with stakeholders in NLB to understand operations and difficulties on the ground
-quote: Having somewhere to go is home. Having someone to love is family. And
-  having both is a blessing.
+quote: Think of your family today and every day thereafter, don’t let the busy
+  world of today keep you from showing how much you love and appreciate your
+  family.
 linkedinId: ""
 
 ---

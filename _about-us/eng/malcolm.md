@@ -1,20 +1,19 @@
 ---
-title: Malcolm
+title: Malcolm Ong
 permalink: /people/malcolm
-description: "Malcolm - Job Title"
+description: "Malcolm Ong - Software Engineer"
 third_nav_title: Software Engineering
 staffId: malcolm
-name: Malcolm
+name: Malcolm Ong
 joinDate: July 17, 2023
 functionId: eng
-jobTitle: Job Title
+jobTitle: Software Engineer
 curProducts:
   - currentProducts
 pastProducts:
   - Plumber
 accomplishments: i'm new, watch this space!
-quote: Stick to the basics, hold on to your family and friends – they will never
-  go out of fashion.
+quote: Family and friendships are two of the greatest facilitators of happiness.
 linkedinId: ""
 
 ---

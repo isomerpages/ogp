@@ -1,13 +1,13 @@
 ---
-title: Kee Wei
+title: Kee Wei Lam
 permalink: /people/keewei
-description: "Kee Wei - Job Title"
+description: "Kee Wei Lam - Lead Engineering Manager"
 third_nav_title: Software Engineering
 staffId: keewei
-name: Kee Wei
+name: Kee Wei Lam
 joinDate: June 1, 2020
 functionId: eng
-jobTitle: Job Title
+jobTitle: Lead Engineering Manager
 curProducts:
   - Senior Engineering Manager
   - Armoury
@@ -26,13 +26,13 @@ pastProducts:
   - Zendemic
   - HAS / Primary Care
 accomplishments: >-
-  * Launched 4 products from scratch.
+  * Built managerial capacity on the HealthTech team by onboarding Angel to
+  primary care team and transitioning Jen Wei into a TLM role for Care360.
 
-  * Moved from an IC into a managerial role and has managed more than 15 engineers at once.
+  * Restarted the Armoury team and coached the team to deliver on the committed milestones.
 
-  * Built up the HealthTech vertical by hiring engineers and managers into the team.
-quote: Stick to the basics, hold on to your family and friends – they will never
-  go out of fashion.
+  * Worked with Eugene to start up the security team at OGP. Evaluated and pushed MDM with Yuanruo.
+quote: We focus on solving real problems and not on building abstract solutions
 linkedinId: ""
 
 ---

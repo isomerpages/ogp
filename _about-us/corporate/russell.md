@@ -1,13 +1,13 @@
 ---
-title: Russell
+title: Russell Chan
 permalink: /people/russell
-description: "Russell - Job Title"
+description: "Russell Chan - Head of People"
 third_nav_title: Corporate Team
 staffId: russell
-name: Russell
+name: Russell Chan
 joinDate: September 2, 2019
 functionId: corporate
-jobTitle: Job Title
+jobTitle: Head of People
 curProducts:
   - Head of People Team
 pastProducts:

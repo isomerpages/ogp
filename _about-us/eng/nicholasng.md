@@ -1,22 +1,26 @@
 ---
-title: Nicholas
+title: Nicholas Ng
 permalink: /people/nicholasng
-description: "Nicholas - Job Title"
+description: "Nicholas Ng - Senior Software Engineer"
 third_nav_title: Software Engineering
 staffId: nicholasng
-name: Nicholas
+name: Nicholas Ng
 joinDate: September 12, 2022
 functionId: eng
-jobTitle: Job Title
+jobTitle: Senior Software Engineer
 curProducts:
   - Senior Engineering Manager
   - Primary Care
   - Care360
 pastProducts:
   - pastProducts
-accomplishments: ""
-quote: The informality of family life is a blessed condition that allows us all
-  to become our best while looking our worst.
+accomplishments: >
+  * Migrated Care360
+
+  * Served as feature captain for this entire Epic to manage the entire project, and also integrated HSAR and SmartCMS which impacts transparency in the healthcare sector
+
+  * Served as the main person of contact for VAPT
+quote: Happiness is having a large, loving, caring, close-knit family in another city.
 linkedinId: ""
 
 ---

@@ -1,13 +1,13 @@
 ---
-title: Keith
+title: Keith Chew
 permalink: /people/keith
-description: "Keith - Job Title"
+description: "Keith Chew - Software Engineer"
 third_nav_title: Software Engineering
 staffId: keith
-name: Keith
+name: Keith Chew
 joinDate: November 28, 2022
 functionId: eng
-jobTitle: Job Title
+jobTitle: Software Engineer
 curProducts:
   - Go.gov.sg
 pastProducts:
@@ -21,9 +21,8 @@ accomplishments: >
   * Participated in pair-programming with other engineers for features such as:
 
   Breadcrumbs navigation
-quote: Family isn’t always blood. It’s the people in your life who want you in
-  theirs; the ones who accept you for who you are. The ones that would do
-  anything to see you smile and who love you no matter what.
+quote: The informality of family life is a blessed condition that allows us all
+  to become our best while looking our worst.
 linkedinId: ""
 
 ---

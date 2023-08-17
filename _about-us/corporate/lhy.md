@@ -1,10 +1,10 @@
 ---
-title: Hongyi
+title: Hongyi Li
 permalink: /people/lhy
-description: "Hongyi - Director of OGP"
+description: "Hongyi Li - Director of OGP"
 third_nav_title: Corporate Team
 staffId: lhy
-name: Hongyi
+name: Hongyi Li
 joinDate: March 31, 2017
 functionId: corporate
 jobTitle: Director of OGP
