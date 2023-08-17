@@ -1,75 +1,91 @@
-- title: CALSG
-  image: /images/calsg_ogp_website_3.png
-  sum: Appointment bookings for Government
-  link: /products/calsg
+- category: Productivity Tools for Public Officers
+  items: 
+    - title: AskGov
+      image: https://file.go.gov.sg/askgovlogo.png
+      sum: Q&A platform for members of the public
+      link: https://products.open.gov.sg/askgov
 
-- title: CHECKFIRST
-  image: /images/CheckFirst.png
-  sum: Calculator and eligibility builder for the government
-  link: /products/checkfirst
+    - title: CalSG
+      image: https://file.go.gov.sg/calsg-logo.png
+      sum: Appointment bookings for Government
+      link: https://products.open.gov.sg/calsg
+
+    - title: CheckFirst
+      image: https://www.checkfirst.gov.sg/assets/logo.svg
+      sum: Calculator and eligibility builder for the government
+      link: https://products.open.gov.sg/checkfirst
+
+    - title: Data.gov.sg
+      image: https://file.go.gov.sg/datagovsg-logo.png
+      sum: Open repository for Singapore’s public data
+      link: https://products.open.gov.sg/datagovsg
+
+    - title: FormSG
+      image: https://file.go.gov.sg/formsg-logo-2.png
+      sum: Build government forms in minutes
+      link: https://products.open.gov.sg/formsg
+
+    - title: GoGovSG
+      image: https://file.go.gov.sg/gogovlogo.png
+      sum: Create official government links in seconds
+      link: https://products.open.gov.sg/gogovsg
+
+    - title: Isomer
+      image: https://file.go.gov.sg/isomer-logo2.png
+      sum: A static website building and hosting solution for the public service
+      link: https://products.open.gov.sg/isomer
+
+    - title: Pair
+      image: https://file.go.gov.sg/pair-logo.png
+      sum: Large language model powered assistant for public officers
+      link: https://products.open.gov.sg/pair
+
+    - title: Plumber
+      image: https://file.go.gov.sg/plumber-logo.png
+      sum: Workflow automation tool for everyday public officers
+      link: https://products.open.gov.sg/plumber
+
+    - title: Postman
+      image: https://file.go.gov.sg/postman-icon.png
+      sum: An omnichannel communication tool for the Singapore Government
+      link: https://products.open.gov.sg/postman
+
+- category: Anti-Scam
+  items:
+    - title: ScamShield
+      image: https://www.scamshield.org.sg/images/scamshield-favicon.png
+      sum: Block unsolicited messages and calls
+      link: https://products.open.gov.sg/scamshield
   
-- title: DATA.GOV.SG
-  image: /images/data.gov.sg.png
-  sum: Open repository for Singapore’s public data
-  link: /products/datagovsg
+    - title: sgID
+      image: https://file.go.gov.sg/sgid-key.png
+      sum: Privacy-based authentication system
+      link: https://products.open.gov.sg/sgid
 
-- title: FOR.SG
-  image: /images/forsg.png
-  sum: The official link shortener for healthcare institutions
-  link: /products/for-sg
+- category: Payments
+  items:
+    - title: ParkingSG
+      image: https://file.go.gov.sg/parking-logo.png
+      sum: Pay for parking using your mobile devices
+      link:  https://products.open.gov.sg/parkingsg
 
-- title: FORM.GOV.SG
-  image: /images/formsg.png
-  sum: Build government forms in minutes
-  link: /products/formsg
+    - title: PaySG
+      image: https://pay.gov.sg/favicon.ico
+      sum: Digitise payments for government agencies
+      link: https://products.open.gov.sg/paysg
+    
+    - title: RedeemSG
+      image: https://file.go.gov.sg/redeemicon.png
+      sum: Redemption tracking system to monitor the distribution of goods, tickets and vouchers in real time.
+      link: https://products.open.gov.sg/redeem
 
-- title: GO.GOV.SG
-  image: /images/go.gov.sg.png
-  sum: Create official government links in seconds
-  link: /products/gogovsg
-
-- title: HEALTH APPOINTMENT SYSTEM
-  image: /images/HAS.png
-  sum: Find and book vaccine appointments near you
-  link: /products/HAS
-
-- title: ISOMER
-  sum: A static website building and hosting solution for the public service
-  image: /images/isomer.png
-  link: /products/isomer
-
-- title: PAIR
-  image: https://file.go.gov.sg/pair-banner-ogp.png
-  sum: Large language model powered assistant for public officers
-  link: /products/pair
-
-- title: PARKING.SG
-  image: /images/parkingsg.png
-  sum: Pay for parking using your mobile devices
-  link: /products/parkingsg
-
-- title: PAYSG
-  image: /images/paysg.png
-  sum: Digitise payments for government agencies
-  link: /products/paysg
-
-- title: POSTMAN.GOV.SG
-  sum: An omnichannel communication tool for the Singapore Government
-  image: /images/postman.png
-  link: /products/postman
-
-- title: REDEEMSG
-  sum: Redemption tracking system to monitor the distribution of goods, tickets and vouchers in real time.
-  image: /images/redeemsg.png
-  link: /products/redeemsg
-  
-- title: SGID
-  image: /images/sgID.png
-  sum: Privacy-based authentication system
-  link: /products/sgid
-
-- title: SCAMSHIELD
-  image: /images/Scamshield.png
-  sum: Block unsolicited messages and calls
-  link: /products/scamshield
-
+- category: Healthcare
+  items:
+    - title: HAS
+      image: https://file.go.gov.sg/has-logo.png
+      sum: Find and book vaccine appointments near you
+      link:  https://products.open.gov.sg/has
+    - title: Care360
+      image: https://file.go.gov.sg/care360-logo.png
+      sum: Patient management system for medical social workers.
+      link: https://products.open.gov.sg/care360
