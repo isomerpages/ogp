@@ -11,9 +11,9 @@ const parseAsync = promisify(parse)
 
 const SOURCE_PEOPLE_CSV = '../_about-us/people.csv'
 const STAFF_TEMPLATE_MD = './staff.md.template'
-const TARGET_PEOPLE_DATA_FILE_YML = '../_data/people.yml'
 const TARGET_ABOUT_US_COLLECTION_DIR = '../_about-us/'
 const TARGET_ABOUT_US_COLLECTION_YML = '../_about-us/collection.yml'
+const TARGET_STAFF_INSERT_SQL = './staff.sql'
 
 const functionNameToFunctionId = {
     'Software Engineering': 'eng',
@@ -130,7 +130,6 @@ const namedRecords = records.map(([_sn, _done, _batch, _by, name, email, func, j
 // order the record by name
 namedRecords.sort((r1, r2) => r1.name.toLowerCase() < r2.name.toLowerCase() ? -1 : 1)
 
-await writeFile(TARGET_PEOPLE_DATA_FILE_YML, YAML.stringify(namedRecords))
 
 
 // 2. generate the page files
@@ -203,5 +202,15 @@ const aboutUsCollectionStruct = {
     }
 }
 
-// 4. Generate a data-only collection for all staff
-// await writeFile(TARGET_ABOUT_US_COLLECTION_YML, YAML.stringify(aboutUsCollectionStruct))
+await writeFile(TARGET_ABOUT_US_COLLECTION_YML, YAML.stringify(aboutUsCollectionStruct))
+
+
+// 4. Generate sql insertion script for the report card DB
+// NOTE: SQL interpolation is bad, this assumes the data is clean! User beware!
+const statements = namedRecords.map(record => {
+    const { staffId: id, name } = record;
+
+    return `INSERT INTO staff (id, name) VALUES ('${id}', '${name}') ON CONFLICT(id) DO UPDATE SET name='${name}';`;
+
+});
+await writeFile(TARGET_STAFF_INSERT_SQL, statements.join('\n'));
