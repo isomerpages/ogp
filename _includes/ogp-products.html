@@ -14,7 +14,7 @@
       gap: 20px;
       flex-wrap: wrap;
     }
-    
+
     a.product {
       position: relative;
       display: flex;
@@ -74,15 +74,14 @@
     }
 </style>
 
-{% for section in include.products %}
-<h5 class="product-category">{{ section.category }}</h5>
-  <div class="products">
-  {% for item in section.items %}
-  <a class="product" href="{{ item.link }}">
-      <img src="{{ item.image }}" class="product-icon" alt="{{ item.title }}" title="{{ item.title }}"/>
-      <span class="product-title">{{ item.title }}</span>
-  </a>
-  {% endfor %}
-</div>
-{% endfor %}
+{%- assign products = include.products | where: "category", "productivity" -%}
+{% include products_section.html products=products sectionTitle="Productivity Tools for Public Officers" %}
 
+{%- assign products = include.products | where: "category", "anti-scam" -%}
+{% include products_section.html products=products sectionTitle="Anti-Scam" %}
+
+{%- assign products = include.products | where: "category", "payments" -%}
+{% include products_section.html products=products sectionTitle="Payments" %}
+
+{%- assign products = include.products | where: "category", "healthcare" -%}
+{% include products_section.html products=products sectionTitle="Healthcare" %}

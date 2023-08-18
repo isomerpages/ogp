@@ -128,9 +128,9 @@
 {% if include.staff.curProducts.size > 0 %}
 <p>I joined since <strong>{{include.staff.joinDate}}</strong> and I am currently working on
 {% for product in include.staff.curProducts %}
-    {% assign mappedProduct=site.data.linkable-products | find_exp:"item", "item.name contains product" %}
+    {% assign mappedProduct=site.data.products | find_exp:"item", "item.alias contains product" %}
     {% if mappedProduct.id %}
-        <strong><a href="https://products.open.gov.sg/{{mappedProduct.id}}">{{mappedProduct.normalizedName}}</a></strong>{% if forloop.last %}.{% else %},{% endif %}
+        <strong><a href="{{mappedProduct.link}}">{{mappedProduct.title}}</a></strong>{% if forloop.last %}.{% else %},{% endif %}
     {% else %}
         <strong>{{product}}</strong>{% if forloop.last %}.{% else %},{% endif %}
     {% endif %}
@@ -141,9 +141,9 @@
 {% if include.staff.pastProducts.size > 0 %}
 <p>Products I worked on before include
 {% for product in include.staff.pastProducts %}
-    {% assign mappedProduct=site.data.linkable-products | find_exp:"item", "item.name contains product" %}
+    {% assign mappedProduct=site.data.products | find_exp:"item", "item.alias contains product" %}
     {% if mappedProduct.id %}
-        <strong><a href="https://products.open.gov.sg/{{mappedProduct.id}}">{{mappedProduct.normalizedName}}</a></strong>{% if forloop.last %}.{% else %},{% endif %}
+        <strong><a href="{{mappedProduct.link}}">{{mappedProduct.title}}</a></strong>{% if forloop.last %}.{% else %},{% endif %}
     {% else %}
         <strong>{{product}}</strong>{% if forloop.last %}.{% else %},{% endif %}
     {% endif %}
