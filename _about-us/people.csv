@@ -96,7 +96,7 @@ Breadcrumbs navigation
 * Go.gov.sg
 * Homer","* Handles end-to-end repo privatisation for Isomer, monitored stability, and set up clearer documentation.
 * Worked on migrations of backend infrastructure onto AWS. 
-* Also responsible for monitoring and reviewing security, and resolving vulnerabilities"
+• Also responsible for monitoring and reviewing security, and resolving vulnerabilities"
 30,TRUE,BATCH 1,Joanna,Louiz Kim-Chan,louiz@open.gov.sg,Software Engineering,Software Engineer,"July 5, 2021",,,https://docs.google.com/document/d/143mKrTuVS3QzCvIq6oV5Dj_JLDUtIwKBSwH7tuZLGk0/edit#heading=h.6brzblxn4oep,* Care360,"* Covid Ops
 * Healthcare
 * Healthtech","* Took point for VAPT by setting up Pulumi code for Care360.
@@ -141,13 +141,13 @@ Breadcrumbs navigation
 * Sync","* Scoped and secured new agencies to AskGov
 * Debugged AskGov and managed onboarding for new users
 * Migrated AskGov Portal 1.0 to Portal 2.0"
-78,TRUE,BATCH 1,Joanna,Kishore R,kishore@open.gov.sg,Software Engineering,Software Engineer,"July 4, 2022",,,https://www.notion.so/opengov/Kishore-s-Working-Document-8035f5f1dddb47328720dbde50ce5cbc,* Isomer,,"• Worked on Isomer site launches
+78,TRUE,BATCH 1,Joanna,Kishore R,kishore@open.gov.sg,Software Engineering,Software Engineer,"July 4, 2022",,,https://www.notion.so/opengov/Kishore-s-Working-Document-8035f5f1dddb47328720dbde50ce5cbc,* Isomer,,"* Worked on Isomer site launches
 * Migrated Netlify to Amplify and converted [existing bash scripts to typescript]to increase developer speed
 * Laid the groundwork for Infra repo and Indirection layer in Pulumi, following best practices advice"
-86,TRUE,BATCH 1,Joanna,Latasha Lenus,latasha@open.gov.sg,Software Engineering,Software Engineer,"August 22, 2022",,,https://www.notion.so/opengov/Latasha-s-Working-Doc-686e0d2de6c3463fadb0e3b874fc453c,* AskGov,,"• Migrated AskGov Portal 1.0 to Portal 2.0
+86,TRUE,BATCH 1,Joanna,Latasha Lenus,latasha@open.gov.sg,Software Engineering,Software Engineer,"August 22, 2022",,,https://www.notion.so/opengov/Latasha-s-Working-Doc-686e0d2de6c3463fadb0e3b874fc453c,* AskGov,,"* Migrated AskGov Portal 1.0 to Portal 2.0
 * Contributed to the development of AskGov as an IC which led to the project being deployed in time for a small use case (OGPcareers).
 * Worked on SEO optimization, set up logging and monitoring, improved scrolling and search, refined topics UIUX, and prepared Checkpoint for launch."
-92,TRUE,BATCH 1,Joanna,Caleb Chiam,caleb@open.gov.sg,Software Engineering,Software Engineer,"October 25, 2022",,,https://docs.google.com/document/d/1rULm0scq3eFL5oBiV2_d7qsf5KKg1lYVnXcAShHaxv4/edit,* Care360,,"• Improved frontend coding standards by introducing a cleaner frontend component directory structure
+92,TRUE,BATCH 1,Joanna,Caleb Chiam,caleb@open.gov.sg,Software Engineering,Software Engineer,"October 25, 2022",,,https://docs.google.com/document/d/1rULm0scq3eFL5oBiV2_d7qsf5KKg1lYVnXcAShHaxv4/edit,* Care360,,"* Improved frontend coding standards by introducing a cleaner frontend component directory structure
 * Worked on data migration efforts from existing healthcare systems, and supported user testing / training sessions at the various healthcare institutions where Care360 will be launched
 * Led InternalFunds sprint
 "

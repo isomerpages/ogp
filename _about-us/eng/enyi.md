@@ -11,7 +11,7 @@ jobTitle: Software Engineer
 curProducts:
   - Primary Care
 pastProducts: []
-accomplishments: >
+accomplishments: >-
   * Created technical design doc for the SMS preview and
   rescheduling/cancellation reasons features
 

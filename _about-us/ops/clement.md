@@ -16,7 +16,7 @@ pastProducts:
   - HealthTech Sprint
   - Isomer Project Pancake
   - MindCraft
-accomplishments: >
+accomplishments: >-
   * Led product operations for GoGovSG, ForSG, and ForEduSG and increased user
   base and new URLs steadily.
 

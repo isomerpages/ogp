@@ -51,8 +51,16 @@ await Promise.all(staffFiles.filter(file => !/all.md$/.test(file)).map(file => u
 function getCleanProductList(products) {
     return (products || '')
         .split(/[\r\n]+/)
-        .map(product => product.trim().replace(/^[*-]\s*/, '')) // remove "bullet point"
+        .map(product => product.trim().replace(/^[*•-]\s*/, '')) // remove "bullet points"
         .filter(v => v)
+}
+
+function getCleanAccompishments(accomplishments) {
+    return (accomplishments || '')
+        .split(/[\r\n]+/)
+        .map(item => item.trim().replace(/^[*•-]\s*/, '* ')) // normalize bullet points
+        .filter(v => v)
+        .join('\n')
 }
 
 // 1 generate the data file
@@ -67,7 +75,7 @@ const namedRecords = records.map(([_sn, _done, _batch, _by, name, email, func, j
         jobTitle: jobTitle || 'Job Title',
         curProducts: getCleanProductList(curProducts),
         pastProducts: getCleanProductList(pastProducts),
-        accomplishments: accomplishments?.split(/[\r\n]+/).join('\n') || '',
+        accomplishments: getCleanAccompishments(accomplishments),
         quote: quote || '',
         linkedinId: linkedinId || '',
     }

@@ -22,7 +22,7 @@ pastProducts:
   - DigiMC
 accomplishments: >-
   * Onboarded a major ICA project to Postman for up to 146M emails to be sent a
-  year, leading to significant cost savings of at least S$500k 
+  year, leading to significant cost savings of at least S$500k
 
   * Launched Scheduled Sending on Postman, a top-requested feature from users
 

@@ -24,7 +24,7 @@ accomplishments: >-
 
   * Worked with the Head of Product Operations to establish and run product operations hiring processes to double the size of the product operations team
 
-  * Planned and ran various government sharings (>1300 attendees) on OGP products to significantly increase product adoption across the rest of government. 
+  * Planned and ran various government sharings (>1300 attendees) on OGP products to significantly increase product adoption across the rest of government.
 quote: ""
 linkedinId: ""
 

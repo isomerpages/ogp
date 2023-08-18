@@ -20,7 +20,7 @@ pastProducts:
   - ResolveSG
   - Send
   - Vault
-accomplishments: >
+accomplishments: >-
   * Reduced and streamlined operations workload for Vault team.
 
   * Sought out solutions that minimized engineering work.

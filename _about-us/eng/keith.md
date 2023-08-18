@@ -11,7 +11,7 @@ jobTitle: Software Engineer
 curProducts:
   - Go.gov.sg
 pastProducts: []
-accomplishments: >
+accomplishments: >-
   * Technical contributions to Pouch; Created file & folder creation components,
   dashboard & user storage consumption component
 

@@ -17,7 +17,7 @@ accomplishments: >-
 
   * Increased Care360's branding efforts; responsible for reworking the frontend for all key user flows
 
-  * Part of team that built the critical Overlapping Financial Applications feature 
+  * Part of team that built the critical Overlapping Financial Applications feature
 quote: ""
 linkedinId: ""
 

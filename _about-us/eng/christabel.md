@@ -21,7 +21,7 @@ accomplishments: >-
 
   * Launched Scamshield 2.0 SPF dashboard and Scamshield Andriod + iOS App
 
-  * Managed nominal roll processing and SMS campaigns for Covid-19 vaccination appointment operations 
+  * Managed nominal roll processing and SMS campaigns for Covid-19 vaccination appointment operations
 quote: ""
 linkedinId: ""
 

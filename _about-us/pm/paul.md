@@ -16,7 +16,7 @@ pastProducts:
   - Payments
   - PaySG
   - Redeem
-accomplishments: >
+accomplishments: >-
   * Delivered Project Orchid phase 1
 
   * Served as an advisor to agencies and banks planning to use Purpose Bound Money (PBM)

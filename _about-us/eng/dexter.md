@@ -13,7 +13,7 @@ pastProducts:
   - HAS
 accomplishments: >-
   * Performed intra- and inter-timeslot validation on change in the schedule
-  management form. 
+  management form.
 
   * improved HAS user experience by setting additional timeslots to continue from the end of the previous selection.
 

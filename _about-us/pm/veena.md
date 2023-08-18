@@ -14,7 +14,6 @@ curProducts:
 pastProducts:
   - CorpTech
 accomplishments: >-
-  
   * Scaled sgID use cases across multiple potential partners in Singapore
 
   * Planned and ran learning month courses and programmes for Product Manager upskilling

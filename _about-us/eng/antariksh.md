@@ -18,11 +18,11 @@ pastProducts:
   - Temperature
   - SGID
 accomplishments: >-
-  * Worked on and launched CalSG. 
+  * Worked on and launched CalSG.
 
   * Managed the CalSG team and oversaw both engineering and design.
 
-  * Led SDK initiative for sgID which was targetted to make the process easier for developers working in common backend languages to implement sgID integrations. 
+  * Led SDK initiative for sgID which was targetted to make the process easier for developers working in common backend languages to implement sgID integrations.
 quote: ""
 linkedinId: ""
 

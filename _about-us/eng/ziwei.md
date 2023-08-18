@@ -19,7 +19,7 @@ pastProducts:
 accomplishments: >-
   * Wrote the external API endpoints for Go, which facilitated the creation of
   over 3000 links, and allowed for integrations with other institutions'
-  systems. 
+  systems.
 
   * Worked on the frontend and backend of Pouch, and also implemented security classifications for files and folders.
 

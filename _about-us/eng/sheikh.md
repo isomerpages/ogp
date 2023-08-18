@@ -17,9 +17,9 @@ pastProducts:
   - Redeem
 accomplishments: >-
   * CBDC - contributed as a lead by independently researching, defining,
-  designing, and subsequently implementing with minimal guidance. 
+  designing, and subsequently implementing with minimal guidance.
 
-  * Mentorship and leadership roles in guiding more junior members of the team for Redeem team. 
+  * Mentorship and leadership roles in guiding more junior members of the team for Redeem team.
 
   * Migrated Pair into a more production ready setup.
 quote: ""

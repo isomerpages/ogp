@@ -11,7 +11,7 @@ jobTitle: Software Developer
 curProducts:
   - FormSG
 pastProducts: []
-accomplishments: >
+accomplishments: >-
   * Improved the accessibility of Forms for the visually impaired
 
   * Implemented and removed beta features for Forms Payment feature and sgID integration

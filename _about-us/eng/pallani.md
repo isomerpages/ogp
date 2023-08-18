@@ -26,7 +26,7 @@ pastProducts:
 accomplishments: >-
   * Provided engineering management support to engineers across multiple product
   teams on career development and growth as well as expertise on technical
-  architecture and feature prioritisation 
+  architecture and feature prioritisation
 
   * Worked with the Lead PM on product team vision, goals, and resourcing, as well as building a strong team culture of cross-functional collaboration and mission-focus.
 

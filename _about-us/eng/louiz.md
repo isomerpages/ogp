@@ -14,10 +14,10 @@ pastProducts:
   - Covid Ops
   - Healthcare
   - Healthtech
-accomplishments: >
+accomplishments: >-
   * Took point for VAPT by setting up Pulumi code for Care360.
 
-  * Planned and executed Cure53 evaluation readiness. 
+  * Planned and executed Cure53 evaluation readiness.
 
   * Contributed to migration operations by writing a script to migrate the majority of financial form data.
 quote: ""

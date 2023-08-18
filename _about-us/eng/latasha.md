@@ -12,7 +12,7 @@ curProducts:
   - AskGov
 pastProducts: []
 accomplishments: >-
-  • Migrated AskGov Portal 1.0 to Portal 2.0
+  * Migrated AskGov Portal 1.0 to Portal 2.0
 
   * Contributed to the development of AskGov as an IC which led to the project being deployed in time for a small use case (OGPcareers).
 

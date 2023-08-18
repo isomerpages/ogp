@@ -12,7 +12,7 @@ curProducts:
   - Isomer
 pastProducts: []
 accomplishments: >-
-  • Worked on Isomer site launches
+  * Worked on Isomer site launches
 
   * Migrated Netlify to Amplify and converted [existing bash scripts to typescript]to increase developer speed
 

@@ -12,7 +12,7 @@ curProducts:
   - Scamshield
 pastProducts:
   - Scamshield
-accomplishments: >
+accomplishments: >-
   * Created a Telegram bot tool for checking scam tactics
 
   * Scamshield: Implemented overlay to notify users on old versions of the app to update the app

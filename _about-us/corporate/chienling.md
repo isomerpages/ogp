@@ -17,11 +17,11 @@ pastProducts:
   - HR operations and governance
   - Team communications
 accomplishments: >-
-  *   Conceptualised and launched OGP’s referral programme
+  * Conceptualised and launched OGP’s referral programme
 
-  *   Set-up and launched OGP’s allocation framework for hiring
+  * Set-up and launched OGP’s allocation framework for hiring
 
-  *   Did the bulk of hiring operations and pipeline management to grow OGP by more than 100 people from 2022-2023
+  * Did the bulk of hiring operations and pipeline management to grow OGP by more than 100 people from 2022-2023
 quote: ""
 linkedinId: ""
 

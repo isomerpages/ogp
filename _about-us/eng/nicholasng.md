@@ -13,7 +13,7 @@ curProducts:
   - Primary Care
   - Care360
 pastProducts: []
-accomplishments: >
+accomplishments: >-
   * Migrated Care360
 
   * Served as feature captain for this entire Epic to manage the entire project, and also integrated HSAR and SmartCMS which impacts transparency in the healthcare sector

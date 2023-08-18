@@ -14,13 +14,13 @@ pastProducts:
   - Workplace
   - Procurement and Finance
 accomplishments: >-
-  *   Planned and managed Finance team of 2
+  * Planned and managed Finance team of 2
 
-  *   Secured funding for expanded OGP team of nearly 200
+  * Secured funding for expanded OGP team of nearly 200
 
-  *   Backend finance process automations
+  * Backend finance process automations
 
-  *   Finance sprint to consolidate and visualise finance data to track OGP expenditure by team
+  * Finance sprint to consolidate and visualise finance data to track OGP expenditure by team
 quote: ""
 linkedinId: ""
 
