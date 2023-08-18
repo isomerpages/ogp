@@ -41,14 +41,19 @@ const csvContent = await readFile(`${SOURCE_PEOPLE_CSV}`);
 
 const records = (await parseAsync(csvContent, {bom: true})).slice(1) // drop header
 
-let quoteIndex = 0
-
 // 0 remove all user files to stick to the incoming list exclusively
 // all js files, but don't look in node_modules
 const staffFiles = await glob(`${TARGET_ABOUT_US_COLLECTION_DIR}/*/*.md`)
 
 await Promise.all(staffFiles.filter(file => !/all.md$/.test(file)).map(file => unlink(file)))
 
+
+function getCleanProductList(products) {
+    return (products || '')
+        .split(/[\r\n]+/)
+        .map(product => product.trim().replace(/^[*-]\s*/, '')) // remove "bullet point"
+        .filter(v => v)
+}
 
 // 1 generate the data file
 const namedRecords = records.map(([_sn, _done, _batch, _by, name, email, func, jobTitle, joinDate, quote, linkedinId, _workingDocLink, curProducts, pastProducts, accomplishments]) => {
@@ -67,8 +72,8 @@ const namedRecords = records.map(([_sn, _done, _batch, _by, name, email, func, j
         linkedinId: linkedinId || '',
     }
 
-    record.curProducts = record.curProducts.trim().split(/\s*\*\s*/).filter(v => v)
-    record.pastProducts = record.pastProducts.trim().split(/\s*\*\s*/).filter(v => v)
+    record.curProducts = getCleanProductList(record.curProducts)
+    record.pastProducts = getCleanProductList(record.pastProducts)
 
     return record
 }).filter(record => record.staffId)
