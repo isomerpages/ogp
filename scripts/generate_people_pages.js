@@ -57,7 +57,7 @@ function getCleanProductList(products) {
 
 // 1 generate the data file
 const namedRecords = records.map(([_sn, _done, _batch, _by, name, email, func, jobTitle, joinDate, quote, linkedinId, _workingDocLink, curProducts, pastProducts, accomplishments]) => {
-    const id = email.split('@')[0].toLowerCase();
+    const id = email.trim().split('@')[0].toLowerCase();
 
     const record = {
         staffId: id,
