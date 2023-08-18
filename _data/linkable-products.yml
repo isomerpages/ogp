@@ -52,6 +52,7 @@
   normalizedName: sgID
 - id: parkingsg
   name:
+    - Parking
     - ParkingSG
     - Parking.sg
   normalizedName: Parking.sg
