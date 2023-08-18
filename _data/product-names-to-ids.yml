@@ -1,42 +1,74 @@
 - id: askgov
-  name: AskGov
+  name:
+    - AskGov
+  normalizedName: AskGov
 - id: calsg
-  name: CalSG
+  name:
+    - CalSG
+  normalizedName: CalSG
 - id: checkfirst
-  name: CheckFirst
+  name:
+    - CheckFirst
+  normalizedName: CheckFirst
 - id: datagovsg
-  name: Data.gov.sg
-- id: datagovsg
-  name: Data.gov
+  name:
+    - Data.gov.sg
+    - Data.gov
+  normalizedName: Data.gov.sg
 - id: formsg
-  name: FormSG
+  name:
+    - FormSG
+  normalizedName: FormSG
 - id: gogovsg
-  name: GoGovSG
-- id: gogovsg
-  name: Go.gov.sg
+  name:
+    - GoGovSG
+    - Go.gov.sg
+    - go.gov.sg
+  normalizedName: Go.gov.sg
 - id: isomer
-  name: Isomer
+  name:
+    - Isomer
+  normalizedName: Isomer
 - id: pair
-  name: Pair
+  name:
+    - Pair
+  normalizedName: Pair
 - id: plumber
-  name: Plumber
+  name:
+    - Plumber
+  normalizedName: Plumber
 - id: postman
-  name: Postman
+  name:
+    - Postman
+  normalizedName: Postman
 - id: scamshield
-  name: ScamShield
+  name:
+    - ScamShield
+  normalizedName: ScamShield
 - id: sgid
-  name: sgID
+  name:
+    - sgID
+    - SGID
+  normalizedName: sgID
 - id: parkingsg
-  name: ParkingSG
-- id: parkingsg
-  name: Parking.sg
+  name:
+    - ParkingSG
+    - Parking.sg
+  normalizedName: Parking.sg
 - id: paysg
-  name: PaySG
+  name:
+    - PaySG
+  normalizedName: PaySG
 - id: redeem
-  name: RedeemSG
-- id: redeem
-  name: Redeem
+  name:
+    - RedeemSG
+    - Redeem
+  normalizedName: RedeemSG
 - id: has
-  name: HAS
+  name:
+    - HAS
+  normalizedName: HAS
 - id: care360
-  name: Care360
+  name:
+    - Care360
+  normalizedName: Care360
