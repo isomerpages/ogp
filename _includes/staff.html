@@ -68,15 +68,6 @@
         flex-grow: 1;
     }
 
-    .staff-product-details {
-        margin-top: 2em;
-    }
-
-    .staff-product-details a,
-    .staff-product-details a strong {
-        color: #4372d6;
-    }
-
     @media only screen and (max-width: 600px) {
         .staff-pic {
             width: 120px;
@@ -134,13 +125,12 @@
     <q>{{ include.staff.quote }}</q>
 </div>
 
-<div class="staff-product-details">
 {% if include.staff.curProducts.size > 0 %}
 <p>I joined since <strong>{{include.staff.joinDate}}</strong> and I am currently working on
 {% for product in include.staff.curProducts %}
     {% assign mappedProduct=site.data.product-names-to-ids | find:"name", product %}
     {% if mappedProduct.id %}
-        <a href="https://products.open.gov.sg/{{mappedProduct.id}}"><strong>{{product}}</strong></a>{% if forloop.last %}.{% else %},{% endif %}
+        <strong><a href="https://products.open.gov.sg/{{mappedProduct.id}}">{{product}}</a></strong>{% if forloop.last %}.{% else %},{% endif %}
     {% else %}
         <strong>{{product}}</strong>{% if forloop.last %}.{% else %},{% endif %}
     {% endif %}
@@ -153,14 +143,13 @@
 {% for product in include.staff.pastProducts %}
     {% assign mappedProduct=site.data.product-names-to-ids | find:"name", product %}
     {% if mappedProduct.id %}
-        <a href="https://products.open.gov.sg/{{mappedProduct.id}}"><strong>{{product}}</strong></a>{% if forloop.last %}.{% else %},{% endif %}
+        <strong><a href="https://products.open.gov.sg/{{mappedProduct.id}}">{{product}}</a></strong>{% if forloop.last %}.{% else %},{% endif %}
     {% else %}
         <strong>{{product}}</strong>{% if forloop.last %}.{% else %},{% endif %}
     {% endif %}
 {% endfor %}
 </p>
 {% endif %}
-</div>
 
 {% if include.staff.accomplishments == "i'm new, watch this space!" %}
 **I'm new, watch this space!**
