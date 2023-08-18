@@ -11,12 +11,11 @@ jobTitle: Senior Product Manager
 curProducts:
   - SGC
 pastProducts:
-  - |-
-    MAS - Orchid
-    Parking.sg
-    Payments
-    PaySG
-    Redeem
+  - MAS - Orchid
+  - Parking.sg
+  - Payments
+  - PaySG
+  - Redeem
 accomplishments: >
   * Delivered Project Orchid phase 1
 

@@ -9,8 +9,7 @@ joinDate: July 17, 2023
 functionId: design
 jobTitle: Product Designer
 curProducts: []
-pastProducts:
-  - "-"
+pastProducts: []
 accomplishments: i'm new, watch this space!
 quote: ""
 linkedinId: ""

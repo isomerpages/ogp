@@ -11,11 +11,10 @@ jobTitle: Senior Software Engineer
 curProducts:
   - Postman
 pastProducts:
-  - |-
-    DigiMC
-    HAS
-    Sync
-    Touchpoint
+  - DigiMC
+  - HAS
+  - Sync
+  - Touchpoint
 accomplishments: >
   * Worked to stabilise Postman codebase and reworked release process to
   improving system observability for the Postman application

@@ -4,11 +4,15 @@ collections:
     order:
       - About us.md
       - corporate/all.md
+      - corporate/amitha.md
       - corporate/bernadette.md
       - corporate/chienling.md
       - corporate/clifford.md
       - corporate/lhy.md
+      - corporate/jiahui.md
       - corporate/joanna.md
+      - corporate/joshua.md
+      - corporate/lorraine.md
       - corporate/sengpoh.md
       - corporate/nicole.md
       - corporate/russell.md
@@ -42,7 +46,6 @@ collections:
       - eng/alexander.md
       - eng/alexis.md
       - eng/alwyn.md
-      - eng/amitha.md
       - eng/angel.md
       - eng/antariksh.md
       - eng/arshad.md
@@ -75,10 +78,8 @@ collections:
       - eng/jason.md
       - eng/jenwei.md
       - eng/jiachin.md
-      - eng/jiahui.md
       - eng/jiayee.md
       - eng/jiehao.md
-      - eng/joshua.md
       - eng/justyn.md
       - eng/kaiwen.md
       - eng/karrui.md
@@ -92,7 +93,6 @@ collections:
       - eng/kokseng.md
       - eng/latasha.md
       - eng/leyang.md
-      - eng/lorraine.md
       - eng/louiz.md
       - eng/malcolm.md
       - eng/mayying.md

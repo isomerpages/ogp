@@ -21,6 +21,7 @@ const functionNameToFunctionId = {
     'Corporate Team': 'corporate',
     'People Team': 'corporate',
     'Marketing Team': 'corporate',
+    'Corporate Operations': 'corporate',
     'Product Design': 'design',
     'Product Operations': 'ops',
     'Partnerships & Transformation': 'transformation',

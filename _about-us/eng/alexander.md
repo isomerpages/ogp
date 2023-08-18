@@ -11,11 +11,10 @@ jobTitle: Senior Software Engineer
 curProducts:
   - Isomer
 pastProducts:
-  - |-
-    AskGov
-    CheckFirst
-    Go.gov.sg
-    Homer
+  - AskGov
+  - CheckFirst
+  - Go.gov.sg
+  - Homer
 accomplishments: >-
   * Handles end-to-end repo privatisation for Isomer, monitored stability, and
   set up clearer documentation.

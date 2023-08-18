@@ -11,10 +11,9 @@ jobTitle: Software Engineer
 curProducts:
   - Pixie
 pastProducts:
-  - |-
-    Care360
-    CorpTech
-    Healthtech
+  - Care360
+  - CorpTech
+  - Healthtech
 accomplishments: >
   * Care360 feature work– built the Financial Assistance (FA) application flow. 
 

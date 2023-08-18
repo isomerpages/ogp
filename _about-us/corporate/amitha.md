@@ -2,11 +2,11 @@
 title: Amitha Fernando
 permalink: /people/amitha
 description: "Amitha Fernando - Manager (Finance Operations)"
-third_nav_title: Software Engineering
+third_nav_title: Corporate Team
 staffId: amitha
 name: Amitha Fernando
 joinDate: July 17, 2023
-functionId: eng
+functionId: corporate
 jobTitle: Manager (Finance Operations)
 curProducts: []
 pastProducts:
@@ -17,4 +17,4 @@ linkedinId: ""
 
 ---
 
-{% include staff.html staff=page color=site.colors.function-colors.eng %}
+{% include staff.html staff=page color=site.colors.function-colors.corporate %}

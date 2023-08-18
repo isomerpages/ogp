@@ -11,10 +11,9 @@ jobTitle: Product Operations Specialist
 curProducts:
   - Armoury
 pastProducts:
-  - |-
-    AskGov
-    Healthtech
-    Sync
+  - AskGov
+  - Healthtech
+  - Sync
 accomplishments: |-
   * Scoped and secured new agencies to AskGov
   * Debugged AskGov and managed onboarding for new users

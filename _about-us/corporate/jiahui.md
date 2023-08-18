@@ -2,11 +2,11 @@
 title: Jia Hui Yap
 permalink: /people/jiahui
 description: "Jia Hui Yap - Manager (Corporate Operations)"
-third_nav_title: Software Engineering
+third_nav_title: Corporate Team
 staffId: jiahui
 name: Jia Hui Yap
 joinDate: September 6, 2021
-functionId: eng
+functionId: corporate
 jobTitle: Manager (Corporate Operations)
 curProducts:
   - Corporate Operations
@@ -25,4 +25,4 @@ linkedinId: ""
 
 ---
 
-{% include staff.html staff=page color=site.colors.function-colors.eng %}
+{% include staff.html staff=page color=site.colors.function-colors.corporate %}

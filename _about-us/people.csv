@@ -91,10 +91,10 @@ Breadcrumbs navigation
 * Tooling","* Frontend engineering work done on FormSg React and pushed it into production with hardly any bugs
 * Wrote complex features into FormSG Payments to enable agency's accounts to their FormSG. 
 * Worked on Care360 to optimise user experience by reducing lag and improved frontend application usage."
-24,TRUE,BATCH 1,Joanna,Alex Lee,alexander@open.gov.sg,Software Engineering,Senior Software Engineer,"June 15, 2020",,,https://docs.google.com/document/d/1qRdTgyD6Lae_Tv9NOBlqCOIX5vgqZwyC-hcZ31erxhI/edit#heading=h.xkfgcwsoy2dv,* Isomer,"AskGov
-CheckFirst
-Go.gov.sg
-Homer","* Handles end-to-end repo privatisation for Isomer, monitored stability, and set up clearer documentation.
+24,TRUE,BATCH 1,Joanna,Alex Lee,alexander@open.gov.sg,Software Engineering,Senior Software Engineer,"June 15, 2020",,,https://docs.google.com/document/d/1qRdTgyD6Lae_Tv9NOBlqCOIX5vgqZwyC-hcZ31erxhI/edit#heading=h.xkfgcwsoy2dv,* Isomer,"* AskGov
+* CheckFirst
+* Go.gov.sg
+* Homer","* Handles end-to-end repo privatisation for Isomer, monitored stability, and set up clearer documentation.
 * Worked on migrations of backend infrastructure onto AWS. 
 • Also responsible for monitoring and reviewing security, and resolving vulnerabilities"
 30,TRUE,BATCH 1,Joanna,Louiz Kim-Chan,louiz@open.gov.sg,Software Engineering,Software Engineer,"July 5, 2021",,,https://docs.google.com/document/d/143mKrTuVS3QzCvIq6oV5Dj_JLDUtIwKBSwH7tuZLGk0/edit#heading=h.6brzblxn4oep,* Care360,"* Covid Ops
@@ -105,30 +105,30 @@ Homer","* Handles end-to-end repo privatisation for Isomer, monitored stability,
 
 
 "
-39,TRUE,BATCH 1,Joanna,Sheikh Bin Mohamed Aneess Alrragi,sheikh@open.gov.sg,Software Engineering,Software Engineer,"September 13, 2021",,,https://docs.google.com/document/d/1Kszhv8TzWCmLrq49PYxUovA2IrERB3gUwfvpHZ8KwTo/edit#heading=h.edq0jro3ey47,* Pair,"Parking.sg
-Payments
-PaySG
-Redeem","* CBDC - contributed as a lead by independently researching, defining, designing, and subsequently implementing with minimal guidance. 
+39,TRUE,BATCH 1,Joanna,Sheikh Bin Mohamed Aneess Alrragi,sheikh@open.gov.sg,Software Engineering,Software Engineer,"September 13, 2021",,,https://docs.google.com/document/d/1Kszhv8TzWCmLrq49PYxUovA2IrERB3gUwfvpHZ8KwTo/edit#heading=h.edq0jro3ey47,* Pair,"* Parking.sg
+* Payments
+* PaySG
+* Redeem","* CBDC - contributed as a lead by independently researching, defining, designing, and subsequently implementing with minimal guidance. 
 * Mentorship and leadership roles in guiding more junior members of the team for Redeem team. 
 * Migrated Pair into a more production ready setup."
-46,TRUE,BATCH 1,Joanna,Daryl Chan,daryl@open.gov.sg,Software Engineering,Software Engineer,"January 3, 2022",,,https://docs.google.com/document/d/1-vjDwIyZiXGNlhFe64rMvCWyjAE0ATvML9Iao6d2eCo/edit,* Pixie,"Care360
-CorpTech
-Healthtech","* Care360 feature work– built the Financial Assistance (FA) application flow. 
+46,TRUE,BATCH 1,Joanna,Daryl Chan,daryl@open.gov.sg,Software Engineering,Software Engineer,"January 3, 2022",,,https://docs.google.com/document/d/1-vjDwIyZiXGNlhFe64rMvCWyjAE0ATvML9Iao6d2eCo/edit,* Pixie,"* Care360
+* CorpTech
+* Healthtech","* Care360 feature work– built the Financial Assistance (FA) application flow. 
 * Care360 frontend infrastructure work by improving Care360’s frontend performance and reliability.
 * Production incidents on-call for Covid-ops.
 "
-52,TRUE,BATCH 1,Joanna,Stanley Nguyen,stanley@open.gov.sg,Software Engineering,Senior Software Engineer,"January 24, 2022",,,https://docs.google.com/document/d/1Z2MFrMLz5EgcfxI7S0xo6g2Fop434kgL-HHtShodjyQ/edit,* Postman,"DigiMC
-HAS
-Sync
-Touchpoint","* Worked to stabilise Postman codebase and reworked release process to improving system observability for the Postman application
+52,TRUE,BATCH 1,Joanna,Stanley Nguyen,stanley@open.gov.sg,Software Engineering,Senior Software Engineer,"January 24, 2022",,,https://docs.google.com/document/d/1Z2MFrMLz5EgcfxI7S0xo6g2Fop434kgL-HHtShodjyQ/edit,* Postman,"* DigiMC
+* HAS
+* Sync
+* Touchpoint","* Worked to stabilise Postman codebase and reworked release process to improving system observability for the Postman application
 * Improved system capacity for Postman in terms of message sending throughput, callback load handling, and report generation
 * Campaign management feature for Postman
 "
-59,TRUE,BATCH 1,Joanna,Paul Hong Tay,paul@open.gov.sg,Product Management,Senior Product Manager,"April 18, 2022",,,https://docs.google.com/document/d/1-1XNzpvCx3f71gbsravw26p9UWqOEijfleM4hjex5Xs/edit#heading=h.q9g0durbss53,* SGC,"MAS - Orchid
-Parking.sg
-Payments
-PaySG
-Redeem","* Delivered Project Orchid phase 1
+59,TRUE,BATCH 1,Joanna,Paul Hong Tay,paul@open.gov.sg,Product Management,Senior Product Manager,"April 18, 2022",,,https://docs.google.com/document/d/1-1XNzpvCx3f71gbsravw26p9UWqOEijfleM4hjex5Xs/edit#heading=h.q9g0durbss53,* SGC,"* MAS - Orchid
+* Parking.sg
+* Payments
+* PaySG
+* Redeem","* Delivered Project Orchid phase 1
 * Served as an advisor to agencies and banks planning to use Purpose Bound Money (PBM)
 * Scoped out Multi-Bank Payouts for RedeemSG
 
@@ -136,9 +136,9 @@ Redeem","* Delivered Project Orchid phase 1
 65,TRUE,BATCH 1,Joanna,Amit Samdarshi,amit@open.gov.sg,Product Management,Product Manager,"June 6, 2022",,,https://docs.google.com/document/d/1gGh0FzwZnVmBfZt1HOsTOGmMzhc1tc0mEcBj5bvtZ0U/edit?usp=drive_web&ouid=117260676200678954389,*FormSG,* Sync,"* Worked on FormSG and successfully orchestrated React migration
 * Built a FormSG Payments prototype in test mode within 4 days and an MVP capable of real $ transactions within 14 days 
 * Represented the team as keynote speaker at MongoDB day (300+ attendees)"
-71,TRUE,BATCH 1,Joanna,Ajayraj Singh,ajayraj@open.gov.sg,Product Operations,Product Operations Specialist,"June 13, 2022",,,https://docs.google.com/document/d/1KfXqg5ErH994ajuhRKJlLEKaMp3aYJak7ub3ZPhDCr8/edit,* Armoury,"AskGov
-Healthtech
-Sync","* Scoped and secured new agencies to AskGov
+71,TRUE,BATCH 1,Joanna,Ajayraj Singh,ajayraj@open.gov.sg,Product Operations,Product Operations Specialist,"June 13, 2022",,,https://docs.google.com/document/d/1KfXqg5ErH994ajuhRKJlLEKaMp3aYJak7ub3ZPhDCr8/edit,* Armoury,"* AskGov
+* Healthtech
+* Sync","* Scoped and secured new agencies to AskGov
 * Debugged AskGov and managed onboarding for new users
 * Migrated AskGov Portal 1.0 to Portal 2.0"
 78,TRUE,BATCH 1,Joanna,Kishore R,kishore@open.gov.sg,Software Engineering,Software Engineer,"July 4, 2022",,,https://www.notion.so/opengov/Kishore-s-Working-Document-8035f5f1dddb47328720dbde50ce5cbc,* Isomer,,"• Worked on Isomer site launches
@@ -583,21 +583,21 @@ Sync","* Scoped and secured new agencies to AskGov
 * Scamshield: Implemented overlay to notify users on old versions of the app to update the app
 * Experimented with sentence similarity for classifying incoming free text responses that describe scams
 "
-103,TRUE,,Joanna,Angel Suhardi,angel@open.gov.sg,Software Engineering,Lead Software Engineer,"January 3, 2023",,,https://docs.google.com/document/d/1OXUAmjwg_c7j89fbrTOrMzJP_L3jDDz-rrtghfKApe4/edit,,HAS,"i'm new, watch this space!"
+103,TRUE,,Joanna,Angel Suhardi,angel@open.gov.sg,Software Engineering,Lead Software Engineer,"January 3, 2023",,,https://docs.google.com/document/d/1OXUAmjwg_c7j89fbrTOrMzJP_L3jDDz-rrtghfKApe4/edit,,* HAS,"i'm new, watch this space!"
 106,FALSE,,Joanna,James Hibberd,james@open.gov.sg,Software Engineering,Senior Engineering Manager,"February 6, 2023","I love technology because of its ability to solve problems, and at OGP I get to work on problems that really matter.",,,* Head of Software Engineering,,"* Managed a team of 18 software engineers.
 "
-109,TRUE,,Joanna,Harish Venkatesan,harish@open.gov.sg,Software Engineering,Senior Software Engineer,"February 6, 2023",,,https://docs.google.com/document/d/1ggybYFe32Cth1HftR-VYQ3OOQixLI-Y417rHSmVLOrA/edit,,Isomer,"i'm new, watch this space!"
-114,TRUE,,Joanna,Chin Yang Oh,chinyang@open.gov.sg,Software Engineering,Senior Software Engineer,"March 6, 2023",,,https://docs.google.com/document/d/1yqkQWss1fzmKUA4CfQnqZXdTJ5iyNUH1O9IDJqN5kzg/edit#heading=h.q9g0durbss53,,Pair,"i'm new, watch this space!"
-122,TRUE,,Joanna,Qimmy Lim,qimmy@open.gov.sg,Product Design,Product Designer,"April 3, 2023",,,https://docs.google.com/document/d/1x8O3ASR-3-CZM_hog6ny3ZBPZOYwXCz6L3ngVIIM9-U/edit,,SkillsFuture,"i'm new, watch this space!"
+109,TRUE,,Joanna,Harish Venkatesan,harish@open.gov.sg,Software Engineering,Senior Software Engineer,"February 6, 2023",,,https://docs.google.com/document/d/1ggybYFe32Cth1HftR-VYQ3OOQixLI-Y417rHSmVLOrA/edit,,* Isomer,"i'm new, watch this space!"
+114,TRUE,,Joanna,Chin Yang Oh,chinyang@open.gov.sg,Software Engineering,Senior Software Engineer,"March 6, 2023",,,https://docs.google.com/document/d/1yqkQWss1fzmKUA4CfQnqZXdTJ5iyNUH1O9IDJqN5kzg/edit#heading=h.q9g0durbss53,,* Pair,"i'm new, watch this space!"
+122,TRUE,,Joanna,Qimmy Lim,qimmy@open.gov.sg,Product Design,Product Designer,"April 3, 2023",,,https://docs.google.com/document/d/1x8O3ASR-3-CZM_hog6ny3ZBPZOYwXCz6L3ngVIIM9-U/edit,,* SkillsFuture,"i'm new, watch this space!"
 126,TRUE,,Clifford,Adan Vielma,adan@open.gov.sg,Product Management,Lead Product Manager,"May 2, 2023",,,https://docs.google.com/document/d/11523l6EqwoGb7OfJxYao8lYZcMZSsn0yBLCr9kAX6_c/edit#heading=h.q9g0durbss53,* Care360,* Care360,"i'm new, watch this space!"
-130,TRUE,,Joanna,May Ying Tee,mayying@open.gov.sg,Software Engineering,Senior Software Engineer,"May 29, 2023",,,https://docs.google.com/document/d/1BvoUahzGsux6wDXg0XV_JBqblURBJF7ZktdBqyxtXVU/edit,,Forms,"i'm new, watch this space!"
+130,TRUE,,Joanna,May Ying Tee,mayying@open.gov.sg,Software Engineering,Senior Software Engineer,"May 29, 2023",,,https://docs.google.com/document/d/1BvoUahzGsux6wDXg0XV_JBqblURBJF7ZktdBqyxtXVU/edit,,* FormSG,"i'm new, watch this space!"
 132,TRUE,,Clifford,Jiayee Lim ,jiayee@open.gov.sg,Software Engineering,Software Engineer,"June 5, 2023",,,https://docs.google.com/document/d/1OTdc0h_AZlhDBAsRcbzLw03m6yJBVD8DzK_dFSK6DT0/edit#heading=h.q9g0durbss53,* Secure Government Comms,* Secure Government Comms,"i'm new, watch this space!"
-138,TRUE,,Joanna,Si Mun Tham,simun@open.gov.sg,Software Engineering,Software Engineer,"June 12, 2023",,,https://docs.google.com/document/d/1pS5sWUjLV6JNWBZmG-elfs4sSF0A2TW98jgHaYUdSmU/edit#heading=h.q9g0durbss53,,Go,"i'm new, watch this space!"
-144,TRUE,,Joanna,Se Hyun Park,sehyun@open.gov.sg,Product Design,Product Designer,"July 17, 2023",,,"i'm new, watch this space!",,-,"i'm new, watch this space!"
-150,TRUE,,Joanna,Malcolm Ong,Malcolm@open.gov.sg,Software Engineering,Software Engineer,"July 17, 2023",,,"i'm new, watch this space!",,Plumber,"i'm new, watch this space!"
+138,TRUE,,Joanna,Si Mun Tham,simun@open.gov.sg,Software Engineering,Software Engineer,"June 12, 2023",,,https://docs.google.com/document/d/1pS5sWUjLV6JNWBZmG-elfs4sSF0A2TW98jgHaYUdSmU/edit#heading=h.q9g0durbss53,,* Go,"i'm new, watch this space!"
+144,TRUE,,Joanna,Se Hyun Park,sehyun@open.gov.sg,Product Design,Product Designer,"July 17, 2023",,,"i'm new, watch this space!",,,"i'm new, watch this space!"
+150,TRUE,,Joanna,Malcolm Ong,Malcolm@open.gov.sg,Software Engineering,Software Engineer,"July 17, 2023",,,"i'm new, watch this space!",,* Plumber,"i'm new, watch this space!"
 153,FALSE,,Joanna,XingHao Yang,xinghao@open.gov.sg,Software Engineering,Software Engineer,"July 17, 2023",,,"i'm new, watch this space!",,,"i'm new, watch this space!"
 156,TRUE,,Joanna,Darren Ng,darren@open.gov.sg,Product Design,Lead Product Manager,"July 24, 2023",,,"i'm new, watch this space!",,* UX Research,"i'm new, watch this space!"
-162,TRUE,,Joanna,Siddarth Nandanahosur Suresh,,Software Engineering,,"December 4, 2023",,,"i'm new, watch this space!",,-,"i'm new, watch this space!"
+162,TRUE,,Joanna,Siddarth Nandanahosur Suresh,,Software Engineering,,"December 4, 2023",,,"i'm new, watch this space!",,,"i'm new, watch this space!"
 1,FALSE,,Joanna,Pallani s/o Selvan,pallani@open.gov.sg,Software Engineering,Lead Software Engineer,"May 11, 2015","At OGP, I have the space and autonomy to build any product that will improve the lives of people in Singapore",,https://docs.google.com/document/d/1ZKqxiPuLLtLDj9DjXdatNPKODVPHnRihdeBH7IdFIqA/edit,"* Senior Engineering Manager
 * Scamtech
 * Redeem

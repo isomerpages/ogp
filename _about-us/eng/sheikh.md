@@ -11,11 +11,10 @@ jobTitle: Software Engineer
 curProducts:
   - Pair
 pastProducts:
-  - |-
-    Parking.sg
-    Payments
-    PaySG
-    Redeem
+  - Parking.sg
+  - Payments
+  - PaySG
+  - Redeem
 accomplishments: >-
   * CBDC - contributed as a lead by independently researching, defining,
   designing, and subsequently implementing with minimal guidance. 

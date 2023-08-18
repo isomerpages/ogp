@@ -2,11 +2,11 @@
 title: Joshua Tan
 permalink: /people/joshua
 description: "Joshua Tan - Senior Manager (Finance Operations)"
-third_nav_title: Software Engineering
+third_nav_title: Corporate Team
 staffId: joshua
 name: Joshua Tan
 joinDate: September 6, 2021
-functionId: eng
+functionId: corporate
 jobTitle: Senior Manager (Finance Operations)
 curProducts:
   - Corporate Operations
@@ -26,4 +26,4 @@ linkedinId: ""
 
 ---
 
-{% include staff.html staff=page color=site.colors.function-colors.eng %}
+{% include staff.html staff=page color=site.colors.function-colors.corporate %}
