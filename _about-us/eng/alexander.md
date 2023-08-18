@@ -21,7 +21,7 @@ accomplishments: >-
 
   * Worked on migrations of backend infrastructure onto AWS. 
 
-  • Also responsible for monitoring and reviewing security, and resolving vulnerabilities
+  * Also responsible for monitoring and reviewing security, and resolving vulnerabilities
 quote: ""
 linkedinId: ""
 

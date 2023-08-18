@@ -128,7 +128,12 @@
 {% if include.staff.curProducts.size > 0 %}
 <p>I joined since <strong>{{include.staff.joinDate}}</strong> and I am currently working on
 {% for product in include.staff.curProducts %}
-<strong>{{product}}</strong>{% if forloop.last %}.{% else %},{% endif %}
+    {% assign mappedProduct=site.data.product-names-to-ids | find:"name", product %}
+    {% if mappedProduct.id %}
+        <a href="https://products.open.gov.sg/{{mappedProduct.id}}"><strong>{{product}}</strong></a>{% if forloop.last %}.{% else %},{% endif %}
+    {% else %}
+        <strong>{{product}}</strong>{% if forloop.last %}.{% else %},{% endif %}
+    {% endif %}
 {% endfor %}
 </p>
 {% endif %}
@@ -136,7 +141,12 @@
 {% if include.staff.pastProducts.size > 0 %}
 <p>Products I worked on before include
 {% for product in include.staff.pastProducts %}
-<strong>{{product}}</strong>{% if forloop.last %}.{% else %},{% endif %}
+    {% assign mappedProduct=site.data.product-names-to-ids | find:"name", product %}
+    {% if mappedProduct.id %}
+        <a href="https://products.open.gov.sg/{{mappedProduct.id}}"><strong>{{product}}</strong></a>{% if forloop.last %}.{% else %},{% endif %}
+    {% else %}
+        <strong>{{product}}</strong>{% if forloop.last %}.{% else %},{% endif %}
+    {% endif %}
 {% endfor %}
 </p>
 {% endif %}
