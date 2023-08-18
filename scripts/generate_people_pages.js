@@ -15,6 +15,7 @@ const TARGET_ABOUT_US_COLLECTION_DIR = '../_about-us/'
 const TARGET_ABOUT_US_COLLECTION_YML = '../_about-us/collection.yml'
 const TARGET_STAFF_INSERT_SQL = './staff.sql'
 
+// struct to normalize functions
 const functionNameToFunctionId = {
     'Software Engineering': 'eng',
     'Product Management': 'pm',
@@ -51,7 +52,7 @@ await Promise.all(staffFiles.filter(file => !/all.md$/.test(file)).map(file => u
 function getCleanProductList(products) {
     return (products || '')
         .split(/[\r\n]+/)
-        .map(product => product.trim().replace(/^[*•-]\s*/, '')) // remove "bullet points"
+        .map(product => product.trim().replace(/^[*•-]\s*/, '')) // remove bullet points
         .filter(v => v)
 }
 
