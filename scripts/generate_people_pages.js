@@ -65,15 +65,12 @@ const namedRecords = records.map(([_sn, _done, _batch, _by, name, email, func, j
         joinDate: joinDate || '1970-01-01',
         functionId: functionNameToFunctionId[func] || (functionIdToFunctionName[func] ? func : 'eng'), // stupid default, but to make sure things don't break 🤷
         jobTitle: jobTitle || 'Job Title',
-        curProducts: curProducts || '', // 'currentProducts',
-        pastProducts: pastProducts || '', // 'pastProducts',
+        curProducts: getCleanProductList(curProducts),
+        pastProducts: getCleanProductList(pastProducts),
         accomplishments: accomplishments?.split(/[\r\n]+/).join('\n') || '',
         quote: quote || '',
         linkedinId: linkedinId || '',
     }
-
-    record.curProducts = getCleanProductList(record.curProducts)
-    record.pastProducts = getCleanProductList(record.pastProducts)
 
     return record
 }).filter(record => record.staffId)
