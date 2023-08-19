@@ -4,7 +4,6 @@ permalink: /our-products/care360/
 description: "Care360: a patient management system for Medical Social Workers"
 image: /images/care360 hero banner.png
 ---
-
 ![Care360 Hero Banner](/images/care360%20hero%20banner.png)
 ### A patient management system for Medical Social Workers
 
@@ -36,4 +35,3 @@ Austin Woon <a href="github profile URL" style="display: inline-block; width: 24
 
 
 A huge thank you to the lead MSWs as well as all the MSWs that have been actively involved in co-creating Care360 with us
-
