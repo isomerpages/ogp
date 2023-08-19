@@ -2,9 +2,9 @@ collections:
   our-products:
     output: true
     order:
-      - Care360.md
       - AskGov.md
       - CalSG.md
+      - Care360.md
       - checkfirst.md
       - data-gov-sg.md
       - form.md
