@@ -17,7 +17,7 @@ pastProducts:
   - DistributeSG
   - Redeem
   - PaySG
-  - MAS - Orchid
+  - MAS Orchid
 accomplishments: >-
   * Started several products in OGP including; RedeemSG, PaySG & DistributeSG
 

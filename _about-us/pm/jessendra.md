@@ -11,7 +11,12 @@ jobTitle: Product Manager
 curProducts:
   - AskGov
 pastProducts: []
-accomplishments: ""
+accomplishments: >-
+  * Successfully launched AskGov 2.0 by bringing numerous agencies aboard
+
+  * Built up the AskGov team by establishing team norms and fostering a vibrant team culture
+
+  * Encouraging a healthier lifestyle within OGP through our Monday runs
 quote: ""
 linkedinId: ""
 

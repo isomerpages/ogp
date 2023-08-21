@@ -47,7 +47,7 @@ S/N,Done?,Batch for sending,Done By,Name,ID (w/o dots),Function,Job Title,Join D
 * DistributeSG
 * Redeem
 * PaySG
-* MAS - Orchid","* Started several products in OGP including; RedeemSG, PaySG & DistributeSG
+* MAS Orchid","* Started several products in OGP including; RedeemSG, PaySG & DistributeSG
 * Part of launch team for CDC Vouchers & scaled the pipeline of campaigns to ~$800M
 * Inaugural product team for ParkingSG; Developed ParkingSG Product roadmap"
 77,TRUE,BATCH 1,Clifford,Feliciana Natali,feliciana@open.gov.sg,Product Design,Product Desginer,"July 4, 2022",,,* Can't find working doc,* PaySG,"* Healthtech 
@@ -93,7 +93,7 @@ Breadcrumbs navigation
 * Worked on Care360 to optimise user experience by reducing lag and improved frontend application usage."
 24,TRUE,BATCH 1,Joanna,Alex Lee,alexander@open.gov.sg,Software Engineering,Senior Software Engineer,"June 15, 2020",,,https://docs.google.com/document/d/1qRdTgyD6Lae_Tv9NOBlqCOIX5vgqZwyC-hcZ31erxhI/edit#heading=h.xkfgcwsoy2dv,* Isomer,"* AskGov
 * CheckFirst
-* Go.gov.sg
+* Go.gov
 * Homer","* Handles end-to-end repo privatisation for Isomer, monitored stability, and set up clearer documentation.
 * Worked on migrations of backend infrastructure onto AWS. 
 • Also responsible for monitoring and reviewing security, and resolving vulnerabilities"
@@ -124,7 +124,7 @@ Breadcrumbs navigation
 * Improved system capacity for Postman in terms of message sending throughput, callback load handling, and report generation
 * Campaign management feature for Postman
 "
-59,TRUE,BATCH 1,Joanna,Paul Hong Tay,paul@open.gov.sg,Product Management,Senior Product Manager,"April 18, 2022",,,https://docs.google.com/document/d/1-1XNzpvCx3f71gbsravw26p9UWqOEijfleM4hjex5Xs/edit#heading=h.q9g0durbss53,* SGC,"* MAS - Orchid
+59,TRUE,BATCH 1,Joanna,Paul Hong Tay,paul@open.gov.sg,Product Management,Senior Product Manager,"April 18, 2022",,,https://docs.google.com/document/d/1-1XNzpvCx3f71gbsravw26p9UWqOEijfleM4hjex5Xs/edit#heading=h.q9g0durbss53,* SGC,"* MAS Orchid
 * Parking.sg
 * Payments
 * PaySG
@@ -386,7 +386,7 @@ Breadcrumbs navigation
 * IRMS","* Led the scoping, designing, and execution of the Financial Application Approvals feature in Care360, which was a large, complex, and core feature of the product. 
 * Enabled Care360 integrations for Vault and MTSOC, came up with IHIS reconciliation strategies and improved observability
 * Designed and delivered many features in Care360, such as the Rich text editor feature, backend pagination/filter/sort features, and application version mismatch errors. "
-49,TRUE,BATCH 1,Russell,Shanty Basrur,shanty@open.gov.sg,Product Design,Senior Product Designer,"January 4, 2022",,,https://docs.google.com/document/d/1NnTa2Pnv5lWpV9XSW6Uzc0fMopdEOE6WOY_sw18LKLk/edit,* UX Writer,"* ScamShield
+49,TRUE,BATCH 1,Russell,Shanty Basrur,shanty@open.gov.sg,Product Design,Senior UX Writer,"January 4, 2022",,,https://docs.google.com/document/d/1NnTa2Pnv5lWpV9XSW6Uzc0fMopdEOE6WOY_sw18LKLk/edit,* UX Writer,"* ScamShield
 * FormSG
 * Isomer
 * Redeem
@@ -406,11 +406,11 @@ Breadcrumbs navigation
 * Crackdown","* Worked to get widespread media coverage for Hack for Public Good 2023, with 7 media outlets covering the hackathon
 * Led the product team for Crackdown to provide HDB with a bird's eye view of unauthorised HDB rentals in Singapore
 * Integrated product marketing into the HAS roll-out efforts, leading to widespread media coverage and marketing events to accelerate vaccine appointment booking"
-54,TRUE,BATCH 1,Russell,Nitya Menon,nitya@open.gov.sg,Policy & Transformation,Assist Director (Policy & Transformation),"February 28, 2022",,,,* Policy & Transformation,"* OGP-DIS collaboration
+54,TRUE,BATCH 1,Russell,Nitya Menon,nitya@open.gov.sg,Policy & Transformation,Assistant Director (Policy & Transformation),"February 28, 2022",,,,* Policy & Transformation,"* OGP-DIS collaboration
 * OGP Board of Advisors","* Integrate Whole-of-Government participation in Hack for Public Good to inspire more hand-raisers across government to what is possible
 * Launched OGP's inaugural board of advisors
 * Collaborated with MINDEF/DIS to accelerate the formation and development of tech teams and capabilities"
-55,TRUE,BATCH 1,Russell,Steph Siow,stephanie@open.gov.sg,Policy & Transformation,Assist Director (Policy & Transformation),"April 4, 2022",,,,* Policy & Transformation,* HealthTech Sprint,"* Propagate and support other govt agencies to adapt OGP policies and practices so they become more high performing
+55,TRUE,BATCH 1,Russell,Steph Siow,stephanie@open.gov.sg,Policy & Transformation,Assistant Director (Policy & Transformation),"April 4, 2022",,,,* Policy & Transformation,* HealthTech Sprint,"* Propagate and support other govt agencies to adapt OGP policies and practices so they become more high performing
 * Help rest of OGP gain exposure to and integrate with the rest of Government e.g. Public Service learning journeys and onboarding
 * Closer integration of policy, ops and technology via vertically integrated teams e.g. ScamTech team"
 56,TRUE,BATCH 1,Russell,Jen Wei Niam,jenwei@open.gov.sg,Software Engineering,Software Engineer,"April 4, 2022",,,https://docs.google.com/document/d/1t_ZeM7PcKcQqZy1m64Q2cS0zI11hH3ssMKZ7e652DTM/edit,* Care360,"* CorpTech
@@ -444,7 +444,7 @@ Breadcrumbs navigation
 * Supported major OGP projects such as Tech for Public Good hiring and Hack for Public Good by creating hiring content, running highly customized targeted ads, and promoting demo day livestream to the general public. Social media contributed to 56% of the tech hiring microsite traffic and 40% of the interest form submissions. Social media also contributed to 51% of the demo day interest form traffic, while 20% of the sign-ups were from the general public.
 
 * Marketing POC of RedeemSG and ensured representation of OGP and RedeemSG on CDC materials, increased awareness of Redeem and association with OGP through social media, and strategized a marketing plan for future growth of RedeemSG. This helped increase OGP’s credibility among the general public as the team behind the successful CDC campaign."
-83,TRUE,BATCH 1,Russell,Hygin Fernandez,hygin@open.gov.sg,Policy & Transformation,Assistant Director (Policy),"August 1, 2022",,,https://docs.google.com/document/d/1Sb2c5DaSMJXfZbo7JQW5IPd-s7T_VakIp0eeXVi1Ms8/edit,* Policy & Transformation,"* Scamshield
+83,TRUE,BATCH 1,Russell,Hygin Fernandez,hygin@open.gov.sg,Policy & Transformation,Assistant Director (Policy & Transformation),"August 1, 2022",,,https://docs.google.com/document/d/1Sb2c5DaSMJXfZbo7JQW5IPd-s7T_VakIp0eeXVi1Ms8/edit,* Policy & Transformation,"* Scamshield
 * Scamtech","* Launched IMDA international call blocking pilot
 * Provided product-market fit assessments and recommendations for government tech projects, leading to >S$1M savings
 * Helped simplify government senderID registration processes using Postman.gov.sg"
@@ -476,7 +476,7 @@ Breadcrumbs navigation
 148,TRUE,,Chien Ling,Kishen Ashok Kumar,kishen@open.gov.sg,Software Engineering,Software Engineer,"July 17, 2023",,,"i'm new, watch this space!",* SGC,* Scamshield,"i'm new, watch this space!"
 151,TRUE,,Chien Ling,Danelynn Ding,danelynn@open.gov.sg,Software Engineering,Software Engineer,"July 17, 2023",,,"i'm new, watch this space!",* NLB,,"i'm new, watch this space!"
 154,TRUE,,Chien Ling,Si Min Ong,simin@open.gov.sg,Software Engineering,Software Engineer,"July 17, 2023",,,"i'm new, watch this space!",* ActiveSG,,"i'm new, watch this space!"
-157,TRUE,,Chien Ling,Fiona Pay,fiona@open.gov.sg,Product Design,Senior Product Designer,"July 24, 2023",,,"i'm new, watch this space!",* UX Research,,"i'm new, watch this space!"
+157,TRUE,,Chien Ling,Fiona Pay,fiona@open.gov.sg,Product Design,Senior UX Researcher,"July 24, 2023",,,"i'm new, watch this space!",* UX Research,,"i'm new, watch this space!"
 160,TRUE,,Chien Ling,Mike,,Product Design,,"August 21, 2023",,,"i'm new, watch this space!",* Product Design Manager,,"i'm new, watch this space!"
 76,TRUE,,Chien Ling,Clement Chia,clement@open.gov.sg,Product Operations,Product Operations Specialist,"July 4, 2022",,,https://docs.google.com/document/d/1zVnu8aEIItgO9vbtMPDIvTVT48grseW_FJXgz5uWcjU/edit,* go.gov.sg,"* WizGov
 * Highway
@@ -517,7 +517,8 @@ Breadcrumbs navigation
 * CheckFirst
 * Sync
 * Zendemic
-* HAS / Primary Care","* Built managerial capacity on the HealthTech team by onboarding Angel to primary care team and transitioning Jen Wei into a TLM role for Care360.
+* HAS 
+* Primary Care","* Built managerial capacity on the HealthTech team by onboarding Angel to primary care team and transitioning Jen Wei into a TLM role for Care360.
 * Restarted the Armoury team and coached the team to deliver on the committed milestones.
 * Worked with Eugene to start up the security team at OGP. Evaluated and pushed MDM with Yuanruo."
 142,TRUE,,Joanna,Nicolas Spano,nicolas@open.gov.sg,Software Engineering,Senior Engineering Manager,"June 26, 2023","Building high-quality systems to empower medical professionals and facilitate accessible healthcare, I get to unite passion and purpose everyday.",,"i'm new, watch this space!","* Primary Care
@@ -596,7 +597,7 @@ Breadcrumbs navigation
 144,TRUE,,Joanna,Se Hyun Park,sehyun@open.gov.sg,Product Design,Product Designer,"July 17, 2023",,,"i'm new, watch this space!",,,"i'm new, watch this space!"
 150,TRUE,,Joanna,Malcolm Ong,Malcolm@open.gov.sg,Software Engineering,Software Engineer,"July 17, 2023",,,"i'm new, watch this space!",,* Plumber,"i'm new, watch this space!"
 153,FALSE,,Joanna,XingHao Yang,xinghao@open.gov.sg,Software Engineering,Software Engineer,"July 17, 2023",,,"i'm new, watch this space!",,,"i'm new, watch this space!"
-156,TRUE,,Joanna,Darren Ng,darren@open.gov.sg,Product Design,Lead Product Manager,"July 24, 2023",,,"i'm new, watch this space!",,* UX Research,"i'm new, watch this space!"
+156,TRUE,,Joanna,Darren Ng,darren@open.gov.sg,Product Design,Lead UX Researcher,"July 24, 2023",,,"i'm new, watch this space!",,* UX Research,"i'm new, watch this space!"
 162,TRUE,,Joanna,Siddarth Nandanahosur Suresh,,Software Engineering,,"December 4, 2023",,,"i'm new, watch this space!",,,"i'm new, watch this space!"
 1,FALSE,,Joanna,Pallani s/o Selvan,pallani@open.gov.sg,Software Engineering,Lead Software Engineer,"May 11, 2015","At OGP, I have the space and autonomy to build any product that will improve the lives of people in Singapore",,https://docs.google.com/document/d/1ZKqxiPuLLtLDj9DjXdatNPKODVPHnRihdeBH7IdFIqA/edit,"* Senior Engineering Manager
 * Scamtech
@@ -616,7 +617,7 @@ Breadcrumbs navigation
 16,FALSE,,Joanna,Sarah Espaldon,sarahespaldon@open.gov.sg,Marketing Team,Head of Marketing,"November 4, 2019",Being surrounded by some of the best minds in Singapore who are passionate about making a difference and who I continue to learn from everyday motivates me to do my best at OGP to make Singapore and the rest of the world a better place.,,,* Head of Marketing,* Corporate Operations,"* Worked on OGP branding and awareness to significantly increase candidate branding presence.
 * Facilitated multiple exchanges and collaborations between OGP and international government partners.
 * Grew the Marketing team from an individual contributor practice to a team of 5 today."
-48,FALSE,,Joanna,Ben Bowes,benjamin@open.gov.sg,Product Design,Product Design Manager,"January 4, 2022","Knowing that the work we do has an impact on our friends, neighbours, and family.",,https://docs.google.com/document/d/1k8949dNUC-AfITJ4U4gexavxJBj1W_X9J_L53mygw7E/editt,* Head of Product Design,,"* Grew the OGP Product Design team, including setting up new UX writing and UX research functions
+48,FALSE,,Joanna,Ben Bowes,benjamin@open.gov.sg,Product Design,Head of Product Design,"January 4, 2022","Knowing that the work we do has an impact on our friends, neighbours, and family.",,https://docs.google.com/document/d/1k8949dNUC-AfITJ4U4gexavxJBj1W_X9J_L53mygw7E/editt,* Head of Product Design,,"* Grew the OGP Product Design team, including setting up new UX writing and UX research functions
 * Organised, facilitated, and presented at the Friends of Figma: Inside Design at OGP meet-up
 * Provided product leadership and direction to co-lead Armoury during HFPG'23"
 81,FALSE,,Joanna,Praveen Raj Kumar,praveen@open.gov.sg,Policy & Transformation,Head of Policy & Transformation,"July 18, 2022","knowing that every day we change government one happy interaction, one line of code, one $ saved at a time",,,* Head of Policy & Transformation,* Healthtech,"* Worked with Care360 team to launch in March 2023
@@ -644,7 +645,22 @@ Breadcrumbs navigation
 * Pouch","* Led the GoGov suite expansion into the health sector via ForSG and education sector via ForEduSG.
 * Shaped design and engineering on EngageSG following Hackathon, and has since prepared a roadmap for product iteration.
 * Pursued the idea of file sharing within government, and prototyped Pouch."
-60,FALSE,,Joanna,Sarah Salim,sarahsalim@open.gov.sg,Product Design,Lead Product Designer,"May 4, 2022",,,-,* Tooling Team,,
+60,FALSE,,Joanna,Sarah Salim,sarahsalim@open.gov.sg,Product Design,Lead Product Designer,"May 4, 2022",,,-,* Tooling Team,"* Design Ops
+* Phonebook
+* Postman
+* Isomer
+* Homer
+* HealthHub
+* sgID
+* OpenDoc
+* FormSG
+* ParkingSG
+* Schoolpicker
+* Jarvis
+* Data.gov.sg
+* Beeline","* Collaborated with cross-functional teams to improve community engagement through initiatives like Build For Good, Digital 4 Good, and HealthTech Sprint
+* Shared OGP design practices at external events, including a lightning talk at Product Design Singapore and hosting a design networking session at Foodpanda
+* Developed new practices for a growing design team and lead the OGP Suite vertical"
 63,TRUE,,Chien Ling,Shazli Bin Shahril Shintaro,shazli@open.gov.sg,Product Operations,Product Operations Specialist,"May 30, 2022",,,https://www.notion.so/Shazli-4a64099b16d046e2958094207948f78e,* Isomer,"* Marketing
 * Folk","* Personalised onboarding on to Isomer according to the context of each agency, and enabled non-tech agency officers to be able to fully own their info sites, without the use of vendor support.
 * Planned out Project Shipposting, which aims to homgenise the Isomer site infrastructure with the roll-out of the full-fledged CMS.
@@ -661,7 +677,9 @@ Breadcrumbs navigation
 * Patient Status","* Successfully brought Queue from zero to one, and facilitated over 8,000 visits to 15 clinics within a month of launch. 
 * Convinced health institutions to pilot products that help with diverting non-emergency cases away from emergency departments and towards GPs.
 * Led the product management team through an SG2030 sprint / visioning workshop."
-70,FALSE,,Joanna,Jessendra Loke,jessendra@open.gov.sg,Product Management,Product Manager,"June 13, 2022",,,,* AskGov,,
+70,FALSE,,Joanna,Jessendra Loke,jessendra@open.gov.sg,Product Management,Product Manager,"June 13, 2022",,,,* AskGov,,"* Successfully launched AskGov 2.0 by bringing numerous agencies aboard
+* Built up the AskGov team by establishing team norms and fostering a vibrant team culture
+* Encouraging a healthier lifestyle within OGP through our Monday runs"
 72,TRUE,,Russell,Kendra Wong,kendra@open.gov.sg,Product Operations,Product Operations Specialist,"June 20, 2022",,,https://docs.google.com/document/d/14Asq44EBRaA4BAgXBOSJdUVlfh9SF0L8QDIxMIyYxnM/edit,* SGC,"* Postman
 * CertSG","* Successfully coordinated and implemented an OGP-wide registration of SMS SenderIDs for relevant OGP products with SGNIC and Twilio, in light of IMDA’s Oct 2022 regulatory implementation of the full SMS Sender ID Registry Regime.
 * Consistently communicated with users through demos, interviews, and incident response discussions, and actively tracked user suggestions and use cases to support product development. Also engaged with new and existing interested users of Postman, resulting in a monthly growth of ~200 Postman users from Oct 2022 to end-Feb 2023.
@@ -675,7 +693,7 @@ Breadcrumbs navigation
 * Improved the search functionality and revamped the admin portal, empowering admins to do more on their agency page and allowing product operations to be conducted more efficiently
 * Took charge and addressed various security and privacy issues raised during vulnerability assessments/penetration testing to ensure that AskGov is secure and compliant with regulations."
 111,TRUE,,Russell,Ken Lee,ken@open.gov.sg,Software Engineering,Senior Software Engineer,"February 27, 2023",,,https://docs.google.com/document/d/1L2YRmmvv4D1w8PnNOXJTSfSRAmYBYycFD8jh9bsTm-Q/edit,,* FormSG,"i'm new, watch this space!"
-75,TRUE,,Russell,Hui Xuan Leow,huixuan@open.gov.sg,Policy & Transformation,Manager (Policy),"July 4, 2022",,,,* Policy & Transformation,* IM8-CFA,"* Led the development and implementation of the IM8-CFA governance framework by independently leading the discussion and writing of three key sections in the IM8-CFA Technical Guide, developing and managing the end-to-end onboarding process for selected government tech teams to operate under the IM8-CFA governance framework, and working with senior advisors to augment existing IM8-CFA policy guidelines for all OGP products to attain IM8-compliance status.
+75,TRUE,,Russell,Hui Xuan Leow,huixuan@open.gov.sg,Policy & Transformation,Manager (Policy & Transformation),"July 4, 2022",,,,* Policy & Transformation,* IM8-CFA,"* Led the development and implementation of the IM8-CFA governance framework by independently leading the discussion and writing of three key sections in the IM8-CFA Technical Guide, developing and managing the end-to-end onboarding process for selected government tech teams to operate under the IM8-CFA governance framework, and working with senior advisors to augment existing IM8-CFA policy guidelines for all OGP products to attain IM8-compliance status.
 
 * Supported the growth of sgID by developing and sharing a proposal on sgid's go-to-market strategy, explored the use of sgid with various government agencies, and cultivated good working relationships with key players in the identity space. This resulted in sgid onboarding two new users and being on track for integration with POCDEX.
 
@@ -696,7 +714,7 @@ Breadcrumbs navigation
 ","i'm new, watch this space!"
 131,TRUE,,Russell,Lorraine Choo,lorraine@open.gov.sg,Corporate Operations,Executive (Corporate Operations),"June 5, 2023",,,,,* Workplace,"i'm new, watch this space!"
 133,TRUE,,Russell,Wee Loong Kuan,weeloong@open.gov.sg,Software Engineering,Senior Software Engineer,"June 5, 2023",,,,,* Plumber,"i'm new, watch this space!"
-136,TRUE,,Russell,Airika Takeguchi,airika@open.gov.sg,Policy & Transformation,Senior Manager (Policy),"June 12, 2023",,,,,* Policy & Partnerships,"i'm new, watch this space!"
+136,TRUE,,Russell,Airika Takeguchi,airika@open.gov.sg,Policy & Transformation,Senior Manager (Policy & Transformation),"June 12, 2023",,,,,* Policy & Partnerships,"i'm new, watch this space!"
 139,TRUE,,Russell,Chinyao Gan,chinyao@open.gov.sg,Software Engineering,Software Engineer,"June 19, 2023",,,,,* Phonebook,"i'm new, watch this space!"
 140,TRUE,,Russell,Prakriti Bansal,prakriti@open.gov.sg,Software Engineering,Software Engineer,"June 19, 2023",,,,,* Go,"i'm new, watch this space!"
 146,TRUE,,Russell,Foong Yi Zhuan,foong@open.gov.sg,Product Management,Senior Product Manager,"July 17, 2023",,,,,* Vault,"i'm new, watch this space!"

@@ -24,7 +24,8 @@ pastProducts:
   - CheckFirst
   - Sync
   - Zendemic
-  - HAS / Primary Care
+  - HAS
+  - Primary Care
 accomplishments: >-
   * Built managerial capacity on the HealthTech team by onboarding Angel to
   primary care team and transitioning Jen Wei into a TLM role for Care360.

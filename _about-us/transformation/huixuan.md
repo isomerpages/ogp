@@ -1,13 +1,13 @@
 ---
 title: Hui Xuan Leow
 permalink: /people/huixuan
-description: "Hui Xuan Leow - Manager (Policy)"
+description: "Hui Xuan Leow - Manager (Policy & Transformation)"
 third_nav_title: Policy & Transformation
 staffId: huixuan
 name: Hui Xuan Leow
 joinDate: July 4, 2022
 functionId: transformation
-jobTitle: Manager (Policy)
+jobTitle: Manager (Policy & Transformation)
 curProducts:
   - Policy & Transformation
 pastProducts:

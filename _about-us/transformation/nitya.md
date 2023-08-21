@@ -1,13 +1,13 @@
 ---
 title: Nitya Menon
 permalink: /people/nitya
-description: "Nitya Menon - Assist Director (Policy & Transformation)"
+description: "Nitya Menon - Assistant Director (Policy & Transformation)"
 third_nav_title: Policy & Transformation
 staffId: nitya
 name: Nitya Menon
 joinDate: February 28, 2022
 functionId: transformation
-jobTitle: Assist Director (Policy & Transformation)
+jobTitle: Assistant Director (Policy & Transformation)
 curProducts:
   - Policy & Transformation
 pastProducts:

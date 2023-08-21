@@ -10,8 +10,28 @@ functionId: design
 jobTitle: Lead Product Designer
 curProducts:
   - Tooling Team
-pastProducts: []
-accomplishments: ""
+pastProducts:
+  - Design Ops
+  - Phonebook
+  - Postman
+  - Isomer
+  - Homer
+  - HealthHub
+  - sgID
+  - OpenDoc
+  - FormSG
+  - ParkingSG
+  - Schoolpicker
+  - Jarvis
+  - Data.gov.sg
+  - Beeline
+accomplishments: >-
+  * Collaborated with cross-functional teams to improve community engagement
+  through initiatives like Build For Good, Digital 4 Good, and HealthTech Sprint
+
+  * Shared OGP design practices at external events, including a lightning talk at Product Design Singapore and hosting a design networking session at Foodpanda
+
+  * Developed new practices for a growing design team and lead the OGP Suite vertical
 quote: ""
 linkedinId: ""
 

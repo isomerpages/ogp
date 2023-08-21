@@ -13,7 +13,7 @@ curProducts:
 pastProducts:
   - AskGov
   - CheckFirst
-  - Go.gov.sg
+  - Go.gov
   - Homer
 accomplishments: >-
   * Handles end-to-end repo privatisation for Isomer, monitored stability, and

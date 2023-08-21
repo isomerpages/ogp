@@ -1,13 +1,13 @@
 ---
 title: Ben Bowes
 permalink: /people/benjamin
-description: "Ben Bowes - Product Design Manager"
+description: "Ben Bowes - Head of Product Design"
 third_nav_title: Product Design
 staffId: benjamin
 name: Ben Bowes
 joinDate: January 4, 2022
 functionId: design
-jobTitle: Product Design Manager
+jobTitle: Head of Product Design
 curProducts:
   - Head of Product Design
 pastProducts: []

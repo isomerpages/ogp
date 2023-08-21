@@ -1,13 +1,13 @@
 ---
 title: Hygin Fernandez
 permalink: /people/hygin
-description: "Hygin Fernandez - Assistant Director (Policy)"
+description: "Hygin Fernandez - Assistant Director (Policy & Transformation)"
 third_nav_title: Policy & Transformation
 staffId: hygin
 name: Hygin Fernandez
 joinDate: August 1, 2022
 functionId: transformation
-jobTitle: Assistant Director (Policy)
+jobTitle: Assistant Director (Policy & Transformation)
 curProducts:
   - Policy & Transformation
 pastProducts:

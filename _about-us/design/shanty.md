@@ -1,13 +1,13 @@
 ---
 title: Shanty Basrur
 permalink: /people/shanty
-description: "Shanty Basrur - Senior Product Designer"
+description: "Shanty Basrur - Senior UX Writer"
 third_nav_title: Product Design
 staffId: shanty
 name: Shanty Basrur
 joinDate: January 4, 2022
 functionId: design
-jobTitle: Senior Product Designer
+jobTitle: Senior UX Writer
 curProducts:
   - UX Writer
 pastProducts:
