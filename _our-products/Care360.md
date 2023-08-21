@@ -16,7 +16,7 @@ Care360 is a patient management system for Medical Social Workers (MSWs) that su
 OGP continues to work closely with MSWs from various institutions to design a comprehensive vision and product that: 
 * Provides MSWs with a more holistic and accurate view of patients 
 * Enables effective and timely provision of financial and social intervention and assistance 
-* Reduces routine manual work (e.g. form filling) done by MSWs to allow them to focus providing care to patients in 
+* Reduces routine manual work (e.g. form filling) done by MSWs to allow them to focus providing care to patients
 *  Enhances the patient experience in the public healthcare system
 
 
