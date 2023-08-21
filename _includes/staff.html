@@ -151,7 +151,8 @@
 </p>
 {% endif %}
 
-{% if include.staff.accomplishments == "i'm new, watch this space!" %}
+{% assign accomplishments = include.staff.accomplishments | downcase %}
+{% if accomplishments == "i'm new, watch this space!" %}
 **I'm new, watch this space!**
 {% else %}
 **Three things I've done recently which I'm proud of are...**
