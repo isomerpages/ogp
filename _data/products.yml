@@ -56,6 +56,16 @@
   sum: Create official government links in seconds
   link: https://products.open.gov.sg/gogovsg
 
+- id: highway
+  title: Highway
+  alias:
+    - Highway
+    - highway
+  category: productivity
+  image: https://file.go.gov.sg/highway-logo.png
+  sum: Create official government links in seconds
+  link: https://products.open.gov.sg/highway
+
 - id: isomer
   title: Isomer
   alias:
@@ -64,6 +74,17 @@
   image: https://file.go.gov.sg/isomer-logo2.png
   sum: A static website building and hosting solution for the public service
   link: https://products.open.gov.sg/isomer
+
+- id: lettersg
+  title: LetterSG
+  alias:
+    - LetterSG
+    - lettersg
+    - letters
+  category: productivity
+  image: https://file.go.gov.sg/letters-logo.png
+  sum: A static website building and hosting solution for the public service
+  link: https://products.open.gov.sg/lettersg
 
 - id: pair
   title: Pair
