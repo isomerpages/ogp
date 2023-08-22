@@ -31,9 +31,19 @@
     - Data.gov.sg
     - Data.gov
   category: productivity
-  image: https://file.go.gov.sg/datagovsg-logo.png
-  sum: Open repository for Singapore’s public data
-  link: https://products.open.gov.sg/datagovsg
+  image: https://file.go.gov.sg/engagesg-logo.png
+  sum: Streamline event attendance at government events.
+  link: https://products.open.gov.sg/engagesg
+
+- id: eventsg
+  title: EventSG
+  alias:
+    - EventSG
+    - EngageSG
+  category: productivity
+  image: https://file.go.gov.sg/engagesg-logo.png
+  sum: Build government forms in minutes
+  link: https://products.open.gov.sg/formsg
 
 - id: formsg
   title: FormSG
@@ -63,7 +73,7 @@
     - highway
   category: productivity
   image: https://file.go.gov.sg/highway-logo.png
-  sum: Create official government links in seconds
+  sum: Secure file collection at scale through personalized links
   link: https://products.open.gov.sg/highway
 
 - id: isomer
@@ -83,7 +93,7 @@
     - letters
   category: productivity
   image: https://file.go.gov.sg/letters-logo.png
-  sum: A static website building and hosting solution for the public service
+  sum: Easily create and track the issuance of personalized official e-letters to citizen
   link: https://products.open.gov.sg/lettersg
 
 - id: pair
