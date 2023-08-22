@@ -1,13 +1,13 @@
 ---
 title: Steph Siow
 permalink: /people/stephanie
-description: "Steph Siow - Assistant Director (Policy & Transformation)"
+description: "Steph Siow - Assistant Director"
 third_nav_title: Policy & Transformation
 staffId: stephanie
 name: Steph Siow
 joinDate: April 4, 2022
 functionId: transformation
-jobTitle: Assistant Director (Policy & Transformation)
+jobTitle: Assistant Director
 curProducts:
   - Policy & Transformation
 pastProducts:

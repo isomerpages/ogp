@@ -1,10 +1,10 @@
 ---
-title: Jiayee Lim 
+title: Jiayee Lim
 permalink: /people/jiayee
-description: "Jiayee Lim  - Software Engineer"
+description: "Jiayee Lim - Software Engineer"
 third_nav_title: Software Engineering
 staffId: jiayee
-name: "Jiayee Lim "
+name: Jiayee Lim
 joinDate: June 5, 2023
 functionId: eng
 jobTitle: Software Engineer

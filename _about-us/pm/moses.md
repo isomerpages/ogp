@@ -12,8 +12,14 @@ curProducts:
   - Pair
   - sgID
 pastProducts: []
-accomplishments: "* Led product visioning and the launch of Pair, including
-  public-service wide rollout of Pair Chat"
+accomplishments: >-
+  * Led the development of Pair, including the public-service wide rollout of
+  Pair Chat which now has more than 14,000 users from 104 agencies which have
+  exchanged almost half a million messages with Pair.
+
+  * Launched PaySG in April 2023, which has helped process more than $3m in payments and save close to $1m in development costs for our launch agency, the Ministry of Manpower.
+
+  * Reworked sgID’s landing page to sharpen our value proposition to developers.
 quote: ""
 linkedinId: ""
 

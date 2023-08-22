@@ -320,7 +320,7 @@ Breadcrumbs navigation
 * Pair","* Led research and design of CDC vouchers 2023 resident digital experience
 * Generalised and scaled RedeemSG beyond CDC campaigns
 * Led discussions leading to the scope of features to prioritise for Pair MVP"
-33,TRUE,BATCH 1,Russell,Shawn Ten,shawn@open.gov.sg,Policy & Transformation,Manager (Policy & Transformation),"July 29, 2021",,,https://docs.google.com/document/d/1pwzwol3H-yW8LzZEaj628MRGA-3ibqQ-04CMjdDeHBQ/edit,* Policy & Transformation,"* Care360
+33,TRUE,BATCH 1,Russell,Shawn Ten,shawn@open.gov.sg,Policy & Transformation,Manager ,"July 29, 2021",,,https://docs.google.com/document/d/1pwzwol3H-yW8LzZEaj628MRGA-3ibqQ-04CMjdDeHBQ/edit,* Policy & Transformation,"* Care360
 * Healthtech
 * Policy
 * Partnerships","* Planned launch phase for Hack for Public Good 2023 culminating in the HFPG'23 demo day with >700 attendees and >90 concrete project follow-ups
@@ -406,11 +406,11 @@ Breadcrumbs navigation
 * Crackdown","* Worked to get widespread media coverage for Hack for Public Good 2023, with 7 media outlets covering the hackathon
 * Led the product team for Crackdown to provide HDB with a bird's eye view of unauthorised HDB rentals in Singapore
 * Integrated product marketing into the HAS roll-out efforts, leading to widespread media coverage and marketing events to accelerate vaccine appointment booking"
-54,TRUE,BATCH 1,Russell,Nitya Menon,nitya@open.gov.sg,Policy & Transformation,Assistant Director (Policy & Transformation),"February 28, 2022",,,,* Policy & Transformation,"* OGP-DIS collaboration
+54,TRUE,BATCH 1,Russell,Nitya Menon,nitya@open.gov.sg,Policy & Transformation,Assistant Director ,"February 28, 2022",,,,* Policy & Transformation,"* OGP-DIS collaboration
 * OGP Board of Advisors","* Integrate Whole-of-Government participation in Hack for Public Good to inspire more hand-raisers across government to what is possible
 * Launched OGP's inaugural board of advisors
 * Collaborated with MINDEF/DIS to accelerate the formation and development of tech teams and capabilities"
-55,TRUE,BATCH 1,Russell,Steph Siow,stephanie@open.gov.sg,Policy & Transformation,Assistant Director (Policy & Transformation),"April 4, 2022",,,,* Policy & Transformation,* HealthTech Sprint,"* Propagate and support other govt agencies to adapt OGP policies and practices so they become more high performing
+55,TRUE,BATCH 1,Russell,Steph Siow,stephanie@open.gov.sg,Policy & Transformation,Assistant Director ,"April 4, 2022",,,,* Policy & Transformation,* HealthTech Sprint,"* Propagate and support other govt agencies to adapt OGP policies and practices so they become more high performing
 * Help rest of OGP gain exposure to and integrate with the rest of Government e.g. Public Service learning journeys and onboarding
 * Closer integration of policy, ops and technology via vertically integrated teams e.g. ScamTech team"
 56,TRUE,BATCH 1,Russell,Jen Wei Niam,jenwei@open.gov.sg,Software Engineering,Software Engineer,"April 4, 2022",,,https://docs.google.com/document/d/1t_ZeM7PcKcQqZy1m64Q2cS0zI11hH3ssMKZ7e652DTM/edit,* Care360,"* CorpTech
@@ -444,7 +444,7 @@ Breadcrumbs navigation
 * Supported major OGP projects such as Tech for Public Good hiring and Hack for Public Good by creating hiring content, running highly customized targeted ads, and promoting demo day livestream to the general public. Social media contributed to 56% of the tech hiring microsite traffic and 40% of the interest form submissions. Social media also contributed to 51% of the demo day interest form traffic, while 20% of the sign-ups were from the general public.
 
 * Marketing POC of RedeemSG and ensured representation of OGP and RedeemSG on CDC materials, increased awareness of Redeem and association with OGP through social media, and strategized a marketing plan for future growth of RedeemSG. This helped increase OGP’s credibility among the general public as the team behind the successful CDC campaign."
-83,TRUE,BATCH 1,Russell,Hygin Fernandez,hygin@open.gov.sg,Policy & Transformation,Assistant Director (Policy & Transformation),"August 1, 2022",,,https://docs.google.com/document/d/1Sb2c5DaSMJXfZbo7JQW5IPd-s7T_VakIp0eeXVi1Ms8/edit,* Policy & Transformation,"* Scamshield
+83,TRUE,BATCH 1,Russell,Hygin Fernandez,hygin@open.gov.sg,Policy & Transformation,Assistant Director,"August 1, 2022",,,https://docs.google.com/document/d/1Sb2c5DaSMJXfZbo7JQW5IPd-s7T_VakIp0eeXVi1Ms8/edit,* Policy & Transformation,"* Scamshield
 * Scamtech","* Launched IMDA international call blocking pilot
 * Provided product-market fit assessments and recommendations for government tech projects, leading to >S$1M savings
 * Helped simplify government senderID registration processes using Postman.gov.sg"
@@ -456,7 +456,10 @@ Breadcrumbs navigation
 * Leading engineering process improvements on the Vault engineering team such as engineering learning sessions, tech debt trackers, and cleaner log prefix nomenclature
 * Developed initial backend architecture for hackathon project PinPoint "
 99,TRUE,BATCH 1,Russell,Moses Soh,moses@open.gov.sg,Product Management,Senior Product Manager,"December 5, 2022",,,https://docs.google.com/document/d/11JlBifr_TaZk5b5vZSzzbaucOhiimgV0vO3s3rgkub8/editt,"* Pair
-* sgID",,"* Led product visioning and the launch of Pair, including public-service wide rollout of Pair Chat"
+* sgID",,"* Led the development of Pair, including the public-service wide rollout of Pair Chat which now has more than 14,000 users from 104 agencies which have exchanged almost half a million messages with Pair.
+* Launched PaySG in April 2023, which has helped process more than $3m in payments and save close to $1m in development costs for our launch agency, the Ministry of Manpower.
+* Reworked sgID’s landing page to sharpen our value proposition to developers.
+"
 100,TRUE,BATCH 1,Russell,Huiqing Lin,huiqing@open.gov.sg,Software Engineering,Software Engineer,"January 3, 2023",,,,* FormSG,,"i'm new, watch this space!"
 90,TRUE,,Chien Ling,Rachel Tan,rachel@open.gov.sg,Product Design,Senior Product Designer,"October 10, 2022",,,https://docs.google.com/document/d/1rfmLxjcyV5tUyTatgZXlXtNgfvYiHJ-AWlvZhIIXDnk/edit,* AskGov,* Build Your Own Singaporean,"* Designed and developed Ask.gov 2.0, a platform for citizen-and-agency engagement by conducting user research, ideation workshops, and prototypes.
 * Repurposed the HAS flow for HealthierSG, created a new visual style and adding moments of delight with custom illustrations and animated gifs.
@@ -693,7 +696,7 @@ Breadcrumbs navigation
 * Improved the search functionality and revamped the admin portal, empowering admins to do more on their agency page and allowing product operations to be conducted more efficiently
 * Took charge and addressed various security and privacy issues raised during vulnerability assessments/penetration testing to ensure that AskGov is secure and compliant with regulations."
 111,TRUE,,Russell,Ken Lee,ken@open.gov.sg,Software Engineering,Senior Software Engineer,"February 27, 2023",,,https://docs.google.com/document/d/1L2YRmmvv4D1w8PnNOXJTSfSRAmYBYycFD8jh9bsTm-Q/edit,,* FormSG,"i'm new, watch this space!"
-75,TRUE,,Russell,Hui Xuan Leow,huixuan@open.gov.sg,Policy & Transformation,Manager (Policy & Transformation),"July 4, 2022",,,,* Policy & Transformation,* IM8-CFA,"* Led the development and implementation of the IM8-CFA governance framework by independently leading the discussion and writing of three key sections in the IM8-CFA Technical Guide, developing and managing the end-to-end onboarding process for selected government tech teams to operate under the IM8-CFA governance framework, and working with senior advisors to augment existing IM8-CFA policy guidelines for all OGP products to attain IM8-compliance status.
+75,TRUE,,Russell,Hui Xuan Leow,huixuan@open.gov.sg,Policy & Transformation,Manager ,"July 4, 2022",,,,* Policy & Transformation,* IM8-CFA,"* Led the development and implementation of the IM8-CFA governance framework by independently leading the discussion and writing of three key sections in the IM8-CFA Technical Guide, developing and managing the end-to-end onboarding process for selected government tech teams to operate under the IM8-CFA governance framework, and working with senior advisors to augment existing IM8-CFA policy guidelines for all OGP products to attain IM8-compliance status.
 
 * Supported the growth of sgID by developing and sharing a proposal on sgid's go-to-market strategy, explored the use of sgid with various government agencies, and cultivated good working relationships with key players in the identity space. This resulted in sgid onboarding two new users and being on track for integration with POCDEX.
 
@@ -714,7 +717,7 @@ Breadcrumbs navigation
 ","i'm new, watch this space!"
 131,TRUE,,Russell,Lorraine Choo,lorraine@open.gov.sg,Corporate Operations,Executive (Corporate Operations),"June 5, 2023",,,,,* Workplace,"i'm new, watch this space!"
 133,TRUE,,Russell,Wee Loong Kuan,weeloong@open.gov.sg,Software Engineering,Senior Software Engineer,"June 5, 2023",,,,,* Plumber,"i'm new, watch this space!"
-136,TRUE,,Russell,Airika Takeguchi,airika@open.gov.sg,Policy & Transformation,Senior Manager (Policy & Transformation),"June 12, 2023",,,,,* Policy & Partnerships,"i'm new, watch this space!"
+136,TRUE,,Russell,Airika Takeguchi,airika@open.gov.sg,Policy & Transformation,Senior Manager ,"June 12, 2023",,,,,* Policy & Partnerships,"i'm new, watch this space!"
 139,TRUE,,Russell,Chinyao Gan,chinyao@open.gov.sg,Software Engineering,Software Engineer,"June 19, 2023",,,,,* Phonebook,"i'm new, watch this space!"
 140,TRUE,,Russell,Prakriti Bansal,prakriti@open.gov.sg,Software Engineering,Software Engineer,"June 19, 2023",,,,,* Go,"i'm new, watch this space!"
 146,TRUE,,Russell,Foong Yi Zhuan,foong@open.gov.sg,Product Management,Senior Product Manager,"July 17, 2023",,,,,* Vault,"i'm new, watch this space!"

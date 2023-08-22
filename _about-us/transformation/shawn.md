@@ -1,13 +1,13 @@
 ---
 title: Shawn Ten
 permalink: /people/shawn
-description: "Shawn Ten - Manager (Policy & Transformation)"
+description: "Shawn Ten - Manager"
 third_nav_title: Policy & Transformation
 staffId: shawn
 name: Shawn Ten
 joinDate: July 29, 2021
 functionId: transformation
-jobTitle: Manager (Policy & Transformation)
+jobTitle: Manager
 curProducts:
   - Policy & Transformation
 pastProducts:

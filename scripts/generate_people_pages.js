@@ -68,12 +68,14 @@ function getCleanAccompishments(accomplishments) {
 const namedRecords = records.map(([_sn, _done, _batch, _by, name, email, func, jobTitle, joinDate, quote, linkedinId, _workingDocLink, curProducts, pastProducts, accomplishments]) => {
     const id = email.trim().split('@')[0].toLowerCase();
 
+    func = func?.trim()
+
     const record = {
         staffId: id,
-        name,
-        joinDate: joinDate || '1970-01-01',
+        name: name?.trim(),
+        joinDate: joinDate?.trim() || '1970-01-01',
         functionId: functionNameToFunctionId[func] || (functionIdToFunctionName[func] ? func : 'eng'), // stupid default, but to make sure things don't break 🤷
-        jobTitle: jobTitle || 'Job Title',
+        jobTitle: jobTitle?.trim() || 'Job Title',
         curProducts: getCleanProductList(curProducts),
         pastProducts: getCleanProductList(pastProducts),
         accomplishments: getCleanAccompishments(accomplishments),
