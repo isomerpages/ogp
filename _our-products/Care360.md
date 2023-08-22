@@ -35,7 +35,7 @@ Austin Woon <a href="https://github.com/austinwoon" style="display: inline-block
 
 A huge thank you to the lead MSWs: 
 *   Olivia Khoo, Head, Medical Social Services, Singapore General Hospital, Singhealth
-*   Benjamin Png, Senior Principal Medical Social Worker, Alexandra Hospital, National University Health System  <a href="https://github.com/hkgnp" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;"><img border="0" alt="Github account" src="/images/Github-Mark-32px.png"> </a> 
+*   Benjamin Png <a href="https://github.com/hkgnp" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;"><img border="0" alt="Github account" src="/images/Github-Mark-32px.png"> </a>, Senior Principal Medical Social Worker, Alexandra Hospital, National University Health System  
 *   Melissa Chew, Chief, Medical Social Work, Woodlands Health, National Healthcare Group
 
 Our biggest thanks also goes to all the MSWs that have been actively involved in co-creating Care360 with us
