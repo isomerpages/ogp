@@ -12,7 +12,7 @@ curProducts:
   - PaySG
 pastProducts:
   - Parking.sg
-  - Scamshield
+  - ScamShield
   - FormSG
   - Redeem
 accomplishments: >-

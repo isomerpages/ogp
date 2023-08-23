@@ -24,7 +24,7 @@ pastProducts:
 accomplishments: |-
   * Worked on and helped to launch Plumber
   * Launched OpenSpace
-  * Explored different frameworks and tools, prorotyped and revamp Starter Kit
+  * Explored different frameworks and tools, prorotyped and revamped Starter Kit
 quote: ""
 linkedinId: ""
 

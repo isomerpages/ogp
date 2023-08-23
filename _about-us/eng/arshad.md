@@ -21,11 +21,11 @@ pastProducts:
   - Send
   - Vault
 accomplishments: >-
-  * Reduced and streamlined operations workload for Vault team.
+  * Reduced and streamlined operations workload for Vault team
 
-  * Sought out solutions that minimized engineering work.
+  * Sought out solutions that minimized engineering work
 
-  * Worked with product team gain better insights which allowed better user behaviour analysis to then optimise workflow.
+  * Worked with product team gain better insights which allowed better user behaviour analysis to then optimise workflow
 quote: ""
 linkedinId: ""
 

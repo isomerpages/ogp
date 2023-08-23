@@ -11,7 +11,7 @@ jobTitle: Software Engineer
 curProducts:
   - SGC
 pastProducts:
-  - Scamshield
+  - ScamShield
 accomplishments: i'm new, watch this space!
 quote: ""
 linkedinId: ""

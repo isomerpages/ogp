@@ -8,7 +8,8 @@ name: Wen Jia Dong
 joinDate: July 17, 2023
 functionId: design
 jobTitle: Product Designer
-curProducts: []
+curProducts:
+  - Armoury
 pastProducts: []
 accomplishments: i'm new, watch this space!
 quote: ""

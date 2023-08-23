@@ -10,8 +10,7 @@ functionId: eng
 jobTitle: Senior Software Engineer
 curProducts:
   - Pair
-pastProducts:
-  - Pair
+pastProducts: []
 accomplishments: i'm new, watch this space!
 quote: ""
 linkedinId: ""

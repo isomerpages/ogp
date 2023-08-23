@@ -11,7 +11,7 @@ jobTitle: Senior Product Designer
 curProducts:
   - Vault
 pastProducts:
-  - Scamshield
+  - ScamShield
   - Covid Ops
   - AskGov
   - Data.gov

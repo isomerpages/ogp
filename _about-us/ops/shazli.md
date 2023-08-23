@@ -14,9 +14,9 @@ pastProducts:
   - Marketing
   - Folk
 accomplishments: >-
-  * Personalised onboarding on to Isomer according to the context of each
-  agency, and enabled non-tech agency officers to be able to fully own their
-  info sites, without the use of vendor support.
+  * Personalised onboarding onto Isomer according to the context of each agency,
+  and enabled non-tech agency officers to be able to fully own their info sites,
+  without the use of vendor support.
 
   * Planned out Project Shipposting, which aims to homgenise the Isomer site infrastructure with the roll-out of the full-fledged CMS.
 

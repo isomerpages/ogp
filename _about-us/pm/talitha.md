@@ -15,9 +15,7 @@ curProducts:
 pastProducts:
   - Parking
   - DistributeSG
-  - Redeem
-  - PaySG
-  - MAS Orchid
+  - Project Orchid
 accomplishments: >-
   * Started several products in OGP including; RedeemSG, PaySG & DistributeSG
 

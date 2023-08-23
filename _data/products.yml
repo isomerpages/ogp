@@ -175,6 +175,15 @@
   sum: Redemption tracking system to monitor the distribution of goods, tickets and vouchers in real time.
   link: https://products.open.gov.sg/redeem
 
+- id: distributesg
+  title: DistributeSG
+  alias:
+    - DistributeSG
+  category: payments
+  image: https://file.go.gov.sg/redeemicon.png
+  sum: Create and scale distribution campaigns to multiple locations quickly. Onboard staff easily to support your campaign with DistributeSG.
+  link: https://products.open.gov.sg/distributesg
+
 - id: has
   title: HAS
   alias:

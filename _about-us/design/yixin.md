@@ -21,7 +21,7 @@ accomplishments: >-
 
   * Launched NEA Campaign. Redeem Digital Vouchers accepted at various retailers (Sheng Siong, Giant, NTUC, Courts, Gain City)
 
-  * Launched CDC Trance 2 in Feb using Distribute app for tracking and new feature for tagging of voucher booklets.
+  * Launched CDC Tranche 2 in Feb using Distribute app for tracking and new feature for tagging of voucher booklets.
 quote: ""
 linkedinId: ""
 

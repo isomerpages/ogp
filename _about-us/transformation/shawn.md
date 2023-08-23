@@ -13,8 +13,6 @@ curProducts:
 pastProducts:
   - Care360
   - Healthtech
-  - Policy
-  - Partnerships
 accomplishments: >-
   * Planned launch phase for Hack for Public Good 2023 culminating in the
   HFPG'23 demo day with >700 attendees and >90 concrete project follow-ups

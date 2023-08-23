@@ -8,7 +8,8 @@ name: Se Hyun Park
 joinDate: July 17, 2023
 functionId: design
 jobTitle: Product Designer
-curProducts: []
+curProducts:
+  - Isomer
 pastProducts: []
 accomplishments: i'm new, watch this space!
 quote: ""
