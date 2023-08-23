@@ -99,13 +99,15 @@ for (const record of namedRecords) {
     record.yamlData = YAML.stringify(record)
     record.functionName = functionIdToFunctionName[record.functionId]
 
-    const processed = templateContent.replace(/\{\{([a-z]+)\}\}/gi, (_match, itemId) => {
+    let processed = templateContent.replace(/\{\{([a-z]+)\}\}/gi, (_match, itemId) => {
         if (!(itemId in record)) {
             console.warn(`${record.staffId}: placeholder item [${itemId}] not found in record - wiping`)
             return 'CLEARED'
         }
         return record[itemId]
     });
+
+    processed += `\n\n\{% include staff${record.functionId === 'corporate' ? '-corporate': ''}.html staff=page color=site.colors.function-colors.${record.functionId} %\}\n`
 
     const functionDir = `${TARGET_ABOUT_US_COLLECTION_DIR}${record.functionId}`
     const staffPageFile = `${functionDir}/${record.staffId}.md`
