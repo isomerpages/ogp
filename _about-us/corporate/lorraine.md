@@ -8,9 +8,9 @@ name: Lorraine Choo
 joinDate: June 5, 2023
 functionId: corporate
 jobTitle: Executive (Corporate Operations)
-curProducts: []
-pastProducts:
+curProducts:
   - Workplace
+pastProducts: []
 accomplishments: i'm new, watch this space!
 quote: ""
 linkedinId: ""

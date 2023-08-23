@@ -8,9 +8,9 @@ name: Harish Venkatesan
 joinDate: February 6, 2023
 functionId: eng
 jobTitle: Senior Software Engineer
-curProducts: []
-pastProducts:
+curProducts:
   - Isomer
+pastProducts: []
 accomplishments: i'm new, watch this space!
 quote: ""
 linkedinId: ""

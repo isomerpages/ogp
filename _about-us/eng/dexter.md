@@ -8,9 +8,9 @@ name: Dexter Tan
 joinDate: July 17, 2023
 functionId: eng
 jobTitle: Software Engineer
-curProducts: []
-pastProducts:
+curProducts:
   - HAS
+pastProducts: []
 accomplishments: >-
   * Performed intra- and inter-timeslot validation on change in the schedule
   management form.

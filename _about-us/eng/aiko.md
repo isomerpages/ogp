@@ -8,9 +8,9 @@ name: Aiko Klostermann
 joinDate: April 24, 2023
 functionId: eng
 jobTitle: Lead Software Engineer
-curProducts: []
-pastProducts:
+curProducts:
   - NLB Seed Team
+pastProducts: []
 accomplishments: i'm new, watch this space!
 quote: ""
 linkedinId: ""

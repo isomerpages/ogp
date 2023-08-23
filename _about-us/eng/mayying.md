@@ -8,9 +8,9 @@ name: May Ying Tee
 joinDate: May 29, 2023
 functionId: eng
 jobTitle: Senior Software Engineer
-curProducts: []
-pastProducts:
+curProducts:
   - FormSG
+pastProducts: []
 accomplishments: i'm new, watch this space!
 quote: ""
 linkedinId: ""

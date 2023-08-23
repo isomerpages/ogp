@@ -8,9 +8,9 @@ name: Wee Loong Kuan
 joinDate: June 5, 2023
 functionId: eng
 jobTitle: Senior Software Engineer
-curProducts: []
-pastProducts:
+curProducts:
   - Plumber
+pastProducts: []
 accomplishments: i'm new, watch this space!
 quote: ""
 linkedinId: ""

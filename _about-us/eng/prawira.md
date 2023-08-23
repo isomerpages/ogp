@@ -8,9 +8,9 @@ name: Prawira Genestonlia
 joinDate: April 3, 2023
 functionId: eng
 jobTitle: Senior Software Engineer
-curProducts: []
-pastProducts:
+curProducts:
   - SGID
+pastProducts: []
 accomplishments: >-
   * Created Third-Party Data Source Feature on SGID
 

@@ -8,9 +8,9 @@ name: Zong Han Ho
 joinDate: July 17, 2023
 functionId: eng
 jobTitle: Software Engineer
-curProducts: []
-pastProducts:
+curProducts:
   - CalSG
+pastProducts: []
 accomplishments: i'm new, watch this space!
 quote: ""
 linkedinId: ""

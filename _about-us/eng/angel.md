@@ -8,9 +8,9 @@ name: Angel Suhardi
 joinDate: January 3, 2023
 functionId: eng
 jobTitle: Lead Software Engineer
-curProducts: []
-pastProducts:
+curProducts:
   - HAS
+pastProducts: []
 accomplishments: i'm new, watch this space!
 quote: ""
 linkedinId: ""

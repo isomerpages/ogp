@@ -65,7 +65,7 @@ function getCleanAccompishments(accomplishments) {
 }
 
 // 1 generate the data file
-const namedRecords = records.map(([_sn, _done, _batch, _by, name, email, func, jobTitle, joinDate, quote, linkedinId, _workingDocLink, curProducts, pastProducts, accomplishments]) => {
+const namedRecords = records.map(([_sn, _done, _bash_who, _bash_status, _edits, _batch, _by, name, email, func, jobTitle, joinDate, quote, linkedinId, _workingDocLink, curProducts, pastProducts, accomplishments]) => {
     const id = email.trim().split('@')[0].toLowerCase();
 
     func = func?.trim()

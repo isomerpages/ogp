@@ -8,11 +8,11 @@ name: Clifford Teo
 joinDate: May 29, 2023
 functionId: corporate
 jobTitle: Senior Manager (People)
-curProducts: []
-pastProducts:
+curProducts:
   - techhiring.open.gov.sg
   - OGP hiring
   - Team health dashboards and interventions
+pastProducts: []
 accomplishments: i'm new, watch this space!
 quote: ""
 linkedinId: ""

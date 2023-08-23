@@ -8,9 +8,9 @@ name: Sebastian Wong
 joinDate: June 12, 2023
 functionId: eng
 jobTitle: Lead Software Engineer
-curProducts: []
-pastProducts:
+curProducts:
   - FormSG
+pastProducts: []
 accomplishments: |-
   * Completed implementation of Cloudflare Turnstile integration
   * Improved backwards compatibility of Turnstile and Recaptcha integration

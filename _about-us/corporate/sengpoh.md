@@ -8,9 +8,9 @@ name: Marcus Lim
 joinDate: May 2, 2023
 functionId: corporate
 jobTitle: Marketing and Outreach Officer
-curProducts: []
-pastProducts:
+curProducts:
   - Social media marketing
+pastProducts: []
 accomplishments: i'm new, watch this space!
 quote: ""
 linkedinId: ""

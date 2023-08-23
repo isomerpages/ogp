@@ -8,9 +8,9 @@ name: Cheri ong
 joinDate: January 9, 2023
 functionId: eng
 jobTitle: Software Engineer
-curProducts: []
-pastProducts:
+curProducts:
   - Queue
+pastProducts: []
 accomplishments: >-
   * Added end-to-end testing for Queue
 

@@ -8,9 +8,9 @@ name: Darren Ng
 joinDate: July 24, 2023
 functionId: design
 jobTitle: Lead UX Researcher
-curProducts: []
-pastProducts:
+curProducts:
   - UX Research
+pastProducts: []
 accomplishments: i'm new, watch this space!
 quote: ""
 linkedinId: ""

@@ -8,9 +8,9 @@ name: Le Yang Tan
 joinDate: July 17, 2023
 functionId: eng
 jobTitle: Software Engineer
-curProducts: []
-pastProducts:
+curProducts:
   - Scamtech
+pastProducts: []
 accomplishments: i'm new, watch this space!
 quote: ""
 linkedinId: ""

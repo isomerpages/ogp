@@ -8,9 +8,9 @@ name: Foong Yi Zhuan
 joinDate: July 17, 2023
 functionId: pm
 jobTitle: Senior Product Manager
-curProducts: []
-pastProducts:
+curProducts:
   - Vault
+pastProducts: []
 accomplishments: i'm new, watch this space!
 quote: ""
 linkedinId: ""

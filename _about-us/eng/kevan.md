@@ -8,12 +8,12 @@ name: Kevan Tan
 joinDate: March 20, 2023
 functionId: eng
 jobTitle: Senior Software Engineer
-curProducts: []
-pastProducts:
+curProducts:
   - DistributeSG
   - Redeem
   - PaySG
   - Parking.SG
+pastProducts: []
 accomplishments: >-
   * Prototyped and built out RedeemSG cdc-voucher systems
 

@@ -8,9 +8,9 @@ name: Qimmy Lim
 joinDate: April 3, 2023
 functionId: design
 jobTitle: Product Designer
-curProducts: []
-pastProducts:
+curProducts:
   - SkillsFuture
+pastProducts: []
 accomplishments: i'm new, watch this space!
 quote: ""
 linkedinId: ""

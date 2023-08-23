@@ -8,10 +8,10 @@ name: Kok Seng Chiew
 joinDate: March 20, 2023
 functionId: eng
 jobTitle: Software Engineer
-curProducts: []
-pastProducts:
+curProducts:
   - sgID
   - CalSG
+pastProducts: []
 accomplishments: >-
   * Launched the TypeScript SDK major release for sgID, including overseeing the
   roll-out plan to users

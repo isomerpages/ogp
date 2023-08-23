@@ -8,9 +8,9 @@ name: Jie Yin Tan
 joinDate: June 26, 2023
 functionId: ops
 jobTitle: Product Operations Specialist
-curProducts: []
-pastProducts:
+curProducts:
   - Pair
+pastProducts: []
 accomplishments: i'm new, watch this space!
 quote: ""
 linkedinId: ""

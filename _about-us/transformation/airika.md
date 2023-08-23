@@ -8,9 +8,9 @@ name: Airika Takeguchi
 joinDate: June 12, 2023
 functionId: transformation
 jobTitle: Senior Manager
-curProducts: []
-pastProducts:
+curProducts:
   - Policy & Partnerships
+pastProducts: []
 accomplishments: i'm new, watch this space!
 quote: ""
 linkedinId: ""

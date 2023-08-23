@@ -8,9 +8,9 @@ name: Zi Yang See
 joinDate: January 16, 2023
 functionId: eng
 jobTitle: Software Engineer
-curProducts: []
-pastProducts:
+curProducts:
   - AskGov
+pastProducts: []
 accomplishments: >-
   * Implemented various features for AskGov, including answer feedback, mobile
   layouts, question topics, search functionality, rich text functionality, and

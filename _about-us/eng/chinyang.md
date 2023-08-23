@@ -8,7 +8,8 @@ name: Chin Yang Oh
 joinDate: March 6, 2023
 functionId: eng
 jobTitle: Senior Software Engineer
-curProducts: []
+curProducts:
+  - Pair
 pastProducts:
   - Pair
 accomplishments: i'm new, watch this space!

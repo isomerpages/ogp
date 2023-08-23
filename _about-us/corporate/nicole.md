@@ -8,9 +8,9 @@ name: Nicole Loh
 joinDate: August 1, 2023
 functionId: corporate
 jobTitle: Senior Manager (Marketing)
-curProducts: []
-pastProducts:
+curProducts:
   - Marketing
+pastProducts: []
 accomplishments: i'm new, watch this space!
 quote: ""
 linkedinId: ""
