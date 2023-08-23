@@ -11,7 +11,8 @@ jobTitle: Executive (Corporate Operations)
 curProducts:
   - Workplace
 pastProducts: []
-accomplishments: i'm new, watch this space!
+accomplishments:
+  - i'm new, watch this space!
 quote: ""
 linkedinId: ""
 

@@ -13,13 +13,12 @@ curProducts:
 pastProducts:
   - Onboarding experience
   - Workplace
-accomplishments: >-
-  * Office space revamp to keep up with org growth and ensure space utilisation
-  and productivity
-
-  * Improve team experience through onboarding experience revamp and automation
-
-  * Hack for Public Good 2023 Venues, Logistics and Merchandise sourcing and execution
+accomplishments:
+  - Office space revamp to keep up with org growth and ensure space utilisation
+    and productivity
+  - Improve team experience through onboarding experience revamp and automation
+  - Hack for Public Good 2023 Venues, Logistics and Merchandise sourcing and
+    execution
 quote: ""
 linkedinId: ""
 

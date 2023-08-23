@@ -17,13 +17,13 @@ pastProducts:
   - FormSG
   - CorpTech
   - ScamTech
-accomplishments: >-
-  * As engineering manager, grew engineering capacity on ScamShield and SGID
-  teams through hiring
-
-  * Worked in cloud-first architecture policies for IM8 to accelerate modern engineering practices across government
-
-  * Provided expertise and consultation to the Digital Intelligence Service on tech hiring
+accomplishments:
+  - As engineering manager, grew engineering capacity on ScamShield and SGID
+    teams through hiring
+  - Worked in cloud-first architecture policies for IM8 to accelerate modern
+    engineering practices across government
+  - Provided expertise and consultation to the Digital Intelligence Service on
+    tech hiring
 quote: ""
 linkedinId: ""
 

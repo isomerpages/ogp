@@ -16,13 +16,12 @@ pastProducts:
   - Sync
   - Postman
   - Touchpoint
-accomplishments: >-
-  * Worked to stabilise Postman codebase and reworked release process to
-  improving system observability for the Postman application
-
-  * Improved system capacity for Postman in terms of message sending throughput, callback load handling, and report generation
-
-  * Worked on the campaign management feature for Postman
+accomplishments:
+  - Worked to stabilise Postman codebase and reworked release process to
+    improving system observability for the Postman application
+  - Improved system capacity for Postman in terms of message sending throughput,
+    callback load handling, and report generation
+  - Worked on the campaign management feature for Postman
 quote: ""
 linkedinId: ""
 

@@ -18,13 +18,14 @@ pastProducts:
   - CheckFirst
   - Covid Endemic Comms
   - CheckWho
-accomplishments: >-
-  * Led design for Isomer CMS, including the user research on school website use
-  cases
-
-  * Planned and facilitated ideation methods workshop for Hack for Public Good 2023
-
-  * Conducted user research on Covid-19 endemic comms measures and presented findings to senior government leadership to accelerate change in the government communication approach
+accomplishments:
+  - Led design for Isomer CMS, including the user research on school website use
+    cases
+  - Planned and facilitated ideation methods workshop for Hack for Public Good
+    2023
+  - Conducted user research on Covid-19 endemic comms measures and presented
+    findings to senior government leadership to accelerate change in the
+    government communication approach
 quote: ""
 linkedinId: ""
 

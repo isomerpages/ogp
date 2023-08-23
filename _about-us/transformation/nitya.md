@@ -13,13 +13,12 @@ curProducts:
 pastProducts:
   - OGP-DIS collaboration
   - OGP Board of Advisors
-accomplishments: >-
-  * Integrated Whole-of-Government participation in Hack for Public Good to
-  inspire more hand-raisers across government to what is possible
-
-  * Launched OGP's inaugural board of advisors
-
-  * Collaborated with MINDEF/DIS to accelerate the formation and development of tech teams and capabilities
+accomplishments:
+  - Integrated Whole-of-Government participation in Hack for Public Good to
+    inspire more hand-raisers across government to what is possible
+  - Launched OGP's inaugural board of advisors
+  - Collaborated with MINDEF/DIS to accelerate the formation and development of
+    tech teams and capabilities
 quote: ""
 linkedinId: ""
 

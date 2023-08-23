@@ -14,12 +14,11 @@ pastProducts:
   - Tech for Public Good Initiative
   - OGP Business Partnering & Hiring
   - Team health surveys/dashboards and interventions
-accomplishments: >-
-  * Ran the Tech for Public Good Recruiting workshop for 14 agencies
-
-  * Led the pilot implementation of a new Applicant Tracking System for select agencies
-
-  * Built Org health dashboards to visually showcase pulse survey results
+accomplishments:
+  - Ran the Tech for Public Good Recruiting workshop for 14 agencies
+  - Led the pilot implementation of a new Applicant Tracking System for select
+    agencies
+  - Built Org health dashboards to visually showcase pulse survey results
 quote: ""
 linkedinId: ""
 

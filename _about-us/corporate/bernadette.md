@@ -11,10 +11,10 @@ jobTitle: Chief Operating Officer
 curProducts: []
 pastProducts:
   - Oversees Corporate Operations, People Team, Marketing
-accomplishments: >-
-  * Overhauled OGP management team processes and platforms
-
-  * Launched organisation feedback initiatives to drive a stronger feedback culture across OGP
+accomplishments:
+  - Overhauled OGP management team processes and platforms
+  - Launched organisation feedback initiatives to drive a stronger feedback
+    culture across OGP
 quote: The chance to contribute to public good in Singapore is a rare and
   purposeful mission; I'm grateful to have the chance to work towards this in my
   adopted home

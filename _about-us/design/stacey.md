@@ -13,13 +13,11 @@ curProducts:
 pastProducts:
   - ScamShield
   - Plumber
-accomplishments: >-
-  * Led user testing for ScamShield's WhatsApp bot to validate user experience
-  prior to launch
-
-  * Led accessibility efforts for FormSG
-
-  * Led design and UX research for Plumber
+accomplishments:
+  - Led user testing for ScamShield's WhatsApp bot to validate user experience
+    prior to launch
+  - Led accessibility efforts for FormSG
+  - Led design and UX research for Plumber
 quote: ""
 linkedinId: ""
 

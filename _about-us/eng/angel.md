@@ -11,7 +11,8 @@ jobTitle: Lead Software Engineer
 curProducts:
   - Primary Care
 pastProducts: []
-accomplishments: i'm new, watch this space!
+accomplishments:
+  - i'm new, watch this space!
 quote: ""
 linkedinId: ""
 

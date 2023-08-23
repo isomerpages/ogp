@@ -12,7 +12,8 @@ curProducts:
   - Marketing
 pastProducts:
   - Social media marketing
-accomplishments: i'm new, watch this space!
+accomplishments:
+  - i'm new, watch this space!
 quote: ""
 linkedinId: ""
 

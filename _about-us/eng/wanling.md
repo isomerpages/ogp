@@ -13,13 +13,15 @@ curProducts:
 pastProducts:
   - MediPay
   - Build Your Own Singaporean
-accomplishments: >-
-  * Worked on the migration of FormSG from AngularJS to React, implemented key
-  features and bug fixes in the process
-
-  * Created Python scripts to generate recipients for post-incident communication, improving team efficiency and reducing time taken to get in touch with affected users
-
-  * Made significant contributions to Build Your Own Singaporean, broke down engineering tasks, implemented the scenes and spots feature, and also explored new technologies for the database
+accomplishments:
+  - Worked on the migration of FormSG from AngularJS to React, implemented key
+    features and bug fixes in the process
+  - Created Python scripts to generate recipients for post-incident
+    communication, improving team efficiency and reducing time taken to get in
+    touch with affected users
+  - Made significant contributions to Build Your Own Singaporean, broke down
+    engineering tasks, implemented the scenes and spots feature, and also
+    explored new technologies for the database
 quote: ""
 linkedinId: ""
 

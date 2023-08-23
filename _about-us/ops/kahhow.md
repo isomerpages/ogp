@@ -13,12 +13,13 @@ curProducts:
 pastProducts:
   - AskGov
   - Care360
-accomplishments: >-
-  * Co-led >10 training sessions for Care360 for ~500 Medical Social Workers
-
-  * Consolidated knowledge management for meetings and engineering self-serviceability under @Care360 meeting notes; actively scribe and consolidate links
-
-  * Planned and filmed marketing campaign for Care360 (ref 5 days of care360). Cumulatively >100 views
+accomplishments:
+  - Co-led >10 training sessions for Care360 for ~500 Medical Social Workers
+  - Consolidated knowledge management for meetings and engineering
+    self-serviceability under @Care360 meeting notes; actively scribe and
+    consolidate links
+  - Planned and filmed marketing campaign for Care360 (ref 5 days of care360).
+    Cumulatively >100 views
 quote: ""
 linkedinId: ""
 

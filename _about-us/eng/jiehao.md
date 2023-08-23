@@ -15,13 +15,13 @@ pastProducts:
   - Lookback
   - OGP-Singhealth
   - Endemic Ops
-accomplishments: >-
-  * Set the sgID vision and roadmap after conducting a thorough exploration of
-  the digital identity space
-
-  * Delivered key features for sgID such as the sgID developer portal for self-service sgID client onboarding
-
-  * Created and ran a monthly OGP engineering sharing platform for technical learning and development across the organisation
+accomplishments:
+  - Set the sgID vision and roadmap after conducting a thorough exploration of
+    the digital identity space
+  - Delivered key features for sgID such as the sgID developer portal for
+    self-service sgID client onboarding
+  - Created and ran a monthly OGP engineering sharing platform for technical
+    learning and development across the organisation
 quote: ""
 linkedinId: ""
 

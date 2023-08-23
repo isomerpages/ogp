@@ -14,10 +14,10 @@ pastProducts:
   - Parking.sg
   - PaySG
   - Pair
-accomplishments: |-
-  * Led research and design of CDC vouchers 2023 resident digital experience
-  * Generalised and scaled RedeemSG beyond CDC campaigns
-  * Led discussions leading to the scope of features to prioritise for Pair MVP
+accomplishments:
+  - Led research and design of CDC vouchers 2023 resident digital experience
+  - Generalised and scaled RedeemSG beyond CDC campaigns
+  - Led discussions leading to the scope of features to prioritise for Pair MVP
 quote: ""
 linkedinId: ""
 

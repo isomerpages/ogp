@@ -13,13 +13,13 @@ curProducts:
 pastProducts:
   - techhiring.open.gov.sg
   - Onboarding/Offboarding experience
-accomplishments: >-
-  * Relaunched TFPG CV Bank and Jobs Directory to match candidates to >250
-  government tech jobs
-
-  * Helped to plan and run the TFPG candidate marketing bootcamp to help 13 agencies improve tech hiring efforts
-
-  * Overhauled OGP's employment letter templates for greater operational efficiency and clarity
+accomplishments:
+  - Relaunched TFPG CV Bank and Jobs Directory to match candidates to >250
+    government tech jobs
+  - Helped to plan and run the TFPG candidate marketing bootcamp to help 13
+    agencies improve tech hiring efforts
+  - Overhauled OGP's employment letter templates for greater operational
+    efficiency and clarity
 quote: ""
 linkedinId: ""
 

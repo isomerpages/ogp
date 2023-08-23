@@ -11,12 +11,12 @@ jobTitle: Software Engineer
 curProducts:
   - Isomer
 pastProducts: []
-accomplishments: >-
-  * Worked on Isomer site launches
-
-  * Migrated Netlify to Amplify and converted [existing bash scripts to typescript]to increase developer speed
-
-  * Laid the groundwork for Infra repo and Indirection layer in Pulumi, following best practices advice
+accomplishments:
+  - Worked on Isomer site launches
+  - Migrated Netlify to Amplify and converted [existing bash scripts to
+    typescript]to increase developer speed
+  - Laid the groundwork for Infra repo and Indirection layer in Pulumi,
+    following best practices advice
 quote: ""
 linkedinId: ""
 

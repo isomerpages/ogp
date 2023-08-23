@@ -14,10 +14,10 @@ curProducts:
 pastProducts:
   - Healthtech
   - Sync
-accomplishments: |-
-  * Scoped and secured new agencies to AskGov
-  * Debugged AskGov and managed onboarding for new users
-  * Migrated AskGov Portal 1.0 to Portal 2.0
+accomplishments:
+  - Scoped and secured new agencies to AskGov
+  - Debugged AskGov and managed onboarding for new users
+  - Migrated AskGov Portal 1.0 to Portal 2.0
 quote: ""
 linkedinId: ""
 

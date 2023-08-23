@@ -11,7 +11,8 @@ jobTitle: Senior Manager (Marketing)
 curProducts:
   - Marketing
 pastProducts: []
-accomplishments: i'm new, watch this space!
+accomplishments:
+  - i'm new, watch this space!
 quote: ""
 linkedinId: ""
 

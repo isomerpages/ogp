@@ -12,7 +12,8 @@ curProducts:
   - Primary Care
   - Care360
 pastProducts: []
-accomplishments: i'm new, watch this space!
+accomplishments:
+  - i'm new, watch this space!
 quote: Building high-quality systems to empower medical professionals and
   facilitate accessible healthcare, I get to unite passion and purpose everyday.
 linkedinId: ""

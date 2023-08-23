@@ -11,7 +11,8 @@ jobTitle: Senior Software Engineer
 curProducts:
   - Isomer
 pastProducts: []
-accomplishments: i'm new, watch this space!
+accomplishments:
+  - i'm new, watch this space!
 quote: ""
 linkedinId: ""
 

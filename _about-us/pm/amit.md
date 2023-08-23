@@ -11,12 +11,11 @@ jobTitle: Product Manager
 curProducts:
   - FormSG
 pastProducts: []
-accomplishments: >-
-  * Worked on FormSG and successfully orchestrated React migration
-
-  * Built a FormSG Payments prototype in test mode within 4 days and an MVP capable of real $ transactions within 14 days
-
-  * Represented the team as keynote speaker at MongoDB day (300+ attendees)
+accomplishments:
+  - Worked on FormSG and successfully orchestrated React migration
+  - Built a FormSG Payments prototype in test mode within 4 days and an MVP
+    capable of real $ transactions within 14 days
+  - Represented the team as keynote speaker at MongoDB day (300+ attendees)
 quote: ""
 linkedinId: ""
 

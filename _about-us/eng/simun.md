@@ -11,7 +11,8 @@ jobTitle: Software Engineer
 curProducts:
   - go.gov.sg
 pastProducts: []
-accomplishments: i'm new, watch this space!
+accomplishments:
+  - i'm new, watch this space!
 quote: ""
 linkedinId: ""
 

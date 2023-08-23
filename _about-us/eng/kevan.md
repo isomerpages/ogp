@@ -14,12 +14,11 @@ curProducts:
   - PaySG
   - Parking.SG
 pastProducts: []
-accomplishments: >-
-  * Prototyped and built out RedeemSG cdc-voucher systems
-
-  * Implemented the PaySG frontend application and was involved in the design of the overall architecture
-
-  * Integrated merchants into RedeemSG
+accomplishments:
+  - Prototyped and built out RedeemSG cdc-voucher systems
+  - Implemented the PaySG frontend application and was involved in the design of
+    the overall architecture
+  - Integrated merchants into RedeemSG
 quote: ""
 linkedinId: ""
 

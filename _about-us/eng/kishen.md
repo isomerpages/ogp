@@ -12,7 +12,8 @@ curProducts:
   - SGC
 pastProducts:
   - ScamShield
-accomplishments: i'm new, watch this space!
+accomplishments:
+  - i'm new, watch this space!
 quote: ""
 linkedinId: ""
 

@@ -11,12 +11,12 @@ jobTitle: Software Engineer
 curProducts:
   - Scamshield
 pastProducts: []
-accomplishments: >-
-  * Created a Telegram bot tool for checking scam tactics
-
-  * Scamshield: Implemented overlay to notify users on old versions of the app to update the app
-
-  * Experimented with sentence similarity for classifying incoming free text responses that describe scams
+accomplishments:
+  - Created a Telegram bot tool for checking scam tactics
+  - "Scamshield: Implemented overlay to notify users on old versions of the app
+    to update the app"
+  - Experimented with sentence similarity for classifying incoming free text
+    responses that describe scams
 quote: ""
 linkedinId: ""
 

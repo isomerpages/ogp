@@ -12,11 +12,11 @@ curProducts:
   - sgID
   - CalSG
 pastProducts: []
-accomplishments: >-
-  * Launched the TypeScript SDK major release for sgID, including overseeing the
-  roll-out plan to users
-
-  * Worked on CalSG to improve the functionality of slot booking and onboarding flow
+accomplishments:
+  - Launched the TypeScript SDK major release for sgID, including overseeing the
+    roll-out plan to users
+  - Worked on CalSG to improve the functionality of slot booking and onboarding
+    flow
 quote: ""
 linkedinId: ""
 

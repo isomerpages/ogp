@@ -11,13 +11,13 @@ jobTitle: Software Engineer
 curProducts:
   - Care360
 pastProducts: []
-accomplishments: >-
-  * Improved frontend coding standards by introducing a cleaner frontend
-  component directory structure
-
-  * Worked on data migration efforts from existing healthcare systems, and supported user testing / training sessions at the various healthcare institutions where Care360 was launched
-
-  * Led the InternalFunds sprint
+accomplishments:
+  - Improved frontend coding standards by introducing a cleaner frontend
+    component directory structure
+  - Worked on data migration efforts from existing healthcare systems, and
+    supported user testing / training sessions at the various healthcare
+    institutions where Care360 was launched
+  - Led the InternalFunds sprint
 quote: ""
 linkedinId: ""
 

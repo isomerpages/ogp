@@ -16,12 +16,11 @@ pastProducts:
   - Parking
   - DistributeSG
   - Project Orchid
-accomplishments: >-
-  * Started several products in OGP including; RedeemSG, PaySG & DistributeSG
-
-  * Part of launch team for CDC Vouchers & scaled the pipeline of campaigns to ~$800M
-
-  * Inaugural product team for ParkingSG; Developed ParkingSG Product roadmap
+accomplishments:
+  - Started several products in OGP including; RedeemSG, PaySG & DistributeSG
+  - Part of launch team for CDC Vouchers & scaled the pipeline of campaigns to
+    ~$800M
+  - Inaugural product team for ParkingSG; Developed ParkingSG Product roadmap
 quote: ""
 linkedinId: ""
 

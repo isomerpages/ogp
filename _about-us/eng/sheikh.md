@@ -15,13 +15,11 @@ pastProducts:
   - Payments
   - PaySG
   - Redeem
-accomplishments: >-
-  * Central Banking Digital Currency - contributed as a lead by independently
-  researching, defining, designing, and subsequently implementing
-
-  * Mentorship and leadership roles in guiding junior Redeem team members
-
-  * Migrated Pair into a production ready setup
+accomplishments:
+  - Central Banking Digital Currency - contributed as a lead by independently
+    researching, defining, designing, and subsequently implementing
+  - Mentorship and leadership roles in guiding junior Redeem team members
+  - Migrated Pair into a production ready setup
 quote: ""
 linkedinId: ""
 

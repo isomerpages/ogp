@@ -25,12 +25,11 @@ pastProducts:
   - DigiMC
   - ScamTech
   - HAS
-accomplishments: >-
-  * Made release for Topics in AskGov
-
-  * Rewrote Armoury with focus on generic use cases
-
-  * DevRelations point of contact for OGP in numerous events including NUS LifeHack, Build for Good & Tech for Public Good
+accomplishments:
+  - Made release for Topics in AskGov
+  - Rewrote Armoury with focus on generic use cases
+  - DevRelations point of contact for OGP in numerous events including NUS
+    LifeHack, Build for Good & Tech for Public Good
 quote: ""
 linkedinId: ""
 

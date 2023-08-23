@@ -13,14 +13,19 @@ curProducts:
   - Postman
 pastProducts:
   - CertSG
-accomplishments: >-
-  * Successfully coordinated and implemented an OGP-wide registration of SMS
-  SenderIDs for relevant OGP products with SGNIC and Twilio, in light of IMDA’s
-  Oct 2022 regulatory implementation of the full SMS Sender ID Registry Regime
-
-  * Consistently communicated with users through demos, interviews, and incident response discussions, and actively tracked user suggestions and use cases to support product development. Also engaged with new and existing interested users of Postman, resulting in a monthly growth of ~200 Postman users from Oct 2022 to end-Feb 2023
-
-  * Successfully coordinated and registered all 22 senderIDs on behalf of the relevant OGP products with SGNIC and Twilio, involving coordination across multiple products and external stakeholders
+accomplishments:
+  - Successfully coordinated and implemented an OGP-wide registration of SMS
+    SenderIDs for relevant OGP products with SGNIC and Twilio, in light of
+    IMDA’s Oct 2022 regulatory implementation of the full SMS Sender ID Registry
+    Regime
+  - Consistently communicated with users through demos, interviews, and incident
+    response discussions, and actively tracked user suggestions and use cases to
+    support product development. Also engaged with new and existing interested
+    users of Postman, resulting in a monthly growth of ~200 Postman users from
+    Oct 2022 to end-Feb 2023
+  - Successfully coordinated and registered all 22 senderIDs on behalf of the
+    relevant OGP products with SGNIC and Twilio, involving coordination across
+    multiple products and external stakeholders
 quote: ""
 linkedinId: ""
 

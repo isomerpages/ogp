@@ -14,13 +14,12 @@ pastProducts:
   - Queue
   - Diverter
   - Patient Status
-accomplishments: >-
-  * Successfully brought Queue from zero to one, and facilitated over 8,000
-  visits to 15 clinics within a month of launch
-
-  * Convinced health institutions to pilot products that help with diverting non-emergency cases away from emergency departments and towards GPs
-
-  * Led the product management team through an SG2030 sprint / visioning workshop
+accomplishments:
+  - Successfully brought Queue from zero to one, and facilitated over 8,000
+    visits to 15 clinics within a month of launch
+  - Convinced health institutions to pilot products that help with diverting
+    non-emergency cases away from emergency departments and towards GPs
+  - Led the product management team through an SG2030 sprint / visioning workshop
 quote: ""
 linkedinId: ""
 

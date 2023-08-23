@@ -11,13 +11,13 @@ jobTitle: Software Developer
 curProducts:
   - Primary Care
 pastProducts: []
-accomplishments: >-
-  * Developed unit tests and an E2E test suite for DigiMC to ensure the quality
-  and functionality of the product
-
-  * Designed and worked on the ORM migration of DigiMC, improving the maintainability of the product
-
-  * Developed AttendGov, a hackathon product, worked on the upload flow and DB structure
+accomplishments:
+  - Developed unit tests and an E2E test suite for DigiMC to ensure the quality
+    and functionality of the product
+  - Designed and worked on the ORM migration of DigiMC, improving the
+    maintainability of the product
+  - Developed AttendGov, a hackathon product, worked on the upload flow and DB
+    structure
 quote: ""
 linkedinId: ""
 

@@ -11,13 +11,13 @@ jobTitle: Senior Software Engineer
 curProducts:
   - Vault
 pastProducts: []
-accomplishments: >-
-  * Contributed bulk of the frontend features for the data table as well as the
-  analytics feature for Vault 2.0
-
-  * Re-designed application layer of Vault 2.0 Workspace backend and introduced the Coordinator and error-handling middleware layers
-
-  * Set-up monitoring systems and addresses security vulnerabilities for Vault 1.0
+accomplishments:
+  - Contributed bulk of the frontend features for the data table as well as the
+    analytics feature for Vault 2.0
+  - Re-designed application layer of Vault 2.0 Workspace backend and introduced
+    the Coordinator and error-handling middleware layers
+  - Set-up monitoring systems and addresses security vulnerabilities for Vault
+    1.0
 quote: ""
 linkedinId: ""
 

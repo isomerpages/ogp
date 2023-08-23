@@ -13,14 +13,14 @@ curProducts:
 pastProducts:
   - Marketing
   - Folk
-accomplishments: >-
-  * Personalised onboarding onto Isomer according to the context of each agency,
-  and enabled non-tech agency officers to be able to fully own their info sites,
-  without the use of vendor support
-
-  * Planned out Project Shipposting, which aims to homogenise the Isomer site infrastructure with the roll-out of the full-fledged CMS
-
-  * Maintained product operations by focusing on corrective support, in order to support a user base  that scaled 4-fold since joining
+accomplishments:
+  - Personalised onboarding onto Isomer according to the context of each agency,
+    and enabled non-tech agency officers to be able to fully own their info
+    sites, without the use of vendor support
+  - Planned out Project Shipposting, which aims to homogenise the Isomer site
+    infrastructure with the roll-out of the full-fledged CMS
+  - Maintained product operations by focusing on corrective support, in order to
+    support a user base  that scaled 4-fold since joining
 quote: ""
 linkedinId: ""
 

@@ -11,15 +11,14 @@ jobTitle: Software Engineer
 curProducts:
   - Go.gov.sg
 pastProducts: []
-accomplishments: >-
-  * Technical contributions to Pouch; Created file & folder creation components,
-  dashboard & user storage consumption component
-
-  * Participated in DIS work streams & discussions:  involved in a number of DIS work streams and discussions as part of the organisation's product discovery phase and pathfinding
-
-  * Participated in pair-programming with other engineers for features such as:
-
-  Breadcrumbs navigation
+accomplishments:
+  - Technical contributions to Pouch; Created file & folder creation components,
+    dashboard & user storage consumption component
+  - "Participated in DIS work streams & discussions:  involved in a number of
+    DIS work streams and discussions as part of the organisation's product
+    discovery phase and pathfinding"
+  - "Participated in pair-programming with other engineers for features such as:"
+  - Breadcrumbs navigation
 quote: ""
 linkedinId: ""
 

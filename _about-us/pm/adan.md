@@ -11,7 +11,8 @@ jobTitle: Lead Product Manager
 curProducts:
   - Care360
 pastProducts: []
-accomplishments: i'm new, watch this space!
+accomplishments:
+  - i'm new, watch this space!
 quote: ""
 linkedinId: ""
 

@@ -13,12 +13,11 @@ curProducts:
 pastProducts:
   - CorpTech
   - HealthTech
-accomplishments: >-
-  * Handled migrations, integrations, and launch schedule for Care360
-
-  * Onboarded new Care360 engineers and PM as the engineering manager of the team
-
-  * Migrated Covid ops databases and improved alarms, monitoring, and query performance for Covid operations
+accomplishments:
+  - Handled migrations, integrations, and launch schedule for Care360
+  - Onboarded new Care360 engineers and PM as the engineering manager of the team
+  - Migrated Covid ops databases and improved alarms, monitoring, and query
+    performance for Covid operations
 quote: ""
 linkedinId: ""
 

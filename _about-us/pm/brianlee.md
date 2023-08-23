@@ -11,10 +11,10 @@ jobTitle: Senior Product Manager
 curProducts:
   - NLB Seed Team
 pastProducts: []
-accomplishments: >-
-  * Built seven prototypes for NLB after aligning on initial problem statements
-
-  * Built relationships with stakeholders in NLB to understand operations and difficulties on the ground
+accomplishments:
+  - Built seven prototypes for NLB after aligning on initial problem statements
+  - Built relationships with stakeholders in NLB to understand operations and
+    difficulties on the ground
 quote: ""
 linkedinId: ""
 

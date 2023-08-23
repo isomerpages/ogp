@@ -11,7 +11,8 @@ jobTitle: Software Engineer
 curProducts:
   - ParkingSG
 pastProducts: []
-accomplishments: i'm new, watch this space!
+accomplishments:
+  - i'm new, watch this space!
 quote: ""
 linkedinId: ""
 

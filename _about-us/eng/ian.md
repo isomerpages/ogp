@@ -21,10 +21,10 @@ pastProducts:
   - Healthtech
   - HAS
   - CorpTech
-accomplishments: |-
-  * Worked on and helped to launch Plumber
-  * Launched OpenSpace
-  * Explored different frameworks and tools, prorotyped and revamped Starter Kit
+accomplishments:
+  - Worked on and helped to launch Plumber
+  - Launched OpenSpace
+  - Explored different frameworks and tools, prorotyped and revamped Starter Kit
 quote: ""
 linkedinId: ""
 

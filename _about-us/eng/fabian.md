@@ -13,13 +13,13 @@ curProducts:
 pastProducts:
   - ParkingSG
   - PaySG
-accomplishments: >-
-  * Made multiple backend and frontend changes to Redeem to enable the 3rd
-  tranche of the CDC voucher campaign
-
-  * Implemented more comprehensive test cases for critical flows and endpoints for Redeem
-
-  * Implemented an OGP-wide easily adoptable infrastructure tool for handling Cloudflare outages
+accomplishments:
+  - Made multiple backend and frontend changes to Redeem to enable the 3rd
+    tranche of the CDC voucher campaign
+  - Implemented more comprehensive test cases for critical flows and endpoints
+    for Redeem
+  - Implemented an OGP-wide easily adoptable infrastructure tool for handling
+    Cloudflare outages
 quote: ""
 linkedinId: ""
 

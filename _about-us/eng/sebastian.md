@@ -11,10 +11,10 @@ jobTitle: Lead Software Engineer
 curProducts:
   - FormSG
 pastProducts: []
-accomplishments: |-
-  * Completed implementation of Cloudflare Turnstile integration
-  * Improved backwards compatibility of Turnstile and Recaptcha integration
-  * Resolved VAPT: WAF bypass via Content-Encoding compression
+accomplishments:
+  - Completed implementation of Cloudflare Turnstile integration
+  - Improved backwards compatibility of Turnstile and Recaptcha integration
+  - "Resolved VAPT: WAF bypass via Content-Encoding compression"
 quote: ""
 linkedinId: ""
 

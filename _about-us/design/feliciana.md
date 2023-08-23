@@ -17,7 +17,8 @@ pastProducts:
   - PaySG
   - Queue
   - Vault
-accomplishments: I'm new, watch this space!
+accomplishments:
+  - I'm new, watch this space!
 quote: ""
 linkedinId: ""
 

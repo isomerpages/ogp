@@ -49,19 +49,11 @@ const staffFiles = await glob(`${TARGET_ABOUT_US_COLLECTION_DIR}/*/*.md`)
 await Promise.all(staffFiles.filter(file => !/all.md$/.test(file)).map(file => unlink(file)))
 
 
-function getCleanProductList(products) {
-    return (products || '')
+function getCleanList(items) {
+    return (items || '')
         .split(/[\r\n]+/)
-        .map(product => product.trim().replace(/^[*•-]\s*/, '')) // remove bullet points
+        .map(item => item.trim().replace(/^[*•-]\s*/, '')) // remove bullet points
         .filter(v => v)
-}
-
-function getCleanAccompishments(accomplishments) {
-    return (accomplishments || '')
-        .split(/[\r\n]+/)
-        .map(item => item.trim().replace(/^[*•-]\s*/, '* ')) // normalize bullet points
-        .filter(v => v)
-        .join('\n')
 }
 
 // 1 generate the data file
@@ -76,9 +68,9 @@ const namedRecords = records.map(([_sn, _done, _bash_who, _bash_status, _edits, 
         joinDate: joinDate?.trim() || '1970-01-01',
         functionId: functionNameToFunctionId[func] || (functionIdToFunctionName[func] ? func : 'eng'), // stupid default, but to make sure things don't break 🤷
         jobTitle: jobTitle?.trim() || 'Job Title',
-        curProducts: getCleanProductList(curProducts),
-        pastProducts: getCleanProductList(pastProducts),
-        accomplishments: getCleanAccompishments(accomplishments),
+        curProducts: getCleanList(curProducts),
+        pastProducts: getCleanList(pastProducts),
+        accomplishments: getCleanList(accomplishments),
         quote: quote || '',
         linkedinId: linkedinId || '',
     }

@@ -21,13 +21,12 @@ pastProducts:
   - Temperature
   - CorpTech
   - ScamTech
-accomplishments: >-
-  * Researched and solutioned for a multi-brand design system that all OGP
-  products can use
-
-  * Redesigned the UI of Forms, reviewed PRs and did QAs a designer as well
-
-  * Worked on and went through the interview process to hire our first ever Product Design Manager!
+accomplishments:
+  - Researched and solutioned for a multi-brand design system that all OGP
+    products can use
+  - Redesigned the UI of Forms, reviewed PRs and did QAs a designer as well
+  - Worked on and went through the interview process to hire our first ever
+    Product Design Manager!
 quote: ""
 linkedinId: ""
 

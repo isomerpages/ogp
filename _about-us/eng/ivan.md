@@ -13,13 +13,15 @@ curProducts:
 pastProducts:
   - Redeem
   - PaySG
-accomplishments: >-
-  * Led successful engineering efforts in Redeem resulting in smooth supermarket
-  onboarding and critical payout code changes
-
-  * Took ownership of onboarding new engineers and facilitating discussions and learnings within the team, creating a more collaborative learning environment within Redeem engineering
-
-  * Took on the role of Product Manager and Designer for Plague during the hackathon, forming the product vision, conducting user interviews, prioritizing tasks, and conducting pitches
+accomplishments:
+  - Led successful engineering efforts in Redeem resulting in smooth supermarket
+    onboarding and critical payout code changes
+  - Took ownership of onboarding new engineers and facilitating discussions and
+    learnings within the team, creating a more collaborative learning
+    environment within Redeem engineering
+  - Took on the role of Product Manager and Designer for Plague during the
+    hackathon, forming the product vision, conducting user interviews,
+    prioritizing tasks, and conducting pitches
 quote: ""
 linkedinId: ""
 

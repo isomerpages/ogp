@@ -15,13 +15,15 @@ pastProducts:
   - Covid Ops
   - ScamShield
   - Healthcare
-accomplishments: >-
-  * Onboarded new Scamshield team members by writing a monitoring and on-call
-  runbook as well as developing a crash-course on Scamshield v2 infrastructure
-
-  * Built a generalised rule framework for handling scam message prioritisation, providing a blueprint for implementing other prioritisation rules and allowing other engineers to build upon it
-
-  * Contributed towards the development and timely delivery of the SPF dashboard frontend for Scamshield, plugging gaps where necessary and spearheading the releases to production prior to the deadline
+accomplishments:
+  - Onboarded new Scamshield team members by writing a monitoring and on-call
+    runbook as well as developing a crash-course on Scamshield v2 infrastructure
+  - Built a generalised rule framework for handling scam message prioritisation,
+    providing a blueprint for implementing other prioritisation rules and
+    allowing other engineers to build upon it
+  - Contributed towards the development and timely delivery of the SPF dashboard
+    frontend for Scamshield, plugging gaps where necessary and spearheading the
+    releases to production prior to the deadline
 quote: ""
 linkedinId: ""
 

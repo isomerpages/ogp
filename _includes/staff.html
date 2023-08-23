@@ -164,8 +164,8 @@ and I am currently working on
 </p>
 {% endif %}
 
-{% assign accomplishments = include.staff.accomplishments | downcase %}
-{% if accomplishments == "i'm new, watch this space!" %}
+{% assign firstAccomplishment = include.staff.accomplishments[0] | downcase %}
+{% if include.staff.accomplishments.size <= 0 or firstAccomplishment == "i'm new, watch this space!" %}
 **I'm new, watch this space!**
 {% else %}
 {% if include.staff.accomplishments.size == 3 %}
@@ -173,5 +173,7 @@ and I am currently working on
 {% else %}
 **Some things I've done recently which I'm proud of are...**
 {% endif %}
-{{include.staff.accomplishments}}
+{% for accomplishment in include.staff.accomplishments %}
+* {{accomplishment}}
+{% endfor %}
 {% endif %}

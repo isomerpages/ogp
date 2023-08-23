@@ -18,13 +18,13 @@ pastProducts:
   - HealthTech Sprint
   - Isomer Project Pancake
   - MindCraft
-accomplishments: >-
-  * Led product operations for GoGovSG, ForSG, and ForEduSG and increased user
-  base and new URLs steadily
-
-  * Co-created user research questions and arranged user interviews for hackathon products, MindCraft and WizGov
-
-  * Monitored user feedback, support flow and worked on the visualisation of product feedback and performance using Grafana dashboards for the Go suite
+accomplishments:
+  - Led product operations for GoGovSG, ForSG, and ForEduSG and increased user
+    base and new URLs steadily
+  - Co-created user research questions and arranged user interviews for
+    hackathon products, MindCraft and WizGov
+  - Monitored user feedback, support flow and worked on the visualisation of
+    product feedback and performance using Grafana dashboards for the Go suite
 quote: ""
 linkedinId: ""
 

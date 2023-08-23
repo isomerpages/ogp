@@ -11,13 +11,11 @@ jobTitle: Software Engineer
 curProducts:
   - Primary Care
 pastProducts: []
-accomplishments: >-
-  * Created technical design doc for the SMS preview and
-  rescheduling/cancellation reasons features
-
-  * Implemented landing and booking pages for Screen for life campaign
-
-  * Built the Healthier SG landing page for Health Appointment System
+accomplishments:
+  - Created technical design doc for the SMS preview and
+    rescheduling/cancellation reasons features
+  - Implemented landing and booking pages for Screen for life campaign
+  - Built the Healthier SG landing page for Health Appointment System
 quote: ""
 linkedinId: ""
 

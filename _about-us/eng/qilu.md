@@ -11,13 +11,13 @@ jobTitle: Lead Software Engineer
 curProducts:
   - Isomer
 pastProducts: []
-accomplishments: >-
-  * Improved scalability and stability of Isomer: created 60 additional tokens
-  aiming to bring up the scalability of the product
-
-  * Contributed to Isomer's security and productivity: delivered PR on integrating with CloudMersive API for virus scanning when uploading files by users
-
-  * Ensured compliance with CSA's requirement and working with OnePA
+accomplishments:
+  - "Improved scalability and stability of Isomer: created 60 additional tokens
+    aiming to bring up the scalability of the product"
+  - "Contributed to Isomer's security and productivity: delivered PR on
+    integrating with CloudMersive API for virus scanning when uploading files by
+    users"
+  - Ensured compliance with CSA's requirement and working with OnePA
 quote: ""
 linkedinId: ""
 

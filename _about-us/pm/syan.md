@@ -26,13 +26,12 @@ pastProducts:
   - TemperatureSG
   - Healthtech
   - SGID
-accomplishments: >-
-  * Ran SG2030 visioning exercise to ideate on ambitious product ideas for the
-  OGP product organisation
-
-  * Provided PM people management and coaching over >10 OGP products
-
-  * Worked with the Tech for Public Good team to assess >12 agencies for incubating satellite tech teams
+accomplishments:
+  - Ran SG2030 visioning exercise to ideate on ambitious product ideas for the
+    OGP product organisation
+  - Provided PM people management and coaching over >10 OGP products
+  - Worked with the Tech for Public Good team to assess >12 agencies for
+    incubating satellite tech teams
 quote: ""
 linkedinId: ""
 

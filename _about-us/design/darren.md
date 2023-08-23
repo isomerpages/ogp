@@ -11,7 +11,8 @@ jobTitle: Lead UX Researcher
 curProducts:
   - UX Research
 pastProducts: []
-accomplishments: i'm new, watch this space!
+accomplishments:
+  - i'm new, watch this space!
 quote: ""
 linkedinId: ""
 

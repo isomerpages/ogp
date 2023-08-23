@@ -25,13 +25,13 @@ pastProducts:
   - Zendemic
   - HAS
   - Primary Care
-accomplishments: >-
-  * Built managerial capacity on the HealthTech team by onboarding Angel to
-  primary care team and transitioning Jen Wei into a TLM role for Care360
-
-  * Restarted the Armoury team and coached the team to deliver on the committed milestones
-
-  * Worked with Eugene to start up the security team at OGP. Evaluated and pushed MDM with Yuanruo
+accomplishments:
+  - Built managerial capacity on the HealthTech team by onboarding Angel to
+    primary care team and transitioning Jen Wei into a TLM role for Care360
+  - Restarted the Armoury team and coached the team to deliver on the committed
+    milestones
+  - Worked with Eugene to start up the security team at OGP. Evaluated and
+    pushed MDM with Yuanruo
 quote: We focus on solving real problems and not on building abstract solutions
 linkedinId: ""
 

@@ -12,13 +12,13 @@ curProducts:
   - Policy & Transformation
 pastProducts:
   - HealthTech Sprint
-accomplishments: >-
-  * Propagated and supported other govt agencies to adapt OGP policies and
-  practices so they become more high performing
-
-  * Helped rest of OGP gain exposure to and integrate with the rest of Government e.g. Public Service learning journeys and onboarding
-
-  * Introduced closer integration of policy, ops and technology via vertically integrated teams e.g. ScamTech team
+accomplishments:
+  - Propagated and supported other govt agencies to adapt OGP policies and
+    practices so they become more high performing
+  - Helped rest of OGP gain exposure to and integrate with the rest of
+    Government e.g. Public Service learning journeys and onboarding
+  - Introduced closer integration of policy, ops and technology via vertically
+    integrated teams e.g. ScamTech team
 quote: ""
 linkedinId: ""
 

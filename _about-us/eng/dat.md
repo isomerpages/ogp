@@ -12,13 +12,13 @@ curProducts:
   - Go.gov.sg
 pastProducts:
   - Pouch
-accomplishments: >-
-  * Worked with Go team to deliver several features including bulk upload, Go
-  API, and link tagging, leading to 265% increase in Go usage
-
-  * Implemented tools and processes to make running of experiments and new projects efficient and cost-effective, including monoGo, mono-infra, and an experimental project Kubernetes Cluster
-
-  * Launched Pouch for beta testing
+accomplishments:
+  - Worked with Go team to deliver several features including bulk upload, Go
+    API, and link tagging, leading to 265% increase in Go usage
+  - Implemented tools and processes to make running of experiments and new
+    projects efficient and cost-effective, including monoGo, mono-infra, and an
+    experimental project Kubernetes Cluster
+  - Launched Pouch for beta testing
 quote: ""
 linkedinId: ""
 

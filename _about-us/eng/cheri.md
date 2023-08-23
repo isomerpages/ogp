@@ -11,10 +11,10 @@ jobTitle: Software Engineer
 curProducts:
   - Primary Care
 pastProducts: []
-accomplishments: >-
-  * Added end-to-end testing for Queue
-
-  * Worked on multiple features for Queue, including SMS notification settings and the admin notes panel
+accomplishments:
+  - Added end-to-end testing for Queue
+  - Worked on multiple features for Queue, including SMS notification settings
+    and the admin notes panel
 quote: ""
 linkedinId: ""
 

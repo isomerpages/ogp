@@ -18,13 +18,13 @@ pastProducts:
   - Send
   - Go.gov.sg
   - Folk
-accomplishments: >-
-  * Conceptualised and lead the product development of Folk, leading to 273
-  organic registrations and 8.7k page views
-
-  * Led product design for Vault, including conceptualising and executing UI for all features in Vault Workspace
-
-  * Co-organised the 27 April OGP x Singapore Product Design talk to advocate and propagate OGP design practices
+accomplishments:
+  - Conceptualised and lead the product development of Folk, leading to 273
+    organic registrations and 8.7k page views
+  - Led product design for Vault, including conceptualising and executing UI for
+    all features in Vault Workspace
+  - Co-organised the 27 April OGP x Singapore Product Design talk to advocate
+    and propagate OGP design practices
 quote: ""
 linkedinId: ""
 

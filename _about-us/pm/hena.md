@@ -16,13 +16,12 @@ curProducts:
 pastProducts:
   - EngageSG
   - Pouch
-accomplishments: >-
-  * Led the GoGov suite expansion into the health sector via ForSG and education
-  sector via ForEduSG.
-
-  * Shaped design and engineering on EngageSG following Hackathon, and has since prepared a roadmap for product iteration.
-
-  * Pursued the idea of file sharing within government, and prototyped Pouch
+accomplishments:
+  - Led the GoGov suite expansion into the health sector via ForSG and education
+    sector via ForEduSG.
+  - Shaped design and engineering on EngageSG following Hackathon, and has since
+    prepared a roadmap for product iteration.
+  - Pursued the idea of file sharing within government, and prototyped Pouch
 quote: ""
 linkedinId: ""
 

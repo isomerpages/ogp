@@ -18,14 +18,15 @@ pastProducts:
   - QuizSG
   - Armoury
   - Signify
-accomplishments: >-
-  * Introduced team and engineering practices to a growing Forms team including
-  sprints, team charters/roles, and higher standards for monitoring and
-  observability
-
-  * Led the FormSG engineering team to deliver on payments feature, React migration, SES migration, infrastructure upgrades and internal product operations administration tools
-
-  * Reorganised the Forms team to pursue 3 concurrent products: FormSG, Signify, and CheckPoint
+accomplishments:
+  - Introduced team and engineering practices to a growing Forms team including
+    sprints, team charters/roles, and higher standards for monitoring and
+    observability
+  - Led the FormSG engineering team to deliver on payments feature, React
+    migration, SES migration, infrastructure upgrades and internal product
+    operations administration tools
+  - "Reorganised the Forms team to pursue 3 concurrent products: FormSG,
+    Signify, and CheckPoint"
 quote: ""
 linkedinId: timotheegroleau
 

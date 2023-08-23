@@ -11,7 +11,8 @@ jobTitle: Manager (Finance Operations)
 curProducts:
   - Finance Operations
 pastProducts: []
-accomplishments: i'm new, watch this space!
+accomplishments:
+  - i'm new, watch this space!
 quote: ""
 linkedinId: ""
 

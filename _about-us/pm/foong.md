@@ -11,7 +11,8 @@ jobTitle: Senior Product Manager
 curProducts:
   - Vault
 pastProducts: []
-accomplishments: i'm new, watch this space!
+accomplishments:
+  - i'm new, watch this space!
 quote: ""
 linkedinId: ""
 

@@ -11,7 +11,8 @@ jobTitle: Lead Software Engineer
 curProducts:
   - NLB Seed Team
 pastProducts: []
-accomplishments: i'm new, watch this space!
+accomplishments:
+  - i'm new, watch this space!
 quote: ""
 linkedinId: ""
 

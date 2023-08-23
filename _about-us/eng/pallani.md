@@ -20,14 +20,15 @@ pastProducts:
   - CorpTech
   - Payments
   - Project Orchid
-accomplishments: >-
-  * Provided engineering management support to engineers across multiple product
-  teams on career development and growth as well as expertise on technical
-  architecture and feature prioritisation
-
-  * Worked with the Lead PM on product team vision, goals, and resourcing, as well as building a strong team culture of cross-functional collaboration and mission-focus
-
-  * Provided guidance on critical product and engineering decisions for Redeem.gov.sg, Data.gov.sg, Project Orchid, Pair, Plague, and Parking.sg
+accomplishments:
+  - Provided engineering management support to engineers across multiple product
+    teams on career development and growth as well as expertise on technical
+    architecture and feature prioritisation
+  - Worked with the Lead PM on product team vision, goals, and resourcing, as
+    well as building a strong team culture of cross-functional collaboration and
+    mission-focus
+  - Provided guidance on critical product and engineering decisions for
+    Redeem.gov.sg, Data.gov.sg, Project Orchid, Pair, Plague, and Parking.sg
 quote: At OGP, I have the space and autonomy to build any product that will
   improve the lives of people in Singapore
 linkedinId: ""

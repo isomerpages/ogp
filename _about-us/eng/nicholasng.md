@@ -12,12 +12,11 @@ curProducts:
   - Primary Care
 pastProducts:
   - Care360
-accomplishments: >-
-  * Migrated Care360
-
-  * Served as feature captain for an entire Epic, and also integrated HSAR and SmartCMS which impacts transparency in the healthcare sector
-
-  * Served as the main person of contact for VAPT
+accomplishments:
+  - Migrated Care360
+  - Served as feature captain for an entire Epic, and also integrated HSAR and
+    SmartCMS which impacts transparency in the healthcare sector
+  - Served as the main person of contact for VAPT
 quote: ""
 linkedinId: ""
 

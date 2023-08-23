@@ -13,12 +13,11 @@ curProducts:
 pastProducts:
   - RedeemSG
   - Primary Care
-accomplishments: >-
-  * Decided on the infra and tech stack of PaySG as tech lead
-
-  * Proposed and implemented Datadog for RedeemSG, leading to org-wide implementation
-
-  * Established front-end coding standards for RedeemSG
+accomplishments:
+  - Decided on the infra and tech stack of PaySG as tech lead
+  - Proposed and implemented Datadog for RedeemSG, leading to org-wide
+    implementation
+  - Established front-end coding standards for RedeemSG
 quote: ""
 linkedinId: ""
 

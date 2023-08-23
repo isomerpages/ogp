@@ -12,13 +12,13 @@ curProducts:
   - DistributeSG
 pastProducts:
   - RedeemSG
-accomplishments: >-
-  * Identified and resolved the merchant app expiry problem for RedeemSG to
-  reduce the influx of Zendesk tickets
-
-  * Successfully trained the supermarket chief cashiers, CA/DAs, and PA staff for CDC Tranche 3, and coordinated with PA, IMDA, and supermarkets on training sessions
-
-  * Led the product vision and MVP scoping Hackathon project Paws Together
+accomplishments:
+  - Identified and resolved the merchant app expiry problem for RedeemSG to
+    reduce the influx of Zendesk tickets
+  - Successfully trained the supermarket chief cashiers, CA/DAs, and PA staff
+    for CDC Tranche 3, and coordinated with PA, IMDA, and supermarkets on
+    training sessions
+  - Led the product vision and MVP scoping Hackathon project Paws Together
 quote: ""
 linkedinId: ""
 

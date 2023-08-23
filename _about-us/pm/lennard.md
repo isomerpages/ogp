@@ -18,13 +18,14 @@ pastProducts:
   - Queue
   - Endemic Ops
   - ScamShield
-accomplishments: >-
-  * Reworked the HealthTech general vision and scope of products for HealthTech
-  vertical
-
-  * Shared learning/findings of Care360 with iHIS HealthierSG and at Digital Health Oversight Committee
-
-  * Worked with policy teams to push towards a digital patient consent, solving user pain point of getting written or verbal consent from the patient and/or family members
+accomplishments:
+  - Reworked the HealthTech general vision and scope of products for HealthTech
+    vertical
+  - Shared learning/findings of Care360 with iHIS HealthierSG and at Digital
+    Health Oversight Committee
+  - Worked with policy teams to push towards a digital patient consent, solving
+    user pain point of getting written or verbal consent from the patient and/or
+    family members
 quote: ""
 linkedinId: ""
 

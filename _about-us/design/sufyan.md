@@ -11,7 +11,8 @@ jobTitle: Senior Product Designer
 curProducts:
   - SGID
 pastProducts: []
-accomplishments: i'm new, watch this space!
+accomplishments:
+  - i'm new, watch this space!
 quote: ""
 linkedinId: ""
 

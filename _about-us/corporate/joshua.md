@@ -13,14 +13,12 @@ curProducts:
 pastProducts:
   - Workplace
   - Procurement and Finance
-accomplishments: >-
-  * Managed a Finance team of 2
-
-  * Secured funding for expanded OGP team of nearly 200 employees
-
-  * Automated backend finance processes
-
-  * Led Finance sprint to consolidate and visualise finance data to track OGP expenditure by team
+accomplishments:
+  - Managed a Finance team of 2
+  - Secured funding for expanded OGP team of nearly 200 employees
+  - Automated backend finance processes
+  - Led Finance sprint to consolidate and visualise finance data to track OGP
+    expenditure by team
 quote: ""
 linkedinId: ""
 

@@ -16,12 +16,11 @@ pastProducts:
   - Internship programmes
   - HR operations and governance
   - Team communications
-accomplishments: >-
-  * Conceptualised and launched OGP’s referral programme
-
-  * Set-up and launched OGP’s allocation framework for hiring
-
-  * Spearheaded bulk of hiring operations and pipeline management to grow OGP by more than 100 people from 2022-2023
+accomplishments:
+  - Conceptualised and launched OGP’s referral programme
+  - Set-up and launched OGP’s allocation framework for hiring
+  - Spearheaded bulk of hiring operations and pipeline management to grow OGP by
+    more than 100 people from 2022-2023
 quote: ""
 linkedinId: ""
 

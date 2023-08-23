@@ -17,13 +17,15 @@ pastProducts:
   - Healthtech
   - PaySG
   - Queue
-accomplishments: >-
-  * Conducted user training and education for HAS to onboard clinics for HPV and
-  influenza vaccination, leading to >700 clinics onboarded
-
-  * Established clearer HAS incident management proceures with AIC and HPB, leading to a sharp drop in negative clinic user feedback arising from incidents
-
-  * Established HAS product operations task process workflows including metric monitoring via Vault, clinic whitelisting, and user support escalation processes
+accomplishments:
+  - Conducted user training and education for HAS to onboard clinics for HPV and
+    influenza vaccination, leading to >700 clinics onboarded
+  - Established clearer HAS incident management proceures with AIC and HPB,
+    leading to a sharp drop in negative clinic user feedback arising from
+    incidents
+  - Established HAS product operations task process workflows including metric
+    monitoring via Vault, clinic whitelisting, and user support escalation
+    processes
 quote: ""
 linkedinId: ""
 

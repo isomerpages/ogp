@@ -15,13 +15,12 @@ pastProducts:
   - AskGov
   - Petitions
   - Postman
-accomplishments: >-
-  * Worked with the ScamShield team to implement the ScamShield dashboard for
-  public officer users
-
-  * Contributed to the OGP design system to increase design efficiency across the whole of OGP
-
-  * Presented on ScamShield for Android at Friends of Figma
+accomplishments:
+  - Worked with the ScamShield team to implement the ScamShield dashboard for
+    public officer users
+  - Contributed to the OGP design system to increase design efficiency across
+    the whole of OGP
+  - Presented on ScamShield for Android at Friends of Figma
 quote: ""
 linkedinId: ""
 

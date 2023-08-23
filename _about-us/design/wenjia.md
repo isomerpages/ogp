@@ -11,7 +11,8 @@ jobTitle: Product Designer
 curProducts:
   - Armoury
 pastProducts: []
-accomplishments: i'm new, watch this space!
+accomplishments:
+  - i'm new, watch this space!
 quote: ""
 linkedinId: ""
 

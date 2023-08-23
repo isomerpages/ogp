@@ -18,14 +18,13 @@ pastProducts:
   - AskGov
   - CheckWho
   - Healthtech
-accomplishments: >-
-  * Equipped teammates with more practical, effective tools to write their own
-  UX copy by running office hours, workshops, and UX writing jam sessions with
-  other designers
-
-  * Launched multiple features with high quality, reusable UX copy such as for HAS Pneumococcal vaccine campaigns and copy components for Care360
-
-  * Invested in my learning and growth to becoming a better writer
+accomplishments:
+  - Equipped teammates with more practical, effective tools to write their own
+    UX copy by running office hours, workshops, and UX writing jam sessions with
+    other designers
+  - Launched multiple features with high quality, reusable UX copy such as for
+    HAS Pneumococcal vaccine campaigns and copy components for Care360
+  - Invested in my learning and growth to becoming a better writer
 quote: ""
 linkedinId: ""
 

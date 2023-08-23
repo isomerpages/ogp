@@ -13,13 +13,14 @@ curProducts:
 pastProducts:
   - Marketing
   - Crackdown
-accomplishments: >-
-  * Worked to get widespread media coverage for Hack for Public Good 2023, with
-  7 media outlets covering the hackathon
-
-  * Led the product team for Crackdown to provide HDB with a bird's eye view of unauthorised HDB rentals in Singapore
-
-  * Integrated product marketing into the HAS roll-out efforts, leading to widespread media coverage and marketing events to accelerate vaccine appointment booking
+accomplishments:
+  - Worked to get widespread media coverage for Hack for Public Good 2023, with
+    7 media outlets covering the hackathon
+  - Led the product team for Crackdown to provide HDB with a bird's eye view of
+    unauthorised HDB rentals in Singapore
+  - Integrated product marketing into the HAS roll-out efforts, leading to
+    widespread media coverage and marketing events to accelerate vaccine
+    appointment booking
 quote: ""
 linkedinId: ""
 
