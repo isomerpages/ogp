@@ -444,7 +444,7 @@ should change to:
 61,TRUE,Ian,All Good,,BATCH 1,Russell,Khant Zaw,khant@open.gov.sg,Software Engineering,Senior Software Engineer,"May 9, 2022",,,https://docs.google.com/document/d/1DXhSZnsF9vtU1XfWxdCtI5aY45XUSalROZjOueut2Uo/edit,* Vault,,"* Contributed bulk of the frontend features for the data table as well as the analytics feature for Vault 2.0
 * Re-designed application layer of Vault 2.0 Workspace backend and introduced the Coordinator and error-handling middleware layers
 * Set-up monitoring systems and addresses security vulnerabilities for Vault 1.0"
-62,TRUE,Ian,All Good,,,Clifford,Lennard Lim,lennard@open.gov.sg,Product Management,Lead Product Manager,"May 26, 2022",,,https://docs.google.com/document/d/1K2YcNKI-_qdfTh2GRktDVZVi44VvxHask1sXaN1oBQo/edit#heading=h.67r1vonx6odq,* IRMS,"* Primary Care
+62,TRUE,Ian,All Good,,,Clifford,Lennard Lim,lennard@open.gov.sg,Product Management,Lead Product Manager,"September 11, 2018",,,https://docs.google.com/document/d/1K2YcNKI-_qdfTh2GRktDVZVi44VvxHask1sXaN1oBQo/edit#heading=h.67r1vonx6odq,* IRMS,"* Primary Care
 * Care360
 * Healthtech
 * Vault
@@ -620,7 +620,7 @@ Breadcrumbs navigation
 105,TRUE,Jo,All Good,,,Russell,Zi Yang See,ziyang@open.gov.sg,Software Engineering,Software Engineer,"January 16, 2023",,,https://docs.google.com/document/d/1qvm-aRjeNIjLg-RMy93W1FmGvY_oHaLSx-0X1tp-6NE/edit,*AskGov,,"* Implemented various features for AskGov, including answer feedback, mobile layouts, question topics, search functionality, rich text functionality, and admin portal functionalities
 * Improved the search functionality and revamped the admin portal which empowered admins to do more on their agency page and allowed product operations to be conducted more efficiently
 * Took charge and addressed various security and privacy issues raised during vulnerability assessments/penetration testing to ensure that AskGov is secure and compliant with regulations"
-106,FALSE,Jo,Need Edits,,,Joanna,James Hibberd,james@open.gov.sg,Software Engineering,Senior Engineering Manager,"February 6, 2023","I love technology because of its ability to solve problems, and at OGP I get to work on problems that really matter.",,,,,"* Managed a team of 18 software engineers
+106,FALSE,Jo,All Good,,,Joanna,James Hibberd,james@open.gov.sg,Software Engineering,Senior Engineering Manager,"February 6, 2023","I love technology because of its ability to solve problems, and at OGP I get to work on problems that really matter.",,,,,"* Managed a team of 18 software engineers
 "
 107,TRUE,Jo,All Good,,,Clifford,Sean Lum,sean@open.gov.sg,Software Engineering,Software Engineer,"February 6, 2023",,,https://docs.google.com/document/d/1sujrHmW93ZFVXF6mk1iEiwxhPg4G2PDeVCMXKH4KksU/edit#heading=h.q9g0durbss53,* Redeem,,"i'm new, watch this space!"
 108,TRUE,Jo,All Good,,,Clifford,Qilu Xie,qilu@open.gov.sg,Software Engineering,Lead Software Engineer,"February 6, 2023",,,https://www.notion.so/opengov/Qilu-s-Working-Document-87e007f992634275b07b59a6347e5759,* Isomer,,"* Improved scalability and stability of Isomer: created 60 additional tokens aiming to bring up the scalability of the product
@@ -632,7 +632,7 @@ Breadcrumbs navigation
 112,TRUE,Tim,Need Edits,Product Data Gov does not link,,Chien Ling,Si Han Ding,sihan@open.gov.sg,Software Engineering,Software Engineer,"February 27, 2023",,,https://docs.google.com/document/d/10iL86YKL-r_W0HWmkDZq0nMkElvauXG2QgvBOtFM5JQ/edit,* data.gov.sg,* Vault,"* Spearheaded the migration of Data Gov's charts through a quick prototyping process
 * Built and optimised a feature for a folder view on Data Gov, enabling users to toggle between different resources
 * Optimized the performance of the new site, implemented load testing, optimized page load and reduced render time to less than 20% of the original load time for large datasets"
-113,TRUE,Tim,All Good,distribuesg does not link,,Clifford,Yi Xin Ang,yixin@open.gov.sg,Product Design,Lead Product Designer,"March 6, 2023",,,https://docs.google.com/document/d/1BvruoOLY5jpMvF-YEZI_VVkx1WWZ3XN1KJTuwijH26U/edit#heading=h.q9g0durbss53,* DistributeSG,"* Vault 
+113,TRUE,Tim,All Good,distribuesg does not link,,Clifford,Yi Xin Ang,yixin@open.gov.sg,Product Design,Lead Product Designer,"November 3, 2014",,,https://docs.google.com/document/d/1BvruoOLY5jpMvF-YEZI_VVkx1WWZ3XN1KJTuwijH26U/edit#heading=h.q9g0durbss53,* DistributeSG,"* Vault 
 * Isomer
 * Redeem
 * PaySG
@@ -650,7 +650,7 @@ Breadcrumbs navigation
 117,TRUE,Tim,All Good,,,Russell,Kok Seng Chiew,kokseng@open.gov.sg,Software Engineering,Software Engineer,"March 20, 2023",,,https://docs.google.com/document/d/114d2QB6N3_60EjIwUduTDll-hk9mKmtyk_KcIleSKrA/edit,"* sgID
 * CalSG",,"* Launched the TypeScript SDK major release for sgID, including overseeing the roll-out plan to users
 * Worked on CalSG to improve the functionality of slot booking and onboarding flow"
-118,TRUE,Tim,All Good,distribuesg did not link,,Clifford,Kevan Tan,kevan@open.gov.sg,Software Engineering,Senior Software Engineer,"March 20, 2023",,,https://docs.google.com/document/d/1ZjEgleaD1VulkLv0xP9qkcgaSY-hveXIgX8jLeFhtmg/edit#heading=h.nw26zgu3gwhg,"* DistributeSG
+118,TRUE,Tim,All Good,distribuesg did not link,,Clifford,Kevan Tan,kevan@open.gov.sg,Software Engineering,Senior Software Engineer,"November 18, 2019",,,https://docs.google.com/document/d/1ZjEgleaD1VulkLv0xP9qkcgaSY-hveXIgX8jLeFhtmg/edit#heading=h.nw26zgu3gwhg,"* DistributeSG
 * Redeem
 * PaySG
 * Parking.SG",,"* Prototyped and built out RedeemSG cdc-voucher systems
@@ -683,7 +683,7 @@ Breadcrumbs navigation
 134,TRUE,Jo,All Good,,,Chien Ling,Wei Lun Tan,Weilun@open.gov.sg,Software Engineering,Software Engineer,"June 5, 2023",,,"i'm new, watch this space!",* ParkingSG,,"i'm new, watch this space!"
 135,TRUE,Jo,All Good,,,Chien Ling,Gautam Manek,Gautam@open.gov.sg,Software Engineering,Software Engineer,"June 5, 2023",,,"i'm new, watch this space!",* Armoury,,"i'm new, watch this space!"
 136,TRUE,Jo,Need Edits,,,Russell,Airika Takeguchi,airika@open.gov.sg,Policy & Transformation,Senior Manager ,"June 12, 2023",,,,* Policy & Transformation,,"i'm new, watch this space!"
-137,TRUE,Sarah,All Good,,,Clifford,Sebastian Wong,sebastian@open.gov.sg,Software Engineering,Lead Software Engineer,"June 12, 2023",,,https://docs.google.com/document/d/1PxJtt-pvsDcRN_EDlbfRDy1xwmhKvy415_-T5_sf1y0/edit,* FormSG,,"* Completed implementation of Cloudflare Turnstile integration
+137,TRUE,Sarah,All Good,,,Clifford,Sebastian Wong,sebastian@open.gov.sg,Software Engineering,Lead Software Engineer,"January 25, 2016",,,https://docs.google.com/document/d/1PxJtt-pvsDcRN_EDlbfRDy1xwmhKvy415_-T5_sf1y0/edit,* FormSG,,"* Completed implementation of Cloudflare Turnstile integration
 * Improved backwards compatibility of Turnstile and Recaptcha integration
 * Resolved VAPT: WAF bypass via Content-Encoding compression 
 "

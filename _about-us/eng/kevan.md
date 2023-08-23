@@ -5,7 +5,7 @@ description: "Kevan Tan - Senior Software Engineer"
 third_nav_title: Software Engineering
 staffId: kevan
 name: Kevan Tan
-joinDate: March 20, 2023
+joinDate: November 18, 2019
 functionId: eng
 jobTitle: Senior Software Engineer
 curProducts:

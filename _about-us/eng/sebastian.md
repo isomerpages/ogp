@@ -5,7 +5,7 @@ description: "Sebastian Wong - Lead Software Engineer"
 third_nav_title: Software Engineering
 staffId: sebastian
 name: Sebastian Wong
-joinDate: June 12, 2023
+joinDate: January 25, 2016
 functionId: eng
 jobTitle: Lead Software Engineer
 curProducts:

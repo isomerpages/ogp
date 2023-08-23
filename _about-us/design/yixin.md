@@ -5,7 +5,7 @@ description: "Yi Xin Ang - Lead Product Designer"
 third_nav_title: Product Design
 staffId: yixin
 name: Yi Xin Ang
-joinDate: March 6, 2023
+joinDate: November 3, 2014
 functionId: design
 jobTitle: Lead Product Designer
 curProducts:

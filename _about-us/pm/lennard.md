@@ -5,7 +5,7 @@ description: "Lennard Lim - Lead Product Manager"
 third_nav_title: Product Management
 staffId: lennard
 name: Lennard Lim
-joinDate: May 26, 2022
+joinDate: September 11, 2018
 functionId: pm
 jobTitle: Lead Product Manager
 curProducts:
