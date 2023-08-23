@@ -167,7 +167,7 @@ Change past product sentence to ""Things I have worked on in the past include <C
 * Temperature
 * SGID","* Worked on and launched CalSG
 * Managed the CalSG team and oversaw both engineering and design
-* Led SDK initiative for sgID which was targeted to make the process easier for developers working in common backend languages to implement sgID integrations."
+* Led SDK initiative for sgID which was targeted to make the process easier for developers working in common backend languages to implement sgID integrations"
 20,TRUE,Russell,All Good,,BATCH 1,Russell,Natalie Tan,natalie@open.gov.sg,Product Design,Product Designer,"April 6, 2020",,,https://docs.google.com/document/d/1NCm4-ulze9U_rrPwk4G5UUMsag_m5yz_Ub5C98YTgrw/edit,* NLB Seed Team,"* Go.gov.sg
 * Isomer
 * Postman
@@ -180,7 +180,7 @@ Change past product sentence to ""Things I have worked on in the past include <C
 21,TRUE,Russell,All Good,,BATCH 1,Russell,Shu Li Teo,shuli@open.gov.sg,Software Engineering,Software Engineer,"April 20, 2020",,,https://docs.google.com/document/d/11H-_C3FpGGSGZkdNCEz7se82jfPwXo1rgHcjjyJXjMQ/edit,* FormSG,"* CheckFirst
 * Temperature
 * Signify","* Independently made a number of FormSG infrastructure improvements to increase reliability and performance. These include building an end-to-end production-ready backup for Cloudflare DNS + CDN using AWS Route53 and Cloudfront, designing and setting up infrastructure to host and serve static assets for React app, and setting up bastion host infrastructure
-* Led the integration of FormSG with SingPass/CorpPass/MyInfo, including completing the migration of CorpPass to OIDC and decommissioning SingPass/CorpPass SAML support with no downtime.
+* Led the integration of FormSG with SingPass/CorpPass/MyInfo, including completing the migration of CorpPass to OIDC and decommissioning SingPass/CorpPass SAML support with no downtime
 * Built up engineering features for Signify from scratch, including integration with the Sign with SingPass API"
 22,TRUE,Russell,All Good,,,Joanna,Kee Wei Lam,keewei@open.gov.sg,Software Engineering,Lead Engineering Manager,"June 1, 2020",We focus on solving real problems and not on building abstract solutions,,https://docs.google.com/document/d/1ncQyhHusLJphkvx8-1-rxoJDmZfStaJa7Vy0eZzv7nk/edit,"* Armoury
 * ActiveSG
@@ -412,8 +412,8 @@ should change to:
 * Highway
 * LetterSG
 * EventSG","* EngageSG
-* Pouch","* Led the GoGov suite expansion into the health sector via ForSG and education sector via ForEduSG.
-* Shaped design and engineering on EngageSG following Hackathon, and has since prepared a roadmap for product iteration.
+* Pouch","* Led the GoGov suite expansion into the health sector via ForSG and education sector via ForEduSG
+* Shaped design and engineering on EngageSG following Hackathon, and has since prepared a roadmap for product iteration
 * Pursued the idea of file sharing within government, and prototyped Pouch"
 58,TRUE,Ian,All Good,,BATCH 1,Russell,Kenneth Chang,kennethchang@open.gov.sg,Product Operations,Product Operations Specialist,"April 18, 2022",,,https://docs.google.com/document/d/1vuibIb7dIixAO3I5DA2uDni4lrb7Hp10/edit?rtpof=true,* FormSG,,"* Supported FormSG product ops and users during FormSG React Migration with 48,473 reports over 4 months
 * Grew FormSG Office Hours from 15 registrations to 678 registrations, as well as Telegram Form-ally and Formsies to 1035 and 140 subscribers respectively
@@ -622,7 +622,7 @@ Breadcrumbs navigation
 105,TRUE,Jo,All Good,,,Russell,Zi Yang See,ziyang@open.gov.sg,Software Engineering,Software Engineer,"January 16, 2023",,,https://docs.google.com/document/d/1qvm-aRjeNIjLg-RMy93W1FmGvY_oHaLSx-0X1tp-6NE/edit,*AskGov,,"* Implemented various features for AskGov, including answer feedback, mobile layouts, question topics, search functionality, rich text functionality, and admin portal functionalities
 * Improved the search functionality and revamped the admin portal which empowered admins to do more on their agency page and allowed product operations to be conducted more efficiently
 * Took charge and addressed various security and privacy issues raised during vulnerability assessments/penetration testing to ensure that AskGov is secure and compliant with regulations"
-106,FALSE,Jo,Need Edits,,,Joanna,James Hibberd,james@open.gov.sg,Software Engineering,Senior Engineering Manager,"February 6, 2023","I love technology because of its ability to solve problems, and at OGP I get to work on problems that really matter.",,,,,"* Managed a team of 18 software engineers.
+106,FALSE,Jo,Need Edits,,,Joanna,James Hibberd,james@open.gov.sg,Software Engineering,Senior Engineering Manager,"February 6, 2023","I love technology because of its ability to solve problems, and at OGP I get to work on problems that really matter.",,,,,"* Managed a team of 18 software engineers
 "
 107,TRUE,Jo,All Good,,,Clifford,Sean Lum,sean@open.gov.sg,Software Engineering,Software Engineer,"February 6, 2023",,,https://docs.google.com/document/d/1sujrHmW93ZFVXF6mk1iEiwxhPg4G2PDeVCMXKH4KksU/edit#heading=h.q9g0durbss53,* Redeem,,"i'm new, watch this space!"
 108,TRUE,Jo,All Good,,,Clifford,Qilu Xie,qilu@open.gov.sg,Software Engineering,Lead Software Engineer,"February 6, 2023",,,https://www.notion.so/opengov/Qilu-s-Working-Document-87e007f992634275b07b59a6347e5759,* Isomer,,"* Improved scalability and stability of Isomer: created 60 additional tokens aiming to bring up the scalability of the product
@@ -704,14 +704,14 @@ Breadcrumbs navigation
 150,TRUE,Sarah,All Good,,,Joanna,Malcolm Ong,Malcolm@open.gov.sg,Software Engineering,Software Engineer,"July 17, 2023",,,"i'm new, watch this space!",* Plumber,,"i'm new, watch this space!"
 151,TRUE,Sarah,All Good,,,Chien Ling,Danelynn Ding,danelynn@open.gov.sg,Software Engineering,Software Engineer,"July 17, 2023",,,"i'm new, watch this space!",* NLB Seed Team,,"i'm new, watch this space!"
 152,TRUE,Sarah,All Good,ScamTech,,Russell,Le Yang Tan,leyang@open.gov.sg,Software Engineering,Software Engineer,"July 17, 2023",,,,* ScamTech,,"i'm new, watch this space!"
-153,FALSE,Sarah,Need Edits,Need join date and current product,,Joanna,XingHao Yang,xinghao@open.gov.sg,Software Engineering,Software Engineer,"July 17, 2023",,,"i'm new, watch this space!",* NLB Seed Team,,"i'm new, watch this space!"
+153,FALSE,Sarah,All Good,Need join date and current product,,Joanna,XingHao Yang,xinghao@open.gov.sg,Software Engineering,Software Engineer,"July 17, 2023",,,"i'm new, watch this space!",* NLB Seed Team,,"i'm new, watch this space!"
 154,TRUE,Sarah,All Good,,,Chien Ling,Si Min Ong,simin@open.gov.sg,Software Engineering,Software Engineer,"July 17, 2023",,,"i'm new, watch this space!",* ActiveSG,,"i'm new, watch this space!"
 155,TRUE,Sarah,All Good,Removed full stops achievement description,,Clifford,Dexter Tan,dexter@open.gov.sg,Software Engineering,Software Engineer,"July 17, 2023",,,https://docs.google.com/document/d/1jUbwgd-c3fF_7bUFYh5AfMwZa8hDthcE0IvteWE_T68/edit,* ActiveSG,* HAS,"* Performed intra- and inter-timeslot validation on change in the schedule management form 
 * Improved HAS user experience by setting additional timeslots to continue from the end of the previous selection
 * Implemented confirmation modals for appointment creation and rescheduling in HAS"
 156,TRUE,Sarah,All Good,,,Joanna,Darren Ng,darren@open.gov.sg,Product Design,Lead UX Researcher,"July 24, 2023",,,"i'm new, watch this space!",* UX Research,,"i'm new, watch this space!"
 157,TRUE,Sarah,All Good,,,Chien Ling,Fiona Pay,fiona@open.gov.sg,Product Design,Senior UX Researcher,"July 24, 2023",,,"i'm new, watch this space!",* UX Research,,"i'm new, watch this space!"
-158,TRUE,Sarah,Need Edits,Need to wait for Corp team global edit,,Russell,Nicole Loh,nicole@open.gov.sg,Marketing Team,Senior Manager (Marketing),"August 1, 2023",,,,* Marketing Team,,"i'm new, watch this space!"
+158,TRUE,Sarah,All Good,Need to wait for Corp team global edit,,Russell,Nicole Loh,nicole@open.gov.sg,Marketing Team,Senior Manager (Marketing),"August 1, 2023",,,,* Marketing Team,,"i'm new, watch this space!"
 159,TRUE,Jo,All Good,,,Clifford,Sufyan Bin Selamet,sufyan@open.gov.sg,Product Design,Senior Product Designer,"August 7, 2023",,,"i'm new, watch this space!",* SGID,,"i'm new, watch this space!"
 160,TRUE,Jo,All Good,"too new, no photo",,Chien Ling,Mike Chen,,Product Design,Product Design Manager,"August 21, 2023",,,"i'm new, watch this space!",* Product Design Manager,,"i'm new, watch this space!"
 161,TRUE,Jo,Need Edits,start date to be amended (new hire),,Clifford,Pras,,Product Design,,"August 21, 2023",,,https://docs.google.com/document/d/1kithu12Nb6_ErJcaHDqNRpOYDWkfUmbog3fqaEAtZMQ/edit,,"* FormSG

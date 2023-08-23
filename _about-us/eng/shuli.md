@@ -22,7 +22,7 @@ accomplishments:
     assets for React app, and setting up bastion host infrastructure
   - Led the integration of FormSG with SingPass/CorpPass/MyInfo, including
     completing the migration of CorpPass to OIDC and decommissioning
-    SingPass/CorpPass SAML support with no downtime.
+    SingPass/CorpPass SAML support with no downtime
   - Built up engineering features for Signify from scratch, including
     integration with the Sign with SingPass API
 quote: ""

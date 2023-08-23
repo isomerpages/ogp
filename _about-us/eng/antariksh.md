@@ -22,7 +22,7 @@ accomplishments:
   - Managed the CalSG team and oversaw both engineering and design
   - Led SDK initiative for sgID which was targeted to make the process easier
     for developers working in common backend languages to implement sgID
-    integrations.
+    integrations
 quote: ""
 linkedinId: ""
 
