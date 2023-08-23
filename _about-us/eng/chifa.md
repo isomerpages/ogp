@@ -16,7 +16,7 @@ accomplishments: >-
 
   * Implemented and removed beta features for Forms Payment feature and sgID integration
 
-  * Researched and launched a search engine using a framework, which enabled SmartGov’s Open Domain Question and Answer (ODQA) system MVP to be able to make SmartGov understand and answer specific queries relating to AIC
+  * Researched and launched a search engine framework, which enabled SmartGov’s Open Domain Question and Answer (ODQA) system MVP to understand and answer specific queries relating to AIC
 quote: ""
 linkedinId: ""
 

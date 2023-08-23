@@ -9,7 +9,7 @@ joinDate: March 20, 2023
 functionId: pm
 jobTitle: Senior Product Manager
 curProducts:
-  - NLB
+  - NLB Seed Team
 pastProducts: []
 accomplishments: >-
   * Built seven prototypes for NLB after aligning on initial problem statements

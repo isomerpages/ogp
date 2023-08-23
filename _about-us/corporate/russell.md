@@ -8,8 +8,7 @@ name: Russell Chan
 joinDate: September 2, 2019
 functionId: corporate
 jobTitle: Head of People
-curProducts:
-  - People Team
+curProducts: []
 pastProducts: []
 accomplishments: >-
   * Grew the People team from an individual contributor practice to a team of 4
@@ -26,4 +25,4 @@ linkedinId: russellchanyd
 
 ---
 
-{% include staff-corporate.html staff=page color=site.colors.function-colors.corporate %}
+{% include staff.html staff=page color=site.colors.function-colors.corporate %}

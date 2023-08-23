@@ -8,8 +8,7 @@ name: Ben Bowes
 joinDate: January 4, 2022
 functionId: design
 jobTitle: Head of Product Design
-curProducts:
-  - Head of Product Design
+curProducts: []
 pastProducts: []
 accomplishments: >-
   * Grew the OGP Product Design team, including setting up new UX writing and UX
@@ -17,7 +16,7 @@ accomplishments: >-
 
   * Organised, facilitated, and presented at the Friends of Figma: Inside Design at OGP meet-up
 
-  * Provided product leadership and direction to co-lead Armoury during HFPG'23
+  * Provided product leadership and direction to co-lead Armoury during Hack For Public Good 2023
 quote: Knowing that the work we do has an impact on our friends, neighbours, and
   family.
 linkedinId: ""

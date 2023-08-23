@@ -9,7 +9,7 @@ joinDate: January 4, 2022
 functionId: design
 jobTitle: Senior UX Writer
 curProducts:
-  - UX Writer
+  - UX Writing
 pastProducts:
   - ScamShield
   - FormSG
@@ -25,7 +25,7 @@ accomplishments: >-
 
   * Launched multiple features with high quality, reusable UX copy such as for HAS Pneumococcal vaccine campaigns and copy components for Care360
 
-  * Invested in my learning and growth of becoming a better writer
+  * Invested in my learning and growth to becoming a better writer
 quote: ""
 linkedinId: ""
 

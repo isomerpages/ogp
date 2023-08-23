@@ -9,7 +9,7 @@ joinDate: July 4, 2022
 functionId: eng
 jobTitle: Software Engineer
 curProducts:
-  - go.gov.sg
+  - Go.gov.sg
 pastProducts:
   - Pouch
   - MediPay
@@ -18,12 +18,11 @@ pastProducts:
   - Engage
 accomplishments: >-
   * Wrote the external API endpoints for Go, which facilitated the creation of
-  over 3000 links, and allowed for integrations with other institutions'
-  systems.
+  over 3000 links, and allowed for integrations with other institutions' systems
 
-  * Worked on the frontend and backend of Pouch, and also implemented security classifications for files and folders.
+  * Worked on the frontend and backend of Pouch, and also implemented security classifications for files and folders
 
-  * Implemented the appointment flow and landing page for MediPay, during hackathon.
+  * Implemented the appointment flow and landing page for MediPay, during hackathon
 quote: ""
 linkedinId: ""
 

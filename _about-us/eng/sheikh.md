@@ -16,12 +16,12 @@ pastProducts:
   - PaySG
   - Redeem
 accomplishments: >-
-  * CBDC - contributed as a lead by independently researching, defining,
-  designing, and subsequently implementing with minimal guidance.
+  * Central Banking Digital Currency - contributed as a lead by independently
+  researching, defining, designing, and subsequently implementing
 
-  * Mentorship and leadership roles in guiding more junior members of the team for Redeem team.
+  * Mentorship and leadership roles in guiding junior Redeem team members
 
-  * Migrated Pair into a more production ready setup.
+  * Migrated Pair into a production ready setup
 quote: ""
 linkedinId: ""
 

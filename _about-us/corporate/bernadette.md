@@ -8,8 +8,7 @@ name: Bernadette Cho
 joinDate: March 20, 2023
 functionId: corporate
 jobTitle: Chief Operating Officer
-curProducts:
-  - Chief Operating Officer
+curProducts: []
 pastProducts:
   - Oversees Corporate Operations, People Team, Marketing
 accomplishments: >-
@@ -23,4 +22,4 @@ linkedinId: ""
 
 ---
 
-{% include staff-corporate.html staff=page color=site.colors.function-colors.corporate %}
+{% include staff.html staff=page color=site.colors.function-colors.corporate %}

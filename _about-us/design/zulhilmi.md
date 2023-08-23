@@ -18,7 +18,7 @@ accomplishments: >-
 
   * Facilitated a one-week design sprint which led to the birth of Queue, Diverter, and Patient Tracker, and also pushed for the product to be used live by clinics
 
-  * Strategised the long term vision for HealthTech design, and acceleated the speed of design and development for the consolidated patient and clinic experience
+  * Strategised the long term vision for HealthTech design, and accelerated the speed of design and development for the consolidated patient and clinic experience
 quote: ""
 linkedinId: ""
 

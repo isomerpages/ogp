@@ -9,7 +9,7 @@ joinDate: June 29, 2020
 functionId: eng
 jobTitle: Senior Software Engineer
 curProducts:
-  - go.gov.sg
+  - Go.gov.sg
 pastProducts:
   - Homer
   - Isomer
@@ -20,11 +20,11 @@ pastProducts:
   - Pouch
 accomplishments: >-
   * Designed and built file sharing architecture for Pouch, which supported
-  Highway's use-case.
+  Highway's use-case
 
-  * Pushed for Pouch to adopt to Highway as part of its roadmap to  address significant user groups and gain familiarity with the problem space of file-sharing.
+  * Pushed for Pouch to adopt to Highway as part of its roadmap to  address significant user groups and gain familiarity with the problem space of file-sharing
 
-  * Mentored a team-mate to build an asynchronous service to support bulk QR code generation.
+  * Mentored a team-mate to build an asynchronous service to support bulk QR code generation
 quote: ""
 linkedinId: ""
 

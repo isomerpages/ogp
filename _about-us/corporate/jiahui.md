@@ -25,4 +25,4 @@ linkedinId: ""
 
 ---
 
-{% include staff-corporate.html staff=page color=site.colors.function-colors.corporate %}
+{% include staff.html staff=page color=site.colors.function-colors.corporate %}

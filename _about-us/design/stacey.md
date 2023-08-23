@@ -1,13 +1,13 @@
 ---
 title: Stacey Tan
 permalink: /people/stacey
-description: "Stacey Tan - Product Desginer"
+description: "Stacey Tan - Product Designer"
 third_nav_title: Product Design
 staffId: stacey
 name: Stacey Tan
 joinDate: September 12, 2022
 functionId: design
-jobTitle: Product Desginer
+jobTitle: Product Designer
 curProducts:
   - FormSG
 pastProducts:

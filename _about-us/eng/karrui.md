@@ -19,12 +19,12 @@ pastProducts:
   - Temperature
   - Tooling
 accomplishments: >-
-  * Frontend engineering work done on FormSg React and pushed it into production
+  * Frontend engineering work done on FormSG React and pushed it into production
   with hardly any bugs
 
-  * Wrote complex features into FormSG Payments to enable agency's accounts to their FormSG.
+  * Wrote complex features into FormSG Payments to enable agency's accounts to their FormSG
 
-  * Worked on Care360 to optimise user experience by reducing lag and improved frontend application usage.
+  * Worked on Care360 to optimise user experience by reducing lag and improved frontend application usage
 quote: ""
 linkedinId: ""
 

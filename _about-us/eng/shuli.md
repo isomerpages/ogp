@@ -11,7 +11,6 @@ jobTitle: Software Engineer
 curProducts:
   - FormSG
 pastProducts:
-  - FormSG
   - CheckFirst
   - Temperature
   - Signify
@@ -24,7 +23,7 @@ accomplishments: >-
 
   * Led the integration of FormSG with SingPass/CorpPass/MyInfo, including completing the migration of CorpPass to OIDC and decommissioning SingPass/CorpPass SAML support with no downtime.
 
-  * Built up engineeringg features for Signify from scratch, including integration with the Sign with SingPass API
+  * Built up engineering features for Signify from scratch, including integration with the Sign with SingPass API
 quote: ""
 linkedinId: ""
 

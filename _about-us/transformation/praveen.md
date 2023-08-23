@@ -8,8 +8,7 @@ name: Praveen Raj Kumar
 joinDate: July 18, 2022
 functionId: transformation
 jobTitle: Head of Policy & Transformation
-curProducts:
-  - Head of Policy & Transformation
+curProducts: []
 pastProducts:
   - Healthtech
 accomplishments: >-

@@ -8,20 +8,19 @@ name: Yi Xin Ang
 joinDate: March 6, 2023
 functionId: design
 jobTitle: Lead Product Designer
-curProducts: []
+curProducts:
+  - DistributeSG
 pastProducts:
   - Vault
   - Isomer
-  - DistributeSG
   - Redeem
   - PaySG
-  - DistributeSG
 accomplishments: >-
   * Designed overall visual language for Vaccine Ops
 
   * Launched NEA Campaign. Redeem Digital Vouchers accepted at various retailers (Sheng Siong, Giant, NTUC, Courts, Gain City)
 
-  * Launched CDC Tranche 2 in Feb using Distribute app for tracking and new feature for tagging of voucher booklets.
+  * Launched CDC Tranche 2 in Feb using Distribute app for tracking and new feature for tagging of voucher booklets
 quote: ""
 linkedinId: ""
 

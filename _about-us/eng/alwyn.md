@@ -30,7 +30,7 @@ accomplishments: >-
 
   * Rewrote Armoury with focus on generic use cases
 
-  * DevRelations POC for OGP in numerous events including NUS LifeHack, Build for Good & Tech for Public Good
+  * DevRelations point of contact for OGP in numerous events including NUS LifeHack, Build for Good & Tech for Public Good
 quote: ""
 linkedinId: ""
 

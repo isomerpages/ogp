@@ -9,16 +9,16 @@ joinDate: February 27, 2023
 functionId: eng
 jobTitle: Software Engineer
 curProducts:
-  - Data Gov
+  - data.gov.sg
 pastProducts:
   - Vault
 accomplishments: >-
   * Spearheaded the migration of Data Gov's charts through a quick prototyping
-  process.
+  process
 
-  * Built and optimised a feature for a folder view on Data Gov, enabling users to toggle between different resources.
+  * Built and optimised a feature for a folder view on Data Gov, enabling users to toggle between different resources
 
-  * Optimized the performance of the new site, implemented load testing, optimized page load and reduced render time to less than 20% of the original load time for large datasets.
+  * Optimized the performance of the new site, implemented load testing, optimized page load and reduced render time to less than 20% of the original load time for large datasets
 quote: ""
 linkedinId: ""
 

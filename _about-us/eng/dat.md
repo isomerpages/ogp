@@ -9,7 +9,7 @@ joinDate: June 20, 2022
 functionId: eng
 jobTitle: Lead Software Engineer
 curProducts:
-  - go.gov.sg
+  - Go.gov.sg
 pastProducts:
   - Pouch
 accomplishments: >-

@@ -8,8 +8,7 @@ name: Sarah Espaldon
 joinDate: November 4, 2019
 functionId: corporate
 jobTitle: Head of Marketing
-curProducts:
-  - Marketing Team
+curProducts: []
 pastProducts:
   - Corporate Operations
 accomplishments: >-
@@ -27,4 +26,4 @@ linkedinId: ""
 
 ---
 
-{% include staff-corporate.html staff=page color=site.colors.function-colors.corporate %}
+{% include staff.html staff=page color=site.colors.function-colors.corporate %}

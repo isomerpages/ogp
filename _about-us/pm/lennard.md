@@ -9,9 +9,9 @@ joinDate: May 26, 2022
 functionId: pm
 jobTitle: Lead Product Manager
 curProducts:
-  - Primary Care
-pastProducts:
   - IRMS
+pastProducts:
+  - Primary Care
   - Care360
   - Healthtech
   - Vault

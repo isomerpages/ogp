@@ -10,9 +10,9 @@ functionId: pm
 jobTitle: Senior Product Manager
 curProducts:
   - NLB Seed Team
-  - SGID
 pastProducts:
   - CorpTech
+  - SGID
 accomplishments: >-
   * Scaled sgID use cases across multiple potential partners in Singapore
 

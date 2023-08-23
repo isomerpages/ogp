@@ -14,7 +14,7 @@ pastProducts:
   - OGP-DIS collaboration
   - OGP Board of Advisors
 accomplishments: >-
-  * Integrate Whole-of-Government participation in Hack for Public Good to
+  * Integrated Whole-of-Government participation in Hack for Public Good to
   inspire more hand-raisers across government to what is possible
 
   * Launched OGP's inaugural board of advisors

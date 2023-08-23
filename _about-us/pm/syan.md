@@ -12,6 +12,9 @@ curProducts:
   - AskGov
   - FormSG
   - Go.gov.sg
+  - EventSG
+  - Highway
+  - LetterSG
   - Vault
 pastProducts:
   - CCRM
@@ -29,7 +32,7 @@ accomplishments: >-
 
   * Provided PM people management and coaching over >10 OGP products
 
-  * Worked with the TFPG team to assess >12 agencies for incubating satellite tech teams
+  * Worked with the Tech for Public Good team to assess >12 agencies for incubating satellite tech teams
 quote: ""
 linkedinId: ""
 

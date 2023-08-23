@@ -8,8 +8,7 @@ name: James Hibberd
 joinDate: February 6, 2023
 functionId: eng
 jobTitle: Senior Engineering Manager
-curProducts:
-  - Head of Software Engineering
+curProducts: []
 pastProducts: []
 accomplishments: "* Managed a team of 18 software engineers."
 quote: I love technology because of its ability to solve problems, and at OGP I

@@ -17,7 +17,7 @@ accomplishments: >-
 
   * Designed and worked on the ORM migration of DigiMC, improving the maintainability of the product
 
-  * Developed AttendGov, a hackathon product, worked on the upload flow and DB structure.
+  * Developed AttendGov, a hackathon product, worked on the upload flow and DB structure
 quote: ""
 linkedinId: ""
 

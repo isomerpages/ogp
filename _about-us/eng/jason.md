@@ -12,7 +12,7 @@ curProducts:
   - PaySG
 pastProducts:
   - RedeemSG
-  - HAS
+  - Primary Care
 accomplishments: >-
   * Decided on the infra and tech stack of PaySG as tech lead
 

@@ -14,12 +14,12 @@ pastProducts:
   - Redeem
   - PaySG
 accomplishments: >-
-  * Leading successful engineering efforts in Redeem resulting in smooth
-  supermarket onboarding and critical payout code changes.
+  * Led successful engineering efforts in Redeem resulting in smooth supermarket
+  onboarding and critical payout code changes
 
-  * Taking ownership of onboarding new engineers and facilitating discussions and learnings within the team, creating a more collaborative learning environment within Redeem engineering.
+  * Took ownership of onboarding new engineers and facilitating discussions and learnings within the team, creating a more collaborative learning environment within Redeem engineering
 
-  * Taking on the role of product manager and designer for Plague during the hackathon, forming the product vision, conducting user interviews, prioritizing tasks, and conducting pitches.
+  * Took on the role of Product Manager and Designer for Plague during the hackathon, forming the product vision, conducting user interviews, prioritizing tasks, and conducting pitches
 quote: ""
 linkedinId: ""
 

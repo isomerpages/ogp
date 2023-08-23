@@ -10,8 +10,7 @@ functionId: pm
 jobTitle: Product Manager
 curProducts:
   - FormSG
-pastProducts:
-  - Sync
+pastProducts: []
 accomplishments: >-
   * Worked on FormSG and successfully orchestrated React migration
 

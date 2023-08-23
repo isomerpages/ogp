@@ -10,8 +10,8 @@ functionId: ops
 jobTitle: Product Operations Specialist
 curProducts:
   - Armoury
-pastProducts:
   - AskGov
+pastProducts:
   - Healthtech
   - Sync
 accomplishments: |-

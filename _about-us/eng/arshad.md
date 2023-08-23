@@ -11,7 +11,7 @@ jobTitle: Senior Software Engineer
 curProducts:
   - AskGov
 pastProducts:
-  - Data.gov
+  - Data.gov.sg
   - eDOT
   - Endemic Ops
   - FormSG

@@ -9,14 +9,20 @@ joinDate: May 29, 2023
 functionId: corporate
 jobTitle: Senior Manager (People)
 curProducts:
+  - People Team
+pastProducts:
   - Tech for Public Good Initiative
   - OGP Business Partnering & Hiring
   - Team health surveys/dashboards and interventions
-pastProducts: []
-accomplishments: i'm new, watch this space!
+accomplishments: >-
+  * Ran the Tech for Public Good Recruiting workshop for 14 agencies
+
+  * Led the pilot implementation of a new Applicant Tracking System for select agencies
+
+  * Built Org health dashboards to visually showcase pulse survey results
 quote: ""
 linkedinId: ""
 
 ---
 
-{% include staff-corporate.html staff=page color=site.colors.function-colors.corporate %}
+{% include staff.html staff=page color=site.colors.function-colors.corporate %}

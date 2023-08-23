@@ -9,9 +9,10 @@ joinDate: March 27, 2023
 functionId: corporate
 jobTitle: Manager (People)
 curProducts:
+  - People Team
+pastProducts:
   - techhiring.open.gov.sg
   - Onboarding/Offboarding experience
-pastProducts: []
 accomplishments: >-
   * Relaunched TFPG CV Bank and Jobs Directory to match candidates to >250
   government tech jobs
@@ -24,4 +25,4 @@ linkedinId: ""
 
 ---
 
-{% include staff-corporate.html staff=page color=site.colors.function-colors.corporate %}
+{% include staff.html staff=page color=site.colors.function-colors.corporate %}

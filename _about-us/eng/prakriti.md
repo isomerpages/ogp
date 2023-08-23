@@ -9,7 +9,7 @@ joinDate: June 19, 2023
 functionId: eng
 jobTitle: Software Engineer
 curProducts:
-  - Go
+  - go.gov.sg
 pastProducts: []
 accomplishments: i'm new, watch this space!
 quote: ""

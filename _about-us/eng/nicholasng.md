@@ -9,7 +9,7 @@ joinDate: September 12, 2022
 functionId: eng
 jobTitle: Senior Software Engineer
 curProducts:
-  - HAS
+  - Primary Care
 pastProducts:
   - Care360
 accomplishments: >-

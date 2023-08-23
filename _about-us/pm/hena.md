@@ -10,6 +10,9 @@ functionId: pm
 jobTitle: Product Manager
 curProducts:
   - go.gov.sg
+  - Highway
+  - LetterSG
+  - EventSG
 pastProducts:
   - EngageSG
   - Pouch
@@ -19,7 +22,7 @@ accomplishments: >-
 
   * Shaped design and engineering on EngageSG following Hackathon, and has since prepared a roadmap for product iteration.
 
-  * Pursued the idea of file sharing within government, and prototyped Pouch.
+  * Pursued the idea of file sharing within government, and prototyped Pouch
 quote: ""
 linkedinId: ""
 

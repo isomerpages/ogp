@@ -8,8 +8,7 @@ name: Samuel Koh
 joinDate: October 4, 2021
 functionId: ops
 jobTitle: Product Operations Manager
-curProducts:
-  - Head of Product Operations
+curProducts: []
 pastProducts:
   - Endemic Ops
   - Postman
@@ -27,7 +26,7 @@ accomplishments: >-
 
   * Led product operations for ScamShield and sgID
 
-  * Doubled the product operations team and established team processes for updates, sharings, and learning coordination
+  * Doubled the Product Operations team and established team processes for updates, sharings, and learning coordination
 quote: ""
 linkedinId: ""
 

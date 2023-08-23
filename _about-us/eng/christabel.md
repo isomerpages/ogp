@@ -19,7 +19,7 @@ pastProducts:
 accomplishments: >-
   * Launched Scamshield Whatsapp bot in December 2022
 
-  * Launched Scamshield 2.0 SPF dashboard and Scamshield Andriod + iOS App
+  * Launched Scamshield 2.0 SPF dashboard and Scamshield Android + iOS App
 
   * Managed nominal roll processing and SMS campaigns for Covid-19 vaccination appointment operations
 quote: ""

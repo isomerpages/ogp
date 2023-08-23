@@ -10,8 +10,7 @@ functionId: eng
 jobTitle: Software Engineer
 curProducts:
   - Scamshield
-pastProducts:
-  - Scamshield
+pastProducts: []
 accomplishments: >-
   * Created a Telegram bot tool for checking scam tactics
 

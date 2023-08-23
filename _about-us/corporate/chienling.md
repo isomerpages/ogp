@@ -11,7 +11,7 @@ jobTitle: Manager (People)
 curProducts:
   - People Team
 pastProducts:
-  - Covid-19 vaccination operations
+  - Endemic Ops
   - OGP hiring
   - Internship programmes
   - HR operations and governance
@@ -27,4 +27,4 @@ linkedinId: ""
 
 ---
 
-{% include staff-corporate.html staff=page color=site.colors.function-colors.corporate %}
+{% include staff.html staff=page color=site.colors.function-colors.corporate %}

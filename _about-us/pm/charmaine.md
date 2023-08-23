@@ -19,7 +19,7 @@ accomplishments: >-
 
   * Scoped and defined the whitelisting feature for RedeemSG, and moved closer toward generalising RedeemSG for different use cases
 
-  * Coordinated several initiatives to aid the product management function across OGP, including coordinating Twilio senderID registration across OGP as well as consolidating VAPT master lists and recommendations
+  * Coordinated several initiatives to aid the Product Management function across OGP, including coordinating Twilio senderID registration across OGP as well as consolidating VAPT master lists and recommendations
 quote: ""
 linkedinId: ""
 

@@ -10,9 +10,9 @@ functionId: eng
 jobTitle: Software Engineer
 curProducts:
   - FormSG
+  - Checkpoint
 pastProducts:
   - CertSG
-  - Checkpoint
 accomplishments: >-
   * Contributed to FormSG React migration, including migrating most end-to-end
   tests for email submissions from Angular and implementing several new features

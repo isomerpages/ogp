@@ -17,9 +17,9 @@ pastProducts:
   - Homer
 accomplishments: >-
   * Handles end-to-end repo privatisation for Isomer, monitored stability, and
-  set up clearer documentation.
+  set up clearer documentation
 
-  * Worked on migrations of backend infrastructure onto AWS.
+  * Worked on migrations of backend infrastructure on AWS
 
   * Also responsible for monitoring and reviewing security, and resolving vulnerabilities
 quote: ""
