@@ -126,7 +126,7 @@
 </div>
 
 {% if include.staff.curProducts.size > 0 %}
-<p>I joined since <strong>{{include.staff.joinDate}}</strong> and I am currently working on
+<p>I joined on <strong>{{include.staff.joinDate}}</strong> and I am currently working on
 {% for product in include.staff.curProducts %}
     {% assign mappedProduct=site.data.products | find_exp:"item", "item.alias contains product" %}
     {% if mappedProduct.id %}
