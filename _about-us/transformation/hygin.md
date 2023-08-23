@@ -11,8 +11,8 @@ jobTitle: Assistant Director
 curProducts:
   - Policy & Transformation
 pastProducts:
-  - Scamshield
-  - Scamtech
+  - ScamShield
+  - ScamTech
 accomplishments: >-
   * Launched IMDA international call blocking pilot
 

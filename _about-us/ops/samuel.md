@@ -16,11 +16,11 @@ pastProducts:
   - Healthtech
   - Isomer
   - Go.gov.sg
-  - Scamtech
+  - ScamTech
   - Sync
   - CorpTech
   - sgID
-  - Scamshield
+  - ScamShield
 accomplishments: >-
   * Co-led HealthTech Sprint 2 to promote and train healthcare users in OGP's
   suite of products to address workflows in the healthcare domain

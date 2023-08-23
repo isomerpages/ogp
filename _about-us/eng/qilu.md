@@ -10,8 +10,7 @@ functionId: eng
 jobTitle: Lead Software Engineer
 curProducts:
   - Isomer
-pastProducts:
-  - Isomer
+pastProducts: []
 accomplishments: >-
   * Improved scalability and stability of Isomer: created 60 additional tokens
   aiming to bring up the scalability of the product

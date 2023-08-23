@@ -10,7 +10,8 @@ functionId: eng
 jobTitle: Senior Software Engineer
 curProducts:
   - HAS
-pastProducts: []
+pastProducts:
+  - Care360
 accomplishments: >-
   * Migrated Care360
 

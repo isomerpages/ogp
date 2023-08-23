@@ -19,7 +19,7 @@ accomplishments: >-
 
   * Improve team experience through onboarding experience revamp and automation
 
-  * HFPG 2023 Venues, Logistics and Merchandise sourcing and execution
+  * Hack for Public Good 2023 Venues, Logistics and Merchandise sourcing and execution
 quote: ""
 linkedinId: ""
 

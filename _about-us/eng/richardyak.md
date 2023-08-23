@@ -13,10 +13,10 @@ curProducts:
 pastProducts:
   - Postman
 accomplishments: >-
-  * Designing, planning and implementation of complex features on my primary
+  * Design, planning and implementation of complex features on my primary
   product Postman; scheduled sending
 
-  * Tech Lead for hackathon project 'Folk', Folk won the “break the internet” award
+  * Tech Lead for hackathon project 'Folk' which won the “break the internet” award
 
   * Incorporated Scrum master & agile methodologies to help provide clearer visibility of the engineering progress and workload allocation of the engineers to the product and product operations team
 quote: ""

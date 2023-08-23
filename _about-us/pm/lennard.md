@@ -17,7 +17,7 @@ pastProducts:
   - Vault
   - Queue
   - Endemic Ops
-  - Scamshield
+  - ScamShield
 accomplishments: >-
   * Reworked the HealthTech general vision and scope of products for HealthTech
   vertical

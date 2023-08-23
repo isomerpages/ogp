@@ -9,7 +9,7 @@ joinDate: November 19, 2018
 functionId: eng
 jobTitle: Senior Software Engineer
 curProducts:
-  - Scamtech
+  - ScamTech
 pastProducts:
   - Postman
   - Covid Ops

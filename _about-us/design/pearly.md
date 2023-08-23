@@ -10,7 +10,17 @@ functionId: design
 jobTitle: Senior Product Designer
 curProducts:
   - IRMS
-pastProducts: []
+pastProducts:
+  - Go.gov.sg
+  - HealthHub
+  - Send
+  - Homer
+  - FormSG
+  - SGID
+  - CheckFirst
+  - Temperature
+  - CorpTech
+  - ScamTech
 accomplishments: >-
   * Researched and solutioned for a multi-brand design system that all OGP
   products can use

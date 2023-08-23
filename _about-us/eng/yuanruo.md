@@ -16,7 +16,7 @@ pastProducts:
   - Go.gov.sg
   - FormSG
   - CorpTech
-  - Scamtech
+  - ScamTech
 accomplishments: >-
   * As engineering manager, grew engineering capacity on ScamShield and sgID
   teams through hiring

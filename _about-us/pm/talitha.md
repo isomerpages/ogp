@@ -9,7 +9,7 @@ joinDate: October 15, 2018
 functionId: pm
 jobTitle: Lead Product Manager
 curProducts:
-  - Scamtech
+  - ScamTech
   - Redeem
   - PaySG
 pastProducts:

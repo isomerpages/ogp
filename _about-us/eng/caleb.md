@@ -15,9 +15,9 @@ accomplishments: >-
   * Improved frontend coding standards by introducing a cleaner frontend
   component directory structure
 
-  * Worked on data migration efforts from existing healthcare systems, and supported user testing / training sessions at the various healthcare institutions where Care360 will be launched
+  * Worked on data migration efforts from existing healthcare systems, and supported user testing / training sessions at the various healthcare institutions where Care360 was launched
 
-  * Led InternalFunds sprint
+  * Led the InternalFunds sprint
 quote: ""
 linkedinId: ""
 

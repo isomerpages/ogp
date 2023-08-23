@@ -21,7 +21,7 @@ accomplishments: >-
 
   * Set-up and launched OGP’s allocation framework for hiring
 
-  * Did the bulk of hiring operations and pipeline management to grow OGP by more than 100 people from 2022-2023
+  * Spearheaded bulk of hiring operations and pipeline management to grow OGP by more than 100 people from 2022-2023
 quote: ""
 linkedinId: ""
 

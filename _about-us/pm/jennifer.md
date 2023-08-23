@@ -9,7 +9,7 @@ joinDate: June 20, 2022
 functionId: pm
 jobTitle: Product Manager
 curProducts:
-  - Scamshield
+  - ScamShield
 pastProducts:
   - CertSG
 accomplishments: >-

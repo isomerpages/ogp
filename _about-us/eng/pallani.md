@@ -9,7 +9,7 @@ joinDate: May 11, 2015
 functionId: eng
 jobTitle: Lead Software Engineer
 curProducts:
-  - Scamtech
+  - ScamTech
   - Redeem
   - PaySG
 pastProducts:

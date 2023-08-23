@@ -8,9 +8,9 @@ name: Tiffany Chan
 joinDate: May 15, 2023
 functionId: design
 jobTitle: Product Designer
-curProducts: []
-pastProducts:
-  - i'm new, watch this space!
+curProducts:
+  - HAS
+pastProducts: []
 accomplishments: i'm new, watch this space!
 quote: ""
 linkedinId: ""

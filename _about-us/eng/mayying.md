@@ -9,8 +9,9 @@ joinDate: May 29, 2023
 functionId: eng
 jobTitle: Senior Software Engineer
 curProducts:
+  - ScamShield
+pastProducts:
   - FormSG
-pastProducts: []
 accomplishments: i'm new, watch this space!
 quote: ""
 linkedinId: ""
