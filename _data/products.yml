@@ -180,7 +180,7 @@
   alias:
     - DistributeSG
   category: payments
-  image: https://file.go.gov.sg/redeemicon.png
+  image: https://info.distribute.gov.sg/favicon.ico
   sum: Create and scale distribution campaigns to multiple locations quickly. Onboard staff easily to support your campaign with DistributeSG.
   link: https://products.open.gov.sg/distributesg
 
