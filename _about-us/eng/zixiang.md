@@ -1,13 +1,13 @@
 ---
 title: Zi Xiang Tan
 permalink: /people/zixiang
-description: "Zi Xiang Tan - Software Developer"
+description: "Zi Xiang Tan - Software Engineer"
 third_nav_title: Software Engineering
 staffId: zixiang
 name: Zi Xiang Tan
 joinDate: January 10, 2022
 functionId: eng
-jobTitle: Software Developer
+jobTitle: Software Engineer
 curProducts:
   - CheckWho
 pastProducts:

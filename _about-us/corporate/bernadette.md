@@ -10,7 +10,9 @@ functionId: corporate
 jobTitle: Chief Operating Officer
 curProducts: []
 pastProducts:
-  - Oversees Corporate Operations, People Team, Marketing
+  - Corporate Operations
+  - People Team
+  - Marketing
 accomplishments:
   - Overhauled OGP management team processes and platforms
   - Launched organisation feedback initiatives to drive a stronger feedback

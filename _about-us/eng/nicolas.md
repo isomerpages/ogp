@@ -8,10 +8,10 @@ name: Nicolas Spano
 joinDate: June 26, 2023
 functionId: eng
 jobTitle: Senior Engineering Manager
-curProducts:
+curProducts: []
+pastProducts:
   - Primary Care
   - Care360
-pastProducts: []
 accomplishments:
   - i'm new, watch this space!
 quote: Building high-quality systems to empower medical professionals and

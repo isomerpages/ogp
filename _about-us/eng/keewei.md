@@ -1,13 +1,13 @@
 ---
 title: Kee Wei Lam
 permalink: /people/keewei
-description: "Kee Wei Lam - Lead Engineering Manager"
+description: "Kee Wei Lam - Lead Software Engineer"
 third_nav_title: Software Engineering
 staffId: keewei
 name: Kee Wei Lam
 joinDate: June 1, 2020
 functionId: eng
-jobTitle: Lead Engineering Manager
+jobTitle: Lead Software Engineer
 curProducts:
   - Armoury
   - ActiveSG

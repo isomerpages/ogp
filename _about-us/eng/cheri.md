@@ -1,10 +1,10 @@
 ---
-title: Cheri ong
+title: Cheri Ong
 permalink: /people/cheri
-description: "Cheri ong - Software Engineer"
+description: "Cheri Ong - Software Engineer"
 third_nav_title: Software Engineering
 staffId: cheri
-name: Cheri ong
+name: Cheri Ong
 joinDate: January 9, 2023
 functionId: eng
 jobTitle: Software Engineer

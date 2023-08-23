@@ -128,12 +128,14 @@
 {% assign lowercaseJobTitle = include.staff.jobTitle | downcase %}
 <p>I joined on <strong>{{include.staff.joinDate}}</strong>
 
+{% if include.staff.curProducts.size <= 0 %}
 {% if lowercaseJobTitle contains 'director' or lowercaseJobTitle contains 'chief' or lowercaseJobTitle contains 'head' %}
 and I am currently the <strong>{{include.staff.jobTitle}}</strong>.
+{% else %}
+and I am currently a <strong>{{include.staff.jobTitle}}</strong>.
+{% endif %}
 {% elsif include.staff.functionId == 'corporate' %}
 and I am currently part of the <strong>{{include.staff.curProducts[0]}}</strong>.
-{% elsif include.staff.curProducts.size <= 0 %}
-and I am currently a <strong>{{include.staff.jobTitle}}</strong>.
 {% else %}
 and I am currently working on
 {% for product in include.staff.curProducts %}

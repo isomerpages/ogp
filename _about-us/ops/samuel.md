@@ -1,13 +1,13 @@
 ---
 title: Samuel Koh
 permalink: /people/samuel
-description: "Samuel Koh - Product Operations Manager"
+description: "Samuel Koh - Head of Product Operations"
 third_nav_title: Product Operations
 staffId: samuel
 name: Samuel Koh
 joinDate: October 4, 2021
 functionId: ops
-jobTitle: Product Operations Manager
+jobTitle: Head of Product Operations
 curProducts: []
 pastProducts:
   - Endemic Ops
