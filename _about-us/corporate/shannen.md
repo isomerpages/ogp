@@ -9,7 +9,7 @@ joinDate: October 25, 2021
 functionId: corporate
 jobTitle: Senior Manager (Marketing)
 curProducts:
-  - Marketing
+  - Marketing Team
 pastProducts:
   - Build for Good 2023
 accomplishments:

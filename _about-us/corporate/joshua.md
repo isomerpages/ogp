@@ -9,7 +9,7 @@ joinDate: September 6, 2021
 functionId: corporate
 jobTitle: Senior Manager (Finance Operations)
 curProducts:
-  - Finance Operations
+  - Finance Operations Team
 pastProducts:
   - Workplace
   - Procurement and Finance

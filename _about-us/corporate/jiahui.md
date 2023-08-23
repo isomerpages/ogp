@@ -9,7 +9,7 @@ joinDate: September 6, 2021
 functionId: corporate
 jobTitle: Manager (Corporate Operations)
 curProducts:
-  - Corporate Operations
+  - Corporate Operations Team
 pastProducts:
   - Onboarding experience
   - Workplace

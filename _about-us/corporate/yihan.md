@@ -9,7 +9,7 @@ joinDate: July 18, 2022
 functionId: corporate
 jobTitle: Manager (Marketing)
 curProducts:
-  - Marketing
+  - Marketing Team
 pastProducts:
   - Social media marketing
 accomplishments:

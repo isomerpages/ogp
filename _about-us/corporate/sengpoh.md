@@ -9,7 +9,7 @@ joinDate: May 2, 2023
 functionId: corporate
 jobTitle: Executive (Marketing)
 curProducts:
-  - Marketing
+  - Marketing Team
 pastProducts:
   - Social media marketing
 accomplishments:

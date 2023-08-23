@@ -9,7 +9,7 @@ joinDate: June 5, 2023
 functionId: corporate
 jobTitle: Executive (Corporate Operations)
 curProducts:
-  - Workplace
+  - Workplace Team
 pastProducts: []
 accomplishments:
   - i'm new, watch this space!

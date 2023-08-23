@@ -290,12 +290,12 @@ Change past product sentence to ""Things I have worked on in the past include <C
 * Team communications","*   Conceptualised and launched OGP’s referral programme
 *   Set-up and launched OGP’s allocation framework for hiring
 *   Spearheaded bulk of hiring operations and pipeline management to grow OGP by more than 100 people from 2022-2023"
-36,TRUE,Clifford,All Good,,BATCH 1,Russell,Jia Hui Yap,jiahui@open.gov.sg,Corporate Operations,Manager (Corporate Operations),"September 6, 2021",,,,* Corporate Operations,"* Onboarding experience
+36,TRUE,Clifford,All Good,,BATCH 1,Russell,Jia Hui Yap,jiahui@open.gov.sg,Corporate Operations,Manager (Corporate Operations),"September 6, 2021",,,,* Corporate Operations Team,"* Onboarding experience
 * Workplace","* Office space revamp to keep up with org growth and ensure space utilisation and productivity
 * Improve team experience through onboarding experience revamp and automation
 * Hack for Public Good 2023 Venues, Logistics and Merchandise sourcing and execution"
 37,TRUE,Clifford,All Good,,BATCH 1,Russell,Joshua Tan,joshua@open.gov.sg,Corporate Operations,Senior Manager (Finance Operations),"September 6, 2021",,,,"
-* Finance Operations","
+* Finance Operations Team","
 * Workplace
 * Procurement and Finance","*   Managed a Finance team of 2
 *   Secured funding for expanded OGP team of nearly 200 employees
@@ -330,7 +330,7 @@ should change to:
 * ScamShield","* Co-led HealthTech Sprint 2 to promote and train healthcare users in OGP's suite of products to address workflows in the healthcare domain
 * Led product operations for ScamShield and sgID
 * Doubled the Product Operations team and established team processes for updates, sharings, and learning coordination"
-42,TRUE,Clifford,All Good,,BATCH 1,Russell,Shannen Ho,shannen@open.gov.sg,Marketing Team,Senior Manager (Marketing),"October 25, 2021",,,,* Marketing,* Build for Good 2023,"* Led OGP’s inaugural Build for Good, with almost 700 members of the public volunteering to make Singapore better
+42,TRUE,Clifford,All Good,,BATCH 1,Russell,Shannen Ho,shannen@open.gov.sg,Marketing Team,Senior Manager (Marketing),"October 25, 2021",,,,* Marketing Team,* Build for Good 2023,"* Led OGP’s inaugural Build for Good, with almost 700 members of the public volunteering to make Singapore better
 * Led product marketing launches for products such as ScamShield, For.sg, OGP healthcare product suite
 * Built presence and reputation of OGP in the local tech community through outreach events and collaborations, leading to OGP exceeding our hiring goals"
 43,TRUE,Clifford,All Good,,BATCH 1,Russell,Jing Yi Lai,jingyi@open.gov.sg,Product Design,Senior Product Designer,"November 1, 2021",,,https://docs.google.com/document/d/1ovFRlaIrxlomC_o4tlBIvVwmn1oPJp5VwWUE3B8vFIQ/edit,* Pixie,"* Vault
@@ -541,7 +541,7 @@ should change to:
 81,FALSE,Ian,Need Edits,"sentence structure change to ""i am currently part of the policy & transformation team""",,Joanna,Praveen Raj Kumar,praveen@open.gov.sg,Policy & Transformation,Head of Policy & Transformation,"July 18, 2022","knowing that every day we change government one happy interaction, one line of code, one $ saved at a time",,,,* Healthtech,"* Worked with Care360 team to launch in March 2023
 * Worked with Primary Care team to launch Health Appointment System
 * Expanded the use of HealthTech products with stakeholders and users (e.g. Queue with SAF and MediPay/IRMS with MOH)"
-82,TRUE,Chien Ling,Need Edits,"Corp function, sentence needs rephrasing",BATCH 1,Russell,Yi Han Liao,yihan@open.gov.sg,Marketing Team,Manager (Marketing),"July 18, 2022",,,,* Marketing,* Social media marketing,"* Led the social media domain by defining the social media strategy guide, shaping the internal social media workflow, growing and engaging with the channel audience, starting the OGP Tiktok channel, and optimizing paid ads. This resulted in a 72% increase in overall follower count, a 49% increase in growth rate, a 190% increase in inbound messages, a 43% increase in engagements, and 55% of Recruitee applications from social media channels
+82,TRUE,Chien Ling,Need Edits,"Corp function, sentence needs rephrasing",BATCH 1,Russell,Yi Han Liao,yihan@open.gov.sg,Marketing Team,Manager (Marketing),"July 18, 2022",,,,* Marketing Team,* Social media marketing,"* Led the social media domain by defining the social media strategy guide, shaping the internal social media workflow, growing and engaging with the channel audience, starting the OGP Tiktok channel, and optimizing paid ads. This resulted in a 72% increase in overall follower count, a 49% increase in growth rate, a 190% increase in inbound messages, a 43% increase in engagements, and 55% of Recruitee applications from social media channels
 
 * Supported major OGP projects such as Tech for Public Good hiring and Hack for Public Good by creating hiring content, running highly customized targeted ads, and promoting demo day livestream to the general public. Social media contributed to 56% of the tech hiring microsite traffic and 40% of the interest form submissions. Social media also contributed to 51% of the demo day interest form traffic, while 20% of the sign-ups were from the general public
 
@@ -667,7 +667,7 @@ Breadcrumbs navigation
 122,TRUE,Tim,All Good,,,Joanna,Qimmy Lim,qimmy@open.gov.sg,Product Design,Product Designer,"April 3, 2023",,,https://docs.google.com/document/d/1x8O3ASR-3-CZM_hog6ny3ZBPZOYwXCz6L3ngVIIM9-U/edit,* SkillsFuture,,"i'm new, watch this space!"
 123,TRUE,Tim,Need Edits,English sounds funny,,Russell,Aiko Klostermann,aiko@open.gov.sg,Software Engineering,Lead Software Engineer,"April 24, 2023",,,-,* NLB Seed Team,,"i'm new, watch this space!"
 124,TRUE,Tim,All Good,,,Russell,Hui Ling Shi,huiling@open.gov.sg,Software Engineering,Software Engineer,"April 24, 2023",,,,* Care360,,"i'm new, watch this space!"
-125,TRUE,Tim,Need Edits,"amended title, current and history",,Russell,Marcus Lim,sengpoh@open.gov.sg,Marketing Team,Executive (Marketing),"May 2, 2023",,,,* Marketing,* Social media marketing,"i'm new, watch this space!"
+125,TRUE,Tim,Need Edits,"amended title, current and history",,Russell,Marcus Lim,sengpoh@open.gov.sg,Marketing Team,Executive (Marketing),"May 2, 2023",,,,* Marketing Team,* Social media marketing,"i'm new, watch this space!"
 126,TRUE,Tim,All Good,,,Clifford,Adan Vielma,adan@open.gov.sg,Product Management,Lead Product Manager,"May 2, 2023",,,https://docs.google.com/document/d/11523l6EqwoGb7OfJxYao8lYZcMZSsn0yBLCr9kAX6_c/edit#heading=h.q9g0durbss53,* Care360,,"i'm new, watch this space!"
 127,TRUE,Tim,All Good,,,Chien Ling,Zeke Soh,zeke@open.gov.sg,Software Engineering,Software Engineer,"May 8, 2023",,,"i'm new, watch this space!",* PaySG,,"i'm new, watch this space!"
 128,TRUE,Tim,Need Edits,Product list is broken,,Clifford,Tiffany Chan,tiffany@open.gov.sg,Product Design,Product Designer,"May 15, 2023",,,No working doc,* HAS,,"i'm new, watch this space!"
@@ -677,7 +677,7 @@ Breadcrumbs navigation
 * Led the pilot implementation of a new Applicant Tracking System for select agencies
 * Built Org health dashboards to visually showcase pulse survey results"
 130,TRUE,Tim,All Good,,,Joanna,May Ying Tee,mayying@open.gov.sg,Software Engineering,Senior Software Engineer,"May 29, 2023",,,https://docs.google.com/document/d/1BvoUahzGsux6wDXg0XV_JBqblURBJF7ZktdBqyxtXVU/edit,* ScamShield,* FormSG,"i'm new, watch this space!"
-131,TRUE,Tim,All Good,,,Russell,Lorraine Choo,lorraine@open.gov.sg,Corporate Operations,Executive (Corporate Operations),"June 5, 2023",,,,* Workplace,,"i'm new, watch this space!"
+131,TRUE,Tim,All Good,,,Russell,Lorraine Choo,lorraine@open.gov.sg,Corporate Operations,Executive (Corporate Operations),"June 5, 2023",,,,* Workplace Team,,"i'm new, watch this space!"
 132,TRUE,Tim,All Good,,,Clifford,Jiayee Lim ,jiayee@open.gov.sg,Software Engineering,Software Engineer,"June 5, 2023",,,https://docs.google.com/document/d/1OTdc0h_AZlhDBAsRcbzLw03m6yJBVD8DzK_dFSK6DT0/edit#heading=h.q9g0durbss53,* Secure Government Comms,,"i'm new, watch this space!"
 133,TRUE,Jo,All Good,,,Russell,Wee Loong Kuan,weeloong@open.gov.sg,Software Engineering,Senior Software Engineer,"June 5, 2023",,,,* Plumber,,"i'm new, watch this space!"
 134,TRUE,Jo,All Good,,,Chien Ling,Wei Lun Tan,Weilun@open.gov.sg,Software Engineering,Software Engineer,"June 5, 2023",,,"i'm new, watch this space!",* ParkingSG,,"i'm new, watch this space!"
@@ -694,7 +694,7 @@ Breadcrumbs navigation
 142,TRUE,Sarah,All Good,,,Joanna,Nicolas Spano,nicolas@open.gov.sg,Software Engineering,Senior Engineering Manager,"June 26, 2023","Building high-quality systems to empower medical professionals and facilitate accessible healthcare, I get to unite passion and purpose everyday.",,"i'm new, watch this space!","* Primary Care
 * Care360",,"i'm new, watch this space!"
 143,TRUE,Sarah,All Good,,,Clifford,Amitha Fernando,amitha@open.gov.sg,Corporate Operations,Manager (Finance Operations),"July 17, 2023",,,"i'm new, watch this space!","
-* Finance Operations",,"i'm new, watch this space!"
+* Finance Operations Team",,"i'm new, watch this space!"
 144,TRUE,Sarah,All Good,Need join date and current product,,Joanna,Se Hyun Park,sehyun@open.gov.sg,Product Design,Product Designer,"July 17, 2023",,,"i'm new, watch this space!",* Isomer,,"i'm new, watch this space!"
 145,TRUE,Sarah,All Good,Need join date and current product,,Clifford,Wen Jia Dong,wenjia@open.gov.sg,Product Design,Product Designer,"July 17, 2023",,,"i'm new, watch this space!",* Armoury,,"i'm new, watch this space!"
 146,TRUE,Sarah,All Good,,,Russell,Foong Yi Zhuan,foong@open.gov.sg,Product Management,Senior Product Manager,"July 17, 2023",,,,* Vault,,"i'm new, watch this space!"
@@ -711,7 +711,7 @@ Breadcrumbs navigation
 * Implemented confirmation modals for appointment creation and rescheduling in HAS"
 156,TRUE,Sarah,All Good,,,Joanna,Darren Ng,darren@open.gov.sg,Product Design,Lead UX Researcher,"July 24, 2023",,,"i'm new, watch this space!",* UX Research,,"i'm new, watch this space!"
 157,TRUE,Sarah,All Good,,,Chien Ling,Fiona Pay,fiona@open.gov.sg,Product Design,Senior UX Researcher,"July 24, 2023",,,"i'm new, watch this space!",* UX Research,,"i'm new, watch this space!"
-158,TRUE,Sarah,Need Edits,Need to wait for Corp team global edit,,Russell,Nicole Loh,nicole@open.gov.sg,Marketing Team,Senior Manager (Marketing),"August 1, 2023",,,,* Marketing,,"i'm new, watch this space!"
+158,TRUE,Sarah,Need Edits,Need to wait for Corp team global edit,,Russell,Nicole Loh,nicole@open.gov.sg,Marketing Team,Senior Manager (Marketing),"August 1, 2023",,,,* Marketing Team,,"i'm new, watch this space!"
 159,TRUE,Jo,All Good,,,Clifford,Sufyan Bin Selamet,sufyan@open.gov.sg,Product Design,Senior Product Designer,"August 7, 2023",,,"i'm new, watch this space!",* SGID,,"i'm new, watch this space!"
 160,TRUE,Jo,All Good,"too new, no photo",,Chien Ling,Mike Chen,,Product Design,Product Design Manager,"August 21, 2023",,,"i'm new, watch this space!",* Product Design Manager,,"i'm new, watch this space!"
 161,TRUE,Jo,Need Edits,start date to be amended (new hire),,Clifford,Pras,,Product Design,,"August 21, 2023",,,https://docs.google.com/document/d/1kithu12Nb6_ErJcaHDqNRpOYDWkfUmbog3fqaEAtZMQ/edit,,"* FormSG
