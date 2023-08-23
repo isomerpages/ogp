@@ -1,13 +1,13 @@
 ---
 title: Feliciana Natali
 permalink: /people/feliciana
-description: "Feliciana Natali - Product Desginer"
+description: "Feliciana Natali - Product Designer"
 third_nav_title: Product Design
 staffId: feliciana
 name: Feliciana Natali
 joinDate: July 4, 2022
 functionId: design
-jobTitle: Product Desginer
+jobTitle: Product Designer
 curProducts:
   - PaySG
 pastProducts:

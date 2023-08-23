@@ -1,24 +1,5 @@
 S/N,Done?,Batch for sending,Done By,Name,ID (w/o dots),Function,Job Title,Join Date,Personal Motivator [Optional],Linkedin,Working Doc link,Current Product,Product History,Key Accomplishments (3)
-15,TRUE,BATCH 1,Chien Ling,Pearly Ong,pearly@open.gov.sg,Product Design,Senior Product Desginer,"October 21, 2019",,,https://docs.google.com/document/d/1Ak1uw8O5JuL3HxC1Py2ShsysmU_NbI8ZaG5YKCImEVo/edit,* IRMS,"* Trashy
-* ParkingSG
-* Forms
-* sgID
-* Okay/ Not
-* Medicard
-* CCRM
-* Go
-* HealthHub
-* Homer
-* Lookback
-* Queue
-* Sanbaiqian
-* Handsy
-* Redeem
-* Scamshield
-* CalSG
-* IRMS
-* Build Your Own Singaporean
-* OGP Design System","* Researched and solutioned for a multii-brand design system that all OGP products can use
+15,TRUE,BATCH 1,Chien Ling,Pearly Ong,pearly@open.gov.sg,Product Design,Senior Product Designer,"October 21, 2019",,,https://docs.google.com/document/d/1Ak1uw8O5JuL3HxC1Py2ShsysmU_NbI8ZaG5YKCImEVo/edit,* IRMS,,"* Researched and solutioned for a multi-brand design system that all OGP products can use
 * Redesigned the UI of Forms, reviewed PRs and did QAs a designer as well
 * Worked on and went through the interview process to hire our first ever Product Design Manager!"
 28,TRUE,BATCH 1,Chien Ling,Jason Chong,jason@open.gov.sg,Software Engineering,Senior Software Engineer,"July 5, 2021",,,https://docs.google.com/document/d/1yQNUv51JKHntG6h1Gm6jKLVU6ON1m8n9ioGLSCa7vpE/edit,* PaySG,"* RedeemSG
@@ -50,7 +31,7 @@ S/N,Done?,Batch for sending,Done By,Name,ID (w/o dots),Function,Job Title,Join D
 * MAS Orchid","* Started several products in OGP including; RedeemSG, PaySG & DistributeSG
 * Part of launch team for CDC Vouchers & scaled the pipeline of campaigns to ~$800M
 * Inaugural product team for ParkingSG; Developed ParkingSG Product roadmap"
-77,TRUE,BATCH 1,Clifford,Feliciana Natali,feliciana@open.gov.sg,Product Design,Product Desginer,"July 4, 2022",,,* Can't find working doc,* PaySG,"* Healthtech 
+77,TRUE,BATCH 1,Clifford,Feliciana Natali,feliciana@open.gov.sg,Product Design,Product Designer,"July 4, 2022",,,* Can't find working doc,* PaySG,"* Healthtech 
 * Redeem
 * Parking.sg 
 * PaySG
@@ -62,7 +43,7 @@ S/N,Done?,Batch for sending,Done By,Name,ID (w/o dots),Function,Job Title,Join D
 91,TRUE,BATCH 1,Clifford,Jasmine Ang,jasmine@open.gov.sg,Software Engineering,Software Engineer,"October 25, 2022",,,https://docs.google.com/document/d/1xiFd7tPmDphK92XPMz8Acy09pLM50e2jXEfg8nV3OR0/edit#heading=h.q9g0durbss53,* Care360,,"* Contributed to the development of several significant features for Care360 i.e User Management
 * Increased Care360's branding efforts; responsible for reworking the frontend for all key user flows
 * Part of team that built the critical Overlapping Financial Applications feature "
-94,TRUE,BATCH 1,Clifford,Pranu Sarna,,Product Design,Senior Product Designer,"November 21, 2022",,,https://docs.google.com/document/d/1W9Fz6Oxr9tGqNf0j17plnTitpGPQ7q3jzrtIQ1HRYus/edit,* Go.gov.sg,,"* Led effort to creat Pouch: a fully secure file sharing platform which enables govt. and non-govt. agencies to collaborate efficiently. 
+94,TRUE,BATCH 1,Clifford,Pranu Sarna,,Product Design,Senior Product Designer,"November 21, 2022",,,https://docs.google.com/document/d/1W9Fz6Oxr9tGqNf0j17plnTitpGPQ7q3jzrtIQ1HRYus/edit,* Go.gov.sg,,"* Led effort to create Pouch: a fully secure file sharing platform which enables govt. and non-govt. agencies to collaborate efficiently. 
 * Designed the first version of WizGov: a widget which adds multiple functionalities such as booking appointments to query resolution to an agency website.
 * Helped the team with multiple ad hoc design requests for Go, a link shortener for the govt."
 96,TRUE,BATCH 1,Clifford,Keith Chew,keith@open.gov.sg,Software Engineering,Software Engineer,"November 28, 2022",,,https://docs.google.com/document/d/1TwKSkf49YP3vAUucqSi3ika_PSxBtwsYjPQx12kv2QU/edit,* Go.gov.sg,,"* Technical contributions to Pouch; Created file & folder creation components, dashboard & user storage consumption component
