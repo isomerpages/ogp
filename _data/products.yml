@@ -32,9 +32,9 @@
     - Data.gov
     - Data Gov
   category: productivity
-  image: https://file.go.gov.sg/engagesg-logo.png
-  sum: Streamline event attendance at government events.
-  link: https://products.open.gov.sg/engagesg
+  image: https://file.go.gov.sg/datagovsg-logo.png
+  sum: Open repository for Singapore’s public data
+  link: https://products.open.gov.sg/datagovsg
 
 - id: eventsg
   title: EventSG
