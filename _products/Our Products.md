@@ -1,6 +1,6 @@
 ---
 title: Our Products
-permalink: /products
+permalink: /products/
 description: ""
 ---
 
