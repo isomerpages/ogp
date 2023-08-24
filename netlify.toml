@@ -10,7 +10,6 @@
   pretty_urls = true
 [build.processing.images]
   compress = true
-
 [[headers]]
   # Changes to this section should be copied to overrides/customHttp.yml in the amplify branch. 
   for = "/*"
