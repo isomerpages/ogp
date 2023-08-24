@@ -10,8 +10,7 @@ functionId: ops
 jobTitle: Product Operations Specialist
 curProducts:
   - Care360
-pastProducts:
-  - Care360
+pastProducts: []
 accomplishments:
   - Co-led >10 training sessions for Care360 for ~500 Medical Social Workers
   - Consolidated knowledge management for meetings and engineering
