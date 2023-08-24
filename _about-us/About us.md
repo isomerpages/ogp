@@ -1,6 +1,6 @@
 ---
 title: About us
-permalink: /aboutus/
+permalink: /about-us/
 description: ""
 ---
 ![about us](/images/aboutus.jpg)
