@@ -11,14 +11,6 @@
 [build.processing.images]
   compress = true
 
-[[redirects]]
-  from: "/about-us/team"
-  to: "/about-us/"
-
-[[redirects]]
-  from: "/products/overview"
-  to: "/products/"
-
 [[headers]]
   # Changes to this section should be copied to overrides/customHttp.yml in the amplify branch. 
   for = "/*"
