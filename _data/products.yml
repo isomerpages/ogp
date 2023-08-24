@@ -163,7 +163,7 @@
   alias:
     - PaySG
   category: payments
-  image: https://pay.gov.sg/favicon.ico
+  image: https://file.go.gov.sg/paysg-logo.png
   sum: Digitise payments for government agencies
   link: https://products.open.gov.sg/paysg
 
@@ -182,7 +182,7 @@
   alias:
     - DistributeSG
   category: payments
-  image: https://info.distribute.gov.sg/favicon.ico
+  image: https://file.go.gov.sg/distributesg-logo.png
   sum: Create and scale distribution campaigns to multiple locations quickly. Onboard staff easily to support your campaign with DistributeSG.
   link: https://products.open.gov.sg/distributesg
 
