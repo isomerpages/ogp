@@ -4,6 +4,7 @@ collections:
     order:
       - AskGov.md
       - CalSG.md
+      - Care360.md
       - checkfirst.md
       - data-gov-sg.md
       - form.md

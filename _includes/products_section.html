@@ -1,0 +1,9 @@
+<h5 class="product-category">{{include.sectionTitle}}</h5>
+<div class="products">
+    {% for product in include.products %}
+    <a class="product" href="{{ product.link }}">
+        <img src="{{ product.image }}" class="product-icon" alt="{{ product.title }}" title="{{ product.title }}"/>
+        <span class="product-title">{{ product.title }}</span>
+    </a>
+    {% endfor %}
+</div>
