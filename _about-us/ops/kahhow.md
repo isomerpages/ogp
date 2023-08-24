@@ -11,7 +11,6 @@ jobTitle: Product Operations Specialist
 curProducts:
   - Care360
 pastProducts:
-  - AskGov
   - Care360
 accomplishments:
   - Co-led >10 training sessions for Care360 for ~500 Medical Social Workers
