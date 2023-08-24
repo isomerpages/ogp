@@ -3,7 +3,7 @@ title: About us
 permalink: /aboutus/
 description: ""
 ---
-![about us](/images/aboutus.png)
+![about us](/images/aboutus.jpg)
 ## A modern tech team working on public sector problems  
 
   

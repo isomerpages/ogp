@@ -1,74 +1,87 @@
-<!-- Template adopted from https://github.com/isomerpages/astar-nrp/blob/staging/_includes/careers.html -->
+<!-- Template adopted from https://github.com/isomerpages/astar-nrp/blob/staging/_includes/products.html -->
 
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
 
-    .careers {
-        display: grid;
-        justify-content: space-around;
-        grid-gap: 20px;
-        grid-template-columns: 35% 35% 35%;
+    h5.product-category {
+      color: #323232;
+      font-weight: 600;
+      margin-bottom: 1.25rem;
     }
 
-    .career {
-        position: relative;
-        display: flex;
-        flex-direction: column;
-        border-radius: 8px;
-        padding: 23px;
-        /* border: 1.5px solid #474849; */
-        box-shadow: 0 0 4px rgba(33,33,33,.2);
-        cursor: pointer;
+    .products {
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
     }
 
-    .career:hover {
-        box-shadow: 0 0 11px rgba(33,33,33,.2);
+    a.product {
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+      width: 190px;
+      border-radius: 4px;
+      padding: 16px 24px;
+      border: 1px solid #E8E9F0;
+      margin-bottom: 0;
+      text-decoration: none;
     }
 
-    .career-title {
-        margin-top: 20px;
-        font-family: "Montserrat", sans-serif;
-        font-size: 26px;
-        color: #276ef1 !important;
+    a.product:hover {
+      border: 1px solid #005DEA;
+      text-decoration: none;
     }
 
-    .career-sum {
-        font-family: "Lato", sans-serif;
-        font-size: 17px;
-        margin: 10px 0 !important;
-        flex-grow: 2;
-        line-height: 24px !important;
-        /* color: #276ef1 !important; */
+    a.product:active {
+      background: rgba(19, 97, 240, 0.12);
     }
 
-    .link-tag {
-        position: absolute;
-        top: 0;
-        bottom: 0;
-        left: 0;
-        right: 0;
-        margin-bottom: 0 !important;
+    img.product-icon {
+      height: auto;
+      width: auto;
+      max-height: 24px;
+      max-width: 24px;
+      margin-top: 0;
+      margin-bottom: 0;
+      margin-left: 0;
+      margin-right: 16px;
     }
 
+    .product-title {
+      font-family: "Lato", sans-serif;
+      font-size: 16px;
+      color: black;
+    }
 
     @media only screen and (max-width: 600px) {
-        .careers {
-            grid-template-columns: 100%;
-        }
+      a.product {
+        width: 160px;
+        padding: 16px 16px;
+      }
     }
 
+    @media only screen and (max-width: 400px) {
+      a.product {
+        width: 150px;
+        padding: 16px 12px;
+      }
+
+      img.product-icon {
+        height: 24px;
+        width: 24px;
+      }
+    }
 </style>
-<div class="careers">
 
-    {% for career in include.careers %}
-    <div class="career">
-        {% if career.link %}
-            <a href="{{ career.link }}" class="link-tag"></a>
-        {% endif %}
-        <img src="{{ career.image }}" class="border-radius: 8px;" alt="{{ career.title }}" title="{{ career.title }}"/>
-        <span class="career-title">{{ career.title }}</span>
-        <span class="career-sum">{{ career.sum }}</span>
-    </div>
-    {% endfor %}
+{%- assign products = include.products | where: "category", "productivity" -%}
+{% include products_section.html products=products sectionTitle="Productivity Tools for Public Officers" %}
 
-</div>
+{%- assign products = include.products | where: "category", "anti-scam" -%}
+{% include products_section.html products=products sectionTitle="Anti-Scam" %}
+
+{%- assign products = include.products | where: "category", "payments" -%}
+{% include products_section.html products=products sectionTitle="Payments" %}
+
+{%- assign products = include.products | where: "category", "healthcare" -%}
+{% include products_section.html products=products sectionTitle="Healthcare" %}

@@ -1,0 +1,133 @@
+<!-- Template adopted from https://github.com/isomerpages/astar-nrp/blob/staging/_includes/careers.html -->
+
+<style>
+    @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+
+    .people {
+        display: grid;
+        justify-content: space-around;
+        grid-gap: 24px;
+        grid-template-columns: repeat(auto-fill,minmax(190px, 1fr));
+    }
+
+    a.staff {
+        display: block;
+        position: relative;
+        margin-bottom: 0;
+        padding: 0px;
+        font-size: 16px;
+        cursor: pointer;
+        text-decoration: none;
+    }
+
+    a.staff:hover {
+        text-decoration: none;
+    }
+
+    a.staff:hover .staff-info {
+        color: white;
+        background-color:{{include.color}};
+    }
+
+    a.staff:hover .staff-pic {
+        opacity: 0.8;
+    }
+
+    a.staff:hover .staff-pic-border {
+        display: block;
+    }
+
+    .staff-pic, .staff-pic-border {
+        width: 190px;
+        height: 162px;
+        border-radius: 6px 6px 0 0;
+    }
+
+    .staff-pic {
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    .staff-pic-border {
+        top: 0;
+        left: 0;
+        position: absolute;
+        display: none;
+        border: solid 2px {{include.color}};
+        border-width: 2px 2px 0 2px;
+    }
+
+    .staff-info {
+        width: 190px;
+        min-height: 105px;
+        border-radius: 0 0 6px 6px;
+        padding: 16px;
+        text-align: left;
+        color: black;
+        line-height: 1.5;
+        background-color:#E9EAEE;
+        font-weight: 400;
+    }
+
+    .staff-name {
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        overflow-x: hidden;
+        font-weight: 600;
+    }
+
+    @media only screen and (max-width: 600px) {
+        .people {
+            grid-template-columns: 100%;
+        }
+
+        a.staff {
+            display: flex;
+            gap: 0;
+            width: 100%;
+        }
+
+        .staff-pic, .staff-pic-border {
+            width: 120px;
+            height: 120px;
+            border-radius: 6px 0 0 6px;
+        }
+
+        .staff-pic {
+            flex-shrink: 0;
+        }
+
+        .staff-pic-border {
+            border-width: 2px 0 2px 2px;
+        }
+
+        .staff-info {
+            width: unset;
+            min-height: unset;
+            display: flex;
+            flex-grow: 1;
+            align-items: center;
+            border-radius: 0 6px 6px 0;
+            padding-left: 24px;
+            padding-right: 18px;
+            overflow-x: hidden;
+        }
+    }
+</style>
+<div class="people">
+    {% assign sorted = include.people | sort: 'name' %}
+    {% for staff in sorted %}
+    <a class="staff" href="/people/{{ staff.staffId }}">
+        <div class="staff-pic" style="background-image:url(/images/headshots/{{ staff.staffId }}.jpg)"></div>
+        <div class="staff-pic-border"></div>
+        <div class="staff-info">
+            <div>
+                <div class="staff-name">{{ staff.name }}</div>
+                <div class="staff-title">{{ staff.jobTitle }}</div>
+            </div>
+        </div>
+    </a>
+    {% endfor %}
+</div>
+
+
