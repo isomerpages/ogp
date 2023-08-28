@@ -25,18 +25,6 @@
   sum: Calculator and eligibility builder for the government
   link: https://products.open.gov.sg/checkfirst
 
-- id: datagovsg
-  title: Data.gov.sg
-  alias:
-    - Data.gov.sg
-    - data.gov.sg
-    - Data.gov
-    - Data Gov
-  category: productivity
-  image: https://file.go.gov.sg/datagovsg-logo.png
-  sum: Open repository for Singapore’s public data
-  link: https://products.open.gov.sg/datagovsg
-
 - id: eventsg
   title: EventSG
   alias:
@@ -136,12 +124,24 @@
   sum: Block unsolicited messages and calls
   link: https://products.open.gov.sg/scamshield
 
+- id: datagovsg
+  title: Data.gov.sg
+  alias:
+    - Data.gov.sg
+    - data.gov.sg
+    - Data.gov
+    - Data Gov
+  category: gov-digital-infrastructure
+  image: https://file.go.gov.sg/datagovsg-logo.png
+  sum: Open repository for Singapore’s public data
+  link: https://products.open.gov.sg/datagovsg
+
 - id: sgid
   title: sgID
   alias:
     - sgID
     - SGID
-  category: anti-scam
+  category: gov-digital-infrastructure
   image: https://file.go.gov.sg/sgid-key.png
   sum: Privacy-based authentication system
   link: https://products.open.gov.sg/sgid

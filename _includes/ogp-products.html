@@ -77,6 +77,9 @@
 {%- assign products = include.products | where: "category", "productivity" -%}
 {% include products_section.html products=products sectionTitle="Productivity Tools for Public Officers" %}
 
+{%- assign products = include.products | where: "category", "gov-digital-infrastructure" -%}
+{% include products_section.html products=products sectionTitle="Government Digital Infrastructure" %}
+
 {%- assign products = include.products | where: "category", "anti-scam" -%}
 {% include products_section.html products=products sectionTitle="Anti-Scam" %}
 
