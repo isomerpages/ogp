@@ -21,7 +21,7 @@ accomplishments:
   - Overhauled OGP's employment letter templates for greater operational
     efficiency and clarity
 quote: ""
-linkedinId: ""
+linkedinId: joanna-lo-
 
 ---
 
