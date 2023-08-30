@@ -13,11 +13,12 @@ curProducts:
 pastProducts:
   - RedeemSG
   - Primary Care
+  - Go.gov.sg
 accomplishments:
-  - Decided on the infra and tech stack of PaySG as tech lead
+  - Developed latest iteration of PaySG from scratch as tech lead
   - Proposed and implemented Datadog for RedeemSG, leading to org-wide
     implementation
-  - Established front-end coding standards for RedeemSG
+  - Mentorship and leadership roles in guiding junior FinScam-tech team members
 quote: ""
 linkedinId: ""
 
