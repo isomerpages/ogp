@@ -27,7 +27,7 @@ accomplishments:
     user pain point of getting written or verbal consent from the patient and/or
     family members
 quote: ""
-linkedinId: "https://www.linkedin.com/in/lennard-lim-2b339920/"
+linkedinId: lennard-lim-2b339920
 
 ---
 
