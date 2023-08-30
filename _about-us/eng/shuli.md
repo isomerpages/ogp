@@ -14,10 +14,10 @@ curProducts:
 pastProducts:
   - GovLogin
 accomplishments:
-  - I worked on FormSG and Signify
+  - Worked on various features for FormSG, including Waiting Room (used for NDP and other events), Singpass/Corppass integrations, virus scanner, form prefills.
+  - Part of founding team which built and launched the Signify product, which leverages Sign with Singpass to allow agencies to collect Secure Electronic Signatures for government documents.
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}
