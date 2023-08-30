@@ -10,21 +10,11 @@ functionId: eng
 jobTitle: Software Engineer
 curProducts:
   - FormSG
-pastProducts:
-  - CheckFirst
-  - Temperature
   - Signify
+pastProducts:
+  - GovLogin
 accomplishments:
-  - Independently made a number of FormSG infrastructure improvements to
-    increase reliability and performance. These include building an end-to-end
-    production-ready backup for Cloudflare DNS + CDN using AWS Route53 and
-    Cloudfront, designing and setting up infrastructure to host and serve static
-    assets for React app, and setting up bastion host infrastructure
-  - Led the integration of FormSG with SingPass/CorpPass/MyInfo, including
-    completing the migration of CorpPass to OIDC and decommissioning
-    SingPass/CorpPass SAML support with no downtime
-  - Built up engineering features for Signify from scratch, including
-    integration with the Sign with SingPass API
+  - I worked on FormSG and Signify
 quote: ""
 linkedinId: ""
 
