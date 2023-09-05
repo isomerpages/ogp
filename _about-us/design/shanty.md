@@ -9,22 +9,21 @@ joinDate: January 4, 2022
 functionId: design
 jobTitle: Senior UX Writer
 curProducts:
-  - UX Writing
+  - various things, including HealthTech, AskGov, and improving how we communicate as a government.
 pastProducts:
   - ScamShield
   - FormSG
   - Isomer
-  - Redeem
-  - AskGov
+  - Care360
+  - Postman
+  - GoGovSG
+  - RedeemSG
   - CheckWho
-  - Healthtech
+  - Sync
 accomplishments:
-  - Equipped teammates with more practical, effective tools to write their own
-    UX copy by running office hours, workshops, and UX writing jam sessions with
-    other designers
-  - Launched multiple features with high quality, reusable UX copy such as for
-    HAS Pneumococcal vaccine campaigns and copy components for Care360
-  - Invested in my learning and growth to becoming a better writer
+  - Delivered clear, simple UX copy across a number of products, helping citizens get things done with ease, trust, and confidence.
+  - Improved OGP's UX writing capabilities by helping teammates upskill through workshops and pair-writing sessions.
+  - Helped write and launch the UX Writer career schema to lay a strong foundation on which to grow the function.
 quote: ""
 linkedinId: ""
 
