@@ -10,11 +10,15 @@ functionId: eng
 jobTitle: Lead Software Engineer
 curProducts:
   - NLB Seed Team
-pastProducts: []
+  - ExploreSG
+  - OurStory
+pastProducts:
+  - LetterSG
+  - WizGov
 accomplishments:
-  - i'm new, watch this space!
+  - In the first 4 months after joining OGP I've shipped 4 products (2 MPVs, 1 internal)
 quote: ""
-linkedinId: ""
+linkedinId: aikoklostermann
 
 ---
 
