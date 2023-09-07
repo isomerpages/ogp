@@ -1,10 +1,10 @@
 ---
-title: Shazli Bin Shahril Shintaro
+title: Shazli Shahril
 permalink: /people/shazli
-description: "Shazli Bin Shahril Shintaro - Product Operations Specialist"
+description: "Shazli Shahril - Product Operations Specialist"
 third_nav_title: Product Operations
 staffId: shazli
-name: Shazli Bin Shahril Shintaro
+name: Shazli Shahril
 joinDate: May 30, 2022
 functionId: ops
 jobTitle: Product Operations Specialist
@@ -14,13 +14,9 @@ pastProducts:
   - Marketing
   - Folk
 accomplishments:
-  - Personalised onboarding onto Isomer according to the context of each agency,
-    and enabled non-tech agency officers to be able to fully own their info
-    sites, without the use of vendor support
-  - Planned out Project Shipposting, which aims to homogenise the Isomer site
-    infrastructure with the roll-out of the full-fledged CMS
-  - Maintained product operations by focusing on corrective support, in order to
-    support a user base  that scaled 4-fold since joining
+  - Co-planned the Public Service Sprint
+  - Planned, communicated and executed Project Shipposting - migrating all Isomer sites to new infrastructure
+  - Co-delivered the Product Marketing Kit - a simple-to-use kit for product teams to get the marketing support they need whenever it’s needed
 quote: ""
 linkedinId: ""
 
