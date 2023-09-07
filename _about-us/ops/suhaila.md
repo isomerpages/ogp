@@ -25,7 +25,7 @@ accomplishments:
   - Established HAS product operations task process workflows including metric
     monitoring via Vault, clinic whitelisting, and user support escalation
     processes
-quote: "A ship in harbour is safe, but that is not what ships are built for." Being continually pushed to explore new depths for work and myself has made me learn so much about what I am capable of."
+quote: "__A ship in harbour is safe, but that is not what ships are built for.__ Being continually pushed to explore new depths for work and myself has made me learn so much about what I am capable of."
 linkedinId: "https://www.linkedin.com/in/sue-roslan/"
 
 ---
