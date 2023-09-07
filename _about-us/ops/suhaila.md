@@ -18,7 +18,7 @@ pastProducts:
   - Parking.sg
 accomplishments:
   - Conducted user training and education for HAS to onboard clinics for HPV and
-    influenza vaccination, leading to >700 clinics onboarded
+    influenza vaccination, leading to  over 700 clinics onboarded
   - Established clearer HAS incident management procedures with AIC and HPB,
     leading to a sharp drop in negative clinic user feedback arising from
     incidents
@@ -26,7 +26,7 @@ accomplishments:
     monitoring via Vault, clinic whitelisting, and user support escalation
     processes
 quote: "A ship in harbour is safe, but that is not what ships are built for." Being continually pushed to explore new depths for work and myself has made me learn so much about what I am capable of."
-linkedinId: https://www.linkedin.com/in/sue-roslan/
+linkedinId: "https://www.linkedin.com/in/sue-roslan/"
 
 ---
 
