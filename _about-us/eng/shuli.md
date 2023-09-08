@@ -13,9 +13,11 @@ curProducts:
   - Signify
 pastProducts:
   - GovLogin
+  - TemperatureSG
 accomplishments:
-  - Worked on various features for FormSG, including Waiting Room (used for NDP and other events), Singpass/Corppass integrations, virus scanner, form prefills.
   - Part of founding team which built and launched the Signify product, which leverages Sign with Singpass to allow agencies to collect Secure Electronic Signatures for government documents. Signify now has more than 100 agencies onboard.
+  - Built the Waiting Room for FormSG, which handled >400k submissions for NDP.
+  - Worked on various features for FormSG, including Singpass/Corppass integrations, virus scanner, form prefills.
 quote: ""
 linkedinId: ""
 ---
