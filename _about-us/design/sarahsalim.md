@@ -5,7 +5,7 @@ description: "Sarah Salim - Lead Product Designer"
 third_nav_title: Product Design
 staffId: sarahsalim
 name: Sarah Salim
-joinDate: May 4, 2022
+joinDate: January 25, 2016
 functionId: design
 jobTitle: Lead Product Designer
 curProducts:
