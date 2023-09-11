@@ -13,14 +13,11 @@ curProducts:
 pastProducts:
   - HAS
 accomplishments:
-  - Performed intra- and inter-timeslot validation on change in the schedule
-    management form
-  - Improved HAS user experience by setting additional timeslots to continue
-    from the end of the previous selection
-  - Implemented confirmation modals for appointment creation and rescheduling in
-    HAS
+  - Implemented scheduling and appointment timeslot generation systems for HAS
+  - Introduced backend-wide error handling and logging systems for HAS, subsequently adopted by ts-template
+  - Integrated containerized databases into unit testing workflow for HAS
 quote: ""
-linkedinId: ""
+linkedinId: "https://www.linkedin.com/in/dextertanyj/"
 
 ---
 
