@@ -9,18 +9,19 @@ joinDate: August 2, 2021
 functionId: pm
 jobTitle: Senior Product Manager
 curProducts:
-  - Primary Care
+  - Health Appointment System
+  - Queue
+  - Referral Exchange 
 pastProducts:
-  - Policy
+  - Tech Policy
   - Covid Operations
-  - Healthtech
-  - FormSG
 accomplishments:
-  - Defined a group product strategy for the OGP Healthtech vertical with a 5-10
-    year roadmap for Singapore healthtech
-  - Grew the impact of HAS from 30 to 2000 appointments per week
+  - Defined a group product strategy for the OGP Healthtech Vertical with a 5-10
+    year roadmap for Singapore's Healthcare space
+  - Expanded the Health Appointment System from 30 to 2,000 medical appointments per week
+  - Mentored a PM to successfully launch a new product, MediPay, in less than 3 months
 quote: ""
-linkedinId: ""
+linkedinId: "kennethsng"
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.pm %}
