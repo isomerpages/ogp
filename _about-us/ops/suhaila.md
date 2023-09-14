@@ -11,23 +11,22 @@ jobTitle: Senior Product Operations Specialist
 curProducts:
   - Primary Care
 pastProducts:
-  - Healthcare
-  - Parking.sg
   - Covid Ops
   - Healthtech
-  - PaySG
   - Queue
+  - PaySG
+  - Parking.sg
 accomplishments:
   - Conducted user training and education for HAS to onboard clinics for HPV and
-    influenza vaccination, leading to >700 clinics onboarded
-  - Established clearer HAS incident management proceures with AIC and HPB,
+    influenza vaccination, leading to over 700 clinics onboarded
+  - Established clearer HAS incident management procedures with AIC and HPB,
     leading to a sharp drop in negative clinic user feedback arising from
     incidents
   - Established HAS product operations task process workflows including metric
     monitoring via Vault, clinic whitelisting, and user support escalation
     processes
-quote: ""
-linkedinId: ""
+quote: "__A ship in harbour is safe, but that is not what ships are built for.__ Being continually pushed to explore new depths for work and myself has made me learn so much about what I am capable of."
+linkedinId: https://www.linkedin.com/in/sue-roslan/
 
 ---
 

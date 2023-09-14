@@ -9,25 +9,25 @@ joinDate: September 11, 2018
 functionId: pm
 jobTitle: Lead Product Manager
 curProducts:
-  - IRMS
+  - IRMS (Integrated Referral Management System)
 pastProducts:
-  - Primary Care
   - Care360
-  - Healthtech
-  - Vault
-  - Queue
+  - Data.gov.sg
   - Endemic Ops
+  - Healthtech
+  - Highway
+  - Isomer
+  - Queue
+  - Vault
   - ScamShield
 accomplishments:
-  - Reworked the HealthTech general vision and scope of products for HealthTech
-    vertical
-  - Shared learning/findings of Care360 with iHIS HealthierSG and at Digital
-    Health Oversight Committee
+  - Launched Care360 to SingHealth and National Healthcare Group
+  - Launched an internal tool for AIC which cuts down the time it takes for them to match client to service provider to <3 minutes
   - Worked with policy teams to push towards a digital patient consent, solving
     user pain point of getting written or verbal consent from the patient and/or
     family members
 quote: ""
-linkedinId: ""
+linkedinId: lennard-lim-2b339920
 
 ---
 

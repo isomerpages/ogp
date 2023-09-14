@@ -9,7 +9,7 @@ joinDate: July 17, 2023
 functionId: eng
 jobTitle: Software Engineer
 curProducts:
-  - ScamTech
+  - DistributeSG
 pastProducts: []
 accomplishments:
   - i'm new, watch this space!
