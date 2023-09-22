@@ -1,26 +1,26 @@
 ---
-title: Steph Siow
+title: Stephanie Siow
 permalink: /people/stephanie
-description: "Steph Siow - Assistant Director"
+description: "Stephanie Siow - Assistant Director"
 third_nav_title: Policy & Transformation
 staffId: stephanie
-name: Steph Siow
-joinDate: April 4, 2022
+name: Stephanie Siow
+joinDate: April 1, 2022
 functionId: transformation
 jobTitle: Assistant Director
 curProducts:
   - Policy & Transformation
 pastProducts:
-  - HealthTech Sprint
+  - AskGov, DistributeSG, Isomer, PaySG, RedeemSG
 accomplishments:
-  - Propagated and supported other govt agencies to adapt OGP policies and
-    practices so they become more high performing
-  - Helped rest of OGP gain exposure to and integrate with the rest of
-    Government e.g. Public Service learning journeys and onboarding
-  - Introduced closer integration of policy, ops and technology via vertically
-    integrated teams e.g. ScamTech team
-quote: ""
-linkedinId: ""
+  - Strategising Government-wide adoption of OGP's products to drive digital 
+    transformation, cost savings, reliability, security and accessibility.
+  - Organising the first ever Public Service Sprint to foster innovation and 
+    collaborative problem-solving within the public sector.
+  - Championing learning initiatives and exposure to boost OGP’s awareness and 
+    understanding of public service and alignment with government stakeholders.
+quote: "Celebrate what's right with the world"
+linkedinId: "stephaniesiow"
 
 ---
 
