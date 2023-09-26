@@ -1,5 +1,7 @@
 title: Open Government Products
-description: We build technology for the public good
+description: Open Government Products builds technology solutions for public
+  good. We aim to accelerate the digital transformation of the Singapore
+  Government.
 url: https://open.gov.sg
 defaults:
   - scope:
@@ -37,7 +39,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 resources_name: Media
-facebook-pixel: "675191440458459"
+facebook-pixel: "335670082138629"
 linkedin-insights: "3782946"
 exclude:
   - scripts
