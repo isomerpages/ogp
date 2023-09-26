@@ -1,5 +1,7 @@
 title: Open Government Products
-description: We build technology for the public good
+description: Open Government Products builds technology solutions for public
+  good. We aim to accelerate the digital transformation of the Singapore
+  Government.
 url: https://open.gov.sg
 defaults:
   - scope:
@@ -27,13 +29,6 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
-  function-colors:
-    corporate: "#1361F0"
-    design: "#2D978C"
-    eng: "#E74F4F"
-    ops: "#5D6785"
-    pm: "#C4992A"
-    transformation: "#272D41"
 google_analytics: UA-189280200-1
 staging: https://ogp-staging.netlify.app
 prod: https://isomer-opengovsg-prod.netlify.app
@@ -44,9 +39,12 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 resources_name: Media
-facebook-pixel: "675191440458459"
+facebook-pixel: "222586750799177"
 linkedin-insights: "3782946"
 exclude:
   - scripts
 include:
   - _redirects
+shareicon: /images/isomer-logo.svg
+is_government: false
+google_analytics_ga4: G-PECHXJ1ZZC
