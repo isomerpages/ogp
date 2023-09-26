@@ -29,6 +29,13 @@ colors:
       color: "#00838f"
     - title: media-color-five
       color: "#00838f"
+  function-colors:
+    corporate: "#1361F0"
+    design: "#2D978C"
+    eng: "#E74F4F"
+    ops: "#5D6785"
+    pm: "#C4992A"
+    transformation: "#272D41"
 google_analytics: UA-189280200-1
 staging: https://ogp-staging.netlify.app
 prod: https://isomer-opengovsg-prod.netlify.app
