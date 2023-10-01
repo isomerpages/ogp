@@ -37,8 +37,6 @@ Aiko Klostermann <a href="https://github.com/AikoPath" style="display: inline-bl
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a> |  Dat Le Thanh <a href="https://github.com/thanhdatle" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
-</a> | Danelynn Ding <a href="https://github.com/ddanelynn" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
-    <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a> | Hena Shah <a href="" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
     <img border="0" alt="Github account" src="/images/Github-Mark-32px.png">
 </a> | Keith Chew <a href="https://github.com/disKeith" style="display: inline-block; width: 24px; height: 24px; margin-bottom: -5px; margin-left: 10px;">
