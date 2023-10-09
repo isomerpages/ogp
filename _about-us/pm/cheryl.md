@@ -1,7 +1,7 @@
 ---
 title: Cheryl Lee
 permalink: /people/cheryl
-description: "Cheryl Lee - Senior Manager"
+description: Cheryl Lee - Senior Manager
 third_nav_title: Product Management
 staffId: cheryl
 name: Cheryl Lee
@@ -13,11 +13,8 @@ curProducts:
 pastProducts:
   - Marketing
 accomplishments:
-  - Worked to get widespread media coverage for Hack for Public Good 2023, with
-    7 media outlets covering the hackathon
-  - Integrated product marketing into the HAS roll-out efforts, leading to
-    widespread media coverage and marketing events to accelerate vaccine
-    appointment booking
+  - such as replacing manual flat inspections with digital evidence. This
+    unified platform consolidates data from various sources into one
 quote: ""
 linkedinId: ""
 ---

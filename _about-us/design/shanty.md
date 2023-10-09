@@ -1,7 +1,7 @@
 ---
 title: Shanty Basrur
 permalink: /people/shanty
-description: "Shanty Basrur - Senior UX Writer"
+description: Shanty Basrur - Senior UX Writer
 third_nav_title: Product Design
 staffId: shanty
 name: Shanty Basrur
@@ -9,7 +9,8 @@ joinDate: January 4, 2022
 functionId: design
 jobTitle: Senior UX Writer
 curProducts:
-  - various things, including HealthTech, AskGov, and improving how we communicate as a government.
+  - various things, including HealthTech, AskGov, and improving how we
+    communicate as a government.
 pastProducts:
   - ScamShield
   - FormSG
@@ -21,12 +22,17 @@ pastProducts:
   - CheckWho
   - Sync
 accomplishments:
-  - Delivered clear, simple UX copy across a number of products, helping citizens get things done with ease, trust, and confidence.
-  - Improved OGP's UX writing capabilities by helping teammates upskill through workshops and pair-writing sessions.
-  - Helped write and launch the UX Writer career schema to lay a strong foundation on which to grow the function.
+  - Delivered UX copy across a number of different products, ensuring usability
+    and reusability, making meaningful contributions to the success of our
+    products
+  - Improved OGP's UX writing capabilities by helping upskill teammates through
+    coaching sessions, and wrote the UX Writer career schema to lay a foundation
+    to grow the function
+  - Helped expand the sphere of influence of UX writing and OGP by running
+    workshops for external teams, representing us at design and community
+    events, and helping get us on stage at Figma Config
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.design %}

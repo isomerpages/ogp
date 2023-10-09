@@ -1,7 +1,7 @@
 ---
 title: Kenneth Chang
 permalink: /people/kennethchang
-description: "Kenneth Chang - Product Operations Specialist"
+description: Kenneth Chang - Product Operations Specialist
 third_nav_title: Product Operations
 staffId: kennethchang
 name: Kenneth Chang
@@ -12,16 +12,17 @@ curProducts:
   - FormSG
 pastProducts: []
 accomplishments:
-  - Supported FormSG product ops and users during FormSG React Migration with
-    48,473 reports over 4 months
-  - Grew FormSG Office Hours from 15 registrations to 678 registrations, as well
-    as Telegram Form-ally and Formsies to 1035 and 140 subscribers respectively
-  - Created and trialled webhook workshop to enable 29 non technical form admins
-    to create their own webhooks, with learnings from this workshop informing
-    FormSG roadmap for webhook simplification
+  - Coordinated with MINDEF to launch their RSAF55 Charity drive collections,
+    resulting in the collection of approximately $165k in donations over 2.5k
+    submissions
+  - Tripled all external engagements for the FormSG community, with Office Hours
+    growing to 2,028 monthly attendees, the Form-ally Telegram channel expanding
+    to 2,987 subscribers, and Formsies Telegram discussions reaching 472
+    subscribers
+  - Invited to present to 400 support officers in the Public Service Learning
+    Week Festival segment on digitalisation for support officers
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.ops %}

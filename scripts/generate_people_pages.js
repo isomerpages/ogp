@@ -5,7 +5,7 @@ import { promisify } from 'util';
 import _ from 'lodash';
 import YAML from 'yaml';
 import { glob } from 'glob'
-
+import { getCleanList, functionNameToFunctionId, functionIdToFunctionName } from './utils.js'
 
 const parseAsync = promisify(parse)
 
@@ -14,29 +14,6 @@ const STAFF_TEMPLATE_MD = './staff.md.template'
 const TARGET_ABOUT_US_COLLECTION_DIR = '../_about-us/'
 const TARGET_ABOUT_US_COLLECTION_YML = '../_about-us/collection.yml'
 const TARGET_STAFF_INSERT_SQL = './staff.sql'
-
-// struct to normalize functions
-const functionNameToFunctionId = {
-    'Software Engineering': 'eng',
-    'Product Management': 'pm',
-    'Corporate Team': 'corporate',
-    'People Team': 'corporate',
-    'Marketing Team': 'corporate',
-    'Corporate Operations': 'corporate',
-    'Product Design': 'design',
-    'Product Operations': 'ops',
-    'Partnerships & Transformation': 'transformation',
-    'Policy & Transformation': 'transformation',
-}
-
-const functionIdToFunctionName = {
-    corporate: 'Corporate Team',
-    eng: 'Software Engineering',
-    pm: 'Product Management',
-    design: 'Product Design',
-    ops: 'Product Operations',
-    transformation: 'Policy & Transformation',
-}
 
 const csvContent = await readFile(`${SOURCE_PEOPLE_CSV}`);
 
@@ -48,13 +25,6 @@ const staffFiles = await glob(`${TARGET_ABOUT_US_COLLECTION_DIR}/*/*.md`)
 
 await Promise.all(staffFiles.filter(file => !/all.md$/.test(file)).map(file => unlink(file)))
 
-
-function getCleanList(items) {
-    return (items || '')
-        .split(/[\r\n]+/)
-        .map(item => item.trim().replace(/^[*•-]\s*/, '')) // remove bullet points
-        .filter(v => v)
-}
 
 // 1 generate the data file
 const namedRecords = records.map(([_sn, _done, _bash_who, _bash_status, _edits, _batch, _by, name, email, func, jobTitle, joinDate, quote, linkedinId, _workingDocLink, curProducts, pastProducts, accomplishments]) => {

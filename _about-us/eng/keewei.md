@@ -1,7 +1,7 @@
 ---
 title: Kee Wei Lam
 permalink: /people/keewei
-description: "Kee Wei Lam - Lead Software Engineer"
+description: Kee Wei Lam - Lead Software Engineer
 third_nav_title: Software Engineering
 staffId: keewei
 name: Kee Wei Lam
@@ -26,15 +26,11 @@ pastProducts:
   - HAS
   - Primary Care
 accomplishments:
-  - Built managerial capacity on the HealthTech team by onboarding Angel to
-    primary care team and transitioning Jen Wei into a TLM role for Care360
-  - Restarted the Armoury team and coached the team to deliver on the committed
-    milestones
-  - Worked with Eugene to start up the security team at OGP. Evaluated and
-    pushed MDM with Yuanruo
+  - Supported and onboarded multiple engineering managers on the team
+  - Delivered Starter Kit and Product Report Cards with the tooling team
+  - Working through the engineering reorganisation
 quote: We focus on solving real problems and not on building abstract solutions
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

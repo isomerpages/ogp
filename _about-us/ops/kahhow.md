@@ -1,7 +1,7 @@
 ---
 title: Kahhow Lee
 permalink: /people/kahhow
-description: "Kahhow Lee - Product Operations Specialist"
+description: Kahhow Lee - Product Operations Specialist
 third_nav_title: Product Operations
 staffId: kahhow
 name: Kahhow Lee
@@ -12,15 +12,18 @@ curProducts:
   - Care360
 pastProducts: []
 accomplishments:
-  - Co-led >10 training sessions for Care360 for ~500 Medical Social Workers
-  - Consolidated knowledge management for meetings and engineering
-    self-serviceability under @Care360 meeting notes; actively scribe and
-    consolidate links
-  - Planned and filmed marketing campaign for Care360 (ref 5 days of care360).
-    Cumulatively >100 views
+  - Designed and delivered documentation, training, launch and post-launch
+    support of Care360 to Medical Social Workers across all Public Healthcare
+    Institutions (PHI) in Singapore
+  - Acting Product Manager for String (string.beta.gov.sg) and derivative
+    products like CherGPT, Remarks Co-Pilot and Reference Co-Pilot, impacting
+    over 200+ education officers - some actively maintaining their own spinoff
+    products after prototyping with String
+  - "Finally got to building my own full stack web application for technical
+    learning (www.bringthewines.sg and soon www.whine.sg) - disclaimer: this is
+    NOT an official OGP product"
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.ops %}

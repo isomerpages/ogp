@@ -1,7 +1,7 @@
 ---
 title: Zi Wei Lim
 permalink: /people/ziwei
-description: "Zi Wei Lim - Software Engineer"
+description: Zi Wei Lim - Software Engineer
 third_nav_title: Software Engineering
 staffId: ziwei
 name: Zi Wei Lim
@@ -17,16 +17,13 @@ pastProducts:
   - Letters
   - Engage
 accomplishments:
-  - Wrote the external API endpoints for Go, which facilitated the creation of
-    over 3000 links, and allowed for integrations with other institutions'
-    systems
-  - Worked on the frontend and backend of Pouch, and also implemented security
-    classifications for files and folders
-  - Implemented the appointment flow and landing page for MediPay, during
-    hackathon
+  - Led the re-engineering of EventSG to a production-ready state
+  - Set up infrastructure and deployment processes across all new products on
+    the Go team's portfolio (Highway, LetterSG, EventSG)
+  - Pushed for engineering excellence to support the Go team’s growth and
+    engineering velocity
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

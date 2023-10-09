@@ -1,7 +1,7 @@
 ---
 title: Jasmine Ang
 permalink: /people/jasmine
-description: "Jasmine Ang - Software Engineer"
+description: Jasmine Ang - Software Engineer
 third_nav_title: Software Engineering
 staffId: jasmine
 name: Jasmine Ang
@@ -12,15 +12,13 @@ curProducts:
   - Care360
 pastProducts: []
 accomplishments:
-  - Contributed to the development of several significant features for Care360
-    i.e User Management
-  - Increased Care360's branding efforts; responsible for reworking the frontend
-    for all key user flows
-  - Part of team that built the critical Overlapping Financial Applications
-    feature
+  - Template builder on Care360, allowing medical social workers to create
+    custom documents for both patients and internal processes
+  - Integrating external systems with Care360, providing patient referral and
+    appointment information, as well as their means testing data
+  - Fast-track financial application work on Patient Experience
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

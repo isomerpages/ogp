@@ -1,7 +1,7 @@
 ---
 title: Stanley Nguyen
 permalink: /people/stanley
-description: "Stanley Nguyen - Senior Software Engineer"
+description: Stanley Nguyen - Senior Software Engineer
 third_nav_title: Software Engineering
 staffId: stanley
 name: Stanley Nguyen
@@ -17,14 +17,12 @@ pastProducts:
   - Postman
   - Touchpoint
 accomplishments:
-  - Worked to stabilise Postman codebase and reworked release process to
-    improving system observability for the Postman application
-  - Improved system capacity for Postman in terms of message sending throughput,
-    callback load handling, and report generation
-  - Worked on the campaign management feature for Postman
+  - Delivered from end to end the most requested feature in Postman
+  - Delivered first version of SGC under a tight timeline without any issues
+  - Continued setting technical standards for Postman as a product through
+    technical work like handling security reports
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

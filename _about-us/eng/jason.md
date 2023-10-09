@@ -1,7 +1,7 @@
 ---
 title: Jason Chong
 permalink: /people/jason
-description: "Jason Chong - Senior Software Engineer"
+description: Jason Chong - Senior Software Engineer
 third_nav_title: Software Engineering
 staffId: jason
 name: Jason Chong
@@ -15,13 +15,14 @@ pastProducts:
   - Primary Care
   - Go.gov.sg
 accomplishments:
-  - Developed latest iteration of PaySG from scratch as tech lead
-  - Proposed and implemented Datadog for RedeemSG, leading to org-wide
-    implementation
-  - Mentorship and leadership roles in guiding junior FinScam-tech team members
+  - Delivered system design and codebase for PaySG MVP as a single engineer in 6
+    weeks
+  - Provide technical, product and team leadership on PaySG and the wider
+    FinScam vertical
+  - Co-ordinated VAPT process fro PaySG and ensured that all issues have been
+    resolved within a week
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

@@ -1,7 +1,7 @@
 ---
 title: Pearly Ong
 permalink: /people/pearly
-description: "Pearly Ong - Senior Product Designer"
+description: Pearly Ong - Senior Product Designer
 third_nav_title: Product Design
 staffId: pearly
 name: Pearly Ong
@@ -22,14 +22,17 @@ pastProducts:
   - CorpTech
   - ScamTech
 accomplishments:
-  - Researched and solutioned for a multi-brand design system that all OGP
-    products can use
-  - Redesigned the UI of Forms, reviewed PRs and did QAs a designer as well
-  - Worked on and went through the interview process to hire our first ever
-    Product Design Manager!
+  - Designed, tested, delivered a matching tool in less than 6 months, with high
+    user satisfaction (4.3/5) and time saved (~2 hours/user/day)
+  - Initiated and led a big hiring push –  did whatever necessary (outreach,
+    writing JD, interview guides, screening, scheduling, interviewing), leading
+    to most of our new hires this year
+  - Spread out impact across other projects – designing StarterApp, mapping
+    Finance DC flow, running Report Card interviews, Design System onboarding,
+    running HTF workshop, ad-hoc CalSG IA work. All this helped to push other
+    projects along
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.design %}

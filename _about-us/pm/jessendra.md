@@ -1,7 +1,7 @@
 ---
 title: Jessendra Loke
 permalink: /people/jessendra
-description: "Jessendra Loke - Product Manager"
+description: Jessendra Loke - Product Manager
 third_nav_title: Product Management
 staffId: jessendra
 name: Jessendra Loke
@@ -12,13 +12,12 @@ curProducts:
   - AskGov
 pastProducts: []
 accomplishments:
-  - Successfully launched AskGov 2.0 by bringing numerous agencies aboard
-  - Built up the AskGov team by establishing team norms and fostering a vibrant
-    team culture
-  - Encouraging a healthier lifestyle within OGP through our Monday runs
+  - Launched AskGov with 46 agencies and >800k page views within 4 months
+  - Defined the long-term vision for AskGov to improve the accessibility of
+    information throughout the government
+  - Launched Claimsbot which helped to process 88% of all eligible claims in OGP
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.pm %}

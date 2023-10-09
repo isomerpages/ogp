@@ -1,7 +1,7 @@
 ---
 title: Chinyao Gan
 permalink: /people/chinyao
-description: "Chinyao Gan - Software Engineer"
+description: Chinyao Gan - Software Engineer
 third_nav_title: Software Engineering
 staffId: chinyao
 name: Chinyao Gan
@@ -12,10 +12,10 @@ curProducts:
   - Phonebook
 pastProducts: []
 accomplishments:
-  - i'm new, watch this space!
+  - I divided the task into 8 tickets and executed them in a coherent and
+    logical manner without hiccups
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

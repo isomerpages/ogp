@@ -1,7 +1,7 @@
 ---
 title: Wan Ling Thoo
 permalink: /people/wanling
-description: "Wan Ling Thoo - Software Engineer"
+description: Wan Ling Thoo - Software Engineer
 third_nav_title: Software Engineering
 staffId: wanling
 name: Wan Ling Thoo
@@ -14,17 +14,15 @@ pastProducts:
   - MediPay
   - Build Your Own Singaporean
 accomplishments:
-  - Worked on the migration of FormSG from AngularJS to React, implemented key
-    features and bug fixes in the process
-  - Created Python scripts to generate recipients for post-incident
-    communication, improving team efficiency and reducing time taken to get in
-    touch with affected users
-  - Made significant contributions to Build Your Own Singaporean, broke down
-    engineering tasks, implemented the scenes and spots feature, and also
-    explored new technologies for the database
+  - Contributed significantly to FormSG Payments - to date, the team has
+    onboarded 9 agencies and processed 2.9k payment transactions, amounting to
+    192k collected in a single quarter
+  - Released programmatic APIs which allow for easier integration with OGP
+    products
+  - Released FormSG Zapier integration which allow admins to automate workflows
+    by linking FormSG responses with other applications
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

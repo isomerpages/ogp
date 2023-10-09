@@ -1,7 +1,7 @@
 ---
 title: Yong Jie Foo
 permalink: /people/yongjie
-description: "Yong Jie Foo - Senior Software Engineer"
+description: Yong Jie Foo - Senior Software Engineer
 third_nav_title: Software Engineering
 staffId: yongjie
 name: Yong Jie Foo
@@ -20,21 +20,16 @@ pastProducts:
   - Data.gov
   - Send
 accomplishments:
-  - Provided technical direction for Vault and data.gov.sg by working on
-    approaches for various epics, including designing the data.gov.sg backend
-    around a serverless stack, search as a standalone service, experimentation
-    with CodeBuild Jobs for long-running tasks, seamless traffic redirection,
-    and pre-emptive metadata migration away from DynamoDB
-  - Provided team leadership by setting up on-call and production support
-    rotation model for Vault team to address knowledge silos and maintenance
-    work distribution
-  - Diagnosed the root cause of Vault 1.0 admin dashboard inability to load
-    being the rapid expansion of audit logs and automated the transfer of
-    API-generated logs to CloudWatch, reducing the amount of logs by 90% and
-    restoring services back to normal
+  - Led a team of 4 engineers to rebuild Data.gov.sg within 3-4 months
+  - Introduced engineering practices, sharings and processes to help engineers
+    transition their focus from speed of delivery to product reliability and
+    polish.
+  - "Made strategic code contributions that fixed massive bottlenecks in Vault
+    team's products: 1) 1000x decrease in audit log storage size, 2) 100x
+    decrease in concurrent DB connections, and 3) 10 mins shaved off backend
+    deployment time (33% decrease)"
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

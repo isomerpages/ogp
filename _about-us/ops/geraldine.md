@@ -1,7 +1,7 @@
 ---
 title: Geraldine Tan
 permalink: /people/geraldine
-description: "Geraldine Tan - Product Operations Specialist"
+description: Geraldine Tan - Product Operations Specialist
 third_nav_title: Product Operations
 staffId: geraldine
 name: Geraldine Tan
@@ -12,14 +12,14 @@ curProducts:
   - Vault
 pastProducts: []
 accomplishments:
-  - Increased engagement rates through hands on product demo workshop (564
-    attendees in Dec)
-  - Implemented user guide & FAQs for Product resulting in reduction of L1
-    tickets by 85.9%
-  - Created FormSG X Workspace pitch deck to highlight Product USPs
+  - Led the migration and communications plan for launch of new Data.gov
+  - Spearheaded engagements with new & existing stakeholders, securing new
+    integrations equating to ~70% increment of datasets in Data.gov
+  - Automated processes for streamlined operations via Zapier, Slack
+    integrations etc. For example, such automations resulted in a 55.6%
+    reduction of time required to consolidate post-migrationData.gov updates
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.ops %}

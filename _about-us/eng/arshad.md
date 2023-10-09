@@ -1,7 +1,7 @@
 ---
 title: Arshad s/o Abdul Samad
 permalink: /people/arshad
-description: "Arshad s/o Abdul Samad - Senior Software Engineer"
+description: Arshad s/o Abdul Samad - Senior Software Engineer
 third_nav_title: Software Engineering
 staffId: arshad
 name: Arshad s/o Abdul Samad
@@ -21,13 +21,15 @@ pastProducts:
   - Send
   - Vault
 accomplishments:
-  - Reduced and streamlined operations workload for Vault team
-  - Sought out solutions that minimized engineering work
-  - Worked with product team gain better insights which allowed better user
-    behaviour analysis to then optimise workflow
+  - Introduced semantic search which contributed significantly to citizens being
+    able to find the answers to their questions on AskGov
+  - Introduced generative search to AskGov which highlighted relevant portions
+    of an answer to users who were struggling to find their answers amidst
+    lengthy FAQs.
+  - Helped get AskGov moving quickly, gaining sufficient traction to support 2
+    nation-wide campaigns; NDP and HealthierSG.
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}
