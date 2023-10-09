@@ -1,7 +1,7 @@
 ---
 title: Christabel Neo
 permalink: /people/christabel
-description: "Christabel Neo - Senior Software Engineer"
+description: Christabel Neo - Senior Software Engineer
 third_nav_title: Software Engineering
 staffId: christabel
 name: Christabel Neo
@@ -17,13 +17,9 @@ pastProducts:
   - Scamshield
   - Healthcare
 accomplishments:
-  - Launched Scamshield Whatsapp bot in December 2022
-  - Launched Scamshield 2.0 SPF dashboard and Scamshield Android + iOS App
-  - Managed nominal roll processing and SMS campaigns for Covid-19 vaccination
-    appointment operations
+  - i'm new, watch this space!
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

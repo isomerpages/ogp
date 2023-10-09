@@ -1,7 +1,7 @@
 ---
 title: Justyn Oh
 permalink: /people/justyn
-description: "Justyn Oh - Software Engineer"
+description: Justyn Oh - Software Engineer
 third_nav_title: Software Engineering
 staffId: justyn
 name: Justyn Oh
@@ -14,17 +14,15 @@ curProducts:
 pastProducts:
   - CertSG
 accomplishments:
-  - Contributed to FormSG React migration, including migrating most end-to-end
-    tests for email submissions from Angular and implementing several new
-    features such as dashboard search and filter, sidebar thank you page
-    settings, and return submission times from servers
-  - Improved email sending time latency by 10x through leading the investigation
-    into the matter and rectifying the root cause (migrating AWS email sending
-    services from US to SG)
-  - Worked on CertSG and Checkpoint as part of HFPG'23
+  - Developed, productionized and launched Checkpoint, an email routing and
+    approval tool
+  - Designed and implemented the integration logic for FormSG payments with
+    Stripe, including creating payments, handling incoming webhooks and
+    performing automatic reconciliation
+  - Ran test support for FormSG VAPT conducted by Cure53, which received
+    favorable reviews from the test staff
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

@@ -1,7 +1,7 @@
 ---
 title: Carina Lim
 permalink: /people/carina
-description: "Carina Lim - Product Designer"
+description: Carina Lim - Product Designer
 third_nav_title: Product Design
 staffId: carina
 name: Carina Lim
@@ -15,12 +15,14 @@ pastProducts:
   - PaySG
   - Pair
 accomplishments:
-  - Led research and design of CDC vouchers 2023 resident digital experience
-  - Generalised and scaled RedeemSG beyond CDC campaigns
-  - Led discussions leading to the scope of features to prioritise for Pair MVP
+  - Designing how RedeemSG can be self-service and supporting more voucher
+    campaigns
+  - "Paired up: did more pair designing, actively seeked help when I needed a
+    second pair of eyes, launched Pair Chat (ChatGPT for  government)"
+  - Became a meme while presenting on stage at Figma Config 2023, because
+    apparently I’m no economist
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.design %}

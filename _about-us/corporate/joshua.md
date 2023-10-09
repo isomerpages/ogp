@@ -1,7 +1,7 @@
 ---
 title: Joshua Tan
 permalink: /people/joshua
-description: "Joshua Tan - Senior Manager (Finance Operations)"
+description: Joshua Tan - Senior Manager (Finance Operations)
 third_nav_title: Corporate Team
 staffId: joshua
 name: Joshua Tan
@@ -14,14 +14,14 @@ pastProducts:
   - Workplace
   - Procurement and Finance
 accomplishments:
-  - Managed a Finance team of 2
-  - Secured funding for expanded OGP team of nearly 200 employees
-  - Automated backend finance processes
-  - Led Finance sprint to consolidate and visualise finance data to track OGP
-    expenditure by team
+  - Obtaining panel approval for Procurement flexibilities and experiments +
+    influencing Govtech stakeholders to run alongside for longer-term WOG impact
+    and eventual normalisation of OGP “experimental flexibilities”
+  - Built out cost database, employee allocations and estimated salaries to be
+    used in the successful roll-out of Report Cards
+  - Hired and onboarded Amitha (first full-timer report) on Finance team
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.corporate %}

@@ -1,7 +1,7 @@
 ---
 title: Clifford Teo
 permalink: /people/clifford
-description: "Clifford Teo - Senior Manager (People)"
+description: Clifford Teo - Senior Manager (People)
 third_nav_title: Corporate Team
 staffId: clifford
 name: Clifford Teo
@@ -15,13 +15,17 @@ pastProducts:
   - OGP Business Partnering & Hiring
   - Team health surveys/dashboards and interventions
 accomplishments:
-  - Ran the Tech for Public Good Recruiting workshop for 14 agencies
-  - Led the pilot implementation of a new Applicant Tracking System for select
-    agencies
-  - Built Org health dashboards to visually showcase pulse survey results
+  - Tech for Public Good Recruitment Bootcamp, and successfully co-led the TFPG
+    Recruitment bootcamp launch for  14 agencies & 40 attendees, upskilling them
+    on Recruitment & Employer branding best practices.
+  - "Applicant Tracking System pilot launch: piloted the Commercial ATS
+    initiative for select Agencies, in partnership with PSD to potentially scale
+    for whole of Government's Recruiting in the future"
+  - "Team Health Surveys: ran OGP's Team & Individual health surveys, built
+    dashboards for data visualisations and co-owning Interventions on focus
+    areas"
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.corporate %}

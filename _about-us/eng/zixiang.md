@@ -1,7 +1,7 @@
 ---
 title: Zi Xiang Tan
 permalink: /people/zixiang
-description: "Zi Xiang Tan - Software Engineer"
+description: Zi Xiang Tan - Software Engineer
 third_nav_title: Software Engineering
 staffId: zixiang
 name: Zi Xiang Tan
@@ -14,16 +14,15 @@ pastProducts:
   - AskGov
   - Postman
 accomplishments:
-  - Implemented foundational transactional email API features for Postman to
-    enable the sending of programmatic emails, leading to more than 53 API users
-    sending more than 1.2M emails
-  - Wrote the code for CheckWho to enable the sending of verifiable messages,
-    leading to more than 10,000 man-hours saved from initial agency users
-  - Improved team processes on Postman such as shared engineering context for
-    decision-making and greater structure in engineering practices
+  - I care deeply about solving government impersonation scams and my work on
+    CheckWho laid the foundation for the promising new ScamTech workstream,
+    Secure Government Communications
+  - I identified and drove the work on Postman programmatic email API, achieving
+    >90% cost-savings and modernising the government's email infrastructure
+  - I started a new product to enable government systems to securely and
+    cost-effectively access Internet APIs
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

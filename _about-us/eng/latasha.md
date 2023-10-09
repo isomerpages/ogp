@@ -1,7 +1,7 @@
 ---
 title: Latasha Lenus
 permalink: /people/latasha
-description: "Latasha Lenus - Software Engineer"
+description: Latasha Lenus - Software Engineer
 third_nav_title: Software Engineering
 staffId: latasha
 name: Latasha Lenus
@@ -12,15 +12,12 @@ curProducts:
   - AskGov
 pastProducts: []
 accomplishments:
-  - Migrated AskGov Portal 1.0 to Portal 2.0
-  - Contributed to the development of AskGov as an IC which led to the project
-    being deployed in time for a small use case (OGPcareers)
-  - Worked on SEO optimization, set up logging and monitoring, improved
-    scrolling and search, refined topics UIUX, and prepared Checkpoint for
-    launch
+  - Improved AskGov SEO ranking, through various features and improvements
+  - Enhanced admin portal experience, by improving email workflow and admin
+    functionality
+  - Set up logging and monitoring, improved scrolling and search and refined UIUX
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

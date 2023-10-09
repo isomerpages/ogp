@@ -1,7 +1,7 @@
 ---
 title: Brian Lee
 permalink: /people/brianlee
-description: "Brian Lee - Senior Product Manager"
+description: Brian Lee - Senior Product Manager
 third_nav_title: Product Management
 staffId: brianlee
 name: Brian Lee
@@ -12,12 +12,13 @@ curProducts:
   - NLB Seed Team
 pastProducts: []
 accomplishments:
-  - Built seven prototypes for NLB after aligning on initial problem statements
-  - Built relationships with stakeholders in NLB to understand operations and
-    difficulties on the ground
+  - I launched Ourstory and secured a commitment from NLB to showcase the
+    product in local libraries
+  - I launched ExploreSG to help school teachers to plan their school trip
+  - I built multiple prototypes to help NLB identify 3 crucial product ideas and
+    launched 2 of them in three months
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.pm %}

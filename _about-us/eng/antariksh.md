@@ -1,7 +1,7 @@
 ---
 title: Antariksh Mahajan
 permalink: /people/antariksh
-description: "Antariksh Mahajan - Senior Software Engineer"
+description: Antariksh Mahajan - Senior Software Engineer
 third_nav_title: Software Engineering
 staffId: antariksh
 name: Antariksh Mahajan
@@ -18,14 +18,11 @@ pastProducts:
   - Temperature
   - SGID
 accomplishments:
-  - Worked on and launched CalSG
-  - Managed the CalSG team and oversaw both engineering and design
-  - Led SDK initiative for sgID which was targeted to make the process easier
-    for developers working in common backend languages to implement sgID
-    integrations
+  - Brought the CalSG team together and launched the product
+  - Crossed 16,000 bookings on CalSG
+  - Wrote sgID’s Python SDK, which allowed users to integrate within 2 hours
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

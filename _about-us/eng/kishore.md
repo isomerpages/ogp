@@ -1,7 +1,7 @@
 ---
 title: Kishore R
 permalink: /people/kishore
-description: "Kishore R - Software Engineer"
+description: Kishore R - Software Engineer
 third_nav_title: Software Engineering
 staffId: kishore
 name: Kishore R
@@ -12,14 +12,12 @@ curProducts:
   - Isomer
 pastProducts: []
 accomplishments:
-  - Worked on Isomer site launches
-  - Migrated Netlify to Amplify and converted [existing bash scripts to
-    typescript]to increase developer speed
-  - Laid the groundwork for Infra repo and Indirection layer in Pulumi,
-    following best practices advice
+  - Enabled users to directly launch site directly on Isomer
+  - Fronted the migration of 50 sites from Netlify to Amplify
+  - Laid the groundwork for using Pulumi as Code for Isomer, which was later
+    used by other engineers
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

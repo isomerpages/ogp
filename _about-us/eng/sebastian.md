@@ -1,7 +1,7 @@
 ---
 title: Sebastian Wong
 permalink: /people/sebastian
-description: "Sebastian Wong - Lead Software Engineer"
+description: Sebastian Wong - Lead Software Engineer
 third_nav_title: Software Engineering
 staffId: sebastian
 name: Sebastian Wong
@@ -12,12 +12,15 @@ curProducts:
   - FormSG
 pastProducts: []
 accomplishments:
-  - Completed implementation of Cloudflare Turnstile integration
-  - Improved backwards compatibility of Turnstile and Recaptcha integration
-  - "Resolved VAPT: WAF bypass via Content-Encoding compression"
+  - Onboarded and started co-leading the FormSG team after joining OGP for a
+    month
+  - Made some progress in helping to define the 2023 Q4 and 2024 FormSG roadmap
+    and vision
+  - Started to help the team target high-impact objectives by directing efforts
+    towards new/exploratory portfolios with ambiguous scope instead of requiring
+    complete specifications from product stakeholders
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

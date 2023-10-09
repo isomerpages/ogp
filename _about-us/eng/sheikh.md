@@ -1,7 +1,7 @@
 ---
 title: Sheikh Bin Mohamed Aneess Alrragi
 permalink: /people/sheikh
-description: "Sheikh Bin Mohamed Aneess Alrragi - Software Engineer"
+description: Sheikh Bin Mohamed Aneess Alrragi - Software Engineer
 third_nav_title: Software Engineering
 staffId: sheikh
 name: Sheikh Bin Mohamed Aneess Alrragi
@@ -16,13 +16,11 @@ pastProducts:
   - PaySG
   - Redeem
 accomplishments:
-  - Central Banking Digital Currency - contributed as a lead by independently
-    researching, defining, designing, and subsequently implementing
-  - Mentorship and leadership roles in guiding junior Redeem team members
-  - Migrated Pair into a production ready setup
+  - Led engineering in Pair
+  - Mentorship work within the fin-scam verticals
+  - My infrastructure works across various products
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

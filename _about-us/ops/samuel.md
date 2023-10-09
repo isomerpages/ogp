@@ -1,7 +1,7 @@
 ---
 title: Samuel Koh
 permalink: /people/samuel
-description: "Samuel Koh - Head of Product Operations"
+description: Samuel Koh - Head of Product Operations
 third_nav_title: Product Operations
 staffId: samuel
 name: Samuel Koh
@@ -21,14 +21,16 @@ pastProducts:
   - sgID
   - ScamShield
 accomplishments:
-  - Co-led HealthTech Sprint 2 to promote and train healthcare users in OGP's
-    suite of products to address workflows in the healthcare domain
-  - Led product operations for ScamShield and sgID
-  - Doubled the Product Operations team and established team processes for
-    updates, sharings, and learning coordination
+  - Public Sector Sprint - Working with fellow public officers to define and
+    develop their problem statements with OGP design thinking and tech tools; in
+    the process, we challenged them to think deeper, and empowered them with the
+    tech tools they can use to increase productivity in their daily work.
+  - Product Ops Sharing Sharing to PS Joseph and Panel on what Product Ops is,
+    and how we drive change in OGP and other agencies
+  - Refining team's hiring processes to bring in great team members to work on
+    public sector problem statements together
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.ops %}

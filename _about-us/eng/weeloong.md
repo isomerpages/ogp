@@ -1,7 +1,7 @@
 ---
 title: Wee Loong Kuan
 permalink: /people/weeloong
-description: "Wee Loong Kuan - Senior Software Engineer"
+description: Wee Loong Kuan - Senior Software Engineer
 third_nav_title: Software Engineering
 staffId: weeloong
 name: Wee Loong Kuan
@@ -15,7 +15,6 @@ accomplishments:
   - i'm new, watch this space!
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

@@ -1,7 +1,7 @@
 ---
 title: Fabian Chia
 permalink: /people/fabian
-description: "Fabian Chia - Software Engineer"
+description: Fabian Chia - Software Engineer
 third_nav_title: Software Engineering
 staffId: fabian
 name: Fabian Chia
@@ -14,15 +14,13 @@ pastProducts:
   - ParkingSG
   - PaySG
 accomplishments:
-  - Made multiple backend and frontend changes to Redeem to enable the 3rd
-    tranche of the CDC voucher campaign
-  - Implemented more comprehensive test cases for critical flows and endpoints
-    for Redeem
-  - Implemented an OGP-wide easily adoptable infrastructure tool for handling
-    Cloudflare outages
+  - Fully initiated design and development of Redeem’s operation dashboard
+    within 2 weeks
+  - Implemented security checks and strengthened existing audit checks to
+    safeguard financial integrity of Redeem’s payouts
+  - Implemented RedeemSG Rewards to expand Redeem’s use cases
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

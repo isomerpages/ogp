@@ -1,7 +1,7 @@
 ---
 title: Christabel Png
 permalink: /people/christabelpng
-description: "Christabel Png - Senior Product Designer"
+description: Christabel Png - Senior Product Designer
 third_nav_title: Product Design
 staffId: christabelpng
 name: Christabel Png
@@ -19,15 +19,13 @@ pastProducts:
   - Go.gov.sg
   - Folk
 accomplishments:
-  - Conceptualised and lead the product development of Folk, leading to 273
-    organic registrations and 8.7k page views
-  - Led product design for Vault, including conceptualising and executing UI for
-    all features in Vault Workspace
-  - Co-organised the 27 April OGP x Singapore Product Design talk to advocate
-    and propagate OGP design practices
+  - Designing the new Data.gov.sg - our national open data collective
+  - An advocate for open communication and emotional safety. Helping others feel
+    supported and motivated to do their best work
+  - Mentoring young designers, and co-leading the suites design vertical with
+    Sarah and Rachel
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.design %}

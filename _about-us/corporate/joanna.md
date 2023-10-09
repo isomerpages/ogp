@@ -1,7 +1,7 @@
 ---
 title: Joanna Lo
 permalink: /people/joanna
-description: "Joanna Lo - Manager (People)"
+description: Joanna Lo - Manager (People)
 third_nav_title: Corporate Team
 staffId: joanna
 name: Joanna Lo
@@ -14,15 +14,17 @@ pastProducts:
   - techhiring.open.gov.sg
   - Onboarding/Offboarding experience
 accomplishments:
-  - Relaunched TFPG CV Bank and Jobs Directory to match candidates to >250
-    government tech jobs
-  - Helped to plan and run the TFPG candidate marketing bootcamp to help 13
-    agencies improve tech hiring efforts
-  - Overhauled OGP's employment letter templates for greater operational
-    efficiency and clarity
+  - Set up and automated the TFPG CV Bank for government agencies use-
+    channelled 1058 applicants to agencies, as well as TFPG Job Directory which
+    serves as a collated repository of tech roles in the government for easier
+    public access- 364 roles across 42 agencies to date
+  - Helped to plan and run the TFPG hiring bootcamp to help 12 agencies improve
+    tech hiring efforts
+  - Constructed the onboarding programme for new hires to be onboarded into the
+    org well, and identified data points to monitor and constantly improve the
+    programme and experience for new hires to be set up for success at ogp
 quote: ""
-linkedinId: "https://www.linkedin.com/in/joanna-lo-/"
-
+linkedinId: https://www.linkedin.com/in/joanna-lo-/
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.corporate %}

@@ -1,7 +1,7 @@
 ---
 title: Raisa Kabir
 permalink: /people/raisa
-description: "Raisa Kabir - Senior Software Engineer"
+description: Raisa Kabir - Senior Software Engineer
 third_nav_title: Software Engineering
 staffId: raisa
 name: Raisa Kabir
@@ -13,15 +13,13 @@ curProducts:
 pastProducts:
   - PinPoint
 accomplishments:
-  - Worked on multiple features for Vault such as migrating from DynamoDB to a
-    Postgres metadata database and various middleware features
-  - Implemented engineering process improvements on the engineering team of
-    Vault, led engineering learning sessions, tech debt trackers, and cleaner
-    log prefix nomenclature
-  - Developed the initial backend architecture for hackathon project PinPoint
+  - In-place migration of API traffic (approx 44 million / month) with no
+    downtime, transparent to users
+  - Designing and implementing authorization system for data.gov.sg
+  - Propagating good engineering practices across the team e.g. setting up
+    coding standards, logging format standardization
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

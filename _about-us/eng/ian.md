@@ -1,7 +1,7 @@
 ---
 title: Ian Chen
 permalink: /people/ian
-description: "Ian Chen - Lead Software Engineer"
+description: Ian Chen - Lead Software Engineer
 third_nav_title: Software Engineering
 staffId: ian
 name: Ian Chen
@@ -22,12 +22,13 @@ pastProducts:
   - HAS
   - CorpTech
 accomplishments:
-  - Worked on and helped to launch Plumber
-  - Launched OpenSpace
-  - Explored different frameworks and tools, prorotyped and revamped Starter Kit
+  - PM / Tech lead for Plumber which achieved significant growth in the past
+    cycle (> 10x)
+  - Launched (or helped launch) various products such as starter kit and product
+    scorecard
+  - Bigtube achieving 3000+ active users
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

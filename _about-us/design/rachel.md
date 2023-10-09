@@ -1,7 +1,7 @@
 ---
 title: Rachel Tan
 permalink: /people/rachel
-description: "Rachel Tan - Senior Product Designer"
+description: Rachel Tan - Senior Product Designer
 third_nav_title: Product Design
 staffId: rachel
 name: Rachel Tan
@@ -14,15 +14,10 @@ pastProducts:
   - Build Your Own Singaporean
   - HAS
 accomplishments:
-  - Designed and developed AskGov 2.0, a platform for citizen-and-agency
-    engagement by conducting user research, ideation workshops, and prototypes
-  - Repurposed the HAS flow for HealthierSG, created a new visual style and
-    adding moments of delight with custom illustrations and animated gifs
-  - Created BYOS, a modular illustration system of Singaporean characters and
-    scenes for OGP colleagues to use for their hackathon products and decks
+  - and creating a triaging flow that allows users to ask a question to any
+    agency. We also explored more forms of engagement on AskGov
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.design %}

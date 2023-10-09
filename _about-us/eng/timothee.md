@@ -1,7 +1,7 @@
 ---
 title: Tim Groleau
 permalink: /people/timothee
-description: "Tim Groleau - Lead Software Engineer"
+description: Tim Groleau - Lead Software Engineer
 third_nav_title: Software Engineering
 staffId: timothee
 name: Tim Groleau
@@ -19,17 +19,14 @@ pastProducts:
   - Armoury
   - Signify
 accomplishments:
-  - Introduced team and engineering practices to a growing Forms team including
-    sprints, team charters/roles, and higher standards for monitoring and
-    observability
-  - Led the FormSG engineering team to deliver on payments feature, React
-    migration, SES migration, infrastructure upgrades and internal product
-    operations administration tools
-  - "Reorganised the Forms team to pursue 3 concurrent products: FormSG,
-    Signify, and CheckPoint"
+  - Lead the FormSG team to deliver payment improvements, waiting room, and
+    MyInfo improvements
+  - Wrote proposal and got panel approval for FormSG to shift the encryption
+    boundaries
+  - Rolled out the product report cards and staff profile pages for the OGP
+    website
 quote: ""
 linkedinId: timotheegroleau
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}
