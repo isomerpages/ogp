@@ -25,7 +25,7 @@ const namedRecords = records.map(([name, email, _func, jobTitle, accomplishments
     const record = {
         staffId: id,
         name: name.trim(),
-        jobTitle: jobTitle?.trim() || 'Job Title',
+        jobTitle: jobTitle?.trim(),
         accomplishments: getCleanList(accomplishments),
     }
 
@@ -54,7 +54,13 @@ for (const record of namedRecords) {
     const staffFileFragments = staffFileContent.toString().split(STAFF_FILE_DELIMITER)
 
     const staffData = YAML.parse(staffFileFragments[1]);
+
     staffData.accomplishments = record.accomplishments;
+
+    if (record.jobTitle) {
+        staffData.jobTitle = record.jobTitle;
+    }
+
     staffFileFragments[1] = YAML.stringify(staffData);
 
     await writeFile(staffFile, staffFileFragments.join(STAFF_FILE_DELIMITER));
