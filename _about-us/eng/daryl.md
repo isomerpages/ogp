@@ -7,7 +7,7 @@ staffId: daryl
 name: Daryl Chan
 joinDate: January 3, 2022
 functionId: eng
-jobTitle: Software Engineer
+jobTitle: Senior Software Engineer
 curProducts:
   - Pixie
 pastProducts:

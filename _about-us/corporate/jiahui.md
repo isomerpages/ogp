@@ -7,7 +7,7 @@ staffId: jiahui
 name: Jia Hui Yap
 joinDate: September 6, 2021
 functionId: corporate
-jobTitle: Manager (Corporate Operations)
+jobTitle: Senior Manager (Corporate Operations)
 curProducts:
   - Corporate Operations Team
 pastProducts:

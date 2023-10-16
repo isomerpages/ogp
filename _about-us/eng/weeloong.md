@@ -12,7 +12,9 @@ curProducts:
   - Plumber
 pastProducts: []
 accomplishments:
-  - i'm new, watch this space!
+  - Built branching logic for Plumber
+  - Helped make Plumber more secure
+  - Built file handling in Plumber
 quote: ""
 linkedinId: ""
 ---

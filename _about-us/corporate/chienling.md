@@ -7,7 +7,7 @@ staffId: chienling
 name: Chien Ling Ang
 joinDate: August 10, 2021
 functionId: corporate
-jobTitle: Manager (People)
+jobTitle: Senior Manager (People)
 curProducts:
   - People Team
 pastProducts:

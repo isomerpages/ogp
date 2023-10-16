@@ -14,10 +14,13 @@ pastProducts:
   - Parking.sg
   - PaySG
 accomplishments:
-  - Successfully launched RedeemSG's first voucher campaign that checks
+  - Successfully launched RedeemSG’s first voucher campaign that checks
     eligibility via NRIC whitelist. Campaign achieved 90% claim rate and 75%
     spend within just four months
-  - Scoped and launching RedeemSG Rewards"
+  - Scoped and launching “RedeemSG Rewards”, RedeemSG’s own vouchers that
+    streamlines agencies merchant onboarding process
+  - Managed a pipeline of 8 confirmed campaigns across 7 entities, with 3 major
+    campaigns scheduled
 quote: ""
 linkedinId: ""
 ---

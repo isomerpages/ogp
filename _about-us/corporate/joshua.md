@@ -7,19 +7,17 @@ staffId: joshua
 name: Joshua Tan
 joinDate: September 6, 2021
 functionId: corporate
-jobTitle: Senior Manager (Finance Operations)
+jobTitle: Assistant Director (Corporate Operations)
 curProducts:
   - Finance Operations Team
 pastProducts:
   - Workplace
   - Procurement and Finance
 accomplishments:
-  - Obtaining panel approval for Procurement flexibilities and experiments +
-    influencing Govtech stakeholders to run alongside for longer-term WOG impact
-    and eventual normalisation of OGP “experimental flexibilities”
-  - Built out cost database, employee allocations and estimated salaries to be
-    used in the successful roll-out of Report Cards
-  - Hired and onboarded Amitha (first full-timer report) on Finance team
+  - Driving data inputs for launch of Product Scorecards
+  - Working out an internal ‘secondment’ from Govtech to drive procurement and
+    finance improvements
+  - Leading error-free BAU delivery for finance as the team scales to 170+ pax
 quote: ""
 linkedinId: ""
 ---

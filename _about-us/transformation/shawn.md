@@ -7,7 +7,7 @@ staffId: shawn
 name: Shawn Ten
 joinDate: July 29, 2021
 functionId: transformation
-jobTitle: Manager
+jobTitle: Senior Manager (Policy & Transformation)
 curProducts:
   - Policy & Transformation
 pastProducts:

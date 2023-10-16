@@ -7,7 +7,7 @@ staffId: keewei
 name: Kee Wei Lam
 joinDate: June 1, 2020
 functionId: eng
-jobTitle: Lead Software Engineer
+jobTitle: Senior Engineering Manager
 curProducts:
   - Armoury
   - ActiveSG

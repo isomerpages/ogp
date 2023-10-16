@@ -1,7 +1,7 @@
 ---
 title: Sonjia Yan
 permalink: /people/syan
-description: "Sonjia Yan - Senior Product Manager"
+description: Sonjia Yan - Senior Product Manager
 third_nav_title: Product Management
 staffId: syan
 name: Sonjia Yan
@@ -27,14 +27,13 @@ pastProducts:
   - Healthtech
   - SGID
 accomplishments:
-  - Ran SG2030 visioning exercise to ideate on ambitious product ideas for the
-    OGP product organisation
-  - Provided PM people management and coaching over >10 OGP products
-  - Worked with the Tech for Public Good team to assess >12 agencies for
-    incubating satellite tech teams
+  - Launched the new and improved data.gov.sg
+  - Worked with Form, Letters and AskGov teams to launch Form Payments,
+    letters.gov.sg and ask.gov.sg
+  - Improved hiring and incident response practice on the team. (all feedback
+    welcome :)
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.pm %}

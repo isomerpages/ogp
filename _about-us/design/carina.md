@@ -7,7 +7,7 @@ staffId: carina
 name: Carina Lim
 joinDate: July 26, 2021
 functionId: design
-jobTitle: Product Designer
+jobTitle: Senior Product Designer
 curProducts:
   - Redeem
 pastProducts:
