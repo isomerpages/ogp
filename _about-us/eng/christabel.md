@@ -17,7 +17,14 @@ pastProducts:
   - Scamshield
   - Healthcare
 accomplishments:
-  - i'm new, watch this space!
+  - Launched the Official ScamShield Checker and Reporter (Oscar) WhatsApp bot
+    to increase the government’s ability to engage our population in the fight
+    against scams
+  - Rolled out Armoury, an application to support the SCDF’s operational
+    readiness monitoring, to multiple fire stations across Singapore
+  - Built a prototype for passwordless identity verification using passkeys — a
+    step towards creating a more secure and seamless digital identity experience
+    for Singaporeans
 quote: ""
 linkedinId: ""
 ---

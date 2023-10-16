@@ -7,7 +7,7 @@ staffId: qimmy
 name: Qimmy Lim
 joinDate: April 3, 2023
 functionId: design
-jobTitle: Product Designer
+jobTitle: Senior Product Designer
 curProducts:
   - SkillsFuture
 pastProducts: []

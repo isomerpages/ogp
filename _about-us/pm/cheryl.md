@@ -13,8 +13,15 @@ curProducts:
 pastProducts:
   - Marketing
 accomplishments:
-  - such as replacing manual flat inspections with digital evidence. This
-    unified platform consolidates data from various sources into one
+  - Built and launched MediPay in three months, a product that provides patients
+    with cost and subsidy transparency across a range of medical services ahead
+    of a patient’s visit to the clinic. Benefitted more than 6,000 patients and
+    counting
+  - Uphold robustness of Singapore’s housing policy by keeping access to public
+    housing fair and equitable and preventing monetisation of public housing
+  - Leveraged my expertise in marketing to drive user adoption and growth for
+    the Health Appointment System, from mainstream media coverage, digital
+    marketing to speaking at events
 quote: ""
 linkedinId: ""
 ---

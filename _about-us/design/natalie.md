@@ -7,7 +7,7 @@ staffId: natalie
 name: Natalie Tan
 joinDate: April 6, 2020
 functionId: design
-jobTitle: Product Designer
+jobTitle: Senior Product Designer
 curProducts:
   - NLB Seed Team
 pastProducts:

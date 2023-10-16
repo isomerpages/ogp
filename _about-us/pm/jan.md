@@ -15,22 +15,11 @@ pastProducts:
   - Diverter
   - Patient Status
 accomplishments:
-  - 3 main achievements (not to be used for profile page)
-  - Created (and aligned the team on) a compelling long-term product direction
-    for Isomer, and defined a clear, sensible and prioritised list of backlog
-    items for the near-to-mid term
-  - "In 2 sprints, team shipped:"
-  - Revamped style changes to Home Page, Nav bar and Contact us in two sprints
-  - Github Git Solution
-  - Greatly improved medical personnel & patient experience at KRHH and proved
-    that Queue can work in a more complex healthcare site by delivering
-    multi-stage queues at Kranji Regional Health Hub.
-  - +45 point improvement over baseline patient NPS
-  - +59 point improvement over baseline medical personnel NPS
-  - "Experimentation: successful patient status pilot at TTSH:"
-  - +55% increase in NOK anxiety
-  - +90% increase in quality of info delivered to NOK
-  - +56% increase in overall experience at A&E
+  - Grew Queue from 9→22 active clinics
+  - Achieved 86k queue visits
+  - Deployed multi-stage queues at Kranji Regional Health Hub, increased patient
+    Net Promoter Score (NPS) from -9→35 (+45 points improvement which is really
+    good)
 quote: ""
 linkedinId: ""
 ---

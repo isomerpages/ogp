@@ -14,7 +14,11 @@ pastProducts:
   - ScamShield
   - ScamTech
 accomplishments:
-  - <none of my accomplishments should be public facing>
+  - Launched IMDA international call blocking pilot
+  - Provided product-market fit assessments and recommendations for government
+    tech projects, leading to >S$1M savings
+  - Helped simplify government senderID registration processes using
+    Postman.gov.sg
 quote: ""
 linkedinId: ""
 ---

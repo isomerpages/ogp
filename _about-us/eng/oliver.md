@@ -16,7 +16,11 @@ pastProducts:
   - CalSG
   - Queue
 accomplishments:
-  - I'll make a PR when I'm ready, thanks!
+  - Helped build cal.gov.sg, which launched to >110 use cases across 43 agencies
+    within half a year
+  - Designed and built an optimisation on HAS which improved time-slot
+    generation latency by 11x and throughput by 60x
+  - Core maintainer for mc.gov.sg, which handles ~1.8 million MCs annually
 quote: ""
 linkedinId: ""
 ---

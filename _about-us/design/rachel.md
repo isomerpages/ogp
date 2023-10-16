@@ -14,8 +14,14 @@ pastProducts:
   - Build Your Own Singaporean
   - HAS
 accomplishments:
-  - and creating a triaging flow that allows users to ask a question to any
-    agency. We also explored more forms of engagement on AskGov
+  - Represented OGP and Singapore at Config 23, Figma's global conference.
+    Crafted the content from scratch and shared insights on designing for public
+    good
+  - Designed the responsive flows of AskGov, a government forum. Conducted user
+    research to optimize workflows for citizens and officers. AskGov is now live
+    with 46 agencies onboard
+  - Assisted in improving the Health Appointment System by creating a more
+    delightful landing page for all our healthtech offerings
 quote: ""
 linkedinId: ""
 ---

@@ -7,7 +7,7 @@ staffId: ivan
 name: Ivan Ho
 joinDate: January 3, 2022
 functionId: eng
-jobTitle: Software Engineer
+jobTitle: Senior Software Engineer
 curProducts:
   - Parking.sg
 pastProducts:

@@ -7,7 +7,7 @@ staffId: chifa
 name: Chi Fa Foo
 joinDate: November 28, 2022
 functionId: eng
-jobTitle: Software Developer
+jobTitle: Software Engineer
 curProducts:
   - FormSG
 pastProducts: []

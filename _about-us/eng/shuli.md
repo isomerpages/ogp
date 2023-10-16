@@ -7,7 +7,7 @@ staffId: shuli
 name: Shu Li Teo
 joinDate: April 20, 2020
 functionId: eng
-jobTitle: Software Engineer
+jobTitle: Senior Software Engineer
 curProducts:
   - FormSG
   - Signify

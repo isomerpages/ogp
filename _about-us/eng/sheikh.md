@@ -7,7 +7,7 @@ staffId: sheikh
 name: Sheikh Bin Mohamed Aneess Alrragi
 joinDate: September 13, 2021
 functionId: eng
-jobTitle: Software Engineer
+jobTitle: Senior Software Engineer
 curProducts:
   - Pair
 pastProducts:

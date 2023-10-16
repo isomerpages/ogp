@@ -7,7 +7,7 @@ staffId: kennethchang
 name: Kenneth Chang
 joinDate: April 18, 2022
 functionId: ops
-jobTitle: Product Operations Specialist
+jobTitle: Senior Product Operations Specialist
 curProducts:
   - FormSG
 pastProducts: []
