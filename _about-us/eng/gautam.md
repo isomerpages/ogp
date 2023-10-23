@@ -15,7 +15,7 @@ accomplishments:
   - Revamping the entire frontend, parts of the backend and the UI/UX design for
     Armoury
   - Setting up every aspect of the production environment for Armoury, including
-    CI/CD workflow, unit & integration testing,  RUM, logging, custom domain
+    CI/CD workflow, unit & integration testing, RUM, logging, custom domain
     setup, db migration, sgid creds etc
   - Designing and implementing the Armoury data model (and API’s) to support
     versioning and consistent point-in-time queries of all entities

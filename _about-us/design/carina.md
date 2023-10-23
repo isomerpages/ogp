@@ -18,7 +18,7 @@ accomplishments:
   - Designing how RedeemSG can be self-service and supporting more voucher
     campaigns
   - "Paired up: did more pair designing, actively seeked help when I needed a
-    second pair of eyes, launched Pair Chat (ChatGPT for  government)"
+    second pair of eyes, launched Pair Chat (ChatGPT for government)"
   - Became a meme while presenting on stage at Figma Config 2023, because
     apparently I’m no economist
 quote: ""

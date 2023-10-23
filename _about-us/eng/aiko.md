@@ -16,7 +16,7 @@ pastProducts:
   - LetterSG
   - WizGov
 accomplishments:
-  - I have shipped 4 products (2 MVP)  in my first 4 months at the organisation.
+  - I have shipped 4 products (2 MVP) in my first 4 months at the organisation.
     LetterSG, OurStory, ExploreSG, Office Funds Pool
   - Despite coming from different technical background I was able improve my
     React/JS/HTML/CSS skills in the first couple of weeks/months to the point

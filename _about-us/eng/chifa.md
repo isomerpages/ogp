@@ -12,7 +12,7 @@ curProducts:
   - FormSG
 pastProducts: []
 accomplishments:
-  - Waiting Room V2!  Built a First-Come-First-Serve Waiting Room for NDP
+  - Waiting Room V2! Built a First-Come-First-Serve Waiting Room for NDP
     Heartland Ticketing Event to ease the flow of over 30k requests over 15mins
   - Multi Signatures for Signify! Extended Signify's current singular signature
     flow to allow admins to assign multiple signatures to their signees for

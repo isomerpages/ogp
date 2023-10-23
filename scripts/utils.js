@@ -25,7 +25,7 @@ export function getCleanList(items) {
         .split(/[\r\n]+/)
         .map(item => item.trim()
             .replace(/^[*•-]\s*/, '') // remove bullet points
-            .replace(/ +/, ' ') // collapse multi-spaces to single-space
+            .replace(/ {2,}/g, ' ') // collapse multi-spaces to single-space
         )
         .filter(v => v)
 }

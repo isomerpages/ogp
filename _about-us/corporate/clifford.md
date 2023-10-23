@@ -16,7 +16,7 @@ pastProducts:
   - Team health surveys/dashboards and interventions
 accomplishments:
   - Tech for Public Good Recruitment Bootcamp, and successfully co-led the TFPG
-    Recruitment bootcamp launch for  14 agencies & 40 attendees, upskilling them
+    Recruitment bootcamp launch for 14 agencies & 40 attendees, upskilling them
     on Recruitment & Employer branding best practices.
   - "Applicant Tracking System pilot launch: piloted the Commercial ATS
     initiative for select Agencies, in partnership with PSD to potentially scale

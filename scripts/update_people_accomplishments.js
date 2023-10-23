@@ -19,7 +19,7 @@ const csvContent = await readFile(`${SOURCE_ACHIEVEMENTS_CSV}`);
 const records = (await parseAsync(csvContent, {bom: true})).slice(1) // drop header
 
 // 1 generate the data file
-const namedRecords = records.map(([name, email, _func, jobTitle, accomplishments]) => {
+const namedRecords = records.map(([name, email, jobTitle, accomplishments]) => {
     const id = email.trim().split('@')[0].toLowerCase();
 
     const record = {
