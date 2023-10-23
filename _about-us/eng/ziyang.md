@@ -1,7 +1,7 @@
 ---
 title: Zi Yang See
 permalink: /people/ziyang
-description: "Zi Yang See - Software Engineer"
+description: Zi Yang See - Software Engineer
 third_nav_title: Software Engineering
 staffId: ziyang
 name: Zi Yang See
@@ -12,18 +12,17 @@ curProducts:
   - AskGov
 pastProducts: []
 accomplishments:
-  - Implemented various features for AskGov, including answer feedback, mobile
-    layouts, question topics, search functionality, rich text functionality, and
-    admin portal functionalities
-  - Improved the search functionality and revamped the admin portal which
-    empowered admins to do more on their agency page and allowed product
-    operations to be conducted more efficiently
-  - Took charge and addressed various security and privacy issues raised during
-    vulnerability assessments/penetration testing to ensure that AskGov is
-    secure and compliant with regulations
+  - Implemented the AskGov admin portal, empowering agencies to better manage
+    the content on their AskGov page and allowing product operations to be
+    conducted more efficiently
+  - Implemented various user facing features for AskGov, including question
+    topics, answer feedback, fuzzy search, rich text functionality, mobile
+    layouts and UI/UX improvements
+  - Contributed to the launch of AskGov 2.0, Introduced feature flagging to
+    AskGov and improved the security and privacy of AskGov by addressing issues
+    raised during VAPT
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

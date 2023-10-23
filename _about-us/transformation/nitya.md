@@ -1,7 +1,7 @@
 ---
 title: Nitya Menon
 permalink: /people/nitya
-description: "Nitya Menon - Assistant Director"
+description: Nitya Menon - Assistant Director
 third_nav_title: Policy & Transformation
 staffId: nitya
 name: Nitya Menon
@@ -14,14 +14,14 @@ pastProducts:
   - OGP-DIS collaboration
   - OGP Board of Advisors
 accomplishments:
-  - Integrated Whole-of-Government participation in Hack for Public Good to
-    inspire more hand-raisers across government to what is possible
-  - Launched OGP's inaugural board of advisors
-  - Collaborated with MINDEF/DIS to accelerate the formation and development of
-    tech teams and capabilities
+  - Incubating a tech team to explore and build products for problems facing
+    citizens and/or Singapore in the social and heritage space
+  - Launching a community of public sector change-makers to anchor, amplify and
+    accelerate Public Sector Digital Transformation
+  - Codifying policy approach in OGP on a number of issues that are critical for
+    the product-development cycle
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.transformation %}

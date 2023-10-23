@@ -1,7 +1,7 @@
 ---
 title: Clement Chia
 permalink: /people/clement
-description: "Clement Chia - Product Operations Specialist"
+description: Clement Chia - Product Operations Specialist
 third_nav_title: Product Operations
 staffId: clement
 name: Clement Chia
@@ -19,15 +19,18 @@ pastProducts:
   - Isomer Project Pancake
   - MindCraft
 accomplishments:
-  - Led product operations for GoGovSG, ForSG, and ForEduSG and increased user
-    base and new URLs steadily
-  - Co-created user research questions and arranged user interviews for
-    hackathon products, MindCraft and WizGov
-  - Monitored user feedback, support flow and worked on the visualisation of
-    product feedback and performance using Grafana dashboards for the Go suite
+  - Drove LetterSG’s launch and growth efforts by partnering with multiple
+    government agencies, resulting in the seamless onboarding of over 43
+    templates from 25 agencies
+  - Drove Highway's launch and growth efforts by sharing with multiple
+    government agencies, resulting in users onboarding from >120 agencies and
+    >6200 documents being collected
+  - Successfully launched the AskGov widget under WizGov for the ScamShield site
+    on production and other Isomer websites on staging, enhancing public
+    accessibility to critical information and interactivity of government
+    websites
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.ops %}

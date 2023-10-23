@@ -1,7 +1,7 @@
 ---
 title: Oliver Chan
 permalink: /people/oliver
-description: "Oliver Chan - Senior Software Engineer"
+description: Oliver Chan - Senior Software Engineer
 third_nav_title: Software Engineering
 staffId: oliver
 name: Oliver Chan
@@ -16,14 +16,13 @@ pastProducts:
   - CalSG
   - Queue
 accomplishments:
-  - Shipped multiple high-impact features for Primary Care, including unifying
-    settings pages across the admin console, enabling search by tags, building a
-    notes-only view, and releasing the general consultation feature
-  - Onboarded new engineers to mc.gov.sg to reduce bus factor
-  - Migrated CalSG to new infrastructure
+  - Helped build cal.gov.sg, which launched to >110 use cases across 43 agencies
+    within half a year
+  - Designed and built an optimisation on HAS which improved time-slot
+    generation latency by 11x and throughput by 60x
+  - Core maintainer for mc.gov.sg, which handles ~1.8 million MCs annually
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

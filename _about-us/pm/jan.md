@@ -1,7 +1,7 @@
 ---
 title: Jan Donyada
 permalink: /people/jan
-description: "Jan Donyada - Senior Product Manager"
+description: Jan Donyada - Senior Product Manager
 third_nav_title: Product Management
 staffId: jan
 name: Jan Donyada
@@ -15,14 +15,13 @@ pastProducts:
   - Diverter
   - Patient Status
 accomplishments:
-  - Successfully brought Queue from zero to one, and facilitated over 8,000
-    visits to 15 clinics within a month of launch
-  - Convinced health institutions to pilot products that help with diverting
-    non-emergency cases away from emergency departments and towards GPs
-  - Led the product management team through an SG2030 sprint / visioning workshop
+  - Grew Queue from 9→22 active clinics
+  - Achieved 86k queue visits
+  - Deployed multi-stage queues at Kranji Regional Health Hub, increased patient
+    Net Promoter Score (NPS) from -9→35 (+45 points improvement which is really
+    good)
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.pm %}

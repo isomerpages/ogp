@@ -1,7 +1,7 @@
 ---
 title: Yi Xin Ang
 permalink: /people/yixin
-description: "Yi Xin Ang - Lead Product Designer"
+description: Yi Xin Ang - Lead Product Designer
 third_nav_title: Product Design
 staffId: yixin
 name: Yi Xin Ang
@@ -16,14 +16,19 @@ pastProducts:
   - Redeem
   - PaySG
 accomplishments:
-  - Designed overall visual language for Vaccine Ops
-  - Launched NEA Campaign. Redeem Digital Vouchers accepted at various retailers
-    (Sheng Siong, Giant, NTUC, Courts, Gain City)
-  - Launched CDC Tranche 2 in Feb using Distribute app for tracking and new
-    feature for tagging of voucher booklets
+  - Design and launch DistributeSG - A goods distribution platform, DistributeSG
+    is supporting 2 nationwide campaigns this year, LKY Coins Distribution and
+    another yet to be announced / campaign
+  - Design and strategy for Secure Government Communications - How can we build
+    a secure government communications channel that citizens trust when they get
+    messages from government. This project is in development and going through
+    trials
+  - Provide design support and leadership in the Fintech and Scamtech vertical
+    so that as a vertical we have design representation, have cross functional
+    alignment for product strategy and resourcing, and create learning and
+    development opportunities for designers
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.design %}

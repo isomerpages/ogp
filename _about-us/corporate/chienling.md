@@ -1,13 +1,13 @@
 ---
 title: Chien Ling Ang
 permalink: /people/chienling
-description: "Chien Ling Ang - Manager (People)"
+description: Chien Ling Ang - Manager (People)
 third_nav_title: Corporate Team
 staffId: chienling
 name: Chien Ling Ang
 joinDate: August 10, 2021
 functionId: corporate
-jobTitle: Manager (People)
+jobTitle: Senior Manager (People)
 curProducts:
   - People Team
 pastProducts:
@@ -17,13 +17,12 @@ pastProducts:
   - HR operations and governance
   - Team communications
 accomplishments:
-  - Conceptualised and launched OGP’s referral programme
-  - Set-up and launched OGP’s allocation framework for hiring
-  - Spearheaded bulk of hiring operations and pipeline management to grow OGP by
-    more than 100 people from 2022-2023
+  - Saw through performance appraisal for 140 officers in Sep'23
+  - Organised quarterly townhalls and weekly friday closers
+  - Efficiently converting coffee and waffles into an understanding of the
+    people within the org
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.corporate %}

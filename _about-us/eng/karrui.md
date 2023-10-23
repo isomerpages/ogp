@@ -1,7 +1,7 @@
 ---
 title: Kar Rui Lau
 permalink: /people/karrui
-description: "Kar Rui Lau - Senior Software Engineer"
+description: Kar Rui Lau - Senior Software Engineer
 third_nav_title: Software Engineering
 staffId: karrui
 name: Kar Rui Lau
@@ -19,15 +19,14 @@ pastProducts:
   - Temperature
   - Tooling
 accomplishments:
-  - Frontend engineering work done on FormSG React and pushed it into production
-    with hardly any bugs
-  - Wrote complex features into FormSG Payments to enable agency's accounts to
-    their FormSG
-  - Worked on Care360 to optimise user experience by reducing lag and improved
-    frontend application usage
+  - Delivered Starter Kit (V2) to allow quick experimentation, propagate best
+    practices and improve baseline competencies
+  - Managed to get ActiveSG to a good baseline so as to be able to deliver the
+    best ActiveSG application for both MOPs and public officers
+  - Improve (frontend-focused) engineering standards via OGP Design System,
+    running sharings and ad-hoc mentoring/bug bashing
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

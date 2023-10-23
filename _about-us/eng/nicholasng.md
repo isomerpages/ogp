@@ -1,7 +1,7 @@
 ---
 title: Nicholas Ng
 permalink: /people/nicholasng
-description: "Nicholas Ng - Senior Software Engineer"
+description: Nicholas Ng - Senior Software Engineer
 third_nav_title: Software Engineering
 staffId: nicholasng
 name: Nicholas Ng
@@ -13,13 +13,14 @@ curProducts:
 pastProducts:
   - Care360
 accomplishments:
-  - Migrated Care360
-  - Served as feature captain for an entire Epic, and also integrated HSAR and
-    SmartCMS which impacts transparency in the healthcare sector
-  - Served as the main person of contact for VAPT
+  - Leading and delivering Medipay, a feature that improves cost transparency in
+    the healthcare space
+  - Introduced and detailed essential processes in the primary care team such as
+    incident response, deployment, and pull requests
+  - Tech lead for primary care, leading grooming, retro and sprint planning
+    sessions
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

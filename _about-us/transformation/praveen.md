@@ -1,7 +1,7 @@
 ---
 title: Praveen Raj Kumar
 permalink: /people/praveen
-description: "Praveen Raj Kumar - Head of Policy & Transformation"
+description: Praveen Raj Kumar - Head of Policy & Transformation
 third_nav_title: Policy & Transformation
 staffId: praveen
 name: Praveen Raj Kumar
@@ -12,14 +12,15 @@ curProducts: []
 pastProducts:
   - Healthtech
 accomplishments:
-  - Worked with Care360 team to launch in March 2023
-  - Worked with Primary Care team to launch Health Appointment System
-  - Expanded the use of HealthTech products with stakeholders and users (e.g.
-    Queue with SAF and MediPay/IRMS with MOH)
+  - Successfully refactored the separate Policy and Partnerships teams to the
+    new Policy & Transformation (P&T) Team
+  - Created the environment for the team to perform, and set the team up for
+    success
+  - Expanded OGP’s operating space in healthcare and continued the work on
+    transforming Government
 quote: knowing that every day we change government one happy interaction, one
   line of code, one $ saved at a time
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.transformation %}

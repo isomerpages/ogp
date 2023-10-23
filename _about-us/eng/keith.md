@@ -1,7 +1,7 @@
 ---
 title: Keith Chew
 permalink: /people/keith
-description: "Keith Chew - Software Engineer"
+description: Keith Chew - Software Engineer
 third_nav_title: Software Engineering
 staffId: keith
 name: Keith Chew
@@ -12,16 +12,14 @@ curProducts:
   - Go.gov.sg
 pastProducts: []
 accomplishments:
-  - Technical contributions to Pouch; Created file & folder creation components,
-    dashboard & user storage consumption component
-  - "Participated in DIS work streams & discussions:  involved in a number of
-    DIS work streams and discussions as part of the organisation's product
-    discovery phase and pathfinding"
-  - "Participated in pair-programming with other engineers for features such as:"
-  - Breadcrumbs navigation
+  - "GoGovSG - Admin APIs : Support direct GoGov short link generation for all
+    FormSG forms generated"
+  - "LetterSG - Template Creation Feature : Allowed the creation of letter
+    templates on LetterSG to onboard new agencies"
+  - "LetterSG - E2E Tests for Issuance flows and Citizen Views : Ensured
+    robustness, functionality, and quality of the product"
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

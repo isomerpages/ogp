@@ -1,7 +1,7 @@
 ---
 title: Christian Chow
 permalink: /people/christian
-description: "Christian Chow - Software Engineer"
+description: Christian Chow - Software Engineer
 third_nav_title: Software Engineering
 staffId: christian
 name: Christian Chow
@@ -12,14 +12,13 @@ curProducts:
   - Scamshield
 pastProducts: []
 accomplishments:
-  - Created a Telegram bot tool for checking scam tactics
-  - "Scamshield: Implemented overlay to notify users on old versions of the app
-    to update the app"
-  - Experimented with sentence similarity for classifying incoming free text
-    responses that describe scams
+  - Launched the ScamShield WhatsApp Bot to the public in Jul 2023
+  - Developed a phishing detection model to improve scam SMS detection on iOS
+    and Android devices
+  - Improved core ScamShield capabilities of (1) blocking scams on users’
+    devices and (2) facilitating blocking by the SPF
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

@@ -6,3 +6,4 @@ _site
 .DS_Store
 node_modules
 .jekyll-cache
+scripts/accomplishment_updates.csv

@@ -1,7 +1,7 @@
 ---
 title: Ajayraj Singh
 permalink: /people/ajayraj
-description: "Ajayraj Singh - Product Operations Specialist"
+description: Ajayraj Singh - Product Operations Specialist
 third_nav_title: Product Operations
 staffId: ajayraj
 name: Ajayraj Singh
@@ -15,12 +15,11 @@ pastProducts:
   - Healthtech
   - Sync
 accomplishments:
-  - Scoped and secured new agencies to AskGov
-  - Debugged AskGov and managed onboarding for new users
-  - Migrated AskGov Portal 1.0 to Portal 2.0
+  - Fronting AskGov adoption for agencies with 46 currently onboarded
+  - Getting agencies to post publicly available information on AskGov
+  - Launching Armoury to all 23 Fire Stations supporting 200 appliances
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.ops %}

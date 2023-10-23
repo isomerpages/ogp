@@ -1,7 +1,7 @@
 ---
 title: Cheryl Lee
 permalink: /people/cheryl
-description: "Cheryl Lee - Senior Manager"
+description: Cheryl Lee - Senior Manager
 third_nav_title: Product Management
 staffId: cheryl
 name: Cheryl Lee
@@ -13,11 +13,15 @@ curProducts:
 pastProducts:
   - Marketing
 accomplishments:
-  - Worked to get widespread media coverage for Hack for Public Good 2023, with
-    7 media outlets covering the hackathon
-  - Integrated product marketing into the HAS roll-out efforts, leading to
-    widespread media coverage and marketing events to accelerate vaccine
-    appointment booking
+  - Built and launched MediPay in three months, a product that provides patients
+    with cost and subsidy transparency across a range of medical services ahead
+    of a patient’s visit to the clinic. Benefitted more than 6,000 patients and
+    counting
+  - Uphold robustness of Singapore’s housing policy by keeping access to public
+    housing fair and equitable and preventing monetisation of public housing
+  - Leveraged my expertise in marketing to drive user adoption and growth for
+    the Health Appointment System, from mainstream media coverage, digital
+    marketing to speaking at events
 quote: ""
 linkedinId: ""
 ---

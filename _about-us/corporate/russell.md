@@ -1,7 +1,7 @@
 ---
 title: Russell Chan
 permalink: /people/russell
-description: "Russell Chan - Head of People"
+description: Russell Chan - Head of People
 third_nav_title: Corporate Team
 staffId: russell
 name: Russell Chan
@@ -11,18 +11,21 @@ jobTitle: Head of People
 curProducts: []
 pastProducts: []
 accomplishments:
-  - Grew the People team from an individual contributor practice to a team of 4
-    today
-  - Helped to scale OGP from 25 (2019) to >170 (2023)
-  - Worked on organisation design shifts and levers (e.g. compensation schemes,
-    performance management, management practices, resource allocation) to adapt
-    to OGP's shifting organisation size and context
+  - Launched OGP Profile Pages to publicly celebrate the work of every OGP
+    officer over the time they spend with us
+  - Worked with the People Team, PSD, and other government agencies to
+    greenlight a groundbreaking trial of applicant tracking systems to improve
+    government hiring
+  - Conceptualised and worked with other OGP members to run several initiatives
+    to celebrate public impact of OGP officers' work (Wall of Good) as well as
+    keep OGP officers continually connected to the public we serve to better
+    understand problems and opportunities (OGP volunteering, OGP
+    in-the-community events)
 quote: I joined OGP in 2019, and have stayed since then because I think it is
   the government’s best shot today at breaking the mould on trying new ways for
   government organisations to work better, so that we can be a better public
   service.
 linkedinId: russellchanyd
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.corporate %}

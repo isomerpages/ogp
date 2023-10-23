@@ -1,7 +1,7 @@
 ---
 title: Jen Wei Niam
 permalink: /people/jenwei
-description: "Jen Wei Niam - Software Engineer"
+description: Jen Wei Niam - Software Engineer
 third_nav_title: Software Engineering
 staffId: jenwei
 name: Jen Wei Niam
@@ -14,13 +14,11 @@ pastProducts:
   - CorpTech
   - HealthTech
 accomplishments:
-  - Handled migrations, integrations, and launch schedule for Care360
-  - Onboarded new Care360 engineers and PM as the engineering manager of the team
-  - Migrated Covid ops databases and improved alarms, monitoring, and query
-    performance for Covid operations
+  - Handled migrations, integrations, and launched Care360 to all public
+    healthcare institutions in Singapore
+  - Onboarded new Care360 engineers and PM as the team's engineering manager
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

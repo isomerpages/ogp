@@ -1,7 +1,7 @@
 ---
 title: Caleb Chiam
 permalink: /people/caleb
-description: "Caleb Chiam - Software Engineer"
+description: Caleb Chiam - Software Engineer
 third_nav_title: Software Engineering
 staffId: caleb
 name: Caleb Chiam
@@ -12,15 +12,18 @@ curProducts:
   - Care360
 pastProducts: []
 accomplishments:
-  - Improved frontend coding standards by introducing a cleaner frontend
-    component directory structure
-  - Worked on data migration efforts from existing healthcare systems, and
-    supported user testing / training sessions at the various healthcare
-    institutions where Care360 was launched
-  - Led the InternalFunds sprint
+  - Led and architected the Case Assignment feature, which introduced a logic
+    builder for institutions to automatically assign patient cases to Medical
+    Social Workers
+  - Designed and implemented the Reports Generation feature, which exports key
+    data for public healthcare institutions to understand workload distribution
+    and staff productivity
+  - Coordinated with external stakeholders in integrations with external systems
+    (e.g. upcoming Billing Transformation), weekly data migration efforts as
+    part of Care360's progressive rollout, and upcoming Care360 expansions into
+    other healthcare institutions
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

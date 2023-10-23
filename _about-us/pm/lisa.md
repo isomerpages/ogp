@@ -1,7 +1,7 @@
 ---
 title: Lisa Tjide
 permalink: /people/lisa
-description: "Lisa Tjide - Senior Product Manager"
+description: Lisa Tjide - Senior Product Manager
 third_nav_title: Product Management
 staffId: lisa
 name: Lisa Tjide
@@ -21,14 +21,13 @@ pastProducts:
   - Touchpoint
   - DigiMC
 accomplishments:
-  - Onboarded a major ICA project to Postman for up to 146M emails to be sent a
-    year, leading to significant cost savings of at least S$500k
-  - Launched Scheduled Sending on Postman, a top-requested feature from users
-  - Deprecated Touchpoint successfully with minimal disruption to business
-    stakeholders and users
+  - Launched Programmatic Email API to WOG - this will help agencies reduce the
+    cost of sending programmatic email by 100x
+  - Led a new team to explore new problem space in government communications by
+    launching 5 experiments and pivoting quickly to figure out the key valuable
+    areas to invest in
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.pm %}

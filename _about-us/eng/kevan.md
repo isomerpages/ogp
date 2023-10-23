@@ -1,7 +1,7 @@
 ---
 title: Kevan Tan
 permalink: /people/kevan
-description: "Kevan Tan - Senior Software Engineer"
+description: Kevan Tan - Senior Software Engineer
 third_nav_title: Software Engineering
 staffId: kevan
 name: Kevan Tan
@@ -15,13 +15,18 @@ curProducts:
   - Parking.SG
 pastProducts: []
 accomplishments:
-  - Prototyped and built out RedeemSG cdc-voucher systems
-  - Implemented the PaySG frontend application and was involved in the design of
-    the overall architecture
-  - Integrated merchants into RedeemSG
+  - Built out DistributeSG for the LKY Coin distribution with a small team
+  - First OGP product to launch to production on DigitalOcean, and first OGP
+    product to have one codebase (using Expo) to deploy on 3 platforms (iOS +
+    Android + Web), and worked to enable knowledge transfer across teams despite
+    FinScam comprising >6 different products
+  - Worked on a platform for engineers to share knowledge and postmortems in
+    detail (Best practices for setting up Datadog, Ivan’s sharing on FinScam AWS
+    Infra etc.), and helped out FinScam team members from other products eg.
+    Redeem engineers, helped with debugging of Pair DNS resolution error, also
+    debugged with SGC team
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

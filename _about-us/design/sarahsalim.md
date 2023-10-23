@@ -1,7 +1,7 @@
 ---
 title: Sarah Salim
 permalink: /people/sarahsalim
-description: "Sarah Salim - Lead Product Designer"
+description: Sarah Salim - Lead Product Designer
 third_nav_title: Product Design
 staffId: sarahsalim
 name: Sarah Salim
@@ -26,9 +26,9 @@ pastProducts:
   - Data.gov.sg
   - Beeline
 accomplishments:
-  - Collaborated with cross-functional teams to improve community engagement
-    through initiatives like Build For Good, Digital 4 Good, and HealthTech
-    Sprint
+  - Help advance OGP's mission of transparency and accountability in government
+    through tooling team efforts in OGP product report cards and officers’
+    profile pages
   - Shared OGP design practices at external events, including a lightning talk
     at Product Design Singapore and hosting a design networking session at
     Foodpanda
@@ -36,7 +36,6 @@ accomplishments:
     vertical
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.design %}
