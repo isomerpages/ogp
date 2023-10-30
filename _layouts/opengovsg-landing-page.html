@@ -60,34 +60,30 @@ layout: skeleton
         line-height: calc(5px + 3.5vw);
         color: rgb(39, 110, 241);
     }
-    
+
     .no-tall-banner {
         height: auto !important;
         min-height: auto !important;
     }
-    
+
     .scrolling-words-box ul {
         padding: 0;
         animation: scrollUp 5s infinite;
     }
 
     @keyframes scrollUp {
-        10%, 20% {
-            transform: translateY(-16.666%);
+        12.5%, 25% {
+            transform: translateY(-20%);
         }
-        30%, 40% {
-            transform: translateY(-33.333%);
+        37.5%, 50% {
+            transform: translateY(-40%);
         }
-        50%, 60% {
-            transform: translateY(-49.999%);
+        62.5%, 75% {
+            transform: translateY(-60%);
         }
-        70%, 80% {
-            transform: translateY(-66.665%);
+        87.5%, 100% {
+            transform: translateY(-80%);
         }
-        90%, 100% {
-            transform: translateY(-83.331%);
-        }
-
     }
 
 </style>
