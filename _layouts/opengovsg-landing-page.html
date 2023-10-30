@@ -15,16 +15,10 @@ layout: skeleton
         -webkit-background-size: cover;
         background-size: cover;
     }
-    
-    .hero-text-container {
-        /* Banner is 450px, padding-top/bottom is 3rem each */
-        top: 260px;
-        transform: translateY(-50%);
-    }
 
     @media screen and (max-width: 658px) {
       .hero-text-container {
-        top: 175px;
+        top: 175px; /* this is bad, we should have a flex vertical center align instead */
       }
 
       div #big-text {
