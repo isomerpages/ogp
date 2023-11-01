@@ -1,0 +1,90 @@
+<!-- Template adopted from https://github.com/isomerpages/astar-nrp/blob/staging/_includes/products.html -->
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@900&display=swap');
+
+    h5.product-category {
+      color: #323232;
+      font-weight: 600;
+      margin-bottom: 1.25rem;
+    }
+
+    .products {
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+    }
+
+    a.product {
+      position: relative;
+      display: flex;
+      align-items: center;
+      justify-content: flex-start;
+      width: 190px;
+      border-radius: 4px;
+      padding: 16px 24px;
+      border: 1px solid #E8E9F0;
+      margin-bottom: 0;
+      text-decoration: none;
+    }
+
+    a.product:hover {
+      border: 1px solid #005DEA;
+      text-decoration: none;
+    }
+
+    a.product:active {
+      background: rgba(19, 97, 240, 0.12);
+    }
+
+    img.product-icon {
+      height: auto;
+      width: auto;
+      max-height: 24px;
+      max-width: 24px;
+      margin-top: 0;
+      margin-bottom: 0;
+      margin-left: 0;
+      margin-right: 16px;
+    }
+
+    .product-title {
+      font-family: "Lato", sans-serif;
+      font-size: 16px;
+      color: black;
+    }
+
+    @media only screen and (max-width: 600px) {
+      a.product {
+        width: 160px;
+        padding: 16px 16px;
+      }
+    }
+
+    @media only screen and (max-width: 400px) {
+      a.product {
+        width: 150px;
+        padding: 16px 12px;
+      }
+
+      img.product-icon {
+        height: 24px;
+        width: 24px;
+      }
+    }
+</style>
+
+{%- assign products = include.products | where: "category", "productivity" -%}
+{% include products_section.html products=products sectionTitle="Productivity Tools for Public Officers" %}
+
+{%- assign products = include.products | where: "category", "gov-digital-infrastructure" -%}
+{% include products_section.html products=products sectionTitle="Government Digital Infrastructure" %}
+
+{%- assign products = include.products | where: "category", "anti-scam" -%}
+{% include products_section.html products=products sectionTitle="Anti-Scam" %}
+
+{%- assign products = include.products | where: "category", "payments" -%}
+{% include products_section.html products=products sectionTitle="Payments" %}
+
+{%- assign products = include.products | where: "category", "healthcare" -%}
+{% include products_section.html products=products sectionTitle="Healthcare" %}

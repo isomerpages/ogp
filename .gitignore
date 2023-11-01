@@ -1,0 +1,9 @@
+*.gem
+.bundle
+.sass-cache
+_site
+*.DS_Store
+.DS_Store
+node_modules
+.jekyll-cache
+scripts/accomplishment_updates.csv

@@ -1,0 +1,328 @@
+---
+layout: skeleton
+---
+
+
+<style>
+    .bg-hero {
+        background: url('{{site.baseurl}}/images/home-banner-edited.png') no-repeat top center;
+        -webkit-background-size: cover;
+        background-size: cover;
+    }
+
+    .bg-hero-bottom {
+        background: url('{{site.baseurl}}/images/peoplepattern.png') no-repeat top left;
+        -webkit-background-size: cover;
+        background-size: cover;
+    }
+
+    @media screen and (max-width: 658px) {
+      .hero-text-container {
+        top: 175px; /* this is bad, we should have a flex vertical center align instead */
+      }
+
+      div #big-text {
+        font-size: 28.03px;
+        padding-left: 0.5em;
+      }
+    
+      span .scrolling-words-box {
+        height: 32.6328px;
+      }
+    
+      span .scrolling-words-box ul li {
+        height: 32.6328px;
+        font-size: 28.03px;
+        line-height: 28.03px;
+      }
+    }
+    
+    #big-text {
+        font-size: calc(5px + 3.5vw);
+    }
+    
+    .scrolling-words-box {
+        margin-top: .2em;
+        height: calc(5px + 4.2vw);
+        overflow: hidden;
+        
+    }
+    
+    .scrolling-words-box ul li {
+        display: flex;
+        align-items: center;
+        justify-content: flex-start;
+        height: calc(5px + 4.2vw);
+        margin-top: -0.15vw;
+        margin-bottom: 0.3vw;
+        list-style: none;
+        font-size: calc(5px + 3.5vw);
+        line-height: calc(5px + 3.5vw);
+        color: rgb(39, 110, 241);
+    }
+
+    .no-tall-banner {
+        height: auto !important;
+        min-height: auto !important;
+    }
+
+    .scrolling-words-box ul {
+        padding: 0;
+        animation: scrollUp 4s infinite;
+    }
+
+    @keyframes scrollUp {
+        12.5%, 25% {
+            transform: translateY(-20%);
+        }
+        37.5%, 50% {
+            transform: translateY(-40%);
+        }
+        62.5%, 75% {
+            transform: translateY(-60%);
+        }
+        87.5%, 100% {
+            transform: translateY(-80%);
+        }
+    }
+
+</style>
+
+<section class="bp-hero bg-hero">
+    <div class="bp-hero-body" style="min-height: 450px">
+        <div class="bp-container hero-text-container">
+            <div class="row is-vcentered is-centered ma no-tall-banner">
+            </div>
+            <div id="big-text">
+                <span class="" style=" font-weight: 900; font-style: normal; color: black; text-decoration: none; display:flex;">
+                  At OGP, we
+                </span>
+                <span class="" style=" font-weight: 900; font-style: normal; color: black; text-decoration: none; display:flex;"> 
+                    <div class="scrolling-words-box">
+                        <ul>
+                            <li>build tech</li>
+                            <li>fight scams</li>
+                            <li>automate work</li>
+                            <li>hack</li>
+                            <li>build tech</li>
+                        </ul>
+                    </div>
+                  <br>
+                </span>
+                <span style=" font-weight: 900; font-style: normal; color: black; text-decoration: none;">for</span><span class="" style=" font-weight: 900; font-style: normal; color: rgb(39, 110, 241); text-decoration: none;"> public good<br/></span>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+<section class="bp-section" style="padding-top:0">
+    <div class="bp-container padding--bottom—lg">
+         <div class="col is-8 is-offset-2 has-text-centered padding--top--xl">
+                <h1 class="padding--top padding--bottom has-text-secondary"><b>Solving problems for citizens of Singapore</b></h1>
+            </div>
+        <div class="row margin--top padding--bottom">
+            <div class="col is-one-third">
+                <a href="https://www.open.gov.sg/products/parkingsg/">
+                <div class="text-card is-white">
+                    <center><img class="text-card-icon padding--bottom--sm" src="{{site.baseurl}}/images/parking_photo.png" alt="ParkingSG faciliating parking in Singapore" style="border-radius:15px" /></center>
+                   <h4 class="padding--top has-text-secondary padding--bottom"><b><center>ParkingSG</center></b></h4>
+                    <center><p class="has-text-grey">Eliminating the need for parking coupons or rushing to extend parking sessions</p></center>
+                </div>
+                </a>
+            </div>
+            
+            <div class="col is-one-third">
+                <a href="https://www.open.gov.sg/products/scamshield">
+                <div class="text-card is-white">
+                    <center><img class="text-card-icon padding--bottom--sm" src="{{site.baseurl}}/images/scamhome.png" alt="ScamShield fighting scams in Singapore" style="border-radius:15px"/></center>
+                    <h4 class="padding--top has-text-secondary padding--bottom"><b><center>ScamShield</center></b></h4>
+                    <center><p class="has-text-grey">Protecting citizens from scams by detecting, blocking and reporting scam SMSes and calls</p></center>
+                </div>
+                </a>
+            </div>
+            
+            <div class="col is-one-third">
+                <a href="https://www.open.gov.sg/products/redeemsg/">
+                <div class="text-card is-white">
+                    <center><img class="text-card-icon padding--bottom--sm" src="{{site.baseurl}}/images/redeemhome2.png" alt="RedeemSG in action in Singapore hawker centres" style="border-radius:15px" /></center>
+                   <h4 class="padding--top has-text-secondary padding--bottom"><b><center>RedeemSG</center></b></h4>
+                    <center><p class="has-text-grey">Digitalising a voucher redemption system that facilitate government fiscal policy</p></center>
+                </div>
+                   
+            </div>
+                </a>
+        </div>
+        
+       
+    </div>
+    
+     
+           
+</section>
+
+<section class="bp-section" style="padding-top:0; background-color: #F7F9FE;">
+    <div class="bp-container padding--bottom--lg">
+         <div class="col is-8 is-offset-2 has-text-centered padding--top--xl">
+                <h1 class="padding--top padding--bottom has-text-secondary"><b>Creating tools for public officers</b></h1>
+            </div>
+        <div class="row margin--top padding--bottom">
+            <div class="col is-half">
+               
+                <div class="text-card is-white">
+                    <center><img class="text-card-icon padding--bottom--sm" src="{{site.baseurl}}/images/formhomepg.png" alt="Contact our team at Open Government Singapore" style="border-radius:15px; width:70%; height:50%;" /></center>
+                    <h4 class="padding--top has-text-secondary padding--bottom"><b><center>For a more efficient government</center></b></h4>
+                    <center><p class="has-text-grey">Collecting over 150 million form responses with  <a href="https://www.open.gov.sg/products/formsg/">FormSG</a> and launching informational sites quickly with <a href="https://www.open.gov.sg/products/isomer/">Isomer</a> 
+</p></center>
+                  
+                </div>
+                
+            </div>
+            
+           <div class="col is-half">
+                 
+                <div class="text-card is-white">
+                    <center><img class="text-card-icon padding--bottom--sm" src="{{site.baseurl}}/images/trust.png" alt="Teaching seniors about technology in Singapore" style="border-radius:15px; width:70%; height:50%;"/></center>
+                    <h4 class="padding--top has-text-secondary padding--bottom"><b><center>For trusted communications with citizens in Singapore</center></b></h4>
+                    <center><p class="has-text-grey">Creating over 367k secure short links with <a href="https://www.open.gov.sg/products/gogovsg/">GoGovSG</a> and sending over 1.3 million messages with <a href="https://www.open.gov.sg/products/postman/">Postman</a>
+</p></center>
+                </div>
+            </div>
+            
+        </div>
+             <div class="col is-8 is-offset-2 has-text-centered padding--top--xl has-text-secondary">
+             
+                <a href="{{site.baseurl}}/products/">
+                       <button class="bp-button is-uppercase cta-button" target="_blank">
+                       All products
+                    </button>
+                </a> 
+            </div>
+    </div>
+</section>
+
+
+<section class="bp-section padding--left--none padding--right--none" style="background-color:#000000; padding-top:0; padding-bottom:0">
+        <div class="bp-container product-container">
+ <div class="row product-row padding--top--xl">
+     
+        <div class="col is-half padding--top--xl padding--bottom--xl product-image" style="background-image: url('{{site.baseurl}}/images/hfpg3.png');">
+            </div>
+            <div class="col is-half padding--top--lg padding--bottom--lg padding--left--xl padding--right--xl">
+                <h1 class="has-text-secondary padding--bottom"><b>Hacking for public good</b></h1>
+                <p class="has-text-white">We believe in starting where the problems are - on the ground.  70% of our products come from our annual Hack for Public Good, where we build products to solve problems in the community.</p>
+                <br>
+                <a href="{{site.baseurl}}/hackathon/2022" class="padding--top--lg padding--bottom is-block">
+                      <button class="bp-button is-white is-outlined is-uppercase search-button">
+                        Learn More
+                    </button>
+                </a>
+            </div>
+        </div>
+        
+        </section>
+    
+    <section class="bp-section padding--left--none padding--right--none" style="background-color:#ffffff; padding-top:0; padding-bottom:0">
+        <div class="bp-container product-container">
+ <div class="row product-row padding--top--xl">
+            <div class="col is-half padding--top--lg padding--bottom--lg padding--left--xl padding--right--xl">
+                <h1 class="has-text-secondary padding--bottom "><b>An open work culture</b></h1>
+                <br>
+
+               
+<h5 class="has-text-secondary padding--bottom "><b>Push for change</b></h5>
+<p class="has-text-grey">Cut through bureaucracy to create solutions that people actually need.</p>
+                <br>
+<h5 class="has-text-secondary padding--bottom "><b>Autonomy</b></h5>
+               <p class="has-text-grey">Approach problems from the grounds-up. Product teams decide how to maximise impact. </p>
+                  <br>
+<h5 class="has-text-secondary padding--bottom "><b>Transparency</b></h5>
+                <p class="has-text-grey">Clear frameworks for all hiring, performance, and compensation matters. </p>
+
+
+                <a href="{{site.baseurl}}/about-us/" class="padding--top--lg padding--bottom is-block">
+                      <button class="bp-button is-uppercase cta-button" target="_blank">
+                        Learn More
+                    </button>
+                </a>
+        </div>
+        <div class="col is-half padding--top--xl padding--bottom--xl product-image" style="background-image: url('{{site.baseurl}}/images/culture.png')">
+            </div>
+        </div>
+        
+  </section>
+       
+
+
+
+<section class="bp-section" style="padding-top:0; background-color: #F7F9FE;">
+    <div class="bp-container padding--bottom—lg" style="background-colour: #F7F9FE">
+         <div class="col is-8 is-offset-2 has-text-centered padding--top--xl">
+                <h1 class="padding--top padding--bottom has-text-secondary"><b>Partners we work with</b></h1>
+            </div>
+        <div class="row margin--top padding--bottom">
+            <div class="col is-one-quarter">
+                <div class="text-card is-white">
+                    <center><img class="text-card-icon padding--bottom--sm" src="{{site.baseurl}}/images/MOH.png" /></center>
+                    
+                </div>
+            </div>
+            
+           <div class="col is-one-quarter">
+                <div class="text-card is-white">
+                    <center><img class="text-card-icon padding--bottom--sm" src="{{site.baseurl}}/images/ncpc.png"/></center>
+                   
+                </div>
+            </div>
+
+<div class="col is-one-quarter">
+                <div class="text-card is-white">
+                    <center><img class="text-card-icon padding--bottom--sm" src="{{site.baseurl}}/images/cdc.png"/></center>
+                   
+                </div>
+            </div>
+
+<div class="col is-one-quarter">
+                <div class="text-card is-white">
+                    <center><img class="text-card-icon padding--bottom--sm" src="{{site.baseurl}}/images/spf.png"/></center>
+                   
+                </div>
+            </div>
+            
+        </div>
+        
+        <div class="col is-8 is-offset-2 has-text-centered padding--top--lg padding--bottom--lg has-text-secondary" style="padding-top:0">
+               
+                <a href="{{site.baseurl}}/partnerwithus/">
+                       <button class="bp-button is-uppercase cta-button" target="_blank">
+                      Find out more
+                    </button>
+                </a> 
+            </div>
+    </div>
+</section>
+        
+        <section class="bp-section padding--left--none padding--right--none" style="background-color:#276EF1; padding-top:0; padding-bottom:0">
+        <div class="bp-container product-container">
+ <div class="row product-row padding--top--xl">
+            <div class="col is-half padding--top--lg padding--bottom--lg padding--left--xl padding--right--xl">
+                <h1 class="has-text-white"><b>Build with us</b></h1>
+                <br> 
+               
+
+<p class="has-text-white">Work on meaningful projects from healthcare to anti-scam technology. Use your skills to fix actual problems in the community and build a better Singapore.</p>
+              <br>
+           
+
+                <a href="https://opengovernmentproducts.recruitee.com/#section-89477" class="padding--top--lg padding--bottom is-block">
+                      <button class="bp-button is-uppercase cta-button" target="_blank">
+                        Apply now
+                    </button>
+                </a>
+        </div>
+        <div class="col is-half padding--top--xl padding--bottom--xl product-image" style="background-image: url('{{site.baseurl}}/images/teampic2.png');">
+            </div>
+        </div>
+        
+  </section>

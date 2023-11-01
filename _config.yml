@@ -1,0 +1,57 @@
+title: Open Government Products
+description: Open Government Products builds technology solutions for public
+  good. We aim to accelerate the digital transformation of the Singapore
+  Government.
+url: https://open.gov.sg
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+remote_theme: isomerpages/isomerpages-template@next-gen
+safe: false
+custom_css_path: /misc/custom.css
+favicon: /images/favicon.png
+google-analytics: null
+permalink: none
+baseurl: ""
+colors:
+  primary-color: "#000000"
+  secondary-color: "#276ef1"
+  media-colors:
+    - title: media-color-one
+      color: "#49759a"
+    - title: media-color-two
+      color: "#744d9f"
+    - title: media-color-three
+      color: "#00838f"
+    - title: media-color-four
+      color: "#00838f"
+    - title: media-color-five
+      color: "#00838f"
+  function-colors:
+    corporate: "#1361F0"
+    design: "#2D978C"
+    eng: "#E74F4F"
+    ops: "#5D6785"
+    pm: "#C4992A"
+    transformation: "#272D41"
+google_analytics: UA-189280200-1
+staging: https://ogp-staging.netlify.app
+prod: https://isomer-opengovsg-prod.netlify.app
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
+resources_name: Media
+facebook-pixel: "222586750799177"
+linkedin-insights: "3782946"
+exclude:
+  - scripts
+include:
+  - _redirects
+shareicon: /images/isomer-logo.svg
+is_government: true
+google_analytics_ga4: G-PECHXJ1ZZC

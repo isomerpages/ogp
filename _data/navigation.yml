@@ -1,0 +1,32 @@
+logo: /images/ogp-logo-spacing.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: Careers
+    url: /careers/product-manager/
+    collection: careers
+  - title: Products
+    collection: products
+  - title: Hack for Public Good
+    url: https://hack.gov.sg
+  - title: Developers
+    url: /resources/opensource
+    sublinks:
+      - title: Open Source
+        url: /resources/opensource
+      - title: Product status
+        url: https://status.open.gov.sg/
+  - title: Newsroom
+    url: /media
+    sublinks:
+      - title: Media
+        url: /media/
+      - title: Blog
+        url: https://medium.com/open-government-products
+  - title: Contact
+    url: /contact-us/
+    sublinks:
+      - title: Partner with us
+        url: /partnerwithus
+      - title: Contact us
+        url: /contact-us/

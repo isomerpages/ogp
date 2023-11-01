@@ -1,0 +1,5 @@
+collections:
+  all-roles:
+    output: true
+    order:
+      - Roles.md
