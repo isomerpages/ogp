@@ -1,3 +1,12 @@
+- id: armoury
+  title: Armoury
+  alias:
+    - Armoury
+  category: productivity
+  image: https://file.go.gov.sg/armoury-logo.png
+  sum: Inventory and checklist tool for Government
+  link: https://products.open.gov.sg/armoury
+
 - id: askgov
   title: AskGov
   alias:
@@ -113,6 +122,15 @@
   image: https://file.go.gov.sg/postman-icon.png
   sum: An omnichannel communication tool for the Singapore Government
   link: https://products.open.gov.sg/postman
+
+- id: signify
+  title: Signify
+  alias:
+    - Signify
+  category: productivity
+  image: https://file.go.gov.sg/signify-s-logo.png
+  sum: Platform that allows public officers to collect electronic signatures
+  link: https://products.open.gov.sg/signify
 
 - id: scamshield
   title: ScamShield
