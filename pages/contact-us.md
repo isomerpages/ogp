@@ -9,7 +9,7 @@ variant: markdown
 You can find us on [Facebook,](https://www.facebook.com/opengovsg/) [LinkedIn](https://www.linkedin.com/company/open-government-products), [Instagram](https://www.instagram.com/opengovsg/),  [TikTok](https://www.tiktok.com/@opengovsg), and [Medium](https://medium.com/open-government-products)
 
 ### **Subscribe to OGP newsletter**
-Sign up to receive email updates on how we build technology for public good, as well as latest product updates, behind-the-scene stories, event invitations, and more.
+Sign up now to receive email newsletters on how we build technology for public good, as well as latest product updates, behind-the-scene stories, event invitations, and more.
 
 <a href="https://form.gov.sg/654c40ef862b4800122fa177" class="padding--top padding--bottom is-inline-block">
                 <button class="bp-button is-secondary is-medium has-text-white is-uppercase search-button">
