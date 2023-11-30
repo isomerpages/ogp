@@ -12,7 +12,7 @@ curProducts:
   - Policy & Transformation
 pastProducts:
   - OGP-DIS collaboration
-  - OGP Board of Advisors
+  - Hack for Public Good 2023
 accomplishments:
   - Incubating a tech team to explore and build products for problems facing
     citizens and/or Singapore in the social and heritage space
