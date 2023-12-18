@@ -3,12 +3,13 @@ title: Care360
 permalink: /our-products/care360/
 description: "Care360: a patient management system for Medical Social Workers"
 image: /images/care360 hero banner.png
+variant: markdown
 ---
 ![Care360 Hero Banner](/images/care360%20hero%20banner.png)
 ### A patient management system for Medical Social Workers
 
 #### Background 
-Care360 is a patient management system for Medical Social Workers (MSWs) that supports planning and managemenent of patients' psychosocial and/or financial care.
+Care360 is a patient management system for Medical Social Workers (MSWs) that supports planning and management of patients' psychosocial and/or financial care.
 
 
 #### Solution
