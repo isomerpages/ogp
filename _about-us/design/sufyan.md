@@ -9,7 +9,7 @@ joinDate: August 7, 2023
 functionId: design
 jobTitle: Senior Product Designer
 curProducts:
-  - PaySG
+  - SGID
 pastProducts: []
 accomplishments:
   - i'm new, watch this space!
