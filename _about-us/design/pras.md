@@ -1,15 +1,15 @@
 ---
-title: Sufyan Bin Selamet
-permalink: /people/sufyan
-description: "Sufyan Bin Selamet - Senior Product Designer"
+title: Prasanth Kumaar
+permalink: /people/pras
+description: "Prasanth Kumaar - Product Designer"
 third_nav_title: Product Design
-staffId: sufyan
-name: Sufyan Bin Selamet
-joinDate: August 7, 2023
+staffId: pras
+name: Prasanth Kumaar
+joinDate: September 6, 2023
 functionId: design
-jobTitle: Senior Product Designer
+jobTitle: Product Designer
 curProducts:
-  - PaySG
+  - Postman
 pastProducts: []
 accomplishments:
   - i'm new, watch this space!
