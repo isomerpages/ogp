@@ -11,14 +11,14 @@ jobTitle: Head of Product Design
 curProducts: []
 pastProducts: []
 accomplishments:
-  - Expanding the design leadership team through hiring and coaching
+  - Expanding the design leadership team through hiring and coaching.
   - Pushing forward an effort to rewrite the Product Design Career Schema at OGP
-    to provide better clarity on professional development for the design team
+    to provide better clarity on professional development for the design team.
   - Expanding our design capabilities and bringing in a new User Research
-    Specialist function
+    Specialist function.
 quote: Knowing that the work we do has an impact on our friends, neighbours, and
   family.
-linkedinId: ""
+linkedinId: "bowesdesign"
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.design %}
