@@ -11,9 +11,9 @@ jobTitle: Design Manager
 curProducts: []
 pastProducts: []
 accomplishments:
-- i'm new, watch this space!
+  - I'm new, watch this space!
 quote: ""
-linkedinId: ""
+linkedinId: "slidbook"
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.design %}
