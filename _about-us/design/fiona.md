@@ -12,7 +12,7 @@ curProducts:
   - UX Research
 pastProducts: []
 accomplishments:
-  - i'm new, watch this space!
+  - I'm new, watch this space!
 quote: ""
 linkedinId: ""
 
