@@ -28,12 +28,12 @@ pastProducts:
 accomplishments:
   - Help advance OGP's mission of transparency and accountability in government
     through tooling team efforts in OGP product report cards and officers’
-    profile pages
+    profile pages.
   - Shared OGP design practices at external events, including a lightning talk
     at Product Design Singapore and hosting a design networking session at
-    Foodpanda
+    Foodpanda.
   - Developed new practices for a growing design team and lead the OGP Suite
-    vertical
+    vertical.
 quote: ""
 linkedinId: ""
 ---
