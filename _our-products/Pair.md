@@ -2,6 +2,7 @@
 title: Pair
 permalink: /products/pair/
 description: ""
+variant: markdown
 ---
 ![](https://file.go.gov.sg/pair-banner-ogp.png)
 
@@ -16,8 +17,6 @@ However, there are significant challenges in using them for government work toda
 #### Solution
 One of the key features of Pair is that it does not log any data on Azure, ensuring that officers can use Pair with confidence that their data is secure. 
 
-We are also building out a file upload feature that allow officers to upload relevant government documents, providing additional context for Pair to provide more accurate and relevant assistance.
-
 #### Impact
 Within the first two months of trial launch,
 
@@ -25,7 +24,7 @@ Within the first two months of trial launch,
 * More than 4500 weekly active users
 
 #### Team
-Carina Lim | Moses Soh | Ong Chin Yang | Sheikh Salim | Tan Jie Yin
+Bryan Ong | Lin Hui Qing | Moses Soh | Oh Chin Yang | Sheikh Salim | Tan Jie Yin
 
 
 <a href="https://pair.gov.sg" target="_blank">
