@@ -9,8 +9,7 @@ joinDate: January 4, 2022
 functionId: design
 jobTitle: Senior UX Writer
 curProducts:
-  - various things, including HealthTech, AskGov, and improving how we
-    communicate as a government.
+  - multiple things across the health, social, and anti-scam verticals, and building out the UX writing function at OGP
 pastProducts:
   - ScamShield
   - FormSG
@@ -22,15 +21,9 @@ pastProducts:
   - CheckWho
   - Sync
 accomplishments:
-  - Delivered UX copy across a number of different products, ensuring usability
-    and reusability, making meaningful contributions to the success of our
-    products
-  - Improved OGP's UX writing capabilities by helping upskill teammates through
-    coaching sessions, and wrote the UX Writer career schema to lay a foundation
-    to grow the function
-  - Helped expand the sphere of influence of UX writing and OGP by running
-    workshops for external teams, representing us at design and community
-    events, and helping get us on stage at Figma Config
+  - Grew our UX writing team by hiring and onboarding our second ever writer.
+  - Ran workshops to help our engineers understand the fundamentals of UX writing, and become better writers themselves.
+  - Created a system for me to manage my bandwidth and prioritise my efforts better – it isn't perfect, but it's a step towards doing more by doing less!
 quote: ""
 linkedinId: ""
 ---
