@@ -48,7 +48,9 @@
   title: FormSG
   alias:
     - FormSG
-  category: productivity
+  category:
+    - productivity
+    - payments
   image: https://file.go.gov.sg/formsg-logo-2.png
   sum: Build government forms in minutes
   link: https://products.open.gov.sg/formsg

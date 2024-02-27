@@ -74,17 +74,17 @@
     }
 </style>
 
-{%- assign products = include.products | where: "category", "productivity" -%}
+{%- assign products = include.products | where_exp: "product", "product.category contains 'productivity'" -%}
 {% include products_section.html products=products sectionTitle="Productivity Tools for Public Officers" %}
 
-{%- assign products = include.products | where: "category", "gov-digital-infrastructure" -%}
+{%- assign products = include.products | where_exp: "product", "product.category contains 'gov-digital-infrastructure'" -%}
 {% include products_section.html products=products sectionTitle="Government Digital Infrastructure" %}
 
-{%- assign products = include.products | where: "category", "anti-scam" -%}
+{%- assign products = include.products | where_exp: "product", "product.category contains 'anti-scam'" -%}
 {% include products_section.html products=products sectionTitle="Anti-Scam" %}
 
-{%- assign products = include.products | where: "category", "payments" -%}
+{%- assign products = include.products | where_exp: "product", "product.category contains 'payments'" -%}
 {% include products_section.html products=products sectionTitle="Payments" %}
 
-{%- assign products = include.products | where: "category", "healthcare" -%}
+{%- assign products = include.products | where_exp: "product", "product.category contains 'healthcare'" -%}
 {% include products_section.html products=products sectionTitle="Healthcare" %}
