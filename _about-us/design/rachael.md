@@ -9,6 +9,7 @@ joinDate: January 8, 2024
 functionId: design
 jobTitle: Product Designer
 curProducts:
+  - HealthTech
   - Kampung Spirit
 pastProducts: []
 accomplishments:
