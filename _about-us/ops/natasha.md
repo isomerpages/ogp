@@ -10,7 +10,7 @@ functionId: ops
 jobTitle: Product Operations Specialist
 curProducts:
   - Care360
-pastProducts:[]
+pastProducts: []
 accomplishments:
   - I'm new, watch this space!
 quote: ""
