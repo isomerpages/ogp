@@ -17,7 +17,6 @@ accomplishments:
   - Integrated against multiple partners like Singstats, LifeSG, e-Gazette and CEA.
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.pm %}

@@ -29,6 +29,7 @@ accomplishments:
   - Trained and developed new and existing managers.
   - Coached senior individual contributors on the team to scale their impact.
   - Created platforms and mechanisms to raise engineering standards.
+quote: ""
 linkedinId: ""
 ---
 

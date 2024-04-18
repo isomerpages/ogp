@@ -13,8 +13,8 @@ curProducts:
 pastProducts: []
 accomplishments:
   - I'm new! Watch this space.
-quote: 
-linkedinId:
+quote: ""
+linkedinId: ""
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.design %}

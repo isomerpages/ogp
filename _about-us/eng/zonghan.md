@@ -19,7 +19,6 @@ accomplishments:
   - Adapted the sgID developer portal to pilot an upgraded Singpass login server,
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

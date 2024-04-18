@@ -17,7 +17,6 @@ accomplishments:
   - Worked on enhancing government resource management with Fynder.
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

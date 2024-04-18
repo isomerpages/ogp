@@ -16,7 +16,7 @@ accomplishments:
   - Onboarded to FormSG as a Software Developer (from a Product Manager)!
   - Contributed to FormSG's AI Form Builder to be ready for launch and multiple other features on FormSG.
   - Built a technical proficiency as a Software Developer + Product Manager.
-quote: We focus on solving real problems and not on building abstract solutions
+quote: ""
 linkedinId: ""
 ---
 

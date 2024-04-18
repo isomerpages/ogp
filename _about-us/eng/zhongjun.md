@@ -17,7 +17,6 @@ accomplishments:
   - Enhanced the Isomer CMS with various new features, including new content blocks like the card grid, to allow our site editors to present information to site visitors in a clearer and more accessible manner.
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

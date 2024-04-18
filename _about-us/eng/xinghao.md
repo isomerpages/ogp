@@ -17,7 +17,6 @@ accomplishments:
   - Glue being featured in the media and at Parliament.
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}
