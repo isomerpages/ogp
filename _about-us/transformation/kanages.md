@@ -2,8 +2,7 @@
 title: Kanages A
 permalink: /people/kanages
 description: Kanages A - Manager
-third_nav_title: Innovation & Transformation
-staffId: kanages
+third_nav_title: Policy & Transformation
 name: Kanages A
 joinDate: April 3, 2024
 functionId: transformation

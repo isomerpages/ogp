@@ -2,7 +2,7 @@
 title: Kyi Yeung Goh
 permalink: /people/kyi
 description: Kyi Yeung Goh - Manager
-third_nav_title: Innovation & Transformation
+third_nav_title: Policy & Transformation
 staffId: kyi
 name: Kyi Yeung Goh
 joinDate: September 25, 2023

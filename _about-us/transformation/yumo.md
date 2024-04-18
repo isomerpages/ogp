@@ -2,8 +2,7 @@
 title: Yumo Pan
 permalink: /people/yumo
 description: Yumo Pan - Manager
-third_nav_title: Innovation & Transformation
-staffId: yumo
+third_nav_title: Policy & Transformation
 name: Yumo Pan
 joinDate: September 25, 2023
 functionId: transformation

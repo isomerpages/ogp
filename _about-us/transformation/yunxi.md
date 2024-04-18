@@ -2,7 +2,7 @@
 title: Yunxi Shen
 permalink: /people/yunxi
 description: Yunxi Shen - Manager
-third_nav_title: Innovation & Transformation
+third_nav_title: Policy & Transformation
 staffId: yunxi
 name: Yunxi Shen
 joinDate: November 14, 2023

@@ -2,12 +2,12 @@
 title: Kathleen Koh
 permalink: /people/kathleen
 description: Kathleen Koh - Software Developer
-third_nav_title: Software Developer
+third_nav_title: Software Engineering
 staffId: kathleen
 name: Kathleen Koh
 joinDate: August 16, 2021
 functionId: eng
-jobTitle: Software Engineer
+jobTitle: Software Developer
 curProducts:
   - FormSG
 pastProducts:
