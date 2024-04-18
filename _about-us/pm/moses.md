@@ -1,13 +1,13 @@
 ---
 title: Moses Soh
 permalink: /people/moses
-description: Moses Soh - Senior Product Manager
+description: Moses Soh - Lead Product Manager
 third_nav_title: Product Management
 staffId: moses
 name: Moses Soh
 joinDate: December 5, 2022
 functionId: pm
-jobTitle: Senior Product Manager
+jobTitle: Lead Product Manager
 curProducts:
   - Pair
   - sgID

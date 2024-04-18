@@ -1,13 +1,13 @@
 ---
 title: Hena Shah
 permalink: /people/hena
-description: Hena Shah - Product Manager
+description: Hena Shah - Senior Product Manager
 third_nav_title: Product Management
 staffId: hena
 name: Hena Shah
 joinDate: April 18, 2022
 functionId: pm
-jobTitle: Product Manager
+jobTitle: Senior Product Manager
 curProducts:
   - go.gov.sg
   - Highway

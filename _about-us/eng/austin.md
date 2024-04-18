@@ -1,7 +1,7 @@
 ---
 title: Austin Woon Quan
 permalink: /people/austin
-description: Austin Woon Quan - Software Engineer
+description: Austin Woon Quan - Senior Software Engineer
 third_nav_title: Software Engineering
 staffId: austin
 name: Austin Woon Quan

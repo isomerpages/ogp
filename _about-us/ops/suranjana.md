@@ -10,7 +10,7 @@ functionId: ops
 jobTitle: Senior Product Operations Specialist
 curProducts:
   - ScamShield
-pastProducts:[]
+pastProducts: []
 accomplishments:
   - I'm new, watch this space!
 quote: ""

@@ -1,7 +1,7 @@
 ---
 title: Jia Hui Yap
 permalink: /people/jiahui
-description: Jia Hui Yap - Manager (Corporate Operations)
+description: Jia Hui Yap - Senior Manager (Corporate Operations)
 third_nav_title: Corporate Team
 staffId: jiahui
 name: Jia Hui Yap

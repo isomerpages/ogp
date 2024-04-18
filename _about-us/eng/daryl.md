@@ -1,7 +1,7 @@
 ---
 title: Daryl Chan
 permalink: /people/daryl
-description: Daryl Chan - Software Engineer
+description: Daryl Chan - Senior Software Engineer
 third_nav_title: Software Engineering
 staffId: daryl
 name: Daryl Chan

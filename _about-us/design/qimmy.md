@@ -1,7 +1,7 @@
 ---
 title: Qimmy Lim
 permalink: /people/qimmy
-description: Qimmy Lim - Product Designer
+description: Qimmy Lim - Senior Product Designer
 third_nav_title: Product Design
 staffId: qimmy
 name: Qimmy Lim

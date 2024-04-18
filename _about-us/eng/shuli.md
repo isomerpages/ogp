@@ -1,7 +1,7 @@
 ---
 title: Shu Li Teo
 permalink: /people/shuli
-description: Shu Li Teo - Software Engineer
+description: Shu Li Teo - Senior Software Engineer
 third_nav_title: Software Engineering
 staffId: shuli
 name: Shu Li Teo

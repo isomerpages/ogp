@@ -1,13 +1,13 @@
 ---
 title: Reshma Vasu
 permalink: /people/reshma
-description: Reshma Vasu - Product Manager
+description: Reshma Vasu - Senior Product Manager
 third_nav_title: Product Management
 staffId: reshma
 name: Reshma Vasu
 joinDate: October 4, 2021
 functionId: pm
-jobTitle: Product Manager
+jobTitle: Senior Product Manager
 curProducts:
   - DistributeSG
   - ScamShield

@@ -1,13 +1,13 @@
 ---
 title: Ajayraj Singh
 permalink: /people/ajayraj
-description: Ajayraj Singh - Product Operations Specialist
+description: Ajayraj Singh - Senior Product Operations Specialist
 third_nav_title: Product Operations
 staffId: ajayraj
 name: Ajayraj Singh
 joinDate: June 13, 2022
 functionId: ops
-jobTitle: Product Operations Specialist
+jobTitle: Senior Product Operations Specialist
 curProducts:
   - Armoury
 pastProducts:

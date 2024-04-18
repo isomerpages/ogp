@@ -1,7 +1,7 @@
 ---
 title: Chien Ling Ang
 permalink: /people/chienling
-description: Chien Ling Ang - Manager (People)
+description: Chien Ling Ang - Senior Manager (People)
 third_nav_title: Corporate Team
 staffId: chienling
 name: Chien Ling Ang

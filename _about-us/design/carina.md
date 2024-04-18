@@ -1,7 +1,7 @@
 ---
 title: Carina Lim
 permalink: /people/carina
-description: Carina Lim - Product Designer
+description: Carina Lim - Senior Product Designer
 third_nav_title: Product Design
 staffId: carina
 name: Carina Lim

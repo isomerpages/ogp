@@ -1,13 +1,13 @@
 ---
 title: Clement Chia
 permalink: /people/clement
-description: Clement Chia - Product Operations Specialist
+description: Clement Chia - Senior Product Operations Specialist
 third_nav_title: Product Operations
 staffId: clement
 name: Clement Chia
 joinDate: July 4, 2022
 functionId: ops
-jobTitle: Product Operations Specialist
+jobTitle: Senior Product Operations Specialist
 curProducts:
   - HealthTech
 pastProducts:

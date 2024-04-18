@@ -1,7 +1,7 @@
 ---
 title: Natalie Tan
 permalink: /people/natalie
-description: Natalie Tan - Product Designer
+description: Natalie Tan - Senior Product Designer
 third_nav_title: Product Design
 staffId: natalie
 name: Natalie Tan

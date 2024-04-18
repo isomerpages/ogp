@@ -1,15 +1,15 @@
 ---
 title: Jie Hao Kwa
 permalink: /people/jiehao
-description: Jie Hao Kwa - Senior Software Engineer
+description: Jie Hao Kwa - Lead Software Engineer
 third_nav_title: Software Engineering
 staffId: jiehao
 name: Jie Hao Kwa
 joinDate: September 9, 2019
 functionId: eng
-jobTitle: Senior Software Engineer
+jobTitle: Lead Software Engineer
 curProducts:
-  - SGID
+  - sgID
   - NDI
 pastProducts:
   - Homer

@@ -1,7 +1,7 @@
 ---
 title: Kee Wei Lam
 permalink: /people/keewei
-description: Kee Wei Lam - Lead Software Engineer
+description: Kee Wei Lam - Senior Engineering Manager
 third_nav_title: Software Engineering
 staffId: keewei
 name: Kee Wei Lam

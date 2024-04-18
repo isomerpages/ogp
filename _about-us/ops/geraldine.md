@@ -1,13 +1,13 @@
 ---
 title: Geraldine Tan
 permalink: /people/geraldine
-description: Geraldine Tan - Product Operations Specialist
+description: Geraldine Tan - Senior Product Operations Specialist
 third_nav_title: Product Operations
 staffId: geraldine
 name: Geraldine Tan
 joinDate: August 22, 2022
 functionId: ops
-jobTitle: Product Operations Specialist
+jobTitle: Senior Product Operations Specialist
 curProducts:
   - RedeemSG
 pastProducts:

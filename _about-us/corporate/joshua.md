@@ -1,7 +1,7 @@
 ---
 title: Joshua Tan
 permalink: /people/joshua
-description: Joshua Tan - Senior Manager (Finance Operations)
+description: Joshua Tan - Assistant Director (Finance Operations)
 third_nav_title: Corporate Team
 staffId: joshua
 name: Joshua Tan

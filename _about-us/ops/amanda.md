@@ -10,7 +10,7 @@ functionId: ops
 jobTitle: Product Operations Specialist
 curProducts:
   - SGC
-pastProducts:[]
+pastProducts: []
 accomplishments:
   - Balanced the maintenance of SGC v1 support, which grew by 3000 users in 6 months, while actively facilitating WOG onboarding for SGC v2.
   - Led the launch and maintenance of Postman v2's product and policy guides.

@@ -1,13 +1,13 @@
 ---
 title: Kar Rui Lau
 permalink: /people/karrui
-description: Kar Rui Lau - Senior Software Engineer
+description: Kar Rui Lau - Lead Software Engineer
 third_nav_title: Software Engineering
 staffId: karrui
 name: Kar Rui Lau
 joinDate: February 3, 2020
 functionId: eng
-jobTitle: Senior Software Engineer
+jobTitle: Lead Software Engineer
 curProducts:
   - ActiveSG
 pastProducts:

@@ -10,7 +10,7 @@ functionId: ops
 jobTitle: Senior Product Operations Specialist
 curProducts:
   - SGC
-pastProducts:[]
+pastProducts: []
 accomplishments:
   - I'm new, watch this space!
 quote: ""
