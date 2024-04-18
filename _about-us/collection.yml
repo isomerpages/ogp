@@ -4,9 +4,12 @@ collections:
     order:
       - About us.md
       - corporate/all.md
+      - corporate/adriel.md
       - corporate/amitha.md
+      - corporate/cheryl.md
       - corporate/chienling.md
       - corporate/clifford.md
+      - corporate/edgar.md
       - corporate/lhy.md
       - corporate/jiahui.md
       - corporate/joanna.md
@@ -23,10 +26,11 @@ collections:
       - design/carina.md
       - design/christabelpng.md
       - design/darren.md
+      - design/desmond.md
       - design/eve.md
-      - design/feliciana.md
       - design/fiona.md
       - design/jingyi.md
+      - design/jueling.md
       - design/khaleedah.md
       - design/mike.md
       - design/natalie.md
@@ -34,6 +38,7 @@ collections:
       - design/pras.md
       - design/qimmy.md
       - design/rachel.md
+      - design/samsoh.md
       - design/sarahsalim.md
       - design/sehyun.md
       - design/shanty.md
@@ -63,15 +68,13 @@ collections:
       - eng/dat.md
       - eng/dexter.md
       - eng/enyi.md
+      - eng/eugene.md
       - eng/fabian.md
       - eng/gautam.md
       - eng/hanu.md
       - eng/harish.md
-      - eng/huiling.md
       - eng/huiqing.md
       - eng/ian.md
-      - eng/ivan.md
-      - eng/james.md
       - eng/jasmine.md
       - eng/jason.md
       - eng/jenwei.md
@@ -89,10 +92,9 @@ collections:
       - eng/kishore.md
       - eng/kokseng.md
       - eng/latasha.md
-      - eng/leyang.md
       - eng/louiz.md
       - eng/malcolm.md
-      - eng/mayying.md
+      - eng/nicholaslim.md
       - eng/nicholasng.md
       - eng/nicolas.md
       - eng/oliver.md
@@ -101,15 +103,15 @@ collections:
       - eng/prawira.md
       - eng/qilu.md
       - eng/raisa.md
+      - eng/rayner.md
       - eng/richardyak.md
       - eng/sean.md
       - eng/sebastian.md
       - eng/sheikh.md
       - eng/shuli.md
+      - eng/sid.md
       - eng/sihan.md
-      - eng/simin.md
       - eng/simun.md
-      - eng/stanley.md
       - eng/timothee.md
       - eng/wanling.md
       - eng/weeloong.md
@@ -125,26 +127,31 @@ collections:
       - eng/zonghan.md
       - ops/all.md
       - ops/ajayraj.md
+      - ops/amanda.md
       - ops/clement.md
       - ops/geraldine.md
+      - ops/ibrahim.md
       - ops/jackson.md
+      - ops/jerica.md
       - ops/jieyin.md
       - ops/kahhow.md
       - ops/kendra.md
       - ops/kennethchang.md
       - ops/samuel.md
+      - ops/shamala.md
       - ops/shazli.md
       - ops/suhaila.md
+      - ops/suranjana.md
+      - ops/suzanna.md
       - pm/all.md
       - pm/adan.md
       - pm/amit.md
       - pm/brianlee.md
+      - pm/bryan.md
       - pm/charmaine.md
-      - pm/cheryl.md
       - pm/foong.md
       - pm/hena.md
       - pm/jan.md
-      - pm/jennifer.md
       - pm/jessendra.md
       - pm/kenneth.md
       - pm/lennard.md
@@ -154,11 +161,21 @@ collections:
       - pm/reshma.md
       - pm/syan.md
       - pm/talitha.md
+      - pm/yaqi.md
       - transformation/all.md
       - transformation/airika.md
+      - transformation/amelia.md
+      - transformation/ashley.md
+      - transformation/ciqin.md
+      - transformation/dawn.md
       - transformation/huixuan.md
       - transformation/hygin.md
+      - transformation/kanages.md
+      - transformation/kyi.md
       - transformation/nitya.md
       - transformation/praveen.md
       - transformation/shawn.md
       - transformation/stephanie.md
+      - transformation/tracy.md
+      - transformation/yumo.md
+      - transformation/yunxi.md
