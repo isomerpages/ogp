@@ -14,7 +14,7 @@ pastProducts: []
 accomplishments:
   - Shaped the long-term vision of PaySG to become the default payment platform for government agencies and worked backward to identify actionable items the team needed to achieve.
   - Grew the number of users by 5X and transaction value by 7.7X in the last 6 months. Many government agencies have considered making PaySG their default payment platform.
-  - Helped build an effective PaySG team (includes: product, engineers, operations, policy) that consistently delivers meaningful value to users.
+  - Helped build an effective PaySG team (includes - product, engineers, operations, policy) that consistently delivers meaningful value to users.
 quote: ""
 linkedinId: ""
 ---

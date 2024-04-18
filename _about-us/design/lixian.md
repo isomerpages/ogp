@@ -9,7 +9,7 @@ joinDate: January 22, 2024
 functionId: design
 jobTitle: Senior Product Designer
 curProducts:
-- LetterSG
+  - LetterSG
 pastProducts: []
 accomplishments:
   - I'm new! Watch this space.

@@ -17,9 +17,9 @@ pastProducts:
   - PaySG
   - Parking.sg
 accomplishments:
-  - Enhanced Stakeholder Management: I've significantly improved my stakeholder management skills, successfully navigating independent liaisons and onboarding initiatives with various stakeholders.
-  - Translation Framework Initiative: As the primary contact for the translation framework, I've efficiently coordinated cross-functional tasks between agencies, vendors, and our engineering team which highlighted my ability to handle multifaceted responsibilities with diverse teams even to myself.
-  - Adaptability in Diverse Roles: Venturing into unfamiliar marketing efforts and cross-functional roles has demonstrated my adaptability and eagerness to embrace and succeed in new challenges.
+  - I've significantly improved my stakeholder management skills, successfully navigating independent liaisons and onboarding initiatives with various stakeholders.
+  - As the primary contact for the translation framework, I've efficiently coordinated cross-functional tasks between agencies, vendors, and our engineering team which highlighted my ability to handle multifaceted responsibilities with diverse teams even to myself.
+  - Venturing into unfamiliar marketing efforts and cross-functional roles has demonstrated my adaptability and eagerness to embrace and succeed in new challenges.
 quote: __A ship in harbour is safe, but that is not what ships are built for.__
   Being continually pushed to explore new depths for work and myself has made me
   learn so much about what I am capable of.

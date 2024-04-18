@@ -13,7 +13,7 @@ curProducts:
 pastProducts: []
 accomplishments:
   - CDC vouchers launch.
-  - NEA vouchers launch..
+  - NEA vouchers launch.
   - Lead Buckets.
 quote: ""
 linkedinId: ""

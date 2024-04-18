@@ -9,7 +9,7 @@ joinDate: January 8, 2024
 functionId: design
 jobTitle: Lead Product Designer
 curProducts:
-- Primary Care
+  - Primary Care
 pastProducts: []
 accomplishments:
   - I'm new! Watch this space.

@@ -9,9 +9,9 @@ joinDate: March 25, 2024
 functionId: design
 jobTitle: Product Designer
 curProducts:
-- data.gov.sg
+  - data.gov.sg
 pastProducts:
-- LetterSG
+  - LetterSG
 accomplishments:
   - I'm new! Watch this space.
 quote: 

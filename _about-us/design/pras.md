@@ -9,7 +9,7 @@ joinDate: September 6, 2023
 functionId: design
 jobTitle: Product Designer
 curProducts:
-- SGC
+  - SGC
 pastProducts: []
 accomplishments:
   - Independently redesigned SGC with several new feature sets for over 200 agencies in a short span of 3-4 months, comprehensively tested by several agencies.

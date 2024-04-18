@@ -9,7 +9,7 @@ joinDate: January 8, 2024
 functionId: design
 jobTitle: Product Designer
 curProducts:
-- Kampung Spirit
+  - Kampung Spirit
 pastProducts: []
 accomplishments:
   - I'm new! Watch this space.

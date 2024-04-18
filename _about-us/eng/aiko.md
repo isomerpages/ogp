@@ -17,7 +17,7 @@ pastProducts:
   - WizGov
 accomplishments:
   - I identified the need for product, which I then independently developed, designed, and deployed.
-Additionally, the product my team built (Glue) was very well received and the Prime Minister shared it on Instagram & Facebook.
+  - Additionally, the product my team built (Glue) was very well received and the Prime Minister shared it on Instagram & Facebook.
 quote: ""
 linkedinId: aikoklostermann
 ---

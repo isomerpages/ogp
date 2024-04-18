@@ -9,7 +9,7 @@ joinDate: February 26, 2024
 functionId: design
 jobTitle: Product Designer
 curProducts:
-- DistributeSG
+  - DistributeSG
 pastProducts: []
 accomplishments:
   - I'm new! Watch this space.

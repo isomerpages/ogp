@@ -14,9 +14,9 @@ pastProducts:
   - Marketing
   - Folk
 accomplishments:
-  - Overseeing the end-to-end operations - from onboarding to day-to-day editing of 50% of Government websites 😅
-  - Designed my Hack For Public Good team's product - Sentry (sentry.hack.gov.sg) 😁
-  - Planned and kickstarted the next bound of Isomer's growth! ⭐️
+  - Overseeing the end-to-end operations - from onboarding to day-to-day editing of 50% of Government websites 
+  - Designed my Hack For Public Good team's product - Sentry (sentry.hack.gov.sg) 
+  - Planned and kickstarted the next bound of Isomer's growth! 
 quote: ""
 linkedinId: https://www.linkedin.com/in/shazli-shahril/
 ---

@@ -11,7 +11,7 @@ jobTitle: Product Operations Specialist
 curProducts:
   - PaySG
 pastProducts:
-    - Kampung Spirit
+  - Kampung Spirit
 accomplishments:
   - Worked on kampungspirit.gov.sg, which facilitated the funding of items for over 50 households within 1 month of being in production.
   - Revamped the PaySG guide to improve our onboarding experience.

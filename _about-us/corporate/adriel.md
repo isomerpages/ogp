@@ -12,7 +12,7 @@ curProducts:
   - Finance Operations Team
 pastProducts: []
 accomplishments:
-I'm new! Watch this space.
+  - I'm new! Watch this space.
 quote: ""
 linkedinId: ""
 ---

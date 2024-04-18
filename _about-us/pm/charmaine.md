@@ -16,8 +16,8 @@ pastProducts:
   - PaySG
 accomplishments:
   - Launched CDC Vouchers 2024, which has the highest claim and spend rate to date among all the previous launches.
-  - Launched RedeemSG Rewards, view it here: https://redeem.gov.sg/rewards/
-  - Stepping into a new domain
+  - Launched RedeemSG Rewards.
+  - Stepping into a new domain.
 quote: ""
 linkedinId: ""
 ---
