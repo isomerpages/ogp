@@ -26,10 +26,9 @@ pastProducts:
   - HAS
   - Primary Care
 accomplishments:
-  - Supported and onboarded multiple engineering managers on the team
-  - Delivered Starter Kit and Product Report Cards with the tooling team
-  - Working through the engineering reorganisation
-quote: We focus on solving real problems and not on building abstract solutions
+  - Trained and developed new and existing managers.
+  - Coached senior individual contributors on the team to scale their impact.
+  - Created platforms and mechanisms to raise engineering standards.
 linkedinId: ""
 ---
 

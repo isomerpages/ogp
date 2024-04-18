@@ -12,16 +12,9 @@ curProducts:
   - SkillsFuture
 pastProducts: []
 accomplishments:
-  - Dealing with uncertainty to deliver meaningful outcomes for MySkillsFuture
-    project—Taking on a brand new engagement that came out of a brown bag
-    session means being comfortable with ambiguity and finding clarity where
-    there is none
-  - Showed how rapid experimentation and iterative concept testing can provide
-    valuable insights and give stakeholders the confidence to drive product
-    improvements
-  - Being a versatile contributor to the team—Moving from the smallest (SSG) to
-    one of the biggest team in OGP (Care360) really pushed me to switch between
-    working independently and collaboratively with others
+  - Championed user-centric practices in Care360 — “a guiding light for what the user's really need and leading the team to build what counts.” (Thanks Adan!)
+  - Explored the expansion of Care360 beyond PHIs, leading design and change in new spaces.
+  - Conducted a Design Thinking workshop for social workers in-training to demonstrate how we can use design to identify and solve problems. It's important to propagate good practices in complex places.
 quote: ""
 linkedinId: ""
 ---

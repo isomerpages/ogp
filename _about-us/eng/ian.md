@@ -22,11 +22,9 @@ pastProducts:
   - HAS
   - CorpTech
 accomplishments:
-  - PM / Tech lead for Plumber which achieved significant growth in the past
-    cycle (> 10x)
-  - Launched (or helped launch) various products such as starter kit and product
-    scorecard
-  - Bigtube achieving 3000+ active users
+  - Launched Tiles.
+  - Launched Open Hand, an internal tool to make claim submission easier.
+  - Plumber got deployed in Cambodia (team achievement)
 quote: ""
 linkedinId: ""
 ---

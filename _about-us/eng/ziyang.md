@@ -10,17 +10,12 @@ functionId: eng
 jobTitle: Software Engineer
 curProducts:
   - AskGov
+  - Fynder
 pastProducts: []
 accomplishments:
-  - Implemented the AskGov admin portal, empowering agencies to better manage
-    the content on their AskGov page and allowing product operations to be
-    conducted more efficiently
-  - Implemented various user facing features for AskGov, including question
-    topics, answer feedback, fuzzy search, rich text functionality, mobile
-    layouts and UI/UX improvements
-  - Contributed to the launch of AskGov 2.0, Introduced feature flagging to
-    AskGov and improved the security and privacy of AskGov by addressing issues
-    raised during VAPT
+  - Delivered the Content Expansion Project for AskGov which onboarded several large government agencies to AskGov, improving their information discoverability and helping over 260k users find their answers since launch.
+  - Spearheaded the Generative AI experimentation on AskGov, helping to open more doors to the use of AI on AskGov to improve the search experience of end users and also the efficiency of public officers.
+  - Delivered Fynder to encourage the sharing of assets in government agencies, while allowing them to comprehensively track and manage their assets.
 quote: ""
 linkedinId: ""
 ---

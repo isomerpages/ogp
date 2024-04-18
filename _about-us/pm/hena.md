@@ -17,9 +17,9 @@ pastProducts:
   - EngageSG
   - Pouch
 accomplishments:
-  - Launching and growing Highway
-  - Launching LetterSG
-  - Partnering with MCCY for EventSG (aka EngageSG)
+  - Grew LetterSG, digitalisation of paper letters, to 127x within 6 months.
+  - Strategised and led a 3-day user centric hackathon on community building (prototypes: ServeSG, SpaceShare, The Grant Scheme of Things).
+  - Supported the launch of go.gov.sg version for Cambodia (go.gov.kh)
 quote: ""
 linkedinId: ""
 ---

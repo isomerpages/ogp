@@ -10,15 +10,13 @@ functionId: eng
 jobTitle: Software Engineer
 curProducts:
   - sgID
+  - NDI
+pastProducts: 
   - CalSG
-pastProducts: []
 accomplishments:
-  - Integrated PKCE protocol into sgID and launched the TypeScript SDK major
-    release, including the oversight of user roll-out plan
-  - Built the Rules Engine prototype for sgID which allows users to define and
-    consume dynamic derived data
-  - Worked on CalSG to improve the functionality of slot booking and onboarding
-    flow
+  - Built a 1:1 drop-in replacement of Singpass frontend login pages.
+  - Migrated sgID from Elastic Beanstalk onto ECS, and migrated the infrastructure onto Pulumi (Infrastructure as code).
+  - Created the first prototype for hospitals from NUHS cluster to manage on-call rostering on Rooster.
 quote: ""
 linkedinId: ""
 ---

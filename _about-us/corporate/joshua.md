@@ -14,10 +14,9 @@ pastProducts:
   - Workplace
   - Procurement and Finance
 accomplishments:
-  - Driving data inputs for launch of Product Scorecards
-  - Working out an internal ‘secondment’ from Govtech to drive procurement and
-    finance improvements
-  - Leading error-free BAU delivery for finance as the team scales to 170+ pax
+  - Demonstrate and train a team to adapt to OGP’s way of working (rapid problem-focused experiments and prototyping)
+  - Streamlined Tender Self-Submissions Sandbox: Completely removed the Conditions of Contract and other parts of the tender, reducing a typical tender document with >100 pages to under 50 pages with clearance from AGD, MOF and Govtech WOG ICT Procurement.
+  - Secured OGP bank account for experimentation which is up and running for KampungSpirit Hackathon / Redeem trials / ActiveSG, allowed new product bank account-dependent experiments to run immediately instead of requiring >1 month to set up.
 quote: ""
 linkedinId: ""
 ---

@@ -15,12 +15,9 @@ pastProducts:
   - Primary Care
   - Go.gov.sg
 accomplishments:
-  - Delivered system design and codebase for PaySG MVP as a single engineer in 6
-    weeks
-  - Provide technical, product and team leadership on PaySG and the wider
-    FinScam vertical
-  - Co-ordinated VAPT process fro PaySG and ensured that all issues have been
-    resolved within a week
+  - Led engineering on PaySG and oversaw engineering and mentored junior engineers on RedeemSG
+  - Ensured system reliability of RedeemSG for large scale launch of CDC Vouchers Tranche 4.
+  Advocated actively for reducing complexity where appropriate to drive rapid product iteration.
 quote: ""
 linkedinId: ""
 ---

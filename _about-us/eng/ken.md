@@ -9,15 +9,13 @@ joinDate: February 27, 2023
 functionId: eng
 jobTitle: Senior Software Engineer
 curProducts:
+  - Kampung Spirit
   - FormSG
 pastProducts: []
 accomplishments:
-  - Leading the payment initiative to see it being released, and spearheading
-    multiple core features as the tech lead for payments
-  - Improving signify's FE through introduction of best practices and
-    organization of FE components
-  - Improving FormSG engineering efficiencies through introduction of tools and
-    practices
+  - Set up and growing FormPay to achieve more than 10k in payment transactions volume.
+  - Built Kampung Spirit which had helped to fund more than 50 items in two months for less fortunate families.
+  - Had the opportunity to work on initiatives that helped get FormSG recognized by our neighbouring countries and on the international stage.
 quote: ""
 linkedinId: ""
 ---

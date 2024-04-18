@@ -14,9 +14,9 @@ pastProducts:
   - CorpTech
   - HealthTech
 accomplishments:
-  - Handled migrations, integrations, and launched Care360 to all public
-    healthcare institutions in Singapore
-  - Onboarded new Care360 engineers and PM as the team's engineering manager
+  - Rolled out Care360 to all PHIs in Singapore.
+  - Built product teams to tackle new challenges.
+  - Developed new engineering leaders to scale product impact.
 quote: ""
 linkedinId: ""
 ---

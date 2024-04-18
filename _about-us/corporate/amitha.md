@@ -12,7 +12,9 @@ curProducts:
   - Finance Operations Team
 pastProducts: []
 accomplishments:
-  - i'm new, watch this space!
+  - Helped OGP officers self-help more by setting up the Finance Homebase.
+  - Streamlined the Virtual Credit Card reconciliation process, resulting in a smoother experience and 50% time savings.
+  - Support the procurement and payment for things for our new office.
 quote: ""
 linkedinId: ""
 

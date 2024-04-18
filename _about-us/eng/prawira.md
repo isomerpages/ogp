@@ -10,15 +10,12 @@ functionId: eng
 jobTitle: Senior Software Engineer
 curProducts:
   - SGID
+  - NDI
 pastProducts: []
 accomplishments:
-  - Improved the resiliency of sgID by reducing 95% of the errors in transaction
-    flow
-  - Developed data sources manager, enabling more integration with third party
-    data sources such as public officer employments
-  - Established best practices for sgID Integration through different
-    integration patterns, ensuring consistent and efficient integration with
-    sgID across different platforms
+  - Introduced Verified Public Officers Login and Medical Doctors Login through sgID.
+  - Engaged in and influenced the rebuilding of NDI products such as NCA, Auth, and Corppass.
+  - Established and led a team of engineers to simplify Corppass' engineering.
 quote: ""
 linkedinId: ""
 ---

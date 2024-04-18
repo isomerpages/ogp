@@ -11,7 +11,9 @@ jobTitle: Design Manager
 curProducts: []
 pastProducts: []
 accomplishments:
-  - I'm new, watch this space!
+  - Established Creative Designer function.
+  - Expanded UX writers function.
+  - Part of ERP X team, an award-winning hackathon project that provides an alternative solution to ERP.
 quote: ""
 linkedinId: "slidbook"
 ---

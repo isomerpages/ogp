@@ -12,7 +12,9 @@ curProducts:
   - Armoury
 pastProducts: []
 accomplishments:
-  - i'm new, watch this space!
+  - Rolled out Armoury to support HOTO checks at all fire stations in Singapore.
+  - Piloted AIM to help paramedics keep track of consumables used / expired.
+  - Researched how tech can be used to help migrant workers and visually impaired individuals. 
 quote: ""
 linkedinId: ""
 

@@ -9,8 +9,9 @@ joinDate: November 1, 2021
 functionId: design
 jobTitle: Senior Product Designer
 curProducts:
-  - Pixie
+  - Social Health
 pastProducts:
+  - Pixie
   - Vault
   - Data.gov
   - Send
@@ -21,12 +22,9 @@ pastProducts:
   - Care360
   - Highway
 accomplishments:
-  - Built a user-centric culture in both Care360 and the PX team through
-    involving the team in the discovery and validation process
-  - Demonstrated design leadership through mentoring and providing guidance to
-    both designers and non-designers
-  - Shared design knowledge within the healthtech vertical and extended it
-    beyond through running workshops and sharing sessions
+  - Built a digital platform for patients to renew their financial applications without the need for a physical appointment.
+  - Ventured into new uncharted territory of OGP - the Social-Health space.
+  - Mentored a Product Design Intern who uncovered her true passion during her 6-month stint.
 quote: ""
 linkedinId: ""
 ---

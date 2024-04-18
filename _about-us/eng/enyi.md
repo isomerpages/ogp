@@ -9,17 +9,14 @@ joinDate: January 3, 2023
 functionId: eng
 jobTitle: Software Engineer
 curProducts:
+  - HAS
+  - tED
+pastProducts: 
   - Primary Care
-pastProducts: []
 accomplishments:
-  - Integrated the Health Appointment System with HealthHub to facilitate the
-    booking of ~500 Healthier SG consultation appointments weekly
-  - Implemented the remote queue feature on the Health Appointment System,
-    allowing users to queue at GP clinics in advance before making a physical
-    visit
-  - Served as the test champion for the Primary Care team, expanding and
-    maintaining end-to-end tests that have prevented two separate production
-    incidents thus far
+  - Expanded tED beyond its pilot to a second department in SGH, helping to reduce patient wait times.
+  - Added Lasting Power of Attorney appointment bookings on the Health Appointment System (HAS), enabling users to book their LPA appointments online with full price-transparency.
+  - Developed an automated roster generation tool that allows users to define their own scheduling rules (Roster Monster).
 quote: ""
 linkedinId: ""
 ---

@@ -9,17 +9,16 @@ joinDate: April 20, 2020
 functionId: eng
 jobTitle: Senior Software Engineer
 curProducts:
+  - NDI
   - FormSG
   - Signify
 pastProducts:
   - GovLogin
   - TemperatureSG
 accomplishments:
-  - Officially launched Signify as Tech Lead and co-PM, brought more than 100
-    agencies on board and now at 150 signatures per week and growing
-  - Built the Waiting Room V1 feature for FormSG, which handled NDP Ticket
-    Balloting without a hitch (total load of 400k+ in total)
-  - Coordinated the encryption boundary shift for FormSG storage mode forms
+  - As Tech Lead and Product Manager, grew the Signify product 4x from ~150 signatures per week to ~600 signatures per week, and shipped major features for Signify including API integration.
+  - Led and delivered on the Encryption Boundary Shift for FormSG with no production incident, including two major features - storage mode response validation and attachment virus scanner.
+  - Part of the FormSG engineering team which shipped Magic Form Builder and Charts.
 quote: ""
 linkedinId: ""
 ---

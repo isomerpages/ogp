@@ -14,11 +14,9 @@ pastProducts:
   - Marketing
   - Folk
 accomplishments:
-  - Co-planned the Public Service Sprint
-  - Planned, communicated and executed Project Shipposting - migrating all
-    Isomer sites to new infrastructure with a new login mechanism
-  - Co-authored the Product Marketing Kit - a simple-to-use kit for product
-    teams to get the marketing support they need whenever it’s needed
+  - Overseeing the end-to-end operations - from onboarding to day-to-day editing of 50% of Government websites 😅
+  - Designed my Hack For Public Good team's product - Sentry (sentry.hack.gov.sg) 😁
+  - Planned and kickstarted the next bound of Isomer's growth! ⭐️
 quote: ""
 linkedinId: https://www.linkedin.com/in/shazli-shahril/
 ---

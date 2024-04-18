@@ -9,18 +9,13 @@ joinDate: February 27, 2023
 functionId: eng
 jobTitle: Lead Software Engineer
 curProducts:
+  - sgID
+  - Procurit 
+pastProducts: 
   - Phonebook
-pastProducts: []
 accomplishments:
-  - Grew the product Phonebook from zero to one. Grew the team from 3 to size of
-    7 comprising cross functional peers. Delivered multiple features and
-    experiments
-  - Built a healthy team culture through regular coaching and feedbacks.
-    Motivated the team by assigning the right complexity work and helping them
-    through the process
-  - Org wide contribution in the form of operational efficiency , solving
-    performance bottlenecks for Vault, moving Vault from Travis to github
-    actions
+  - Brainstormed a new idea, prototyped, and launched it during Hack for Public Good 2024. Played the role of a product manager refining the idea into structured requirements. Engaged with other agencies and establishing a working relationship.
+  - Responsibly wrapped up previous engagements ensuring they don't fall through the cracks.
 quote: ""
 linkedinId: ""
 ---

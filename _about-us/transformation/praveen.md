@@ -12,12 +12,9 @@ curProducts: []
 pastProducts:
   - Healthtech
 accomplishments:
-  - Successfully refactored the separate Policy and Partnerships teams to the
-    new Policy & Transformation (P&T) Team
-  - Created the environment for the team to perform, and set the team up for
-    success
-  - Expanded OGP’s operating space in healthcare and continued the work on
-    transforming Government
+  - I learned what it takes to be a functional lead and where I need to improve to bring the most out of the team.
+  - I identified the audacious goal of P&T - to model and build a tech policy officer scheme for gov.
+  - I further entrenched OGP into attacking larger and more impactful MOH problems.
 quote: knowing that every day we change government one happy interaction, one
   line of code, one $ saved at a time
 linkedinId: ""

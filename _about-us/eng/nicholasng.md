@@ -13,12 +13,9 @@ curProducts:
 pastProducts:
   - Care360
 accomplishments:
-  - Leading and delivering Medipay, a feature that improves cost transparency in
-    the healthcare space
-  - Introduced and detailed essential processes in the primary care team such as
-    incident response, deployment, and pull requests
-  - Tech lead for primary care, leading grooming, retro and sprint planning
-    sessions
+  - Improved monitoring, stability and performance of HAS by resolving several long-standing technical issues. Resulting in less incidents while on-call.
+  - Delivered several major features on HAS, contributing to our mission to achieve a Singapore free of preventable illnesses.
+  - Successfully mentored an intern to eventually get a conversion offer in OGP.
 quote: ""
 linkedinId: ""
 ---

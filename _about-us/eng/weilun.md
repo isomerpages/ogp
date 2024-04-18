@@ -9,15 +9,13 @@ joinDate: June 5, 2023
 functionId: eng
 jobTitle: Software Engineer
 curProducts:
+  - ScamShield
   - ParkingSG
 pastProducts: []
 accomplishments:
-  - Onboarded onto Finscamtech!
-  - Enabled analytics and metrics reporting for Parking - so we know how much
-    our product costs to maintain vs the impact it is bringing to motorists
-    today
-  - Automated carpark management and scheduling for HDB/URA - so engineers on
-    Parking no longer need to wake up at midnight to update carparks manually
+  - Took over ScamShield and owned the product, figured out our short and long term priorities for both engineering and product.
+  - Helped to rebuild ScamShield for the ground up, while making sure the existing systems run smoothly.
+  - Main engineer for ensuring smooth day to day operations for ParkingSG.
 quote: ""
 linkedinId: ""
 ---

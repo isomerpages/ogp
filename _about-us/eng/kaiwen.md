@@ -9,16 +9,15 @@ joinDate: July 4, 2016
 functionId: eng
 jobTitle: Lead Software Engineer
 curProducts:
-  - PaySG
-pastProducts:
-  - Parking.sg
   - ScamShield
+pastProducts:
+  - PaySG
+  - Parking.sg
   - FormSG
-  - Redeem
+  - RedeemSG
 accomplishments:
-  - Building and growing the team of engineers
-  - Helping to maintain and grow parking engineering pool
-  - Building a strong team culture in a team that doubled in size
+  - Anchored a team that is ready and equipped to tackle Scamshield from the ground-up.
+  - Managed and helped new engineers grow into the team and deliver - saw them step up with increased responsibility, leadership, and confidence in both product and engineering.
 quote: ""
 linkedinId: ""
 ---

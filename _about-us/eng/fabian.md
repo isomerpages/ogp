@@ -1,24 +1,22 @@
 ---
 title: Fabian Chia
 permalink: /people/fabian
-description: Fabian Chia - Software Engineer
+description: Fabian Chia - Senior Software Engineer
 third_nav_title: Software Engineering
 staffId: fabian
 name: Fabian Chia
 joinDate: July 4, 2022
 functionId: eng
-jobTitle: Software Engineer
+jobTitle: Senior Software Engineer
 curProducts:
-  - Redeem
+  - RedeemSG
 pastProducts:
   - ParkingSG
   - PaySG
 accomplishments:
-  - Fully initiated design and development of Redeem’s operation dashboard
-    within 2 weeks
-  - Implemented security checks and strengthened existing audit checks to
-    safeguard financial integrity of Redeem’s payouts
-  - Implemented RedeemSG Rewards to expand Redeem’s use cases
+  - Ensured that RedeemSG launched smoothly with 0 incidents for CDC Vouchers 2024 through load testing and performance engineering, reducing costs for repeating this in the future.
+  - Designed and implemented overhaul of existing payout system to support single-send OCBC payouts within a week to onboard more campaign organisers.
+  - Planned, implemented and tested RedeemSG Rewards from end to end.
 quote: ""
 linkedinId: ""
 ---

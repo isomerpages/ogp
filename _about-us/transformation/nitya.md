@@ -10,16 +10,15 @@ functionId: transformation
 jobTitle: Assistant Director
 curProducts:
   - Policy & Transformation
+  - NLB Seed Team
 pastProducts:
   - OGP-DIS collaboration
+  - Hack for Public Good 2024
   - Hack for Public Good 2023
 accomplishments:
-  - Incubating a tech team to explore and build products for problems facing
-    citizens and/or Singapore in the social and heritage space
-  - Launching a community of public sector change-makers to anchor, amplify and
-    accelerate Public Sector Digital Transformation
-  - Codifying policy approach in OGP on a number of issues that are critical for
-    the product-development cycle
+  - Co-lead for Hack for Public Good 2024, which resulted in 37 working prototypes.
+  - Member of Social Tech vertical team that launched Glue: Curiocity prototype at Jurong Regional Library and Library@Harboufront.
+  - Codified policy and implementation in OGP on a number of legal issues that are critical for the product-development cycle.
 quote: ""
 linkedinId: ""
 ---

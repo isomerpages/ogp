@@ -9,15 +9,13 @@ joinDate: August 22, 2022
 functionId: ops
 jobTitle: Product Operations Specialist
 curProducts:
+  - RedeemSG
+pastProducts:
   - Vault
-pastProducts: []
 accomplishments:
-  - Led the migration and communications plan for launch of new Data.gov
-  - Spearheaded engagements with new & existing stakeholders, securing new
-    integrations equating to ~70% increment of datasets in Data.gov
-  - Automated processes for streamlined operations via Zapier, Slack
-    integrations etc. For example, such automations resulted in a 55.6%
-    reduction of time required to consolidate post-migrationData.gov updates
+  - Spearheaded NEA retailers integration for Climate Vouchers, with >315 outlets islandwide onboarded.
+  - Led ops readiness checks and conducted trainings for a smooth launch to CDC Vouchers 2024, which has the highest claim and spend rate to date among all the previous launches.
+  - Spearheaded multiple pilots on HPB Spectacles Vouchers for students under the Financial Assistance Scheme (FAS).
 quote: ""
 linkedinId: ""
 ---

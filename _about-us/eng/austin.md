@@ -14,16 +14,9 @@ pastProducts:
   - Healthtech
   - IRMS
 accomplishments:
-  - Scoping and building Bright MVP within a month, launching it within a month
-    and onboarding all AIC staff within 3 months. Bright entirely replaced their
-    manual and inefficient workflow with excel sheets and reduced search times
-    from an average of 20 minutes to under 3 minutes
-  - Shipped Bright which allowed AIC staff to focus on other aspects of their
-    social work. Our users were all happy with the product and appreciative of
-    the work done (we have an average rating of 4.3/5.0)
-  - Helping Care360 launch to all PHIs in Singapore. Having been part of the
-    initial Care360 team, it was great to finally launch our product to all
-    hospitals in Singapore within a short amount of time
+  - Made a positive impact for the whole of AIC and expanding search to cover most types of services, thereby saving them potentially 400,000 minutes of their time this cycle.
+  - Made judgement calls over code-quality/access control library which have paid off over time (examples in working doc).
+  - Protected the space to do learnings which involved both System Design and UI/UX design - both of which have already positively benefitted me in my work.
 quote: ""
 linkedinId: ""
 ---

@@ -21,14 +21,7 @@ pastProducts:
   - sgID
   - ScamShield
 accomplishments:
-  - Public Sector Sprint - Working with fellow public officers to define and
-    develop their problem statements with OGP design thinking and tech tools; in
-    the process, we challenged them to think deeper, and empowered them with the
-    tech tools they can use to increase productivity in their daily work.
-  - Product Ops Sharing Sharing to PS Joseph and Panel on what Product Ops is,
-    and how we drive change in OGP and other agencies
-  - Refining team's hiring processes to bring in great team members to work on
-    public sector problem statements together
+  - Being the first Product Operations team in Government, we’re uniquely positioned at the hub of user experience, operations, user data, and propagation to be able to support and scale products. I’m proud of the team’s successes, and I’m looking towards improving our practices, performance, and learning. 
 quote: ""
 linkedinId: ""
 ---

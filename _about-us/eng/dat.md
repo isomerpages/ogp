@@ -9,15 +9,14 @@ joinDate: June 20, 2022
 functionId: eng
 jobTitle: Lead Software Engineer
 curProducts:
-  - Go.gov.sg
+  - LetterSG
+  - VolunteerSG
 pastProducts:
+  - Go.gov.sg
   - Pouch
 accomplishments:
-  - launched several products during this period, including Highway (released in
-    the second quarter of 2023), EngageSG (released in the third quarter of
-    2023), and LetterSG (also released in the third quarter of 2023)
-  - no internally caused incident, 100% uptime across Go products
-  - went to Bali with the Go team
+  - LetterSG growth
+  - Developed ServeSG
 quote: ""
 linkedinId: ""
 ---

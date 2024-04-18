@@ -21,13 +21,9 @@ pastProducts:
   - Send
   - Vault
 accomplishments:
-  - Introduced semantic search which contributed significantly to citizens being
-    able to find the answers to their questions on AskGov
-  - Introduced generative search to AskGov which highlighted relevant portions
-    of an answer to users who were struggling to find their answers amidst
-    lengthy FAQs.
-  - Helped get AskGov moving quickly, gaining sufficient traction to support 2
-    nation-wide campaigns; NDP and HealthierSG.
+  - Took on manager responsibilities officially and supported my reports in their growth to take on more ambiguous tasks.
+  - Supported the AskGov PM in exploring a number of new product opportunities, whether that meant building prototypes rapidly or independently doing product and user research.
+  - Built Converse, together with my hackathon team mates, an LLM powered speaking companion that helps students improve their conversational skills in preparation for oral examination.
 quote: ""
 linkedinId: ""
 ---

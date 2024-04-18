@@ -19,12 +19,8 @@ pastProducts:
   - Armoury
   - Signify
 accomplishments:
-  - Lead the FormSG team to deliver payment improvements, waiting room, and
-    MyInfo improvements
-  - Wrote proposal and got panel approval for FormSG to shift the encryption
-    boundaries
-  - Rolled out the product report cards and staff profile pages for the OGP
-    website
+  - Enabled the FormSG to deliver virus scanning and server-side validation of submissions.
+  - Delivered the first version of an internal dev platform for OGP. With the hope that it can guid teams to improve the way they operate.
 quote: ""
 linkedinId: timotheegroleau
 ---

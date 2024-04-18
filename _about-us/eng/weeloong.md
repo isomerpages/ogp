@@ -12,9 +12,9 @@ curProducts:
   - Plumber
 pastProducts: []
 accomplishments:
-  - Built branching logic for Plumber
-  - Helped make Plumber more secure
-  - Built file handling in Plumber
+  - Enabled Plumber to support enforcement use cases nationwide.
+  - Built Plumber's integration with M365 Excel.
+  - Guided other parties to create their own Plumber integrations.
 quote: ""
 linkedinId: ""
 ---

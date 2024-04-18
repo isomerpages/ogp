@@ -1,7 +1,7 @@
 ---
 title: Hui Xuan Leow
 permalink: /people/huixuan
-description: Hui Xuan Leow - Manager
+description: Hui Xuan Leow - Senior Manager
 third_nav_title: Policy & Transformation
 staffId: huixuan
 name: Hui Xuan Leow
@@ -10,17 +10,15 @@ functionId: transformation
 jobTitle: Senior Manager (Policy & Transformation)
 curProducts:
   - Policy & Transformation
+  - ActiveSGs
 pastProducts:
   - IM8-CFA
   - SGID
   - Queue
   - HealthTech
 accomplishments:
-  - Organised the inaugural HealthTech Fellowship Programme as part of longer
-    term capability development and transformation efforts
-  - Expanded OGP's operating space in healthcare and other new problem areas
-  - Supporting product teams like EventSG in product visioning and growth
-    strategy
+  - Expanded OGP’s operating space in new problem domains.
+  - Positively influenced partner agencies to adopt a more user-centred, agile and iterative approach to product development
 quote: ""
 linkedinId: ""
 ---

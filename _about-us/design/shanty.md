@@ -23,7 +23,7 @@ pastProducts:
 accomplishments:
   - Grew our UX writing team by hiring and onboarding our second ever writer.
   - Ran workshops to help our engineers understand the fundamentals of UX writing, and become better writers themselves.
-  - Created a system for me to manage my bandwidth and prioritise my efforts better – it isn't perfect, but it's a step towards doing more by doing less!
+  - Created a system for me to manage my bandwidth and prioritise my efforts better – it isn’t perfect, but it’s a step towards doing more by doing less!
 quote: ""
 linkedinId: ""
 ---

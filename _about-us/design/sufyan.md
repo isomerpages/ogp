@@ -9,10 +9,13 @@ joinDate: August 7, 2023
 functionId: design
 jobTitle: Senior Product Designer
 curProducts:
+  - PaySG 
+pastProducts: 
   - SGID
-pastProducts: []
 accomplishments:
-  - i'm new, watch this space!
+  - Built a close team in PaySG that has a clear product strategy and builds impactful features quickly
+  - Lead design for ambiguous spaces in hackathon from scratch, with the most successful being Roster Monster (a tool to help make roster planning easier).
+  - Created a safe, productive and fun environment within the Finscam design team.
 quote: ""
 linkedinId: ""
 

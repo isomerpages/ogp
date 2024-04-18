@@ -21,16 +21,9 @@ pastProducts:
   - Vault
   - ScamShield
 accomplishments:
-  - Rollout of Care360 successfully to 7 SingHealth Institutions and 5 NHG
-    institutions with no major incidents or issues
-  - Secured IRMS 2.0 product from AIC and rolled out a function to find service
-    providers to AIC, decreasing the average time spent searching from an
-    average of 20 minutes to < 3 minutes. Positive feedback of 4.3 / 5 on user
-    satisfaction. Delivering impact and value to users before the larger-scale
-    launch of the product in 2024
-  - Built up trust and reputation with MOH and key stakeholders that opened up
-    new and core opportunities for OGP to explore in MOH (Referrals Layer and
-    AAC2.0)
+  - Set the overall vision for the HealthTech team and identify how the pieces would come together to enable us to create a baseline set of patient data, which can be used in future citizen-facing products.
+  - Rolled out Home and Nursing service matcher to AIC, completing all the services to help AIC staff match patients to service providers, reducing matching times from 5~15 minutes to< 3 minutes. Achieved a user satisfaction average of 4.3 out of 5.
+  - Released Grandfather Road as a Hackathon 2024 project, which saw 500+ users playing the quiz on demo day + 7 days later.
 quote: ""
 linkedinId: lennard-lim-2b339920
 ---

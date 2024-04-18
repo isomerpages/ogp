@@ -17,10 +17,9 @@ pastProducts:
   - HR operations and governance
   - Team communications
 accomplishments:
-  - Saw through performance appraisal for 140 officers in Sep'23
-  - Organised quarterly townhalls and weekly friday closers
-  - Efficiently converting coffee and waffles into an understanding of the
-    people within the org
+  - Built a webapp! 
+  - Ran our biggest performance appraisal cycle in Mar'24.
+  - Kept my ears on the ground and eyes on slack channels in order to curate Friday Closer content every week.
 quote: ""
 linkedinId: ""
 ---

@@ -10,20 +10,16 @@ functionId: eng
 jobTitle: Senior Software Engineer
 curProducts:
   - Pixie
+  - ERP-X / Roadbuster
 pastProducts:
   - Care360
   - CorpTech
   - Healthtech
 accomplishments:
-  - Care360 document generation features - enabled a meaningful end-to-end flow
-    that allows MSWs to build, use, save, and digitally send documents to
-    patients
-  - Launched Pixie (Patient Experience) - scaffolded the app, made fundamental
-    technical decisions regarding authentication, deployment, monitoring etc.
-    Contributed to product direction by providing meaningful technical input
-  - Released Pixie’s Digital Documents - helped patients avoid the anxiety that
-    comes with losing printed documents by enabling digital copies, trial was
-    well-received by users
+  - Pixie - Rolled out digital documents to all public healthcare institutions. 
+  - Pixie - FA Request trial with SGH. 
+  - ERP-X / Roadbuster - Trained an object detection model for license plate detection that was used in multiple prototypes during the annual Hack for Public Good.
+
 quote: ""
 linkedinId: ""
 ---

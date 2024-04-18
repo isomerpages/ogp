@@ -9,8 +9,6 @@ joinDate: August 31, 2020
 functionId: ops
 jobTitle: Senior Product Operations Specialist
 curProducts:
-  - FormSG
-  - Isomer
   - Plumber
 pastProducts:
   - Redeem
@@ -20,9 +18,9 @@ pastProducts:
   - Go.gov.sg
   - CheckWho
 accomplishments:
-  - finished school migration work (over 300+ sites launched)
-  - push user growth in plumbers from 400+ to over 1000
-  - seeing o-gio-p becoming an official channel in the org
+  - Hiring for DGS and c360 because this is the first time we're getting the product team more involved.
+  - Running operations on Plumber.
+  - Helped with the roll out of new features on Plumber, such as If-then and attachments in emails. 
 quote: ""
 linkedinId: ""
 ---

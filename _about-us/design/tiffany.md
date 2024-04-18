@@ -12,11 +12,9 @@ curProducts:
   - HAS
 pastProducts: []
 accomplishments:
-  - Led design for Primary Care, including conceptualizing and executing UI for
-    all features, leading to an increase in NPS score from 34 to 81
-  - Worked on empowering citizens with cost transparency and subsidy eligibility
-    for medical services
-  - Being the Primary Care lunch queen 👑 (self-appointed)
+  - Designing for the Health Appointment System (HAS), which has helped facilitate over 370k appointments in Singapore to date.
+  - Designed and built ReadLiao, an AI-based assistant utilising OCR and LLM technology to help seniors with understanding their letters.
+  - Planned & facilitated a HTML/CSS workshop to level up >20 designers in technical skills.
 quote: ""
 linkedinId: ""
 ---

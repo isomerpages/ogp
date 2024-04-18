@@ -12,10 +12,9 @@ curProducts:
   - PaySG
 pastProducts: []
 accomplishments:
-  - Scheduled defensive checks for PaySG payments
-  - Implemented idempotency for PaySG API endpoints
-  - Was the first to implement e2e testing in nestjs and sequelize for PaySG
-    backend API endpoints
+  - Direct bank integration for PaySG with OCBC.
+  - Implemented webhooks setup and infrastructure for PaySG.
+  - Led and implemented full stack features for internal finance tool.
 quote: ""
 linkedinId: ""
 ---

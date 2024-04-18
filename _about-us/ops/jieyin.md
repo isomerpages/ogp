@@ -12,13 +12,9 @@ curProducts:
   - Pair
 pastProducts: []
 accomplishments:
-  - Supported individual and agency onboarding to Pair as the product grew from
-    4000 users to over 15000 users in a span of two months
-  - Revamped Pair’s support and operations processes to improve overall user
-    experience
-  - Planned the launch of three new features - Pair Intern, Pair Studio, and
-    Pair Tools which will enable users across government to access and utilize
-    more powerful AI capabilities
+  - Grew Pair Chat’s user base by 2.3x to 35k users in 6 months.
+  - Helped to launch Pair V2, Pair’s Custom Assistants feature, Pair Intern, and Pair Search.
+  - Mocked up the first prototype of Noms by Pair to help reduce the amount of grunt work done by secretariats.
 quote: ""
 linkedinId: ""
 ---

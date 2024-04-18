@@ -13,14 +13,9 @@ curProducts:
 pastProducts:
   - Vault
 accomplishments:
-  - Spearheading the development of visualisations we now have on our current
-    site, which enabled our users to be able to visualise data through charts
-    and maps
-  - Initiated and pioneered the frontend tooling for Data.gov.sg, which enabled
-    us to build with greater confidence and catch potential UI regressions
-  - Implemented Incremental Static Regeneration for our public site, which
-    reduced the page load times to less than 20% of its original for certain
-    pages
+  - Designed the schema and implemented the end-to-end flow of requests and approvals that enable government officers to access high-value data.
+  - Onboarded the dataset of one of our key agency partners including handling calls with them, debugging errors, providing recommendations.
+  - Built a discovery platform for recycling in Singapore that is now live (recycle.gov.sg).
 quote: ""
 linkedinId: ""
 ---

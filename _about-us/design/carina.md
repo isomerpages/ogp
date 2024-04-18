@@ -9,18 +9,16 @@ joinDate: July 26, 2021
 functionId: design
 jobTitle: Senior Product Designer
 curProducts:
-  - Redeem
+  - ScamShield
 pastProducts:
+  - RedeemSG
   - Parking.sg
   - PaySG
   - Pair
 accomplishments:
-  - Designing how RedeemSG can be self-service and supporting more voucher
-    campaigns
-  - "Paired up: did more pair designing, actively seeked help when I needed a
-    second pair of eyes, launched Pair Chat (ChatGPT for government)"
-  - Became a meme while presenting on stage at Figma Config 2023, because
-    apparently I’m no economist
+  - Launched RedeemSG Rewards, which propelled RedeemSG adoption as the product continues to scale 1-100
+  - Onboarded Toby to takeover RedeemSG!
+  - Joined ScamShield and shaping team alignment & product direction as we move from 1-0-1
 quote: ""
 linkedinId: ""
 ---

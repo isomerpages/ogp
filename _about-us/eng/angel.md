@@ -12,15 +12,9 @@ curProducts:
   - Primary Care
 pastProducts: []
 accomplishments:
-  - I managed to grow my seniors to lead projects without me injecting myself so
-    much in it, grew my other engineers to properly scale up as seniors and not
-    to fall up (i.e. promoted without sufficient skill), and managed to start
-    new projects (or at least prototype) successfully
-  - I managed to push efforts on increasing HAS brand awareness, and implement
-    some processes fairly well to address the highest pain points & improve the
-    team to certain level of productivity
-  - Setting higher standard for the team as what's considered good (code
-    quality, engineering practices, UI & UX)
+  - Spearheaded international collaborations with the Indonesian government.
+  - Contributed to the Tech-up program, guiding officers from various agencies in understanding technology and coding.
+  - Coached my reports to a level where they can autonomously lead their own teams, thereby expanding the number of products I can manage from 1 to 5.
 quote: ""
 linkedinId: ""
 ---

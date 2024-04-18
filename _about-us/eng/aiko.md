@@ -16,14 +16,8 @@ pastProducts:
   - LetterSG
   - WizGov
 accomplishments:
-  - I have shipped 4 products (2 MVP) in my first 4 months at the organisation.
-    LetterSG, OurStory, ExploreSG, Office Funds Pool
-  - Despite coming from different technical background I was able improve my
-    React/JS/HTML/CSS skills in the first couple of weeks/months to the point
-    where I was able to solve a prevalent UI bug that the rest of the
-    engineering team had given up on already.
-  - I am proud (and happy that this is possible) that my feedback on org-wide
-    issues was heard and was shared with the wider organisation.
+  - I identified the need for product, which I then independently developed, designed, and deployed.
+Additionally, the product my team built (Glue) was very well received and the Prime Minister shared it on Instagram & Facebook.
 quote: ""
 linkedinId: aikoklostermann
 ---

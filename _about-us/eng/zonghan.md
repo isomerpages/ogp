@@ -9,10 +9,14 @@ joinDate: July 17, 2023
 functionId: eng
 jobTitle: Software Engineer
 curProducts:
+  - sgID
+  - NDI
+pastProducts:
   - CalSG
-pastProducts: []
 accomplishments:
-  - i'm new, watch this space!
+  - Developed multiple major features for CalSG, including one-off events, sgID-verified bookings, booking reminders and event lists.
+  - Enhanced the look and feel of CalSG for both admins and attendees.
+  - Adapted the sgID developer portal to pilot an upgraded Singpass login server,
 quote: ""
 linkedinId: ""
 

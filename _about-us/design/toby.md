@@ -9,10 +9,12 @@ joinDate: November 23, 2023
 functionId: design
 jobTitle: Product Designer
 curProducts:
-  - Redeem
+  - RedeemSG
 pastProducts: []
 accomplishments:
-  - I'm new, watch this space!
+  - Led design and research efforts as the sole designer on fynder, significantly reducing the time spent on loan processes from a few days to just a few minutes. 
+  - Stepped up to train my facilitation muscles: Organized and facilitated the FinScam Vertical’s All Hands retrospective and a co-creation workshop.
+  - Optimized and revamped RedeemSG's landing page, resulting in a significant increase in page views from 1.39k to 15.50k. 
 quote: ""
 linkedinId: "tobygail"
 

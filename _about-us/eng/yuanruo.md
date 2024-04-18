@@ -9,21 +9,19 @@ joinDate: July 1, 2019
 functionId: eng
 jobTitle: Lead Software Engineer
 curProducts:
+  - CareerSG
+pastProducts:
   - SGID
   - Plumber
-pastProducts:
   - Temperature
   - Go.gov.sg
   - FormSG
   - CorpTech
   - ScamTech
 accomplishments:
-  - As engineering manager, grew engineering capacity on ScamShield and SGID
-    teams through hiring
-  - Worked in cloud-first architecture policies for IM8 to accelerate modern
-    engineering practices across government
-  - Provided expertise and consultation to the Digital Intelligence Service on
-    tech hiring
+  - Active hands-on management to improve and address trust and performance.
+  - Identified and guided teams to execute 3 new valuable opportunities - EnterpriseSG, CareersGovSG, and PA CRM - without additional resourcing and limited cross-functional support.
+  - Created a new programming language in PlumberScript (mostly) during H4PG, which is a first at OGP.
 quote: ""
 linkedinId: ""
 

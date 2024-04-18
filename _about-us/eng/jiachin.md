@@ -13,9 +13,9 @@ curProducts:
 pastProducts:
   - Go.gov.sg
 accomplishments:
-  - Shipped styling + drag and drop reworks
-  - Got better at recognising product/eng tradeoffs
-  - Communicate openly and honestly
+  - Shipped new RTE to production.
+  - Shipped new homepage blocks to production.
+  - Set up infrastructure for Isomer.
 quote: ""
 linkedinId: ""
 ---

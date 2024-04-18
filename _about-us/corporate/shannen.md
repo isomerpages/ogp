@@ -9,17 +9,14 @@ joinDate: October 25, 2021
 functionId: corporate
 jobTitle: Senior Manager (Marketing)
 curProducts:
-  - Marketing Team
+  - Marketing - Citizen Engagement
 pastProducts:
   - Build for Good 2023
 accomplishments:
-  - Overall in charge of Build for Good, a brand new citizen engagement
-    initiative that empowers citizens to identify and solve problems faced in
-    Singapore
-  - Supporting the soft launch of ScamShield Bot to check and report scam
-    messages and calls easily
-  - Promoting whole-of-government tech hiring that led to an acqui-hire of a
-    tech team into government
+  - Expanding Build for Good (BFG) as a strategic initiative that changes the way the government does citizen engagement with upcoming thematic & general hackathons, accelerator programmes, community sessions, while facilitating BFG2023 winning team, NoteFlow, in developing their MVP and securing a pilot with a government agency for actual users to trial a citizen solution.
+  - Working on public comms campaign for an anti-scam project.
+  - Co-created Fireside, a webapp that tackles work burnout among young working adults.
+  
 quote: ""
 linkedinId: ""
 ---

@@ -13,10 +13,9 @@ curProducts:
 pastProducts:
   - Social media marketing
 accomplishments:
-  - Showcasing my expertise in print for the NDP 2023 Commemorative Spread
-  - Showcasing my Adobe After Effect Skills for Scamshield Bot Demo Video +
-    Stats Video
-  - Showcasing my Premiere Pro Skills for Build for Good Street Interview
+  - Supported Build for Good citizen engagement events. 
+  - Secured 2 marketing collaboration opportunities with Health Promotion Board (HPB) to raise brand awareness for the Health Appointment System (HAS) and help improve the lives of Singaporeans through preventative healthcare 
+  - Actively contributed to product marketing efforts and user acquisition for the launch of the ActiveSG pilot.
 quote: ""
 linkedinId: ""
 ---

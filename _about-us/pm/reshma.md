@@ -10,16 +10,14 @@ functionId: pm
 jobTitle: Product Manager
 curProducts:
   - DistributeSG
+  - ScamShield
 pastProducts:
-  - RedeemSG and Pair
+  - RedeemSG
+  - Pair
 accomplishments:
-  - Successful launch of DistributeSG from ideation to launch, successfully delivering 
-    the product to my first users for the LKY Commemorative Coin distribution campaign
-  - Demonstrated stakeholder management and navigated policy and operational
-    blockers onboarding use cases from MINDEF, PA, MAS, ICA, NHB, and KidStart
-  - Enhanced my skills in team management and personal development by
-    prioritising team bonding and culture, seeking guidance from experts, and improving my
-    tech know-how
+  - Grew DistributeSG to being used by more than 10 agencies in less than 6 months, with each campaign logging >80% successful distributions to allocated beneficiaries.
+  - Understanding the scam landscape in Singapore and thinking about the problem from first principles so that the ScamShield app rebuild focuses on the whys and challenges assumptions at every step.
+  - I never saw myself as a manager till I was appointed one, and growth on that front has been bittersweet but also phenomenal in my own growth and exposure.
 quote: ""
 linkedinId: reshma-vasu
 ---

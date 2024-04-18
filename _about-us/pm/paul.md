@@ -17,11 +17,9 @@ pastProducts:
   - PaySG
   - Redeem
 accomplishments:
-  - No Tick, Don’t Click - Launched the pre-call and house visit notification
-    and officer verification features on Gov.sg WhatsApp
-  - Paulfessor - Provided the training and resources needed for all product
-    managers to deliver their web app
-  - Claimsbot - Improve the claims process in OGP
+  - Launched SGC, a messaging platform for Whole of Government to use.
+  - Created course materials and conducted lessons to upskill the PM function.
+  - Created tools to streamline finance related process in OGP.
 quote: ""
 linkedinId: ""
 ---

@@ -9,8 +9,10 @@ joinDate: March 2, 2020
 functionId: eng
 jobTitle: Senior Software Engineer
 curProducts:
-  - CalSG
+  - PaySG
 pastProducts:
+  - NDI
+  - CalSG
   - FormSG
   - AskGov
   - Endemic Ops
