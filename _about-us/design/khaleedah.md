@@ -9,21 +9,17 @@ joinDate: July 12, 2021
 functionId: design
 jobTitle: Product Designer
 curProducts:
-  - ScamShield
+  - ActiveSG
 pastProducts:
+  - ScamShield
   - Zendemic comms
   - AskGov
   - Petitions
   - Postman
 accomplishments:
-  - Launched the ScamShield WhatsApp Bot to public! The ScamShield Bot allows
-    you to check if something is a scam, and to report scams
-  - Elevated the user experience of the ScamShield Bot to spark delight and
-    provide a really enjoyable experience for users, by pushing for what users
-    found most meaningful
-  - Planned, and facilitated a team ideation and brainstorming workshop to get
-    team alignment and for my teammates to feel a sense of ownership of the
-    problem space and ideas
+  - Launched ActiveSG beta which allows the public to book facilities. In beta, the team is supporting 7 sports in 14 venues for 2 months, with a total 1600 timeslots.
+  - Led user research and discovery for the Programmes module on ActiveSG, where I whiteboarded and prototyped with admin users.
+  - Launched Grandfather Road, a hackathon project which aims to make learning about Singapore's heritage and history fun and shareable. The result is a hyper-local quiz to explore neighbourhoods via roads, sprinkled with local terms/slang and imagery.
 quote: ""
 linkedinId: ""
 ---

@@ -12,10 +12,9 @@ curProducts:
   - Isomer
 pastProducts: []
 accomplishments:
-  - Enabled users to directly launch site directly on Isomer
-  - Fronted the migration of 50 sites from Netlify to Amplify
-  - Laid the groundwork for using Pulumi as Code for Isomer, which was later
-    used by other engineers
+  - Engineered tooling for broken links for Isomer sites which has lead to a decrease of 358 broken links.
+  - Optimised build process for sites in such that the p99 time to live for a deployment decreased from 14.2 mins to 4.7 mins.
+  - Productionised a more resilient redirection service to eliminate downtime of 62.5 minutes per year.
 quote: ""
 linkedinId: ""
 ---

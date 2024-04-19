@@ -9,15 +9,16 @@ joinDate: August 1, 2023
 functionId: corporate
 jobTitle: Senior Manager (Marketing)
 curProducts:
-  - Marketing Team
+  - Marketing - Product
+  - RedeemSG
+  - SGC
+pastProducts: 
   - HAS
   - ActiveSG
-  - SGC
-pastProducts: []
 accomplishments:
-  - Spearheaded and executed HAS’s first product marketing campaign and increased traffic to HAS by 12.92% and mammogram screening appointments by +40.00% in Oct ’23
-  - Spearheaded and executed OGP’s first Search Engine Marketing campaign to achieve a 16.84% conversion rate, contributing to 32.68% of total patient appointments made on HAS thus far.
-  - Orchestrated and established SEO plans for products like AskGov and HAS to increase product awareness and user adoption.
+  - Established the Product Marketing function within OGP, with the primary goal of increasing user acquisition, plus user adoption for OGP’s suite of products.
+  - Spearheaded the set-up of the technical infrastructure of SEO within OGP and executed the 1st SEO plan for the Health Appointment System (HAS), which improved its search engine rankings and increased total organic web traffic by 75%.
+  - Worked as a Product Manager to develop, scope and build a solution that simplifies long-form letters and documents to enhance comprehension for senior citizens, and ensure inclusivity across languages and literacy abilities.
 quote: ""
 linkedinId: nicoleloh
 

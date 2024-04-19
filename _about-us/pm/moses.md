@@ -1,26 +1,23 @@
 ---
 title: Moses Soh
 permalink: /people/moses
-description: Moses Soh - Senior Product Manager
+description: Moses Soh - Lead Product Manager
 third_nav_title: Product Management
 staffId: moses
 name: Moses Soh
 joinDate: December 5, 2022
 functionId: pm
-jobTitle: Senior Product Manager
+jobTitle: Lead Product Manager
 curProducts:
   - Pair
   - sgID
+  - NDI
 pastProducts:
   - PaySG
 accomplishments:
-  - Launched PaySG in April 2023, which has helped process more than $4m in
-    payments and save close to $1m in development costs for our launch agency,
-    the Ministry of Manpower
-  - Led the development of Pair, including the public-service wide rollout of
-    Pair Chat which now has more than 15,000 users from 106  agencies which have
-    exchanged more than 600,000 messages with Pair
-  - Reworked sgID’s landing page to sharpen our value proposition to developers
+  - Helped catalyse the rebuild of core NDI systems, bringing the sgid and NDI teams together to deliver cost-effective, reliable and secure digital identity for Singapore.
+  - Worked with the T3 team in NDI to measure availability from a user perspective, and start a culture of continuous improvement.
+  - Successfully built up a fully-staffed Pair team that continues to deliver useful products that make knowledge work in the government more delightful & productive (Pair Chat, Intern, Search and Noms) for more than 35,000 users.
 quote: ""
 linkedinId: ""
 ---

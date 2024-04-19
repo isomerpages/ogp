@@ -10,14 +10,14 @@ functionId: transformation
 jobTitle: Senior Manager
 curProducts:
   - Policy & Transformation
-pastProducts: []
+  - ScamShield
+  - SGC
+pastProducts:
+  - ActiveSG
 accomplishments:
-  - Secured mandate, budget, and manpower for OGP to lead its first nationwide
-    marcomms campaign
-  - Scoped out problem statements for a new OGP product in the absence of a PM
-  - Identified potential areas of improvement for ScamShield based on analysis
-    of user feedback. The product team worked off this analysis to revamp the
-    ScamShield app
+  - Won top leadership approval for OGP to build Morpho, a sports facilities balloting application. Cost savings of over $25.5M
+  - Scoped, resourced, and managed cross-agency team on a nationwide marketing & comms campaign impacting <95% of Singaporeans.
+  - Unblocked legal and policy blockers for anti-scam data sharing pilots with industry players.
 quote: ""
 linkedinId: ""
 ---

@@ -12,7 +12,7 @@ curProducts:
   - UX Research
 pastProducts: []
 accomplishments:
-  - I'm new, watch this space!
+  - Worked with Hackathon team to validate the use case for ReadLiao (a LLM powered tool that makes it easier for senior citizens to comprehend complicated letters sent in English)
 quote: ""
 linkedinId: ""
 

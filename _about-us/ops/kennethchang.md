@@ -1,7 +1,7 @@
 ---
 title: Kenneth Chang
 permalink: /people/kennethchang
-description: Kenneth Chang - Product Operations Specialist
+description: Kenneth Chang - Senior Product Operations Specialist
 third_nav_title: Product Operations
 staffId: kennethchang
 name: Kenneth Chang
@@ -12,15 +12,9 @@ curProducts:
   - FormSG
 pastProducts: []
 accomplishments:
-  - Coordinated with MINDEF to launch their RSAF55 Charity drive collections,
-    resulting in the collection of approximately $165k in donations over 2.5k
-    submissions
-  - Tripled all external engagements for the FormSG community, with Office Hours
-    growing to 2,028 monthly attendees, the Form-ally Telegram channel expanding
-    to 2,987 subscribers, and Formsies Telegram discussions reaching 472
-    subscribers
-  - Invited to present to 400 support officers in the Public Service Learning
-    Week Festival segment on digitalisation for support officers
+  - Scaled the number of agencies using FormSG payments from 7 to 30+, and payment forms collecting at least 5 live payments from 13 to 89.
+  - Contributed to 4x growth in Signify (600 signatures/weekly); presented at Digital Consent Steering Committee and thereafter MOH has recognised Signify as a digital consent solution across PHIs, likely saving MOH millions on a bespoke digital consent platform.
+  - Grew FormSG Office Hours to help 3000+ public officers learn about useful OGP digital tools on a monthly basis
 quote: ""
 linkedinId: ""
 ---

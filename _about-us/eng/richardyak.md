@@ -9,13 +9,14 @@ joinDate: October 3, 2022
 functionId: eng
 jobTitle: Senior Software Engineer
 curProducts:
-  - Phonebook
+  - CareerSG
 pastProducts:
   - Postman
+  - Phonebook
 accomplishments:
-  - Getting the Phonebook product live
-  - Participated in BFG and mentored a team to victory
-  - Being an intern manager
+  - Active collaboration with the EnterpriseSG team, fostering agency trust in OGP, and co-creating a solution together.
+  - Rapid prototyping and iteration of digital solutions solving different aspects of the Market Readiness Assistance (MRA) grant.
+  - Developed a fully featured production-grade applicant tracking system, Careers@Gov within a month.
 quote: ""
 linkedinId: ""
 ---

@@ -17,11 +17,9 @@ pastProducts:
   - Letters
   - Engage
 accomplishments:
-  - Led the re-engineering of EventSG to a production-ready state
-  - Set up infrastructure and deployment processes across all new products on
-    the Go team's portfolio (Highway, LetterSG, EventSG)
-  - Pushed for engineering excellence to support the Go team’s growth and
-    engineering velocity
+  - Expanded Letters' reach and supported our transition to digital letters by rolling out PDF generation.
+  - Launched RSVPs for EventSG and oversaw its growth to thousands of users.
+  - Built and launched the volunteering platform ServeSG for Hackathon 2024.
 quote: ""
 linkedinId: ""
 ---

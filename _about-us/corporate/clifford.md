@@ -15,15 +15,9 @@ pastProducts:
   - OGP Business Partnering & Hiring
   - Team health surveys/dashboards and interventions
 accomplishments:
-  - Tech for Public Good Recruitment Bootcamp, and successfully co-led the TFPG
-    Recruitment bootcamp launch for 14 agencies & 40 attendees, upskilling them
-    on Recruitment & Employer branding best practices.
-  - "Applicant Tracking System pilot launch: piloted the Commercial ATS
-    initiative for select Agencies, in partnership with PSD to potentially scale
-    for whole of Government's Recruiting in the future"
-  - "Team Health Surveys: ran OGP's Team & Individual health surveys, built
-    dashboards for data visualisations and co-owning Interventions on focus
-    areas"
+  - Led team of 5 to launch CareerSG, an alternative to Careers@Gov that reduces barriers to applying for roles in Government & gives you accurate search results, transparent role information and it only takes 1-2 mins to apply for a role. 
+  - Drove learning & development program for all OGP officers to upskill them in Tech/Design/PM roles; new skills learnt will enable them to be more effective in their roles.
+  - Set up & launched CultureAmp survey to collect feedback data from employees & worked with functional leads to diagnose, intervene & establish team/org priorities. 
 quote: ""
 linkedinId: ""
 ---

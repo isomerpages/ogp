@@ -22,15 +22,9 @@ pastProducts:
   - CorpTech
   - ScamTech
 accomplishments:
-  - Designed, tested, delivered a matching tool in less than 6 months, with high
-    user satisfaction (4.3/5) and time saved (~2 hours/user/day)
-  - Initiated and led a big hiring push –  did whatever necessary (outreach,
-    writing JD, interview guides, screening, scheduling, interviewing), leading
-    to most of our new hires this year
-  - Spread out impact across other projects – designing StarterApp, mapping
-    Finance DC flow, running Report Card interviews, Design System onboarding,
-    running HTF workshop, ad-hoc CalSG IA work. All this helped to push other
-    projects along
+  - IRMS Referrals - redesigned the referral creation experience for the ILTC (intermediate to long term care) space, with the aim to make it a more seamless, fairer system.
+  - Grandfather Road - Co-designed a visual language, artwork, and copy around the themes of local areas to encourage learning about Singapore road names through a quiz (grandfatherroad.gov.sg).
+  - Helped to grow the team from 3 to 30 through non-stop hiring for 3 years. We finally reached a stopping point and the last hiring push resulted in another 3 confirmed hires.
 quote: ""
 linkedinId: ""
 ---

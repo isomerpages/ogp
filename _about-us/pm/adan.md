@@ -12,10 +12,9 @@ curProducts:
   - Care360
 pastProducts: []
 accomplishments:
-  - Reached the launch milestone to migrate 100% of the institutions to Care360
-    from NeMSW ahead of schedule
-  - Exceeded Care360 User Satisfaction and NPS targets at launch
-  - Hosted Car360 product sharings for public healthcare and social partners
+  - Scoped out the expansion of Care360 to Singapore's 4 VWO Community Hospital institutions.
+  - With a team of two others, created Recipes, a Hackathon product with quick-start templates that makes it easy to create a solution using multiple OGP product to solve common problems.
+  - Built a web app prototype in a weekend that uses visual recognition AI to track attendance.
 quote: ""
 linkedinId: ""
 ---

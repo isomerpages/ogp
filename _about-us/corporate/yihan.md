@@ -9,17 +9,13 @@ joinDate: July 18, 2022
 functionId: corporate
 jobTitle: Manager (Marketing)
 curProducts:
-  - Marketing Team
+  - Marketing - Citizen Engagement
 pastProducts:
   - Social media marketing
 accomplishments:
-  - Spearheading the marketing efforts for OGP’s inaugural Build for Good,
-    attracting ~700 citizens to sign up as builders to make Singapore better
-  - Leading the social media efforts — from strategically planning our content,
-    creating effective content to tell the story of OGP to the masses, to
-    analysing our performance and finding ways to optimise our growth
-  - Leading the product marketing efforts of the Health Appointment System
-    (HAS), increasing site traffic and number of appointments booked
+  - Leading the upcoming Build for Good (BFG) Environment hackathon (Collaboration with MSE's SG Eco Fund).
+  - Built the BFG community through regular mixers & virtual community group.
+  - Grew our social media presence & creating content to showcase our organisation practices.
 quote: ""
 linkedinId: ""
 ---

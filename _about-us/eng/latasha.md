@@ -9,13 +9,14 @@ joinDate: August 22, 2022
 functionId: eng
 jobTitle: Software Engineer
 curProducts:
+  - Bright
+  - Care360
+pastProducts:
   - AskGov
-pastProducts: []
 accomplishments:
-  - Improved AskGov SEO ranking, through various features and improvements
-  - Enhanced admin portal experience, by improving email workflow and admin
-    functionality
-  - Set up logging and monitoring, improved scrolling and search and refined UIUX
+  - Implemented a more seamless experience on AskGov, through the no wrong door feature which connected all the agency pages together.
+  - Improved SEO of AskGov, so that citizens can find answers to commonly asked questions more easily.
+  - Delivered a working prototype of Roster Monster, an application that makes roster planning easier for doctors.
 quote: ""
 linkedinId: ""
 ---

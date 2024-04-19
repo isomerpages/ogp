@@ -12,20 +12,9 @@ curProducts:
   - Vault
 pastProducts: []
 accomplishments:
-  - I was responsible for building the search service from the ground up and had
-    full ownership of the service development from clarifying requirements, and
-    designing infrastructure to building UI and setting up a monitoring system
-    for it. The system has been running since the beta launch with little to no
-    service disturbance
-  - I worked closely with our PM on product requirements, planned the
-    engineering requirements/technical specifications, designed the backend API,
-    and re-designed our data ingestion pipeline to integrate SGDRM which I wrote
-    for tabular data validation and reporting data ingestion status
-  - I designed a logging module for our new project that will pass a unique ID
-    across different application layers which allows engineers to easily debug
-    the issue across different AWS services. I also set up an engineering
-    dashboard on DataDog that monitors our infrastructure and gives a good
-    overview of how the systems are performing
+  - Successfully migrated the NEA real-time API to a new subscriber client, establishing a high-volume API on the data.gov.sg platform that now handles 21 million requests per month.
+  - Redesigned and replaced the old data.gov.sg Read API with a more extensible version, featuring advanced filtering capabilities using a custom domain-specific language (DSL), supporting approximately 100 million requests per year.
+  - Took the initiative initiative to expand platform usage by developing a client-side-only SGDRM data validation application, catering to the needs of GDO users.
 quote: ""
 linkedinId: ""
 ---

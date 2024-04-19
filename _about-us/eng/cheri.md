@@ -12,17 +12,9 @@ curProducts:
   - Primary Care
 pastProducts: []
 accomplishments:
-  - "Notes and Notes Templates: Feature to allow doctors and clinic assistants
-    to communicate with patients. Was also used by hospital emergency
-    departments to keep next of kin notified about the patient's condition and
-    status"
-  - "Covid Vaccine Selection Page: Page to help users choose the correct covid
-    vaccine for their age group. Created reusable components for this page, that
-    can also be used for similar use cases in future"
-  - "Offering Refactor: Proposed and implemented a refactor of how various parts
-    of our frontend interact with our offerings, consolidating them into a
-    single file for each offering, making it more maintainable and clear as to
-    what features and alternate text each offering has"
+  - Refactored backend and frontend code on Bright to reduce fragility and improve code quality.
+  - Proposed and implemented a versioning system that allows for collaborators to update different sections of referrals independently.
+  - Gotten better at fixing frontend bugs and implementing skeletons.
 quote: ""
 linkedinId: ""
 ---

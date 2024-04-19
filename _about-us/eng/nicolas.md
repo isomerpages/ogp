@@ -17,8 +17,7 @@ accomplishments:
     professionals and facilitate accessible healthcare
   - Efficiently converting coffee and waffles into quality code for the public
     good
-quote: Building high-quality systems to empower medical professionals and
-  facilitate accessible healthcare, I get to unite passion and purpose everyday.
+quote: Building high-quality systems to empower medical professionals and facilitate accessible healthcare, I get to unite passion and purpose everyday.
 linkedinId: ""
 ---
 

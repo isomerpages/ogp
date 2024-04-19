@@ -10,21 +10,15 @@ functionId: eng
 jobTitle: Senior Software Engineer
 curProducts:
   - DistributeSG
+  - SGC
+pastProducts:
   - Redeem
   - PaySG
   - Parking.SG
-pastProducts: []
 accomplishments:
-  - Built out DistributeSG for the LKY Coin distribution with a small team
-  - First OGP product to launch to production on DigitalOcean, and first OGP
-    product to have one codebase (using Expo) to deploy on 3 platforms (iOS +
-    Android + Web), and worked to enable knowledge transfer across teams despite
-    FinScam comprising >6 different products
-  - Worked on a platform for engineers to share knowledge and postmortems in
-    detail (Best practices for setting up Datadog, Ivan’s sharing on FinScam AWS
-    Infra etc.), and helped out FinScam team members from other products eg.
-    Redeem engineers, helped with debugging of Pair DNS resolution error, also
-    debugged with SGC team
+  - Worked on DistributeSG to enable more types of distribution campaigns with the addition of address and door to door modes.
+  - Supported the SGC engineers and team with technical and product guidance.
+  - Expanded on the FinScam vertical's learning opportunities with new Void initiatives - Study Hall and Design Learning
 quote: ""
 linkedinId: ""
 ---

@@ -9,18 +9,15 @@ joinDate: June 13, 2022
 functionId: eng
 jobTitle: Software Engineer
 curProducts:
+  - ERPX
+pastProducts:
   - FormSG
   - Checkpoint
-pastProducts:
   - CertSG
 accomplishments:
-  - Developed, productionized and launched Checkpoint, an email routing and
-    approval tool
-  - Designed and implemented the integration logic for FormSG payments with
-    Stripe, including creating payments, handling incoming webhooks and
-    performing automatic reconciliation
-  - Ran test support for FormSG VAPT conducted by Cure53, which received
-    favorable reviews from the test staff
+  - Owned and delivered a pilot for multi-respondent forms on FormSG.
+  - Grew Checkpoint 10-fold with minimal engineering, design and product resources.
+  - Built the mobile app for ERP X, a hackathon project.
 quote: ""
 linkedinId: ""
 ---

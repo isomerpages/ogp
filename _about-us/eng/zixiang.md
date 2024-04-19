@@ -9,18 +9,15 @@ joinDate: January 10, 2022
 functionId: eng
 jobTitle: Software Engineer
 curProducts:
-  - CheckWho
+  - ActiveSG
 pastProducts:
+  - CheckWho
   - AskGov
   - Postman
 accomplishments:
-  - I care deeply about solving government impersonation scams and my work on
-    CheckWho laid the foundation for the promising new ScamTech workstream,
-    Secure Government Communications
-  - I identified and drove the work on Postman programmatic email API, achieving
-    >90% cost-savings and modernising the government's email infrastructure
-  - I started a new product to enable government systems to securely and
-    cost-effectively access Internet APIs
+  - I am proud to work on ActiveSG to help Singaporeans be healthier 🏋️‍♀️
+  - I am excited to explore the application of prediction markets to inform policy making 🔮
+  - I live to share share engineering-related jokes and memes 🤡
 quote: ""
 linkedinId: ""
 ---

@@ -1,34 +1,28 @@
 ---
 title: Clement Chia
 permalink: /people/clement
-description: Clement Chia - Product Operations Specialist
+description: Clement Chia - Senior Product Operations Specialist
 third_nav_title: Product Operations
 staffId: clement
 name: Clement Chia
 joinDate: July 4, 2022
 functionId: ops
-jobTitle: Product Operations Specialist
+jobTitle: Senior Product Operations Specialist
 curProducts:
+  - HealthTech
+pastProducts:
   - go.gov.sg
   - Highway
   - LetterSG
   - EventSG
-pastProducts:
   - WizGov
   - HealthTech Sprint
   - Isomer Project Pancake
   - MindCraft
 accomplishments:
-  - Drove LetterSG’s launch and growth efforts by partnering with multiple
-    government agencies, resulting in the seamless onboarding of over 43
-    templates from 25 agencies
-  - Drove Highway's launch and growth efforts by sharing with multiple
-    government agencies, resulting in users onboarding from >120 agencies and
-    >6200 documents being collected
-  - Successfully launched the AskGov widget under WizGov for the ScamShield site
-    on production and other Isomer websites on staging, enhancing public
-    accessibility to critical information and interactivity of government
-    websites
+  - Spearheaded the introduction and adoption of LetterSG across multiple agencies, significantly increasing user adoption rates through strategic user testing sessions, product pitches, and the successful organization of the LetterSG bootcamp.
+  - Implemented and optimized product operations processes, including feedback loop integration and user support enhancements, which played a pivotal role in growing a key product metric (number of issued letters) by 127x and achieving a user satisfaction rate of 4.71/5.
+  - Led the adoption of data-driven decision-making through the setup of analytics tools and user testing feedback mechanisms, contributing to a 10x increase in templates onboarded, an 8x growth in users onboarded, and substantial operational efficiencies, including a reduction in onboarding time from two weeks to two days.
 quote: ""
 linkedinId: ""
 ---

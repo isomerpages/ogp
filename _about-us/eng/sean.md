@@ -9,12 +9,12 @@ joinDate: February 6, 2023
 functionId: eng
 jobTitle: Software Engineer
 curProducts:
-  - Redeem
+  - RedeemSG
 pastProducts: []
 accomplishments:
-  - Launching whitelist campaigns
-  - Launching campaign metrics
-  - Launching bulk creation of vouchers
+  - CDC vouchers launch.
+  - NEA vouchers launch.
+  - Lead Buckets.
 quote: ""
 linkedinId: ""
 ---

@@ -12,17 +12,9 @@ curProducts:
   - PaySG
 pastProducts: []
 accomplishments:
-  - I set up and wrote content for the official PaySG guide website to provide
-    users with a seamless navigation experience. This website empowers users to
-    onboard onto PaySG independently, without requiring any additional guidance,
-    and created the content for the new PaySG landing page.
-  - I proactively contribute to design decisions, providing recommendations and
-    guidelines to the designer. I have also created a UX writing guide and
-    checklist for PaySG, serving as a reference for designers and team members
-    when writing content.
-  - I worked with engineers to come up with quick prototypes for features such
-    as QR code download and new payment service table, and introduced Linear to
-    the PaySG team as a tool to streamline our project management process.
+  - Shaped the long-term vision of PaySG to become the default payment platform for government agencies and worked backward to identify actionable items the team needed to achieve.
+  - Grew the number of users by 5X and transaction value by 7.7X in the last 6 months. Many government agencies have considered making PaySG their default payment platform.
+  - Helped build an effective PaySG team (includes - product, engineers, operations, policy) that consistently delivers meaningful value to users.
 quote: ""
 linkedinId: ""
 ---

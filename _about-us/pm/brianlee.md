@@ -12,11 +12,7 @@ curProducts:
   - NLB Seed Team
 pastProducts: []
 accomplishments:
-  - I launched Ourstory and secured a commitment from NLB to showcase the
-    product in local libraries
-  - I launched ExploreSG to help school teachers to plan their school trip
-  - I built multiple prototypes to help NLB identify 3 crucial product ideas and
-    launched 2 of them in three months
+  - Expanded the social tech team into the community space involves launching various prototypes and products tailored to this arena. 
 quote: ""
 linkedinId: ""
 ---

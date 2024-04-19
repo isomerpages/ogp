@@ -20,14 +20,9 @@ pastProducts:
   - Data.gov
   - Send
 accomplishments:
-  - Led a team of 4 engineers to rebuild Data.gov.sg within 3-4 months
-  - Introduced engineering practices, sharings and processes to help engineers
-    transition their focus from speed of delivery to product reliability and
-    polish.
-  - "Made strategic code contributions that fixed massive bottlenecks in Vault
-    team's products: 1) 1000x decrease in audit log storage size, 2) 100x
-    decrease in concurrent DB connections, and 3) 10 mins shaved off backend
-    deployment time (33% decrease)"
+  - Led a team of 6 engineers to rebuild Vault, a government-facing data sharing platform.
+  - Improved Datagovsg validation and ingestion throughput by 100x while reducing cost per upload by 98%.
+  - Worked on Watson, a GenAI query layer on top of public open datasets.
 quote: ""
 linkedinId: ""
 ---

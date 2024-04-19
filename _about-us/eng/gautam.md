@@ -12,13 +12,9 @@ curProducts:
   - Armoury
 pastProducts: []
 accomplishments:
-  - Revamping the entire frontend, parts of the backend and the UI/UX design for
-    Armoury
-  - Setting up every aspect of the production environment for Armoury, including
-    CI/CD workflow, unit & integration testing, RUM, logging, custom domain
-    setup, db migration, sgid creds etc
-  - Designing and implementing the Armoury data model (and API’s) to support
-    versioning and consistent point-in-time queries of all entities
+  - Built Armoury's entire admin portal to SCDF.
+  - Increased user satisfaction for armoury from 3.7/5 to 4.5/5, by reworking Armoury with a renewed focus on code-quality and stability.
+  - Took over Armoury Inventory Management (AIM) and worked closely with SCDF to streamline inventory management.
 quote: ""
 linkedinId: ""
 ---

@@ -1,7 +1,7 @@
 ---
 title: Natalie Tan
 permalink: /people/natalie
-description: Natalie Tan - Product Designer
+description: Natalie Tan - Senior Product Designer
 third_nav_title: Product Design
 staffId: natalie
 name: Natalie Tan
@@ -11,6 +11,7 @@ jobTitle: Senior Product Designer
 curProducts:
   - NLB Seed Team
 pastProducts:
+  - CalSG
   - Go.gov.sg
   - Isomer
   - Postman
@@ -19,18 +20,9 @@ pastProducts:
   - Covid Endemic Comms
   - CheckWho
 accomplishments:
-  - I finished an entire IA and content revamp for the isomer website and guide!
-    By working closely with product ops (and a lot of writing), content is now
-    much cleaner and clearer, and provides a better onboarding experience with
-    clearer expectations. Plus, the site looks good now
-  - Getting site launch into a visual workflow and feature for users was
-    difficult since it’s a very technical and invisible backend process. But by
-    working closely with my engineer and product ops, we came up with a user
-    flow that works and is already in testing
-  - I made big brain animation prototypes in Figma for NLB products! Making
-    these required a lot of testing and learning how Figma prototypes work. I
-    feel like I got better at doing it and am glad that the prototypes worked
-    well to communicate my vision
+  - Delivering the Glue:Cuciocity prototype to Jurong Regional Library and library@harboufront! I’m glad we pulled it off, and I learnt so much in the process of making my first exhibition piece!
+  - Learnt how to make CSS keyframe animations! It’s speeding up the dev workflow with my engineers, and now feels like my secret super power.
+  - Handed off Event Lists for CalSG! Feel like it could be a big differentiating feature, and am excited to see how users will use it.
 quote: ""
 linkedinId: ""
 ---

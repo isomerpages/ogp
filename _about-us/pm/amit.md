@@ -12,14 +12,9 @@ curProducts:
   - FormSG
 pastProducts: []
 accomplishments:
-  - Launched FormSG Payments and scaled it to 3000+ payments totalling $200,000+
-    across 7 agencies
-  - Launched Signify (with Shu Li) and scaled it to 1400 signatures and 1700
-    agency users across 132 agencies. MOH has put their $10M digital consent
-    platform plan on hold, in view of growing demand for Signify
-  - Introduced the FormSG Encryption boundary shift portfolio and pushed the
-    idea with Tim. We got panel approval and unblocked 6 key features, including
-    virus scanning, response validation and MyInfo for Storage mode
+  - Propagated FormPay in various forums and prioritised key features for reaching PMF, to ensure exponential growth in the number of transactions (240% up), forms (590% up), agencies (257% up), and total payment amount (700% up) compared to the last cycle.
+  - Submitted FormSG's application (and writeup) for UNDP Digital Public Good accreditation and kept following up for 9 months while facilitating various technical and documentation changes to ensure FormSG's successful accreditation as the 147th DPG in the world.
+  - Signify, a product that I envisioned in early 2023 and launched in mid 2023 has been able to save $10M in planned cost by successfully piloting with various MOH institutions, on track to become the de-facto signing solution for PHIs.
 quote: ""
 linkedinId: ""
 ---

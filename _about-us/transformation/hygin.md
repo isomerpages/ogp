@@ -10,6 +10,7 @@ functionId: transformation
 jobTitle: Assistant Director
 curProducts:
   - Policy & Transformation
+  - NDI
 pastProducts:
   - ScamShield
   - ScamTech

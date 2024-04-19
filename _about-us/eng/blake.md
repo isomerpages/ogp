@@ -13,9 +13,9 @@ curProducts:
 pastProducts:
   - Care360
 accomplishments:
-  - Unblock multiple teams through prolific contributions to infrastructure
-    across OGP
-  - Raise engineering bar across multiple teams through mentorship
+  - Unblocked teams that faced difficult engineering problems with a focus on education.
+  - Paved the way for building reliable and repeatable infrastructure, and set up the OGP standard for what good looks like.
+  - Learned how to count to 3.
 quote: ""
 linkedinId: ""
 ---

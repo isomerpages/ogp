@@ -12,10 +12,9 @@ curProducts:
   - Workplace Team
 pastProducts: []
 accomplishments:
-  - Process enhancements around the office to increase operational efficiency
-  - Creating engaging social activities to improve social connectedness among
-    and across team functions
-  - Support onboarding of new hires in device management and system provisioning
+  - Improved the office space to ensure employees thrive in a safe and productive environment.
+  - Planned and executed  social activities to actively foster social connectedness among and across team functions.
+  - Delivered a positive onboarding experience for new hires.
 quote: ""
 linkedinId: ""
 ---

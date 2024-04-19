@@ -1,28 +1,25 @@
 ---
 title: Jie Hao Kwa
 permalink: /people/jiehao
-description: Jie Hao Kwa - Senior Software Engineer
+description: Jie Hao Kwa - Lead Software Engineer
 third_nav_title: Software Engineering
 staffId: jiehao
 name: Jie Hao Kwa
 joinDate: September 9, 2019
 functionId: eng
-jobTitle: Senior Software Engineer
+jobTitle: Lead Software Engineer
 curProducts:
-  - SGID
+  - sgID
+  - NDI
 pastProducts:
   - Homer
   - Lookback
   - OGP-Singhealth
   - Endemic Ops
 accomplishments:
-  - Building a team that can work hard together, disagree constructively with
-    each other, yet still be able to have fun together
-  - Enabling public officers to log into government officer apps like FormSG and
-    Postman using sgID, thanks to our new data sources manager system + POCDEX
-    integration
-  - Giving a good impression of OGP and sgID engineering to our Estonian
-    counterparts during our digital identity work trip to Europe
+  - Grew sgID into a widely used product (150k monthly transactions) that remains highly reliable (99.95% uptime - see status.id.gov.sg) even with minimal maintenance.
+  - Shaping the future of digital identity in Singapore - through the work we did in sgID.
+  - Rolled out a new version of Singpass Login in production within a 2 week timeframe.
 quote: ""
 linkedinId: ""
 ---

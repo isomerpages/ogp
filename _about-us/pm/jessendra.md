@@ -12,10 +12,9 @@ curProducts:
   - AskGov
 pastProducts: []
 accomplishments:
-  - Launched AskGov with 46 agencies and >800k page views within 4 months
-  - Defined the long-term vision for AskGov to improve the accessibility of
-    information throughout the government
-  - Launched Claimsbot which helped to process 88% of all eligible claims in OGP
+  - High user growth on AskGov, nearing 1 million citizens who have used the platform within a span of 10 months.
+  - Successfully onboarded multiple agencies onto AskGov and integrated ServiceSG.
+  - Utilised data analytics tools to create visualisation dashboards, enabling both agency users and the internal team to effectively monitor AskGov's performance.
 quote: ""
 linkedinId: ""
 ---

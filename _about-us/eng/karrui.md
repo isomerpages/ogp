@@ -1,13 +1,13 @@
 ---
 title: Kar Rui Lau
 permalink: /people/karrui
-description: Kar Rui Lau - Senior Software Engineer
+description: Kar Rui Lau - Lead Software Engineer
 third_nav_title: Software Engineering
 staffId: karrui
 name: Kar Rui Lau
 joinDate: February 3, 2020
 functionId: eng
-jobTitle: Senior Software Engineer
+jobTitle: Lead Software Engineer
 curProducts:
   - ActiveSG
 pastProducts:
@@ -19,12 +19,9 @@ pastProducts:
   - Temperature
   - Tooling
 accomplishments:
-  - Delivered Starter Kit (V2) to allow quick experimentation, propagate best
-    practices and improve baseline competencies
-  - Managed to get ActiveSG to a good baseline so as to be able to deliver the
-    best ActiveSG application for both MOPs and public officers
-  - Improve (frontend-focused) engineering standards via OGP Design System,
-    running sharings and ad-hoc mentoring/bug bashing
+  - Tech lead and Product Manager for ActiveSG team that has had 2 successfully pilots in the past cycle!
+  - Owner of the OGP Starter Kit and OGP Design System, which was used by 60% of the products for HFPG24!
+  - Upskilled the rest of the engineering function by being available as a frontend engineering mentor (or rubber duck)!
 quote: ""
 linkedinId: ""
 ---

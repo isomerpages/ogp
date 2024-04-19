@@ -9,8 +9,9 @@ joinDate: June 29, 2020
 functionId: eng
 jobTitle: Senior Software Engineer
 curProducts:
-  - Go.gov.sg
+  - Letters
 pastProducts:
+  - Go.gov.sg
   - Homer
   - Isomer
   - CheckFirst
@@ -19,11 +20,9 @@ pastProducts:
   - CheckWho
   - Pouch
 accomplishments:
-  - Taking Letters from an idea to a full-featured product used by teams in the
-    government
-  - Setting up the Letters engineering team
-  - Watching HDB users be amazed when their enabled feature streamed live to
-    them during a call, with the Growthbook feature I setup
+  - Grew LetterSG by 127 times.
+  - Upskilled and managed the product team.
+  - Designed (I think) a mostly decent UI for my CSR prototype.
 quote: ""
 linkedinId: ""
 ---

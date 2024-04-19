@@ -14,13 +14,9 @@ pastProducts:
   - MediPay
   - Build Your Own Singaporean
 accomplishments:
-  - Contributed significantly to FormSG Payments - to date, the team has
-    onboarded 9 agencies and processed 2.9k payment transactions, amounting to
-    192k collected in a single quarter
-  - Released programmatic APIs which allow for easier integration with OGP
-    products
-  - Released FormSG Zapier integration which allow admins to automate workflows
-    by linking FormSG responses with other applications
+  - Implemented MyInfo features on Forms - added MyInfo to storage-mode forms and extended the MyInfo fields available when authenticating via SGID, which allows admins to collect MyInfo data for free.
+  - Drove engineering improvements on Signify by enhancing product monitoring.
+  - Built Grandfather Road during Hack for Public Good 2024 - a super fun quiz-based website where people can learn more about the history behind Singapore’s interesting street names.
 quote: ""
 linkedinId: ""
 ---

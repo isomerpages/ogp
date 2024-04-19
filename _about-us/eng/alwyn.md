@@ -10,6 +10,7 @@ functionId: eng
 jobTitle: Senior Software Engineer
 curProducts:
   - Developer Relations
+  - Citizen engagement
   - Armoury
 pastProducts:
   - HealthHub
@@ -26,10 +27,11 @@ pastProducts:
   - ScamTech
   - HAS
 accomplishments:
-  - Rewrote Armoury for go-live, featuring nested table queries and sgID-based
-    onboarding
-  - Acted as de facto person for community relations and technical engagement
-  - With guidance, prepared foundational work for mentoring network
+  - Prototyped AIM to address EMS crew concerns about tracking consumables in medical store, possibly vehicles.
+  - Employed double-entry accounting to facilitate effective yet flexible bookkeeping on AIM in turn contributed to collective efforts of Armoury team, which encouraged SCDF to consider working more closely with OGP.
+  - Patched Mockpass and Form to allow deployment to simpler infrastructure, i.e. Fly, Netlify, Vercel, Cloudflare R2, as well as prep for public access and guard against abuse, for international efforts (see https://github.com/demossg)
+  - Researched transpilation of Java .jar archives into native binaries accessible through NodeJS' Node-API for native binary addons. May be useful for situations where we must use libraries only available as Java archives, but also want to avoid bundling JVM or invoking said JVM from NodeJS using shell command.
+  - Sustained presence in the tech community, notably in Project Intern and Better.sg
 quote: ""
 linkedinId: ""
 ---

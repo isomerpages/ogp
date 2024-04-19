@@ -12,10 +12,11 @@ curProducts:
   - Plumber
 pastProducts: []
 accomplishments:
-  - i'm new, watch this space!
+  - Improved Plumber user experience with better error handling and more intuitive user interfaces.
+  - Streamlined PA's social assistance workflow with Plumber to bring cost savings.
+  - Worked on enhancing government resource management with Fynder.
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

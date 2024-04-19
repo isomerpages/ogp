@@ -10,16 +10,15 @@ functionId: pm
 jobTitle: Senior Product Manager
 curProducts:
   - Isomer
+  - Kampung Spirit
 pastProducts:
   - Queue
   - Diverter
   - Patient Status
 accomplishments:
-  - Grew Queue from 9→22 active clinics
-  - Achieved 86k queue visits
-  - Deployed multi-stage queues at Kranji Regional Health Hub, increased patient
-    Net Promoter Score (NPS) from -9→35 (+45 points improvement which is really
-    good)
+  - IsomerCMS NPS -24 → 2 (in 3 months).
+  - Launched & achieving PMF for KampungSpirit (in 1 month).
+  - Kept eGazette on track and as minimally scoped as possible while keeping all parties happy.
 quote: ""
 linkedinId: ""
 ---

@@ -9,8 +9,9 @@ joinDate: January 25, 2016
 functionId: design
 jobTitle: Lead Product Designer
 curProducts:
-  - Tooling Team
+  - NDI
 pastProducts:
+  - Tooling team
   - Design Ops
   - Phonebook
   - Postman
@@ -26,14 +27,9 @@ pastProducts:
   - Data.gov.sg
   - Beeline
 accomplishments:
-  - Help advance OGP's mission of transparency and accountability in government
-    through tooling team efforts in OGP product report cards and officers’
-    profile pages.
-  - Shared OGP design practices at external events, including a lightning talk
-    at Product Design Singapore and hosting a design networking session at
-    Foodpanda.
-  - Developed new practices for a growing design team and lead the OGP Suite
-    vertical.
+  - Supported the OGP Suite vertical, Tooling, and Officer Experience teams, enhancing product design and automation.
+  - Developed managerial skills through leadership programs, transitioning to a design leader.
+  - Led the NDI design team during reorganisation, improving workflow and collaboration as Design Manager.
 quote: ""
 linkedinId: ""
 ---

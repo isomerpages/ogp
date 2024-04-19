@@ -9,15 +9,12 @@ joinDate: June 5, 2023
 functionId: eng
 jobTitle: Software Engineer
 curProducts:
-  - Secure Government Comms
+  - SGC
 pastProducts: []
 accomplishments:
-  - Delivering SGC high-priority features such as multi-language support and
-    officer verification within deadline
-  - Having strong ownership over work items e.g. shifting left and staying
-    responsive during incidents
-  - Prioritised unblocking fellow engineers through documentation and knowledge
-    transfer e.g. onboarding, setup, housekeeping, and troubleshooting guides
+  - Served as a founding full-stack engineer on SGC.
+  - Designed and implemented the Postman V2 codebase.
+  - Unblocked teammates and championed teamwork
 quote: ""
 linkedinId: ""
 ---

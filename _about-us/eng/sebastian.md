@@ -9,16 +9,13 @@ joinDate: January 25, 2016
 functionId: eng
 jobTitle: Lead Software Engineer
 curProducts:
+  - ActiveSG
+pastProducts:
   - FormSG
-pastProducts: []
 accomplishments:
-  - Onboarded and started co-leading the FormSG team after joining OGP for a
-    month
-  - Made some progress in helping to define the 2023 Q4 and 2024 FormSG roadmap
-    and vision
-  - Started to help the team target high-impact objectives by directing efforts
-    towards new/exploratory portfolios with ambiguous scope instead of requiring
-    complete specifications from product stakeholders
+  - Improved engineering velocity to drive product impact - Worked with the team to hone prototyping skills to build and pilot multiple new features/enhancements.
+  - Targeting high-impact objectives and opportunities - Steering team towards key initiatives (multi-respondent forms, storage-mode enhancements) while identifying new opportunities. (FormSG Charts/Insights, Magic Form Builder).
+  - Demonstrated open-ended ownership - Going beyond engineering and working with cross-functional leads to drive product performance and impact.
 quote: ""
 linkedinId: ""
 ---

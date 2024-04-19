@@ -9,18 +9,15 @@ joinDate: September 13, 2021
 functionId: pm
 jobTitle: Senior Product Manager
 curProducts:
-  - Redeem
+  - Bright
 pastProducts:
+  - RedeemSG
   - Parking.sg
   - PaySG
 accomplishments:
-  - Successfully launched RedeemSG’s first voucher campaign that checks
-    eligibility via NRIC whitelist. Campaign achieved 90% claim rate and 75%
-    spend within just four months
-  - Scoped and launching “RedeemSG Rewards”, RedeemSG’s own vouchers that
-    streamlines agencies merchant onboarding process
-  - Managed a pipeline of 8 confirmed campaigns across 7 entities, with 3 major
-    campaigns scheduled
+  - Launched CDC Vouchers 2024, which has the highest claim and spend rate to date among all the previous launches.
+  - Launched RedeemSG Rewards.
+  - Stepping into a new domain.
 quote: ""
 linkedinId: ""
 ---

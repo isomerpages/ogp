@@ -12,11 +12,9 @@ curProducts:
   - Care360
 pastProducts: []
 accomplishments:
-  - Template builder on Care360, allowing medical social workers to create
-    custom documents for both patients and internal processes
-  - Integrating external systems with Care360, providing patient referral and
-    appointment information, as well as their means testing data
-  - Fast-track financial application work on Patient Experience
+  - Enabled patients of financial health institutions to apply for financial aid on their own, without needing to wait for an appointment with a medical social worker.
+  - Built Fireside during the hfpg hackathon.
+  - Delivered crucial features such as result filters and directory on the new healthcare messaging system.
 quote: ""
 linkedinId: ""
 ---

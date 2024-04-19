@@ -16,9 +16,9 @@ pastProducts:
   - Go.gov
   - Homer
 accomplishments:
-  - Enabled users to privatise their staging site within Isomer CMS
-  - Worked on a solution for handling Isomer’s scaling issues effectively
-  - Contributed towards better knowledge sharing on Isomer
+  - Rolled out core features for Isomer such as privatisation and new template components.
+  - Shifted Isomer to a new infrastructure through migration work and new CMS functionality.
+  - Lead work to enable electronic gazettes to be uploaded in a simple and cost-efficient way.
 quote: ""
 linkedinId: ""
 ---

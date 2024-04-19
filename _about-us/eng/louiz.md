@@ -9,19 +9,16 @@ joinDate: July 5, 2021
 functionId: eng
 jobTitle: Software Engineer
 curProducts:
+  - Bright
   - Care360
 pastProducts:
   - Covid Ops
   - Healthcare
   - Healthtech
 accomplishments:
-  - Ran data migration from the legacy NeMSW system to Care360, which included
-    writing and running scripts, data verification, as well as reconciliation
-  - Scoped and developed the patient merging workflow for Care360, to allow
-    patient data tagged to FIN/hospital identification numbers to be viewed from
-    the patient profile tagged to their latest NRIC
-  - Developed the workflow for searching and matching patients to home-based
-    eldercare services on Bright
+  - Bright - developed service matching pages for AIC staff, facilitating matching of patients to the most suitable service providers for home-based eldercare services and nursing homes.
+  - Scribe - implemented a polished interface for both desktop and mobile users to record and upload audio files for transcription and summarisation via LLMs.
+  - Fireside - developed a chat bot that leverages LLMs and incorporates cognitive behavioural therapy principles to provide stressed-out users an anonymous platform for improving their negative thought patterns and behaviours
 quote: ""
 linkedinId: ""
 ---

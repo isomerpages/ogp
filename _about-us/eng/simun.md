@@ -9,16 +9,13 @@ joinDate: June 12, 2023
 functionId: eng
 jobTitle: Software Engineer
 curProducts:
+  - NLB seed team
+pastProducts: 
   - go.gov.sg
-pastProducts: []
 accomplishments:
-  - Contributed significantly to the reengineering process of EngageSG, ensuring
-    a smooth transition to a production-ready state.
-  - Co-pioneering the initial development of ExploreSG and OurStory from
-    scratch, resulting in a successful launch of the MVP for user and trial
-    testing
-  - Strengthened the security posture of GoGovSG through the successful
-    resolution of some VAPT vulnerabilities
+  - Launched Glue:Curiocity (my first TV exhibition piece) to Jurong and Harbourfront libraries.
+  - Championed the ideation of personalisation, which became a central feature of the Glue:Curiocity experience.
+  - Actively expanded my skills in stakeholder management, moving beyond my comfort zone to embrace this critical aspect of project success.
 quote: ""
 linkedinId: ""
 ---

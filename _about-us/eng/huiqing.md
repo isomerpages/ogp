@@ -9,22 +9,13 @@ joinDate: January 3, 2023
 functionId: eng
 jobTitle: Software Engineer
 curProducts:
+  - Pair
+pastProducts:
   - FormSG
-pastProducts: []
 accomplishments:
-  - Created implementation plan and implemented foundational work for FormSG’s
-    encryption boundary shift which will enable FormSG to deliver major feature
-    enhancements for storage mode forms such as submission validation, virus
-    scanning, MyInfo, email confirmation to respondent with their response,
-    signatures and approvals
-  - Implemented critical features that were necessary for Signify to exit beta
-    and launch officially (150 signatures/week, >100 agencies on board as of 31
-    August 2023), namely the mobile signing flow, the email sending feature to
-    complete the signing flow, and a server proxy to allow documents to be
-    served on GSIB and HVB machines
-  - Integrated GoGov’s link shortener with FormSG to allow admins to create
-    GoGov links directly on FormSG - around 9k links have been created through
-    this integration as of 31 August 2023
+  - Led both product and engineering fronts of Scribe v1, a transcription tool explored for the use cases of progress notes for medical social workers and generating meeting minutes for secretariat meetings, and this set the foundation for Noms and Scribe v2 at H4PG’24.
+  - Helped develop the AI Form Builder at the FormSG Hackathon, demonstrating innovative use of LLMs in form building, which laid the groundwork for future development at H4PG’24 and beyond.
+  - Completed implementation of the encryption boundary shift for FormSG, enhancing system security against malicious files.
 quote: ""
 linkedinId: ""
 ---

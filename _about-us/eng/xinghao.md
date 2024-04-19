@@ -12,10 +12,11 @@ curProducts:
   - NLB Seed Team
 pastProducts: []
 accomplishments:
-  - i'm new, watch this space!
+  - Picked up front end skills. 
+  - Launched Glue successfully.
+  - Glue being featured in the media and at Parliament.
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}

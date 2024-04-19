@@ -12,11 +12,9 @@ curProducts:
   - Isomer
 pastProducts: []
 accomplishments:
-  - Significantly increased the scalability and stability of Isomer CMS with
-    innovative engineering solutions
-  - Improved Isomer’s engineering practices and processes to deliver higher
-    velocity, optimised bandwidth planning, and clearer product vision
-  - Provided technical mentorship and guidance both Internally and externally
+  - Permanently resolved the scalability issues of Isomer with GGS, allowing 325 sites to be moved onto email-login that improves security, reliability and overall agency users’ editing experience.
+  - Designed, implemented and lead the e-Gazette project.
+  - Lead the Isomer engineering team on various key projects such as Isomer Next, redirection server, migrations, incident response and performance management.
 quote: ""
 linkedinId: ""
 ---

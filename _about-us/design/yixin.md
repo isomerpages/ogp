@@ -9,6 +9,7 @@ joinDate: November 3, 2014
 functionId: design
 jobTitle: Lead Product Designer
 curProducts:
+  - SGC
   - DistributeSG
 pastProducts:
   - Vault
@@ -16,17 +17,9 @@ pastProducts:
   - Redeem
   - PaySG
 accomplishments:
-  - Design and launch DistributeSG - A goods distribution platform, DistributeSG
-    is supporting 2 nationwide campaigns this year, LKY Coins Distribution and
-    another yet to be announced / campaign
-  - Design and strategy for Secure Government Communications - How can we build
-    a secure government communications channel that citizens trust when they get
-    messages from government. This project is in development and going through
-    trials
-  - Provide design support and leadership in the Fintech and Scamtech vertical
-    so that as a vertical we have design representation, have cross functional
-    alignment for product strategy and resourcing, and create learning and
-    development opportunities for designers
+  - Delivered DistributeSG with a super lean team and getting PA and MAS positive validation for the product. 
+  - Helped support the SGC team to find product direction with design and research and made many difficult but critical product pivots together.
+  - Transitioned from individual contributor to a manager.
 quote: ""
 linkedinId: ""
 ---

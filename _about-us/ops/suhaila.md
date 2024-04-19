@@ -17,17 +17,9 @@ pastProducts:
   - PaySG
   - Parking.sg
 accomplishments:
-  - Exploration of methods to engage new and existing clinics to onboard onto
-    HAS and Queue; this includes creating marketing collaterals from scratch and
-    getting clinics to participate in an incentivised user trial. By doing this,
-    I had to learn new tools e.g Canva, Figma, creating proposals, raising AORs
-    and hiring of vendors
-  - Defining prod ops work for Queue and HAS outreach and stepping up to
-    coordinate with partner agencies to reach a goal; I am stepping out of my
-    shell to take the lead as my forte has been in execution instead of planning
-  - Participating and organising in roadshows/events to have real time
-    engagement with members of the public to better understand what works (or
-    not) with our products
+  - I've significantly improved my stakeholder management skills, successfully navigating independent liaisons and onboarding initiatives with various stakeholders.
+  - As the primary contact for the translation framework, I've efficiently coordinated cross-functional tasks between agencies, vendors, and our engineering team which highlighted my ability to handle multifaceted responsibilities with diverse teams even to myself.
+  - Venturing into unfamiliar marketing efforts and cross-functional roles has demonstrated my adaptability and eagerness to embrace and succeed in new challenges.
 quote: __A ship in harbour is safe, but that is not what ships are built for.__
   Being continually pushed to explore new depths for work and myself has made me
   learn so much about what I am capable of.

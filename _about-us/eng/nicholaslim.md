@@ -1,21 +1,20 @@
 ---
-title: Si Min Ong
-permalink: /people/simin
-description: "Si Min Ong - Software Engineer"
+title: Nicholas Lim
+permalink: /people/nicholaslim
+description: Nicholas Lim - Software Engineer
 third_nav_title: Software Engineering
-staffId: simin
-name: Si Min Ong
-joinDate: July 17, 2023
+staffId: nicholaslim
+name: Nicholas Lim
+joinDate: February 5, 2024
 functionId: eng
 jobTitle: Software Engineer
 curProducts:
-  - ActiveSG
+  - SGC
 pastProducts: []
 accomplishments:
-  - i'm new, watch this space!
+  - I'm new. Watch this space!
 quote: ""
 linkedinId: ""
-
 ---
 
 {% include staff.html staff=page color=site.colors.function-colors.eng %}
