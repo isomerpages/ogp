@@ -1,10 +1,10 @@
 ---
-title: Suzanna Chu
-permalink: /people/suzanna
-description: Suzanna Chu - Senior Product Operations Specialist
+title: Suzanne Chu
+permalink: /people/suzanne
+description: Suzanne Chu - Senior Product Operations Specialist
 third_nav_title: Product Operations
-staffId: suzanna
-name: Suzanna Chu
+staffId: suzanne
+name: Suzanne Chu
 joinDate: February 5, 2024
 functionId: ops
 jobTitle: Senior Product Operations Specialist
