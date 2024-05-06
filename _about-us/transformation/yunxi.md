@@ -7,7 +7,7 @@ staffId: yunxi
 name: Yunxi Shen
 joinDate: November 14, 2023
 functionId: transformation
-jobTitle: Manager (Innovation & Transformation)
+jobTitle: Manager
 curProducts:
   - Innovation & Transformation
 pastProducts: []

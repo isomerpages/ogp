@@ -7,7 +7,7 @@ staffId: huixuan
 name: Hui Xuan Leow
 joinDate: July 4, 2022
 functionId: transformation
-jobTitle: Senior Manager (Policy & Transformation)
+jobTitle: Senior Manager
 curProducts:
   - Policy & Transformation
   - ActiveSGs

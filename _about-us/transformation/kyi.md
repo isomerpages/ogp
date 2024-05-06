@@ -7,7 +7,7 @@ staffId: kyi
 name: Kyi Yeung Goh
 joinDate: September 25, 2023
 functionId: transformation
-jobTitle: Manager (Innovation & Transformation)
+jobTitle: Manager
 curProducts:
   - Innovation & Transformation
   - Sentry

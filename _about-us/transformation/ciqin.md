@@ -1,10 +1,10 @@
 ---
-title: Ciqin Gwee
+title: Ciqin Ghwee
 permalink: /people/ciqin
-description: Ciqin Gwee - Manager
+description: Ciqin Ghwee - Manager
 third_nav_title: Policy & Transformation
 staffId: ciqin
-name: Ciqin Gwee
+name: Ciqin Ghwee
 joinDate: February 26, 2024
 functionId: transformation
 jobTitle: Manager
