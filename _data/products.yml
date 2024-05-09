@@ -4,225 +4,235 @@
     - ActiveSG
   category: development
   image: https://file.go.gov.sg/activesglogo.png
-  link: https://beta.activesg.gov.sg/
+  link: https://products.open.gov.sg/activeSG
 - id: armoury
   title: Armoury
   alias:
     - Armoury
   category: development
   image: https://file.go.gov.sg/armoury-logo.png
-  link: https://armoury.gov.sg
+  link: https://products.open.gov.sg/armoury
 - id: askgov
   title: AskGov
   alias:
     - AskGov
   category: development
   image: https://file.go.gov.sg/askgovlogo.png
-  link: https://ask.gov.sg
+  link: https://products.open.gov.sg/askgov
 - id: bright
   title: Bright
   alias:
     - Bright
   category: development
   image: https://file.go.gov.sg/bright-logo.png
-  link: https://bright.health.gov.sg/
+  link: https://products.open.gov.sg/bright
 - id: calsg
   title: CalSG
   alias:
     - CalSG
   category: maintenance
   image: https://file.go.gov.sg/calsg-logo.png
-  link: https://cal.gov.sg
+  link: https://products.open.gov.sg/calsg
 - id: care360
   title: Care360
   alias:
     - Care360
   category: development
   image: https://file.go.gov.sg/care360-logo.png
-  link: https://care360.gov.sg
+  link: https://products.open.gov.sg/care360
 - id: checkfirst
   title: CheckFirst
   alias:
     - CheckFirst
   category: maintenance
   image: https://file.go.gov.sg/checkfirst-logo.png
-  link: https://checkfirst.gov.sg
+  link: https://products.open.gov.sg/checkfirst
 - id: datagovsg
   title: Data.gov.sg
   alias:
     - Data.gov.sg
   category: development
   image: https://file.go.gov.sg/datagovsg-logo.png
-  link: https://data.gov.sg
+  link: https://products.open.gov.sg/datagovsg
 - id: distributesg
   title: DistributeSG
   alias:
     - DistributeSG
   category: development
   image: https://file.go.gov.sg/distributesg-logo.png
-  link: https://distribute.gov.sg/
+  link: https://products.open.gov.sg/distributesg
 - id: enterprisesg
   title: EnterpriseSG
   alias:
     - EnterpriseSG
   category: pilot
   image: https://file.go.gov.sg/esg-logo.jpg
-  link: https://www.enterprisesg.gov.sg/
+  link: https://products.open.gov.sg/enterprisesg
 - id: erpx
   title: ERP X
   alias:
     - ERP X
   category: development
   image: https://file.go.gov.sg/erp-x-logo.png
-  link:
-    - https://hack.gov.sg/hack-for-public-good-2024/2024-projects/erpx
+  link: https://products.open.gov.sg/erpx
 - id: eventsg
   title: EventSG
   alias:
     - EventSG
   category: development
   image: https://file.go.gov.sg/engagesg-logo.png
-  link: https://events.gov.sg
+  link: https://products.open.gov.sg/eventsg
 - id: formsg
   title: FormSG
   alias:
     - FormSG
   category: development
   image: https://file.go.gov.sg/formsg-logo-2.png
-  link: https://form.gov.sg
+  link: https://products.open.gov.sg/formsg
 - id: fynder
   title: fynder
   alias:
     - fynder
   category: pilot
   image: https://file.go.gov.sg/fynder-logo.png
-  link: https://fynder.gov.sg/
+  link: https://products.open.gov.sg/fynder
 - id: glue
   title: Glue
   alias:
     - Glue
   category: pilot
   image: https://file.go.gov.sg/glue-icon.png
-  link: https://www.glue.gov.sg/
+  link: https://products.open.gov.sg/glue
 - id: gogovsg
   title: GoGovSG
   alias:
     - GoGovSG
   category: maintenance
   image: https://file.go.gov.sg/gogovlogo.png
-  link:
-    - https://go.gov.sg
-    - https://for.sg
-    - https://for.edu.sg
+  link: https://products.open.gov.sg/gogovsg
 - id: has
   title: HAS
   alias:
     - HAS
   category: development
   image: https://file.go.gov.sg/has-logo.png
-  link: https://book.health.gov.sg
+  link: https://products.open.gov.sg/has
 - id: highway
   title: Highway
   alias:
     - Highway
   category: maintenance
   image: https://file.go.gov.sg/highway-logo.png
-  link: https://highway.gov.sg
+  link: https://products.open.gov.sg/highway
 - id: isomer
   title: Isomer
   alias:
     - Isomer
   category: development
   image: https://file.go.gov.sg/isomer-logo2.png
-  link: https://isomer.gov.sg
+  link: https://products.open.gov.sg/isomer
 - id: kampungspirit
   title: KampungSpirit
   alias:
     - KampungSpirit
   category: development
   image: https://file.go.gov.sg/kampungspirit-logo.png
-  link: https://kampungspirit.gov.sg
+  link: https://products.open.gov.sg/kampungspirit
 - id: lettersg
   title: LetterSG
   alias:
     - LetterSG
   category: development
   image: https://file.go.gov.sg/letters-logo.png
-  link: https://letters.gov.sg
+  link: https://products.open.gov.sg/lettersg
 - id: pair
   title: Pair
   alias:
     - Pair
   category: development
   image: https://file.go.gov.sg/pair-logo.png
-  link: https://pair.gov.sg
+  link: https://products.open.gov.sg/pair
 - id: parkingsg
   title: ParkingSG
   alias:
     - ParkingSG
   category: maintenance
   image: https://file.go.gov.sg/parking-logo.png
-  link: https://parking.sg
+  link: https://products.open.gov.sg/parkingsg
 - id: paysg
   title: PaySG
   alias:
     - PaySG
   category: development
   image: https://file.go.gov.sg/paysg-logo.png
-  link: https://pay.gov.sg
+  link: https://products.open.gov.sg/paysg
 - id: plumber
   title: Plumber
   alias:
     - Plumber
   category: development
   image: https://file.go.gov.sg/plumber-logo.png
-  link: https://plumber.gov.sg
+  link: https://products.open.gov.sg/plumber
 - id: postman
   title: Postman
   alias:
     - Postman
   category: development
   image: https://file.go.gov.sg/postman-icon.png
-  link: https://postman.gov.sg
+  link: https://products.open.gov.sg/postman
 - id: procurit
   title: Procurit
   alias:
     - Procurit
   category: pilot
   image: https://file.go.gov.sg/procurit-logo.png
-  link: https://procurit.hack.gov.sg/
+  link: https://products.open.gov.sg/procurit
 - id: redeem
   title: RedeemSG
   alias:
     - RedeemSG
   category: development
   image: https://file.go.gov.sg/redeemicon.png
-  link: https://redeem.gov.sg
+  link: https://products.open.gov.sg/redeem
 - id: rooster
   title: Rooster
   alias:
     - Rooster
   category: development
   image: https://file.go.gov.sg/rooster-logo.png
-  link: https://staging.rooster.gov.sg
+  link: https://products.open.gov.sg/rooster
+- id: sample-datadog
+  title: Health Appointment System
+  alias:
+    - Health Appointment System
+  category: development
+  image: https://file.go.gov.sg/has-logo.png
+  link: https://products.open.gov.sg/sample-datadog
+- id: sample-manual
+  title: Health Appointment System
+  alias:
+    - Health Appointment System
+  category: development
+  image: https://file.go.gov.sg/has-logo.png
+  link: https://products.open.gov.sg/sample-manual
 - id: scamshield
   title: ScamShield
   alias:
     - ScamShield
   category: development
   image: https://www.scamshield.org.sg/images/scamshield-favicon.png
-  link: https://scamshield.org.sg
+  link: https://products.open.gov.sg/scamshield
 - id: sgid
   title: sgID
   alias:
     - sgID
   category: development
   image: https://file.go.gov.sg/sgid-key.png
-  link: https://id.gov.sg
+  link: https://products.open.gov.sg/sgid
 - id: signify
   title: Signify
   alias:
     - Signify
   category: development
   image: https://file.go.gov.sg/signify-s-logo.png
-  link: https://signify.gov.sg
+  link: https://products.open.gov.sg/signify
