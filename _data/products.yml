@@ -23,7 +23,7 @@
   title: Bright
   alias:
     - Bright
-  category: development
+  category: pilot
   image: https://file.go.gov.sg/bright-logo.png
   link: https://products.open.gov.sg/bright
 - id: calsg
@@ -72,7 +72,7 @@
   title: ERP X
   alias:
     - ERP X
-  category: development
+  category: pilot
   image: https://file.go.gov.sg/erp-x-logo.png
   link: https://products.open.gov.sg/erpx
 - id: eventsg
@@ -135,7 +135,7 @@
   title: KampungSpirit
   alias:
     - KampungSpirit
-  category: development
+  category: pilot
   image: https://file.go.gov.sg/kampungspirit-logo.png
   link: https://products.open.gov.sg/kampungspirit
 - id: lettersg
@@ -198,7 +198,7 @@
   title: Rooster
   alias:
     - Rooster
-  category: development
+  category: pilot
   image: https://file.go.gov.sg/rooster-logo.png
   link: https://products.open.gov.sg/rooster
 - id: scamshield
@@ -212,7 +212,7 @@
   title: sgID
   alias:
     - sgID
-  category: development
+  category: maintenance
   image: https://file.go.gov.sg/sgid-key.png
   link: https://products.open.gov.sg/sgid
 - id: signify
