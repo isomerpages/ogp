@@ -1,10 +1,10 @@
-- id: activeSG
+- id: activesg
   title: ActiveSG
   alias:
     - ActiveSG
   category: development
   image: https://file.go.gov.sg/activesglogo.png
-  link: https://products.open.gov.sg/activeSG
+  link: https://products.open.gov.sg/activesg
 - id: armoury
   title: Armoury
   alias:
