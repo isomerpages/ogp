@@ -205,20 +205,6 @@
   category: development
   image: https://file.go.gov.sg/rooster-logo.png
   link: https://staging.rooster.gov.sg
-- id: sample-datadog
-  title: Health Appointment System
-  alias:
-    - Health Appointment System
-  category: development
-  image: https://file.go.gov.sg/has-logo.png
-  link: https://book.health.gov.sg
-- id: sample-manual
-  title: Health Appointment System
-  alias:
-    - Health Appointment System
-  category: development
-  image: https://file.go.gov.sg/has-logo.png
-  link: https://book.health.gov.sg
 - id: scamshield
   title: ScamShield
   alias:
