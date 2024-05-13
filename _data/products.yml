@@ -152,6 +152,20 @@
   category: development
   image: https://file.go.gov.sg/pair-logo.png
   link: https://products.open.gov.sg/pair
+- id: pairnoms
+  title: Pair Noms
+  alias:
+    - Pair Noms
+  category: pilot
+  image: https://file.go.gov.sg/pair-logo.png
+  link: https://products.open.gov.sg/pairnoms
+- id: pairsearch
+  title: Pair Search
+  alias:
+    - Pair Search
+  category: pilot
+  image: https://file.go.gov.sg/pair-search-logo.png
+  link: https://products.open.gov.sg/pairsearch
 - id: parkingsg
   title: ParkingSG
   alias:
@@ -212,7 +226,7 @@
   title: sgID
   alias:
     - sgID
-  category: maintenance
+  category: development
   image: https://file.go.gov.sg/sgid-key.png
   link: https://products.open.gov.sg/sgid
 - id: signify
