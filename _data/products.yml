@@ -208,6 +208,13 @@
   category: development
   image: https://file.go.gov.sg/redeemicon.png
   link: https://products.open.gov.sg/redeem
+- id: refer
+  title: Referral Exchange
+  alias:
+    - Referral Exchange
+  category: pilot
+  image: https://file.go.gov.sg/referral-engine-logo.png
+  link: https://products.open.gov.sg/refer
 - id: rooster
   title: Rooster
   alias:
