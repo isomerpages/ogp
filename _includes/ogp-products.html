@@ -56,7 +56,7 @@
 
     @media only screen and (max-width: 600px) {
       a.product {
-        width: 160px;
+        width: 175px;
         padding: 16px 16px;
       }
     }
@@ -68,23 +68,17 @@
       }
 
       img.product-icon {
-        height: 24px;
-        width: 24px;
+        height: 16px;
+        width: 16px;
+        margin-right: 8px;
       }
     }
 </style>
+{%- assign products = include.products | where_exp: "product", "product.category contains 'pilot'" -%}
+{% include products_section.html products=products sectionTitle="Pilot" %}
 
-{%- assign products = include.products | where_exp: "product", "product.category contains 'productivity'" -%}
-{% include products_section.html products=products sectionTitle="Productivity Tools for Public Officers" %}
+{%- assign products = include.products | where_exp: "product", "product.category contains 'development'" -%}
+{% include products_section.html products=products sectionTitle="Active" %}
 
-{%- assign products = include.products | where_exp: "product", "product.category contains 'gov-digital-infrastructure'" -%}
-{% include products_section.html products=products sectionTitle="Government Digital Infrastructure" %}
-
-{%- assign products = include.products | where_exp: "product", "product.category contains 'anti-scam'" -%}
-{% include products_section.html products=products sectionTitle="Anti-Scam" %}
-
-{%- assign products = include.products | where_exp: "product", "product.category contains 'payments'" -%}
-{% include products_section.html products=products sectionTitle="Payments" %}
-
-{%- assign products = include.products | where_exp: "product", "product.category contains 'healthcare'" -%}
-{% include products_section.html products=products sectionTitle="Healthcare" %}
+{%- assign products = include.products | where_exp: "product", "product.category contains 'maintenance'" -%}
+{% include products_section.html products=products sectionTitle="Maintenance" %}
