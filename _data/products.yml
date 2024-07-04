@@ -1,227 +1,245 @@
+- id: activesg
+  title: ActiveSG
+  alias:
+    - ActiveSG
+  category: development
+  image: https://file.go.gov.sg/activesglogo.png
+  link: https://products.open.gov.sg/activesg
 - id: armoury
   title: Armoury
   alias:
     - Armoury
-  category: productivity
+  category: development
   image: https://file.go.gov.sg/armoury-logo.png
-  sum: Inventory and checklist tool for Government
   link: https://products.open.gov.sg/armoury
-
 - id: askgov
   title: AskGov
   alias:
     - AskGov
-  category: productivity
+  category: development
   image: https://file.go.gov.sg/askgovlogo.png
-  sum: Q&A platform for members of the public
   link: https://products.open.gov.sg/askgov
-
+- id: bright
+  title: Bright
+  alias:
+    - Bright
+  category: pilot
+  image: https://file.go.gov.sg/bright-logo.png
+  link: https://products.open.gov.sg/bright
 - id: calsg
   title: CalSG
   alias:
     - CalSG
-  category: productivity
+  category: maintenance
   image: https://file.go.gov.sg/calsg-logo.png
-  sum: Appointment bookings for Government
   link: https://products.open.gov.sg/calsg
-
-- id: checkfirst
-  title: CheckFirst
-  alias:
-    - CheckFirst
-  category: productivity
-  image: https://www.checkfirst.gov.sg/assets/logo.svg
-  sum: Calculator and eligibility builder for the government
-  link: https://products.open.gov.sg/checkfirst
-
-- id: eventsg
-  title: EventSG
-  alias:
-    - EventSG
-    - EngageSG
-  category: productivity
-  image: https://file.go.gov.sg/engagesg-logo.png
-  sum: Build government forms in minutes
-  link: https://products.open.gov.sg/eventsg
-
-- id: formsg
-  title: FormSG
-  alias:
-    - FormSG
-  category:
-    - productivity
-    - payments
-  image: https://file.go.gov.sg/formsg-logo-2.png
-  sum: Build government forms in minutes
-  link: https://products.open.gov.sg/formsg
-
-- id: gogovsg
-  title: GoGovSG
-  alias:
-    - GoGovSG
-    - Go.gov.sg
-    - go.gov.sg
-    - Go.gov
-    - Go
-  category: productivity
-  image: https://file.go.gov.sg/gogovlogo.png
-  sum: Create official government links in seconds
-  link: https://products.open.gov.sg/gogovsg
-
-- id: highway
-  title: Highway
-  alias:
-    - Highway
-    - highway
-  category: productivity
-  image: https://file.go.gov.sg/highway-logo.png
-  sum: Secure file collection at scale through personalized links
-  link: https://products.open.gov.sg/highway
-
-- id: isomer
-  title: Isomer
-  alias:
-    - Isomer
-  category: productivity
-  image: https://file.go.gov.sg/isomer-logo2.png
-  sum: A static website building and hosting solution for the public service
-  link: https://products.open.gov.sg/isomer
-
-- id: lettersg
-  title: LetterSG
-  alias:
-    - LetterSG
-    - lettersg
-    - letters
-  category: productivity
-  image: https://file.go.gov.sg/letters-logo.png
-  sum: Easily create and track the issuance of personalized official e-letters to citizen
-  link: https://products.open.gov.sg/lettersg
-
-- id: pair
-  title: Pair
-  alias:
-    - Pair
-  category: productivity
-  image: https://file.go.gov.sg/pair-logo.png
-  sum: Large language model powered assistant for public officers
-  link: https://products.open.gov.sg/pair
-
-- id: plumber
-  title: Plumber
-  alias:
-    - Plumber
-  category: productivity
-  image: https://file.go.gov.sg/plumber-logo.png
-  sum: Workflow automation tool for everyday public officers
-  link: https://products.open.gov.sg/plumber
-
-- id: postman
-  title: Postman
-  alias:
-    - Postman
-  category: productivity
-  image: https://file.go.gov.sg/postman-icon.png
-  sum: An omnichannel communication tool for the Singapore Government
-  link: https://products.open.gov.sg/postman
-
-- id: signify
-  title: Signify
-  alias:
-    - Signify
-  category: productivity
-  image: https://file.go.gov.sg/signify-s-logo.png
-  sum: Platform that allows public officers to collect electronic signatures
-  link: https://products.open.gov.sg/signify
-
-- id: scamshield
-  title: ScamShield
-  alias:
-    - ScamShield
-    - Scamshield
-  category: anti-scam
-  image: https://www.scamshield.org.sg/images/scamshield-favicon.png
-  sum: Block unsolicited messages and calls
-  link: https://products.open.gov.sg/scamshield
-
-- id: datagovsg
-  title: Data.gov.sg
-  alias:
-    - Data.gov.sg
-    - data.gov.sg
-    - Data.gov
-    - Data Gov
-  category: gov-digital-infrastructure
-  image: https://file.go.gov.sg/datagovsg-logo.png
-  sum: Open repository for Singapore’s public data
-  link: https://products.open.gov.sg/datagovsg
-
-- id: sgid
-  title: sgID
-  alias:
-    - sgID
-    - SGID
-  category: gov-digital-infrastructure
-  image: https://file.go.gov.sg/sgid-key.png
-  sum: Privacy-based authentication system
-  link: https://products.open.gov.sg/sgid
-
-- id: parkingsg
-  title: ParkingSG
-  alias:
-    - Parking
-    - ParkingSG
-    - Parking.sg
-    - Parking.SG
-  category: payments
-  image: https://file.go.gov.sg/parking-logo.png
-  sum: Pay for parking using your mobile devices
-  link:  https://products.open.gov.sg/parkingsg
-
-- id: paysg
-  title: PaySG
-  alias:
-    - PaySG
-  category: payments
-  image: https://file.go.gov.sg/paysg-logo.png
-  sum: Digitise payments for government agencies
-  link: https://products.open.gov.sg/paysg
-
-- id: redeem
-  title: RedeemSG
-  alias:
-    - RedeemSG
-    - Redeem
-  category: payments
-  image: https://file.go.gov.sg/redeemicon.png
-  sum: Redemption tracking system to monitor the distribution of goods, tickets and vouchers in real time.
-  link: https://products.open.gov.sg/redeem
-
-- id: distributesg
-  title: DistributeSG
-  alias:
-    - DistributeSG
-  category: payments
-  image: https://file.go.gov.sg/distributesg-logo.png
-  sum: Create and scale distribution campaigns to multiple locations quickly. Onboard staff easily to support your campaign with DistributeSG.
-  link: https://products.open.gov.sg/distributesg
-
-- id: has
-  title: HAS
-  alias:
-    - HAS
-    - Primary Care
-    - HAS / Primary Care
-  category: healthcare
-  image: https://file.go.gov.sg/has-logo.png
-  sum: Find and book vaccine appointments near you
-  link:  https://products.open.gov.sg/has
-
 - id: care360
   title: Care360
   alias:
     - Care360
-  category: healthcare
+  category: development
   image: https://file.go.gov.sg/care360-logo.png
-  sum: Patient management system for medical social workers.
   link: https://products.open.gov.sg/care360
+- id: checkfirst
+  title: CheckFirst
+  alias:
+    - CheckFirst
+  category: maintenance
+  image: https://file.go.gov.sg/checkfirst-logo.png
+  link: https://products.open.gov.sg/checkfirst
+- id: datagovsg
+  title: Data.gov.sg
+  alias:
+    - Data.gov.sg
+  category: development
+  image: https://file.go.gov.sg/datagovsg-logo.png
+  link: https://products.open.gov.sg/datagovsg
+- id: distributesg
+  title: DistributeSG
+  alias:
+    - DistributeSG
+  category: development
+  image: https://file.go.gov.sg/distributesg-logo.png
+  link: https://products.open.gov.sg/distributesg
+- id: enterprisesg
+  title: EnterpriseSG
+  alias:
+    - EnterpriseSG
+  category: pilot
+  image: https://file.go.gov.sg/esg-logo.jpg
+  link: https://products.open.gov.sg/enterprisesg
+- id: erpx
+  title: ERP X
+  alias:
+    - ERP X
+  category: pilot
+  image: https://file.go.gov.sg/erp-x-logo.png
+  link: https://products.open.gov.sg/erpx
+- id: eventsg
+  title: EventSG
+  alias:
+    - EventSG
+  category: development
+  image: https://file.go.gov.sg/engagesg-logo.png
+  link: https://products.open.gov.sg/eventsg
+- id: formsg
+  title: FormSG
+  alias:
+    - FormSG
+  category: development
+  image: https://file.go.gov.sg/formsg-logo-2.png
+  link: https://products.open.gov.sg/formsg
+- id: fynder
+  title: fynder
+  alias:
+    - fynder
+  category: pilot
+  image: https://file.go.gov.sg/fynder-logo.png
+  link: https://products.open.gov.sg/fynder
+- id: glue
+  title: Glue
+  alias:
+    - Glue
+  category: pilot
+  image: https://file.go.gov.sg/glue-icon.png
+  link: https://products.open.gov.sg/glue
+- id: gogovsg
+  title: GoGovSG
+  alias:
+    - GoGovSG
+  category: maintenance
+  image: https://file.go.gov.sg/gogovlogo.png
+  link: https://products.open.gov.sg/gogovsg
+- id: has
+  title: HAS
+  alias:
+    - HAS
+  category: development
+  image: https://file.go.gov.sg/has-logo.png
+  link: https://products.open.gov.sg/has
+- id: highway
+  title: Highway
+  alias:
+    - Highway
+  category: maintenance
+  image: https://file.go.gov.sg/highway-logo.png
+  link: https://products.open.gov.sg/highway
+- id: isomer
+  title: Isomer
+  alias:
+    - Isomer
+  category: development
+  image: https://file.go.gov.sg/isomer-logo2.png
+  link: https://products.open.gov.sg/isomer
+- id: kampungspirit
+  title: KampungSpirit
+  alias:
+    - KampungSpirit
+  category: pilot
+  image: https://file.go.gov.sg/kampungspirit-logo.png
+  link: https://products.open.gov.sg/kampungspirit
+- id: lettersg
+  title: LetterSG
+  alias:
+    - LetterSG
+  category: development
+  image: https://file.go.gov.sg/letters-logo.png
+  link: https://products.open.gov.sg/lettersg
+- id: pair
+  title: Pair
+  alias:
+    - Pair
+  category: development
+  image: https://file.go.gov.sg/pair-logo.png
+  link: https://products.open.gov.sg/pair
+- id: pairnoms
+  title: Pair Noms
+  alias:
+    - Pair Noms
+  category: pilot
+  image: https://file.go.gov.sg/noms-logo-png.png
+  link: https://products.open.gov.sg/pair-noms
+- id: pairsearch
+  title: Pair Search
+  alias:
+    - Pair Search
+  category: pilot
+  image: https://file.go.gov.sg/pair-search-logo.png
+  link: https://products.open.gov.sg/pair-search
+- id: parkingsg
+  title: ParkingSG
+  alias:
+    - ParkingSG
+  category: maintenance
+  image: https://file.go.gov.sg/parking-logo.png
+  link: https://products.open.gov.sg/parkingsg
+- id: paysg
+  title: PaySG
+  alias:
+    - PaySG
+  category: development
+  image: https://file.go.gov.sg/paysg-logo.png
+  link: https://products.open.gov.sg/paysg
+- id: plumber
+  title: Plumber
+  alias:
+    - Plumber
+  category: development
+  image: https://file.go.gov.sg/plumber-logo.png
+  link: https://products.open.gov.sg/plumber
+- id: postman
+  title: Postman
+  alias:
+    - Postman
+  category: development
+  image: https://file.go.gov.sg/postman-icon.png
+  link: https://products.open.gov.sg/postman
+- id: procurit
+  title: Procurit
+  alias:
+    - Procurit
+  category: pilot
+  image: https://file.go.gov.sg/procurit-logo.png
+  link: https://products.open.gov.sg/procurit
+- id: redeem
+  title: RedeemSG
+  alias:
+    - RedeemSG
+  category: development
+  image: https://file.go.gov.sg/redeemicon.png
+  link: https://products.open.gov.sg/redeem
+- id: refer
+  title: Referral Exchange
+  alias:
+    - Referral Exchange
+  category: pilot
+  image: https://file.go.gov.sg/referral-engine-logo.png
+  link: https://products.open.gov.sg/refer
+- id: rooster
+  title: Rooster
+  alias:
+    - Rooster
+  category: pilot
+  image: https://file.go.gov.sg/rooster-logo.png
+  link: https://products.open.gov.sg/rooster
+- id: scamshield
+  title: ScamShield
+  alias:
+    - ScamShield
+  category: development
+  image: https://www.scamshield.org.sg/images/scamshield-favicon.png
+  link: https://products.open.gov.sg/scamshield
+- id: sgid
+  title: sgID
+  alias:
+    - sgID
+  category: development
+  image: https://file.go.gov.sg/sgid-key.png
+  link: https://products.open.gov.sg/sgid
+- id: signify
+  title: Signify
+  alias:
+    - Signify
+  category: development
+  image: https://file.go.gov.sg/signify-s-logo.png
+  link: https://products.open.gov.sg/signify
