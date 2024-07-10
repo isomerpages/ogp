@@ -158,14 +158,14 @@
     - Pair Noms
   category: pilot
   image: https://file.go.gov.sg/noms-logo-png.png
-  link: https://products.open.gov.sg/pair-noms
+  link: https://products.open.gov.sg/pairnoms
 - id: pairsearch
   title: Pair Search
   alias:
     - Pair Search
   category: pilot
   image: https://file.go.gov.sg/pair-search-logo.png
-  link: https://products.open.gov.sg/pair-search
+  link: https://products.open.gov.sg/pairsearch
 - id: parkingsg
   title: ParkingSG
   alias:

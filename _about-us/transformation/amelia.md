@@ -1,6 +1,6 @@
 ---
 title: Amelia Fong
-permalink: /people/amelia
+permalink: /people/ameliafong
 description: Amelia Fong - Senior Manager
 third_nav_title: Policy & Transformation
 staffId: ameliafong
