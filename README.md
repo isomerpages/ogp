@@ -1,7 +1,7 @@
 # OGP Homepage Isomer Site
 
 ## Running locally
-- `bundle install`
+- `bundle _2.1.4_ install`
 - `./serve.sh`
 
 ## Updating achievement and job titles
