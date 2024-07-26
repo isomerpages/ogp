@@ -11,10 +11,8 @@ Because hiring is so important, we run a hiring process focused on being fair, t
 
 Whilst our specific hiring process varies between roles, we hold a common philosophy for how we want our prospective employees to experience our hiring process:
 
-**You will have full knowledge of what we’re looking for and how your assessment went.** _You should have what you need to prepare, so that you can show up and interview at your best._
+**You will have full knowledge of what we’re looking for.** We share details on what to expect for every interview stage and what we are looking for. _You will have what you need to prepare, so that you can show up and interview at your best._
 
-*   We share details on what to expect for every interview stage and what we are looking for.
-*   We offer and provide feedback if requested for every candidate who has had at least one interview with us, so you know where to improve.
 
 **Your time should be respected through the hiring process.** _Our candidates take time off from their busy schedules to meet us, and we don’t believe in taking this courtesy for granted._
 
