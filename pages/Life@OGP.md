@@ -7,7 +7,7 @@ variant: markdown
 ![](/images/aboutus.jpg)
 ### Work From Anywhere
 #### It's all about flexibility.
-Currently, we are housed at Lazada One, 51 Bras Basah Road. Choose to work at our open office space or work from home, or simply anywhere. It doesn't matter where you are, as long as the work gets done.
+Currently, we are housed at Lazada One, right in the city center. Choose to work at our open office space or work from home, or simply anywhere. It doesn't matter where you are, as long as the work gets done.
 
 
 ### Project Ownership
