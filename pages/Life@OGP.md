@@ -2,12 +2,12 @@
 title: Life@OGP
 permalink: /about-us/lifeatogp/
 description: ""
+variant: markdown
 ---
-
-![life at ogp](/images/lifeatogp.jpg)
+![](/images/aboutus.jpg)
 ### Work From Anywhere
 #### It's all about flexibility.
-Currently, we are housed at WeWork CityHouse, right at the Central Business District (CBD) area. Choose to work at our open office space or work from home, or simply anywhere. It doesn't matter where you are, as long as the work gets done.
+Currently, we are housed at Lazada One, right in the city center. Choose to work at our open office space or work from home, or simply anywhere. It doesn't matter where you are, as long as the work gets done.
 
 
 ### Project Ownership
