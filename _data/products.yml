@@ -26,6 +26,13 @@
   category: pilot
   image: https://file.go.gov.sg/bright-logo.png
   link: https://products.open.gov.sg/bright
+- id: briskwalker
+  title: Brisk Walker
+  alias:
+    - Brisk Walker
+  category: pilot
+  image: https://file.go.gov.sg/brisk-walker-logo.png
+  link: https://products.open.gov.sg/briskwalker
 - id: calsg
   title: CalSG
   alias:
@@ -40,6 +47,13 @@
   category: development
   image: https://file.go.gov.sg/care360-logo.png
   link: https://products.open.gov.sg/care360
+- id: careersg
+  title: Careers@Gov 2.0
+  alias:
+    - Careers@Gov 2.0
+  category: pilot
+  image: https://file.go.gov.sg/careersgovsg-favicon.png
+  link: https://products.open.gov.sg/careersg
 - id: checkfirst
   title: CheckFirst
   alias:
@@ -135,7 +149,7 @@
   title: KampungSpirit
   alias:
     - KampungSpirit
-  category: pilot
+  category: development
   image: https://file.go.gov.sg/kampungspirit-logo.png
   link: https://products.open.gov.sg/kampungspirit
 - id: lettersg
@@ -222,12 +236,19 @@
   category: pilot
   image: https://file.go.gov.sg/rooster-logo.png
   link: https://products.open.gov.sg/rooster
+- id: sbs
+  title: Seat Booking System
+  alias:
+    - Seat Booking System
+  category: pilot
+  image: https://file.go.gov.sg/sbslogo.png
+  link: https://products.open.gov.sg/sbs
 - id: scamshield
   title: ScamShield
   alias:
     - ScamShield
   category: development
-  image: https://www.scamshield.org.sg/images/scamshield-favicon.png
+  image: https://file.go.gov.sg/scamshield-logo-small.png
   link: https://products.open.gov.sg/scamshield
 - id: sgid
   title: sgID
