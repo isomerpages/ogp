@@ -248,7 +248,7 @@
   alias:
     - ScamShield
   category: development
-  image: https://www.scamshield.org.sg/images/scamshield-favicon.png
+  image: https://file.go.gov.sg/scamshield-logo-small.png
   link: https://products.open.gov.sg/scamshield
 - id: sgid
   title: sgID
