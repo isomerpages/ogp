@@ -4,7 +4,7 @@ permalink: /ogp-leadership/
 variant: tiptap
 description: ""
 ---
-<h2>OGP Leadership</h2>
+<h2>OGP Leadership Team</h2>
 <ul data-tight="true" class="tight">
 <li>
 <p>Director - Li Hongyi</p>
@@ -28,13 +28,13 @@ description: ""
 <p>Head of Corporate - Russell Chan</p>
 </li>
 <li>
-<p>Head of Policy &amp; Transformation - Praveen Raj Kumar</p>
-</li>
-</ul>
-<p>
-<br>OGP also reports to a panel of senior government leaders:
+<p>Head of Policy &amp; Transformation - Praveen Raj Kumar
 <br>
 </p>
+</li>
+</ul>
+<h2>OGP Supervisory Panel</h2>
+<p>OGP also reports to a panel of senior government leaders:</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>PS (Smart Nation) - Joseph Leong</p>
