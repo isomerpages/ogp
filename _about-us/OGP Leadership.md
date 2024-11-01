@@ -4,7 +4,7 @@ permalink: /ogp-leadership/
 variant: tiptap
 description: ""
 ---
-<h2>OGP Leadership</h2>
+<h2>OGP Leadership Team</h2>
 <ul data-tight="true" class="tight">
 <li>
 <p>Director - Li Hongyi</p>
@@ -35,6 +35,7 @@ description: ""
 <br>OGP also reports to a panel of senior government leaders:
 <br>
 </p>
+<h2>OGP Supervisory Panel</h2>
 <ul data-tight="true" class="tight">
 <li>
 <p>PS (Smart Nation) - Joseph Leong</p>
