@@ -2,4 +2,5 @@ collections:
   about-us:
     output: true
     order:
+      - OGP Leadership.md
       - About us.md
