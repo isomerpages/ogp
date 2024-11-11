@@ -2,6 +2,7 @@
 title: Partner with us
 permalink: /partnerwithus/
 description: ""
+variant: markdown
 ---
 ![healthtech sprint](/images/healthtechsprint.jpg)
 #### Singapore Public Agencies
@@ -16,7 +17,7 @@ Want to explore initiatives to make your organisation more high-performing? Do y
 
 
 
-We share our approach to digital government and open-source products with foreign governments. If you would like to learn more or explore any collaborations, contact us at <a href="mailto:marketing@open.gov.sg">marketing@open.gov.sg</a>.
+We share our approach to digital government and open-source products with foreign governments. If you would like to learn more or explore any collaborations, contact us at <a href="mailto:international@open.gov.sg">international@open.gov.sg</a>.
 
 
 #### Private sector organisation
